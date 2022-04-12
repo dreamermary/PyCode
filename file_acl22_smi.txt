@@ -1,0 +1,542 @@
+Toward More Effective Human Evaluation for Machine Translation	https://arxiv.org/abs/2204.05307
+Single-Turn Debate Does Not Help Humans Answer Hard Reading-Comprehension Questions	https://arxiv.org/abs/2204.05212
+Linguistic communication as (inverse) reward design	https://arxiv.org/abs/2204.05091
+End-to-End Speech Translation for Code Switched Speech	https://arxiv.org/abs/2204.05076
+A Comparative Study of Pre-trained Encoders for Low-Resource Named Entity Recognition	https://arxiv.org/abs/2204.04980
+Assessment of Massively Multilingual Sentiment Classifiers	https://arxiv.org/abs/2204.04937
+Same Author or Just Same Topic? Towards Content-Independent Style Representations	https://arxiv.org/abs/2204.04907
+Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning	https://arxiv.org/abs/2204.04813
+"That Is a Suspicious Reaction!": Interpreting Logits Variation to Detect NLP Adversarial Attacks	https://arxiv.org/abs/2204.04636
+A New Framework for Fast Automated Phonological Reconstruction Using Trimmed Alignments and Sound Correspondence Patterns	https://arxiv.org/abs/2204.04619
+Extending the Scope of Out-of-Domain: Examining QA models in multiple subdomains	https://arxiv.org/abs/2204.04534
+Contextual Representation Learning beyond Masked Language Modeling	https://arxiv.org/abs/2204.04163
+Fair and Argumentative Language Modeling for Computational Argumentation	https://arxiv.org/abs/2204.04026
+Towards Fair Evaluation of Dialogue State Tracking by Flexible Incorporation of Turn-level Performances	https://arxiv.org/abs/2204.03375
+Parameter-Efficient Abstractive Question Answering over Tables or Text	https://arxiv.org/abs/2204.03357
+Entailment Graph Learning with Textual Entailment and Soft Transitivity	https://arxiv.org/abs/2204.03286
+A Joint Learning Approach for Semi-supervised Neural Topic Modeling	https://arxiv.org/abs/2204.03208
+VALUE: Understanding Dialect Disparity in NLU	https://arxiv.org/abs/2204.03031
+Using Interactive Feedback to Improve the Accuracy and Explainability of Question Answering Systems Post-Deployment	https://arxiv.org/abs/2204.03025
+The Moral Integrity Corpus: A Benchmark for Ethical Dialogue Systems	https://arxiv.org/abs/2204.03021
+Inducing Positive Perspectives with Text Reframing	https://arxiv.org/abs/2204.02952
+Question Generation for Reading Comprehension Assessment by Modeling How and What to Ask	https://arxiv.org/abs/2204.02908
+Knowledge Base Index Compression via Dimensionality and Precision Reduction	https://arxiv.org/abs/2204.02906
+There Are a Thousand Hamlets in a Thousand People's Eyes: Enhancing Knowledge-grounded Dialogue with Personal Memory	https://arxiv.org/abs/2204.02624
+Probing Structured Pruning on Multilingual Pre-trained Models: Settings, Algorithms, and Efficiency	https://arxiv.org/abs/2204.02601
+Modeling Temporal-Modal Entity Graph for Procedural Multimodal Machine Comprehension	https://arxiv.org/abs/2204.02566
+C3KG: A Chinese Commonsense Conversation Knowledge Graph	https://arxiv.org/abs/2204.02549
+Improving Zero-Shot Event Extraction via Sentence Simplification	https://arxiv.org/abs/2204.02531
+Inferring Rewards from Language in Context	https://arxiv.org/abs/2204.02515
+"Does it come in black?" CLIP-like models are zero-shot recommenders	https://arxiv.org/abs/2204.02473
+EntSUM: A Data Set for Entity-Centric Summarization	https://arxiv.org/abs/2204.02213
+$\textit{latent}$-GLAT: Glancing at Latent Variables for Parallel Text Generation	https://arxiv.org/abs/2204.02030
+Data Augmentation for Intent Classification with Off-the-shelf Large Language Models	https://arxiv.org/abs/2204.01959
+Domain-Aware Contrastive Knowledge Transfer for Multi-domain Imbalanced Data	https://arxiv.org/abs/2204.01916
+Dynatask: A Framework for Creating Dynamic AI Benchmark Tasks	https://arxiv.org/abs/2204.01906
+Estimating the Entropy of Linguistic Distributions	https://arxiv.org/abs/2204.01469
+Using Pre-Trained Language Models for Producing Counter Narratives Against Hate Speech: a Comparative Study	https://arxiv.org/abs/2204.01440
+Aligned Weight Regularizers for Pruning Pretrained Neural Networks	https://arxiv.org/abs/2204.01385
+PERFECT: Prompt-free and Efficient Few-shot Learning with Language Models	https://arxiv.org/abs/2204.01172
+Why Exposure Bias Matters: An Imitation Learning Perspective of Error Accumulation in Language Generation	https://arxiv.org/abs/2204.01171
+A sequence-to-sequence approach for document-level relation extraction	https://arxiv.org/abs/2204.01098
+On Efficiently Acquiring Annotations for Multilingual Models	https://arxiv.org/abs/2204.01016
+Learning Disentangled Semantic Representations for Zero-Shot Cross-Lingual Transfer in Multilingual Machine Reading Comprehension	https://arxiv.org/abs/2204.00996
+Inverse is Better! Fast and Accurate Prompt for Few-shot Slot Tagging	https://arxiv.org/abs/2204.00885
+Co-VQA : Answering by Interactive Sub Question Sequence	https://arxiv.org/abs/2204.00879
+Accurate Online Posterior Alignments for Principled Lexically-Constrained Decoding	https://arxiv.org/abs/2204.00871
+CTRLEval: An Unsupervised Reference-Free Metric for Evaluating Controlled Text Generation	https://arxiv.org/abs/2204.00862
+HLDC: Hindi Legal Documents Corpus	https://arxiv.org/abs/2204.00806
+Efficient Argument Structure Extraction with Transfer Learning and Active Learning	https://arxiv.org/abs/2204.00707
+CipherDAug: Ciphertext based Data Augmentation for Neural Machine Translation	https://arxiv.org/abs/2204.00665
+Learning Disentangled Representations of Negation and Uncertainty	https://arxiv.org/abs/2204.00511
+Uncertainty Determines the Adequacy of the Mode and the Tractability of Decoding in Sequence-to-Sequence Models	https://arxiv.org/abs/2204.00471
+Human Evaluation and Correlation with Automatic Metrics in Consultation Note Generation	https://arxiv.org/abs/2204.00447
+Structured Pruning Learns Compact and Accurate Models	https://arxiv.org/abs/2204.00408
+Predicting Intervention Approval in Clinical Trials through Multi-Document Summarization	https://arxiv.org/abs/2204.00290
+On the probability-quality paradox in language generation	https://arxiv.org/abs/2203.17217
+Analyzing Wrap-Up Effects through an Information-Theoretic Lens	https://arxiv.org/abs/2203.17213
+BRIO: Bringing Order to Abstractive Summarization	https://arxiv.org/abs/2203.16804
+How Pre-trained Language Models Capture Factual Knowledge? A Causal-Inspired Analysis	https://arxiv.org/abs/2203.16747
+To Find Waldo You Need Contextual Cues: Debiasing Who's Waldo	https://arxiv.org/abs/2203.16682
+Neural Pipeline for Zero-Shot Data-to-Text Generation	https://arxiv.org/abs/2203.16279
+Detecting Unassimilated Borrowings in Spanish: An Annotated Corpus and Approaches to Modeling	https://arxiv.org/abs/2203.16169
+TextPruner: A Model Pruning Toolkit for Pre-Trained Language Models	https://arxiv.org/abs/2203.15996
+Image Retrieval from Contextual Descriptions	https://arxiv.org/abs/2203.15867
+Visualizing the Relationship Between Encoded Linguistic Information and Task Performance	https://arxiv.org/abs/2203.15860
+Investigating Data Variance in Evaluations of Automatic Machine Translation Metrics	https://arxiv.org/abs/2203.15858
+LinkBERT: Pretraining Language Models with Document Links	https://arxiv.org/abs/2203.15827
+The Inefficiency of Language Models in Scholarly Retrieval: An Experimental Walk-through	https://arxiv.org/abs/2203.15364
+Accelerating Code Search with Deep Hashing and Code Classification	https://arxiv.org/abs/2203.15287
+A Well-Composed Text is Half Done! Composition Sampling for Diverse Conditional Generation	https://arxiv.org/abs/2203.15108
+Few-Shot Learning with Siamese Networks and Label Tuning	https://arxiv.org/abs/2203.14655
+Isomorphic Cross-lingual Embeddings for Low-Resource Languages	https://arxiv.org/abs/2203.14632
+The Moral Debater: A Study on the Computational Generation of Morally Framed Arguments	https://arxiv.org/abs/2203.14563
+ANNA: Enhanced Language Representation for Question Answering	https://arxiv.org/abs/2203.14507
+EnCBP: A New Benchmark Dataset for Finer-Grained Cultural Background Prediction in English	https://arxiv.org/abs/2203.14498
+Reinforcement Guided Multi-Task Learning Framework for Low-Resource Stereotype Detection	https://arxiv.org/abs/2203.14349
+bitsa_nlp@LT-EDI-ACL2022: Leveraging Pretrained Language Models for Detecting Homophobia and Transphobia in Social Media Comments	https://arxiv.org/abs/2203.14267
+Metaphors in Pre-Trained Language Models: Probing and Generalization Across Datasets and Languages	https://arxiv.org/abs/2203.14139
+Lite Unified Modeling for Discriminative Reading Comprehension	https://arxiv.org/abs/2203.14103
+Fantastic Questions and Where to Find Them: FairytaleQA -- An Authentic Dataset for Narrative Comprehension	https://arxiv.org/abs/2203.13947
+On the Intrinsic and Extrinsic Fairness Evaluation Metrics for Contextualized Language Representations	https://arxiv.org/abs/2203.13928
+What is wrong with you?: Leveraging User Sentiment for Automatic Dialog Evaluation	https://arxiv.org/abs/2203.13927
+CICERO: A Dataset for Contextualized Commonsense Inference in Dialogues	https://arxiv.org/abs/2203.13926
+Canary Extraction in Natural Language Understanding Models	https://arxiv.org/abs/2203.13920
+Analyzing Generalization of Vision and Language Navigation to Unseen Outdoor Areas	https://arxiv.org/abs/2203.13838
+UKP-SQUARE: An Online Platform for Question Answering Research	https://arxiv.org/abs/2203.13693
+Learning to Mediate Disparities Towards Pragmatic Communication	https://arxiv.org/abs/2203.13685
+Semi-Supervised Formality Style Transfer with Consistency Training	https://arxiv.org/abs/2203.13620
+MISC: A MIxed Strategy-Aware Model Integrating COMET for Emotional Support Conversation	https://arxiv.org/abs/2203.13560
+Single Model Ensemble for Subword Regularized Models in Low-Resource Machine Translation	https://arxiv.org/abs/2203.13528
+EmoCaps: Emotion Capsule based Model for Conversational Emotion Recognition	https://arxiv.org/abs/2203.13504
+Striking a Balance: Alleviating Inconsistency in Pre-trained Models for Symmetric Classification Tasks	https://arxiv.org/abs/2203.13491
+Automatic Song Translation for Tonal Languages	https://arxiv.org/abs/2203.13420
+GPT-D: Inducing Dementia-related Linguistic Anomalies by Deliberate Degradation of Artificial Neural Language Models	https://arxiv.org/abs/2203.13397
+One Country, 700+ Languages: NLP Challenges for Underrepresented Languages and Dialects in Indonesia	https://arxiv.org/abs/2203.13357
+Mix and Match: Learning-free Controllable Text Generation using Energy Language Models	https://arxiv.org/abs/2203.13299
+Searching for fingerspelled content in American Sign Language	https://arxiv.org/abs/2203.13291
+Token Dropping for Efficient BERT Pretraining	https://arxiv.org/abs/2203.13240
+Direct parsing to sentiment graphs	https://arxiv.org/abs/2203.13209
+Generating Scientific Claims for Zero-Shot Scientific Fact Checking	https://arxiv.org/abs/2203.12990
+Probing for Labeled Dependency Trees	https://arxiv.org/abs/2203.12971
+Generating Data to Mitigate Spurious Correlations in Natural Language Inference Datasets	https://arxiv.org/abs/2203.12942
+Multitasking Framework for Unsupervised Simple Definition Generation	https://arxiv.org/abs/2203.12926
+A Rationale-Centric Framework for Human-in-the-loop Machine Learning	https://arxiv.org/abs/2203.12918
+Can Unsupervised Knowledge Transfer from Social Discussions Help Argument Mining?	https://arxiv.org/abs/2203.12881
+Revisiting the Effects of Leakage on Dependency Parsing	https://arxiv.org/abs/2203.12815
+Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions	https://arxiv.org/abs/2203.12667
+Mitigating Gender Bias in Distilled Language Models via Counterfactual Role Reversal	https://arxiv.org/abs/2203.12574
+Dynamically Refined Regularization for Improving Cross-corpora Hate Speech Detection	https://arxiv.org/abs/2203.12536
+Computational historical linguistics and language diversity in South Asia	https://arxiv.org/abs/2203.12524
+Prompt-based Pre-trained Model for Personality and Interpersonal Reactivity Prediction	https://arxiv.org/abs/2203.12481
+M-SENA: An Integrated Platform for Multimodal Sentiment Analysis	https://arxiv.org/abs/2203.12441
+Input-specific Attention Subnetworks for Adversarial Detection	https://arxiv.org/abs/2203.12298
+IAM: A Comprehensive and Large-Scale Dataset for Integrated Argument Mining Tasks	https://arxiv.org/abs/2203.12257
+Integrating Vectorized Lexical Constraints for Neural Machine Translation	https://arxiv.org/abs/2203.12210
+AbductionRules: Training Transformers to Explain Unexpected Inputs	https://arxiv.org/abs/2203.12186
+An Empirical Study of Memorization in NLP	https://arxiv.org/abs/2203.12171
+Transformer based ensemble for emotion detection	https://arxiv.org/abs/2203.11899
+A Girl Has A Name, And It's ... Adversarial Authorship Attribution for Deobfuscation	https://arxiv.org/abs/2203.11849
+Listening to Affected Communities to Define Extreme Speech: Dataset and Experiments	https://arxiv.org/abs/2203.11764
+Improving Meta-learning for Low-resource Text Classification and Generation via Memory Imitation	https://arxiv.org/abs/2203.11670
+Task-guided Disentangled Tuning for Pretrained Language Models	https://arxiv.org/abs/2203.11431
+Suum Cuique: Studying Bias in Taboo Detection with a Community Perspective	https://arxiv.org/abs/2203.11401
+Achieving Conversational Goals with Unsupervised Post-hoc Knowledge Injection	https://arxiv.org/abs/2203.11399
+On The Robustness of Offensive Language Classifiers	https://arxiv.org/abs/2203.11331
+Efficient Classification of Long Documents Using Transformers	https://arxiv.org/abs/2203.11258
+DQ-BART: Efficient Sequence-to-Sequence Model via Joint Distillation and Quantization	https://arxiv.org/abs/2203.11239
+Distinguishing Non-natural from Natural Adversarial Samples for More Robust Pre-trained Language Model	https://arxiv.org/abs/2203.11199
+Relevant CommonSense Subgraphs for "What if..." Procedural Reasoning	https://arxiv.org/abs/2203.11187
+How Do We Answer Complex Questions: Discourse Structure of Long-form Answers	https://arxiv.org/abs/2203.11048
+Word Order Does Matter (And Shuffled Language Models Know It)	https://arxiv.org/abs/2203.10995
+Quality Controlled Paraphrase Generation	https://arxiv.org/abs/2203.10940
+Document-Level Relation Extraction with Adaptive Focal Loss and Knowledge Distillation	https://arxiv.org/abs/2203.10900
+Zoom Out and Observe: News Environment Perception for Fake News Detection	https://arxiv.org/abs/2203.10885
+Effective Token Graph Modeling using a Novel Labeling Strategy for Structured Sentiment Analysis	https://arxiv.org/abs/2203.10796
+A Slot Is Not Built in One Utterance: Spoken Language Dialogs with Sub-Slots	https://arxiv.org/abs/2203.10759
+Match the Script, Adapt if Multilingual: Analyzing the Effect of Multilingual Pretraining on Cross-lingual Transferability	https://arxiv.org/abs/2203.10753
+HIBRIDS: Attention with Hierarchical Biases for Structure-aware Long Document Summarization	https://arxiv.org/abs/2203.10741
+Compression of Generative Pre-trained Language Models via Quantization	https://arxiv.org/abs/2203.10705
+Leveraging Expert Guided Adversarial Augmentation For Improving Generalization in Named Entity Recognition	https://arxiv.org/abs/2203.10693
+Better Language Model with Hypernym Class Prediction	https://arxiv.org/abs/2203.10692
+Continual Sequence Generation with Adaptive Compositional Modules	https://arxiv.org/abs/2203.10652
+Calibration of Machine Reading Systems at Scale	https://arxiv.org/abs/2203.10623
+Towards Large-Scale Interpretable Knowledge Graph Reasoning for Dialogue Systems	https://arxiv.org/abs/2203.10610
+Cluster & Tune: Boost Cold Start Performance in Text Classification	https://arxiv.org/abs/2203.10581
+Parallel Instance Query Network for Named Entity Recognition	https://arxiv.org/abs/2203.10545
+Hierarchical Inductive Transfer for Continual Dialogue Learning	https://arxiv.org/abs/2203.10484
+STEMM: Self-learning with Speech-text Manifold Mixup for Speech Translation	https://arxiv.org/abs/2203.10426
+How does the pre-training objective affect what large language models learn about linguistic properties?	https://arxiv.org/abs/2203.10415
+Perturbations in the Wild: Leveraging Human-Written Text Perturbations for Realistic Adversarial Attack and Defense	https://arxiv.org/abs/2203.10346
+Automatic Detection of Entity-Manipulated Text using Factual Knowledge	https://arxiv.org/abs/2203.10343
+Pretraining with Artificial Language: Studying Transferable Knowledge in Language Models	https://arxiv.org/abs/2203.10326
+Sequence-to-Sequence Knowledge Graph Completion and Question Answering	https://arxiv.org/abs/2203.10321
+Learning to Reason Deductively: Math Word Problem Solving as Complex Relation Extraction	https://arxiv.org/abs/2203.10316
+Bridging Pre-trained Language Models and Hand-crafted Features for Unsupervised POS Tagging	https://arxiv.org/abs/2203.10315
+Neural Machine Translation with Phrase-Level Universal Visual Representations	https://arxiv.org/abs/2203.10299
+Clickbait Spoiling via Question Answering and Passage Retrieval	https://arxiv.org/abs/2203.10282
+FaiRR: Faithful and Robust Deductive Reasoning over Natural Language	https://arxiv.org/abs/2203.10261
+Dependency-based Mixture Language Models	https://arxiv.org/abs/2203.10256
+Read Top News First: A Document Reordering Approach for Multi-Document News Summarization	https://arxiv.org/abs/2203.10254
+Meta-X$_{NLG}$: A Meta-Learning Approach Based on Language Clustering for Zero-Shot Cross-Lingual Transfer and Generation	https://arxiv.org/abs/2203.10250
+Learning-by-Narrating: Narrative Pre-Training for Zero-Shot Dialogue Comprehension	https://arxiv.org/abs/2203.10249
+ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning	https://arxiv.org/abs/2203.10244
+Simulating Bandit Learning from User Feedback for Extractive Question Answering	https://arxiv.org/abs/2203.10079
+RELIC: Retrieving Evidence for Literary Claims	https://arxiv.org/abs/2203.10053
+Challenges and Strategies in Cross-Cultural NLP	https://arxiv.org/abs/2203.10020
+CaMEL: Case Marker Extraction without Labels	https://arxiv.org/abs/2203.10010
+CrossAligner & Co: Zero-Shot Transfer Methods for Task-Oriented Cross-lingual Natural Language Understanding	https://arxiv.org/abs/2203.09982
+Under the Morphosyntactic Lens: A Multifaceted Evaluation of Gender Bias in Speech Translation	https://arxiv.org/abs/2203.09866
+Prototypical Verbalizer for Prompt-based Few-shot Tuning	https://arxiv.org/abs/2203.09770
+GRS: Combining Generation and Revision in Unsupervised Sentence Simplification	https://arxiv.org/abs/2203.09742
+PRBoost: Prompt-Based Rule Discovery and Boosting for Interactive Weakly-Supervised Learning	https://arxiv.org/abs/2203.09735
+DEAM: Dialogue Coherence Evaluation using AMR-based Semantic Manipulations	https://arxiv.org/abs/2203.09711
+Modeling Intensification for Sign Language Generation: A Computational Approach	https://arxiv.org/abs/2203.09679
+HiStruct+: Improving Extractive Text Summarization with Hierarchical Structure Information	https://arxiv.org/abs/2203.09629
+On the Importance of Data Size in Probing Fine-tuned Models	https://arxiv.org/abs/2203.09627
+Towards Responsible Natural Language Annotation for the Varieties of Arabic	https://arxiv.org/abs/2203.09597
+Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation	https://arxiv.org/abs/2203.09553
+An Imitation Learning Curriculum for Text Editing with Non-Autoregressive Models	https://arxiv.org/abs/2203.09486
+Expanding Pretrained Models to Thousands More Languages via Lexicon-based Adaptation	https://arxiv.org/abs/2203.09435
+Coloring the Blank Slate: Pre-training Imparts a Hierarchical Inductive Bias to Sequence-to-sequence Models	https://arxiv.org/abs/2203.09397
+When Chosen Wisely, More Data Is What You Need: A Universal Sample-Efficient Strategy For Data Augmentation	https://arxiv.org/abs/2203.09391
+Combining Static and Contextualised Multilingual Embeddings	https://arxiv.org/abs/2203.09326
+Finding Structural Knowledge in Multimodal-BERT	https://arxiv.org/abs/2203.09306
+Universal Conditional Masked Language Pre-training for Neural Machine Translation	https://arxiv.org/abs/2203.09210
+Entropy-based Attention Regularization Frees Unintended Bias Mitigation from Lists	https://arxiv.org/abs/2203.09192
+RoMe: A Robust Metric for Evaluating Natural Language Generation	https://arxiv.org/abs/2203.09183
+Multilingual Detection of Personal Employment Status on Twitter	https://arxiv.org/abs/2203.09178
+Modeling Dual Read/Write Paths for Simultaneous Machine Translation	https://arxiv.org/abs/2203.09163
+RelationPrompt: Leveraging Prompts to Generate Synthetic Data for Zero-Shot Relation Triplet Extraction	https://arxiv.org/abs/2203.09101
+Gaussian Multi-head Attention for Simultaneous Machine Translation	https://arxiv.org/abs/2203.09072
+Fine- and Coarse-Granularity Hybrid Self-Attention for Efficient BERT	https://arxiv.org/abs/2203.09055
+Reducing Position Bias in Simultaneous Machine Translation with Length-Aware Framework	https://arxiv.org/abs/2203.09053
+DU-VLG: Unifying Vision-and-Language Generation via Dual Sequence-to-Sequence Pre-training	https://arxiv.org/abs/2203.09052
+Triangular Transfer: Freezing the Pivot for Triangular Machine Translation	https://arxiv.org/abs/2203.09027
+AdaLoGN: Adaptive Logic Graph Network for Reasoning-Based Machine Reading Comprehension	https://arxiv.org/abs/2203.08992
+AdapLeR: Speeding up Inference by Adaptive Length Reduction	https://arxiv.org/abs/2203.08991
+Label Semantics for Few Shot Named Entity Recognition	https://arxiv.org/abs/2203.08985
+Speaker Information Can Guide Models to Better Inductive Biases: A Case Study On Predicting Code-Switching	https://arxiv.org/abs/2203.08979
+BPE vs. Morphological Segmentation: A Case Study on Machine Translation of Four Polysynthetic Languages	https://arxiv.org/abs/2203.08954
+An Analysis of Negation in Natural Language Understanding Corpora	https://arxiv.org/abs/2203.08929
+C-MORE: Pretraining to Answer Open-Domain Questions by Consulting Millions of References	https://arxiv.org/abs/2203.08928
+Synthetic Question Value Estimation for Domain Adaptation of Question Answering	https://arxiv.org/abs/2203.08926
+Morphological Processing of Low-Resource Languages: Where We Are and What's Next	https://arxiv.org/abs/2203.08909
+Pre-Trained Multilingual Sequence-to-Sequence Models: A Hope for Low-Resource Language Translation?	https://arxiv.org/abs/2203.08850
+Are Shortest Rationales the Best Explanations for Human Understanding?	https://arxiv.org/abs/2203.08788
+CUE Vectors: Modular Training of Language Models Conditioned on Diverse Contextual Signals	https://arxiv.org/abs/2203.08774
+Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data	https://arxiv.org/abs/2203.08773
+Sample, Translate, Recombine: Leveraging Audio Alignments for Data Augmentation in End-to-end Speech Translation	https://arxiv.org/abs/2203.08757
+A Feasibility Study of Answer-Agnostic Question Generation for Education	https://arxiv.org/abs/2203.08685
+Graph Neural Networks for Multiparallel Word Alignment	https://arxiv.org/abs/2203.08654
+Zero-Shot Dependency Parsing with Worst-Case Aware Automated Curriculum Learning	https://arxiv.org/abs/2203.08555
+Multilingual Pre-training with Language and Task Adaptation for Multilingual Text Style Transfer	https://arxiv.org/abs/2203.08552
+Morphological Reinflection with Multiple Arguments: An Extended Annotation schema and a Georgian Case Study	https://arxiv.org/abs/2203.08527
+TegTok: Augmenting Text Generation via Task-specific and Open-world Knowledge	https://arxiv.org/abs/2203.08517
+ConTinTin: Continual Learning from Task Instructions	https://arxiv.org/abs/2203.08512
+HeterMPC: A Heterogeneous Graph Neural Network for Response Generation in Multi-Party Conversations	https://arxiv.org/abs/2203.08500
+E-KAR: A Benchmark for Rationalizing Natural Language Analogical Reasoning	https://arxiv.org/abs/2203.08480
+KinyaBERT: a Morphology-aware Kinyarwanda Language Model	https://arxiv.org/abs/2203.08459
+Can Pre-trained Language Models Interpret Similes as Smart as Human?	https://arxiv.org/abs/2203.08452
+Understanding and Improving Sequence-to-Sequence Pretraining for Neural Machine Translation	https://arxiv.org/abs/2203.08442
+Cross-Lingual Ability of Multilingual Masked Language Models: A Study of Language Structure	https://arxiv.org/abs/2203.08430
+FormNet: Structural Encoding beyond Sequential Modeling in Form Document Information Extraction	https://arxiv.org/abs/2203.08411
+Bridging the Data Gap between Training and Inference for Unsupervised Neural Machine Translation	https://arxiv.org/abs/2203.08394
+Multi-View Document Representation Learning for Open-Domain Dense Retrieval	https://arxiv.org/abs/2203.08372
+Towards Afrocentric NLP for African Languages: Where We Are and Where We Can Go	https://arxiv.org/abs/2203.08351
+Multilingual Generative Language Models for Zero-Shot Cross-Lingual Event Argument Extraction	https://arxiv.org/abs/2203.08308
+Improving Word Translation via Two-Stage Contrastive Learning	https://arxiv.org/abs/2203.08307
+Non-neural Models Matter: A Re-evaluation of Neural Referring Expression Generation Systems	https://arxiv.org/abs/2203.08274
+Data Contamination: From Memorization to Exploitation	https://arxiv.org/abs/2203.08242
+Measuring the Impact of (Psycho-)Linguistic and Readability Features and Their Spill Over Effects on the Prediction of Eye Movement Patterns	https://arxiv.org/abs/2203.08085
+Things not Written in Text: Exploring Spatial Commonsense from Visual Signals	https://arxiv.org/abs/2203.08075
+Modular and Parameter-Efficient Multimodal Fusion with Prompting	https://arxiv.org/abs/2203.08055
+RotateQVS: Representing Temporal Information as Rotations in Quaternion Vector Space for Temporal Knowledge Graph Completion	https://arxiv.org/abs/2203.07993
+Unsupervised Extractive Opinion Summarization Using Sparse Coding	https://arxiv.org/abs/2203.07921
+Imputing Out-of-Vocabulary Embeddings with LOVE Makes Language Models Robust with Little Cost	https://arxiv.org/abs/2203.07860
+Improved Multi-label Classification under Temporal Concept Drift: Rethinking Group-Robust Algorithms in a Label-Wise Setting	https://arxiv.org/abs/2203.07856
+SCD: Self-Contrastive Decorrelation for Sentence Embeddings	https://arxiv.org/abs/2203.07847
+Complex Evolutional Pattern Learning for Temporal Knowledge Graph Reasoning	https://arxiv.org/abs/2203.07782
+Augmenting Document Representations for Dense Retrieval with Interpolation and Perturbation	https://arxiv.org/abs/2203.07735
+ReACC: A Retrieval-Augmented Code Completion Framework	https://arxiv.org/abs/2203.07722
+Compressing Sentence Representation for Semantic Retrieval via Homomorphic Projective Distillation	https://arxiv.org/abs/2203.07687
+Generalized but not Robust? Comparing the Effects of Data Modification Methods on Out-of-Domain Generalization and Adversarial Robustness	https://arxiv.org/abs/2203.07653
+Can Synthetic Translations Improve Bitext Quality?	https://arxiv.org/abs/2203.07643
+Improving Event Representation via Simultaneous Weakly Supervised Contrastive Learning and Clustering	https://arxiv.org/abs/2203.07633
+Multilingual Mix: Example Interpolation Improves Multilingual Neural Machine Translation	https://arxiv.org/abs/2203.07627
+CARETS: A Consistency And Robustness Evaluative Test Suite for VQA	https://arxiv.org/abs/2203.07613
+On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency	https://arxiv.org/abs/2203.07559
+Sense Embeddings are also Biased--Evaluating Social Biases in Static and Contextualised Sense Embeddings	https://arxiv.org/abs/2203.07523
+Leveraging Visual Knowledge in Language Tasks: An Empirical Study on Intermediate Pre-training for Cross-modal Knowledge Transfer	https://arxiv.org/abs/2203.07519
+Contrastive Visual Semantic Pretraining Magnifies the Semantics of Natural Language Representations	https://arxiv.org/abs/2203.07511
+A Neural Pairwise Ranking Model for Readability Assessment	https://arxiv.org/abs/2203.07450
+Sememe Prediction for BabelNet Synsets using Multilingual and Multimodal Information	https://arxiv.org/abs/2203.07426
+Revisiting the Compositional Generalization Abilities of Neural Sequence Models	https://arxiv.org/abs/2203.07402
+HIE-SQL: History Information Enhanced Network for Context-Dependent Text-to-SQL Semantic Parsing	https://arxiv.org/abs/2203.07376
+Diversifying Content Generation for Commonsense Reasoning with Mixture of Knowledge Graph Experts	https://arxiv.org/abs/2203.07285
+Show Me More Details: Discovering Hierarchies of Procedures from Semi-structured Web Data	https://arxiv.org/abs/2203.07264
+FairLex: A Multilingual Benchmark for Evaluating Fairness in Legal Text Processing	https://arxiv.org/abs/2203.07228
+CLIP Models are Few-shot Learners: Empirical Studies on VQA and Visual Entailment	https://arxiv.org/abs/2203.07190
+Interpretability for Language Learners Using Example-Based Grammatical Error Correction	https://arxiv.org/abs/2203.07085
+S$^2$SQL: Injecting Syntax to Question-Schema Interaction Graph Encoder for Text-to-SQL Parsers	https://arxiv.org/abs/2203.06958
+SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities	https://arxiv.org/abs/2203.06849
+KenMeSH: Knowledge-enhanced End-to-end Biomedical Text Labelling	https://arxiv.org/abs/2203.06835
+Continual Prompt Tuning for Dialog State Tracking	https://arxiv.org/abs/2203.06654
+SummaReranker: A Multi-Task Mixture-of-Experts Re-ranking Framework for Abstractive Summarization	https://arxiv.org/abs/2203.06569
+Chart-to-Text: A Large-Scale Benchmark for Chart Summarization	https://arxiv.org/abs/2203.06486
+FiNER: Financial Numeric Entity Recognition for XBRL Tagging	https://arxiv.org/abs/2203.06482
+Low-Rank Softmax Can Have Unargmaxable Classes in Theory but Rarely in Practice	https://arxiv.org/abs/2203.06462
+When did you become so smart, oh wise one?! Sarcasm Explanation in Multi-modal Multi-party Dialogues	https://arxiv.org/abs/2203.06419
+Enabling Multimodal Generation on CLIP via Vision-Language Knowledge Distillation	https://arxiv.org/abs/2203.06386
+What Makes Reading Comprehension Questions Difficult?	https://arxiv.org/abs/2203.06342
+ELLE: Efficient Lifelong Pre-training for Emerging Data	https://arxiv.org/abs/2203.06311
+Cross-lingual Inference with A Chinese Entailment Graph	https://arxiv.org/abs/2203.06264
+CoDA21: Evaluating Language Understanding Capabilities of NLP Models With Context-Definition Alignment	https://arxiv.org/abs/2203.06228
+When classifying grammatical role, BERT doesn't care about word order... except when it matters	https://arxiv.org/abs/2203.06204
+LaPraDoR: Unsupervised Pretrained Dense Retriever for Zero-Shot Text Retrieval	https://arxiv.org/abs/2203.06169
+WLASL-LEX: a Dataset for Recognising Phonological Properties in American Sign Language	https://arxiv.org/abs/2203.06096
+Active Evaluation: Efficient NLG Evaluation with Few Pairwise Comparisons	https://arxiv.org/abs/2203.06063
+Achieving Reliable Human Assessment of Open-Domain Dialogue Systems	https://arxiv.org/abs/2203.05899
+A Sentence is Worth 128 Pseudo Tokens: A Semantic-Aware Contrastive Learning Framework for Sentence Embeddings	https://arxiv.org/abs/2203.05877
+Automatic Identification and Classification of Bragging in Social Media	https://arxiv.org/abs/2203.05840
+Long Time No See! Open-Domain Conversation with Long-Term Persona Memory	https://arxiv.org/abs/2203.05797
+An Accurate Unsupervised Method for Joint Entity Alignment and Dangling Entity Detection	https://arxiv.org/abs/2203.05147
+Compilable Neural Code Generation with Compiler Feedback	https://arxiv.org/abs/2203.05132
+Language Diversity: Visible to Humans, Exploitable by Machines	https://arxiv.org/abs/2203.04723
+Nested Named Entity Recognition as Latent Lexicalized Constituency Parsing	https://arxiv.org/abs/2203.04665
+Slangvolution: A Causal Analysis of Semantic Change and Frequency Dynamics in Slang	https://arxiv.org/abs/2203.04651
+Which side are you on? Insider-Outsider classification in conspiracy-theoretic social media	https://arxiv.org/abs/2203.04356
+Visual-Language Navigation Pretraining via Prompt-based Environmental Self-exploration	https://arxiv.org/abs/2203.04006
+Adapt$\mathcal{O}$r: Objective-Centric Adaptation Framework for Language Models	https://arxiv.org/abs/2203.03989
+Overcoming Catastrophic Forgetting beyond Continual Learning: Balanced Training for Neural Machine Translation	https://arxiv.org/abs/2203.03910
+DARER: Dual-task Temporal Relational Recurrent Reasoning Network for Joint Dialog Sentiment Classification and Act Recognition	https://arxiv.org/abs/2203.03856
+UniXcoder: Unified Cross-Modal Pre-training for Code Representation	https://arxiv.org/abs/2203.03850
+Incorporating Hierarchy into Text Encoder: a Contrastive Learning Approach for Hierarchical Text Classification	https://arxiv.org/abs/2203.03825
+A Variational Hierarchical Model for Neural Cross-Lingual Summarization	https://arxiv.org/abs/2203.03820
+Image Search with Text Feedback by Additive Attention Compositional Learning	https://arxiv.org/abs/2203.03809
+Hierarchical Sketch Induction for Paraphrase Generation	https://arxiv.org/abs/2203.03463
+SOCIOFILLMORE: A Tool for Discovering Perspectives	https://arxiv.org/abs/2203.03438
+Deep Reinforcement Learning for Entity Alignment	https://arxiv.org/abs/2203.03315
+Language-Agnostic Meta-Learning for Low-Resource Text-to-Speech with Articulatory Features	https://arxiv.org/abs/2203.03191
+Mismatch between Multi-turn Dialogue and its Evaluation Metric in Dialogue State Tracking	https://arxiv.org/abs/2203.03123
+ILDAE: Instance-Level Difficulty Analysis of Evaluation Data	https://arxiv.org/abs/2203.03073
+Conditional Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation	https://arxiv.org/abs/2203.02951
+Doctor Recommendation in Online Health Forums via Expertise Learning	https://arxiv.org/abs/2203.02932
+Divide and Conquer: Text Semantic Matching with Disentangled Keywords and Intents	https://arxiv.org/abs/2203.02898
+A Multi-Document Coverage Reward for RELAXed Multi-Document Summarization	https://arxiv.org/abs/2203.02894
+Focus on the Target's Vocabulary: Masked Label Smoothing for Machine Translation	https://arxiv.org/abs/2203.02889
+Feeding What You Need by Understanding What You Learned	https://arxiv.org/abs/2203.02753
+Consistent Representation Learning for Continual Relation Extraction	https://arxiv.org/abs/2203.02721
+Just Rank: Rethinking Evaluation with Word and Sentence Similarities	https://arxiv.org/abs/2203.02679
+From Simultaneous to Streaming Machine Translation by Leveraging Streaming History	https://arxiv.org/abs/2203.02459
+ClarET: Pre-training a Correlation-Aware Context-To-Event Transformer for Event-Centric Generation and Classification	https://arxiv.org/abs/2203.02225
+EAG: Extract and Generate Multi-way Aligned Corpus for Complete Multi-lingual Neural Machine Translation	https://arxiv.org/abs/2203.02180
+SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models	https://arxiv.org/abs/2203.02167
+Continual Few-shot Relation Learning via Embedding Space Regularization and Data Augmentation	https://arxiv.org/abs/2203.02135
+Overlap-based Vocabulary Generation Improves Cross-lingual Transfer Among Related Languages	https://arxiv.org/abs/2203.01976
+As Little as Possible, as Much as Necessary: Detecting Over- and Undertranslations with Contrastive Conditioning	https://arxiv.org/abs/2203.01927
+Context Enhanced Short Text Matching using Clickthrough Data	https://arxiv.org/abs/2203.01849
+Detection of Word Adversarial Examples in Text Classification: Benchmark and Baseline via Robust Density Estimation	https://arxiv.org/abs/2203.01677
+A Simple Hash-Based Early Exiting Approach For Language Understanding and Generation	https://arxiv.org/abs/2203.01670
+Dialogue Summaries as Dialogue States (DS2), Template-Guided Summarization for Few-shot Dialogue State Tracking	https://arxiv.org/abs/2203.01552
+Code Synonyms Do Matter: Multiple Synonyms Matching Network for Automatic ICD Coding	https://arxiv.org/abs/2203.01515
+Mukayese: Turkish NLP Strikes Back	https://arxiv.org/abs/2203.01215
+Controlling the Focus of Pretrained Language Generation Models	https://arxiv.org/abs/2203.01146
+The Past Mistake is the Future Wisdom: Error-driven Contrastive Probability Optimization for Chinese Spell Checking	https://arxiv.org/abs/2203.00991
+There is a Time and Place for Reasoning Beyond the Image	https://arxiv.org/abs/2203.00758
+E-LANG: Energy-Based Joint Inferencing of Super and Swift Language Models	https://arxiv.org/abs/2203.00748
+MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning	https://arxiv.org/abs/2203.00357
+Read before Generate! Faithful Long Form Question Answering with Machine Reading	https://arxiv.org/abs/2203.00343
+"Is Whole Word Masking Always Better for Chinese BERT?": Probing on Chinese Grammatical Error Correction	https://arxiv.org/abs/2203.00286
+TableFormer: Robust Transformer Modeling for Table-Text Encoding	https://arxiv.org/abs/2203.00274
+Sentiment Word Aware Multimodal Refinement for Multimodal Sentiment Analysis with ASR Errors	https://arxiv.org/abs/2203.00257
+Improving Time Sensitivity for Question Answering over Temporal Knowledge Graphs	https://arxiv.org/abs/2203.00255
+Exploring and Adapting Chinese GPT to Pinyin Input Method	https://arxiv.org/abs/2203.00249
+Investigating Selective Prediction Approaches Across Several Tasks in IID, OOD, and Adversarial Settings	https://arxiv.org/abs/2203.00211
+Text Smoothing: Enhance Various Data Augmentation Methods on Text Classification Tasks	https://arxiv.org/abs/2202.13840
+CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion	https://arxiv.org/abs/2202.13785
+Predictive simulation of single-leg landing scenarios for	https://arxiv.org/abs/2202.13749
+LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding	https://arxiv.org/abs/2202.13669
+Confidence Based Bidirectional Global Context Aware Training Framework for Neural Machine Translation	https://arxiv.org/abs/2202.13663
+MSCTD: A Multimodal Sentiment Chat Translation Dataset	https://arxiv.org/abs/2202.13645
+UCTopic: Unsupervised Contrastive Learning for Phrase Representations and Topic Mining	https://arxiv.org/abs/2202.13469
+Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking	https://arxiv.org/abs/2202.13404
+A Simple but Effective Pluggable Entity Lookup Table for Pre-trained Language Models	https://arxiv.org/abs/2202.13392
+Learning the Beauty in Songs: Neural Singing Voice Beautifier	https://arxiv.org/abs/2202.13277
+OCR Improves Machine Translation for Low-Resource Languages	https://arxiv.org/abs/2202.13274
+Toward Interpretable Semantic Textual Similarity via Optimal Transport-based Contrastive Sentence Learning	https://arxiv.org/abs/2202.13196
+QuoteR: A Benchmark of Quote Recommendation for Writing	https://arxiv.org/abs/2202.13145
+Exploring the Impact of Negative Samples of Contrastive Learning: A Case Study of Sentence Embedding	https://arxiv.org/abs/2202.13093
+Revisiting Over-Smoothness in Text to Speech	https://arxiv.org/abs/2202.13066
+ASSIST: Towards Label Noise-Robust Dialogue State Tracking	https://arxiv.org/abs/2202.13024
+On the data requirements of probing	https://arxiv.org/abs/2202.12801
+PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks	https://arxiv.org/abs/2202.12499
+Equilibration and "Thermalization'' in the Adapted Caldeira-Leggett model	https://arxiv.org/abs/2202.12353
+Toward More Meaningful Resources for Lower-resourced Languages	https://arxiv.org/abs/2202.12288
+Neural reality of argument structure constructions	https://arxiv.org/abs/2202.12246
+Probing BERT's priors with serial reproduction chains	https://arxiv.org/abs/2202.12226
+Overcoming a Theoretical Limitation of Self-Attention	https://arxiv.org/abs/2202.12172
+How reparametrization trick broke differentially-private text representation learning	https://arxiv.org/abs/2202.12138
+"splink" is happy and "phrouth" is scary: Emotion Intensity Analysis for Nonsense Words	https://arxiv.org/abs/2202.12132
+Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction	https://arxiv.org/abs/2202.12109
+NoisyTune: A Little Noise Can Help You Finetune Pretrained Language Models Better	https://arxiv.org/abs/2202.12024
+Items from Psychometric Tests as Training Data for Personality Profiling Models of Twitter Users	https://arxiv.org/abs/2202.10415
+On the Complementarity of Images and Text for the Expression of Emotions in Social Media	https://arxiv.org/abs/2202.07427
+TimeLMs: Diachronic Language Models from Twitter	https://arxiv.org/abs/2202.03829
+How Effective is Incongruity? Implications for Code-mix Sarcasm Detection	https://arxiv.org/abs/2202.02702
+PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts	https://arxiv.org/abs/2202.01279
+Yes-Yes-Yes: Donation-based Peer Reviewing Data Collection for	https://arxiv.org/abs/2201.11443
+Why Did You Not Compare With That? Identifying Papers for Use as Baselines	https://arxiv.org/abs/2201.08089
+Ditch the Gold Standard: Re-evaluating Conversational Question Answering	https://arxiv.org/abs/2112.08812
+VALSE: A Task-Independent Benchmark for Vision and Language Models Centered on Linguistic Phenomena	https://arxiv.org/abs/2112.07566
+Dataset Geography: Mapping Language Data to Language Users	https://arxiv.org/abs/2112.03497
+What to Learn, and How: Toward Effective Learning from Rationales	https://arxiv.org/abs/2112.00071
+Virtual Augmentation Supported Contrastive Learning of Sentence Representations	https://arxiv.org/abs/2110.08552
+Answering Open-Domain Multi-Answer Questions via a Recall-then-Verify Framework	https://arxiv.org/abs/2110.08544
+Sharpness-Aware Minimization Improves Language Model Generalization	https://arxiv.org/abs/2110.08529
+An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models	https://arxiv.org/abs/2110.08527
+The Power of Prompt Tuning for Low-Resource Semantic Parsing	https://arxiv.org/abs/2110.08525
+MarkupLM: Pre-training of Text and Markup Language for Visually-rich Document Understanding	https://arxiv.org/abs/2110.08518
+Multimodal Dialogue Response Generation	https://arxiv.org/abs/2110.08515
+Think Before You Speak: Explicitly Generating Implicit Commonsense Knowledge for Response Generation	https://arxiv.org/abs/2110.08501
+PRIMERA: Pyramid-based Masked Sentence Pre-training for Multi-document Summarization	https://arxiv.org/abs/2110.08499
+Understanding Multimodal Procedural Knowledge by Sequencing Multimodal Instructional Manuals	https://arxiv.org/abs/2110.08486
+A Good Prompt Is Worth Millions of Parameters: Low-resource Prompt-based Learning for Vision-Language Models	https://arxiv.org/abs/2110.08484
+Improving Compositional Generalization with Self-Training for Data-to-Text Generation	https://arxiv.org/abs/2110.08467
+On the Safety of Conversational Models: Taxonomy, Dataset, and Benchmark	https://arxiv.org/abs/2110.08466
+Seeking Patterns, Not just Memorizing Procedures: Contrastive Learning for Solving Math Word Problems	https://arxiv.org/abs/2110.08464
+Good Examples Make A Faster Learner: Simple Demonstration-based Learning for Low-resource NER	https://arxiv.org/abs/2110.08454
+Prix-LM: Pretraining for Multilingual Knowledge Base Construction	https://arxiv.org/abs/2110.08443
+Unsupervised Natural Language Inference Using PHL Triplet Generation	https://arxiv.org/abs/2110.08438
+Open Domain Question Answering with A Unified Knowledge Interface	https://arxiv.org/abs/2110.08417
+Multilingual unsupervised sequence segmentation transfers to extremely low-resource languages	https://arxiv.org/abs/2110.08415
+Probing as Quantifying Inductive Bias	https://arxiv.org/abs/2110.08388
+Generated Knowledge Prompting for Commonsense Reasoning	https://arxiv.org/abs/2110.08387
+Training Dynamics for Text Summarization Models	https://arxiv.org/abs/2110.08370
+Towards Transparent Interactive Semantic Parsing via Step-by-Step Correction	https://arxiv.org/abs/2110.08345
+The Dangers of Underclaiming: Reasons for Caution When Reporting How NLP Systems Fail	https://arxiv.org/abs/2110.08300
+ASPECTNEWS: Aspect-Oriented Summarization of News Documents	https://arxiv.org/abs/2110.08296
+Coherence boosting: When your pretrained language model is not paying enough attention	https://arxiv.org/abs/2110.08294
+DialFact: A Benchmark for Fact-Checking in Dialogue	https://arxiv.org/abs/2110.08222
+BBQ: A Hand-Built Bias Benchmark for Question Answering	https://arxiv.org/abs/2110.08193
+Rewire-then-Probe: A Contrastive Recipe for Probing Biomedical Knowledge of Pre-trained Language Models	https://arxiv.org/abs/2110.08173
+mLUKE: The Power of Entity Representations in Multilingual Pretrained Language Models	https://arxiv.org/abs/2110.08151
+Breaking Down Multilingual Machine Translation	https://arxiv.org/abs/2110.08130
+Tracing Origins: Coreference-aware Machine Reading Comprehension	https://arxiv.org/abs/2110.07961
+SPoT: Better Frozen Model Adaptation through Soft Prompt Transfer	https://arxiv.org/abs/2110.07904
+Large Scale Substitution-based Word Sense Induction	https://arxiv.org/abs/2110.07681
+Retrieval-guided Counterfactual Generation for QA	https://arxiv.org/abs/2110.07596
+Can Explanations Be Useful for Calibrating Black Box Models?	https://arxiv.org/abs/2110.07586
+UniPELT: A Unified Framework for Parameter-Efficient Language Model Tuning	https://arxiv.org/abs/2110.07577
+Sentence-aware Contrastive Learning for Open-Domain Passage Retrieval	https://arxiv.org/abs/2110.07524
+Fusing Heterogeneous Factors with Triaffine Mechanism for Nested Named Entity Recognition	https://arxiv.org/abs/2110.07480
+Query and Extract: Refining Event Extraction as Type-oriented Binary Decoding	https://arxiv.org/abs/2110.07476
+MReD: A Meta-Review Dataset for Structure-Controllable Text Generation	https://arxiv.org/abs/2110.07474
+Few-shot Controllable Style Transfer for Low-Resource Multilingual Settings	https://arxiv.org/abs/2110.07385
+SpeechT5: Unified-Modal Encoder-Decoder Pre-Training for Spoken Language Processing	https://arxiv.org/abs/2110.07205
+Rethinking Self-Supervision Objectives for Generalizable Coherence Modeling	https://arxiv.org/abs/2110.07198
+Semantically Distributed Robust Optimization for Vision-and-Language Inference	https://arxiv.org/abs/2110.07165
+Interpreting the Robustness of Neural NLP Models to Textual Perturbations	https://arxiv.org/abs/2110.07159
+MIMICause: Representation and automatic extraction of causal relation types from clinical notes	https://arxiv.org/abs/2110.07090
+Morphosyntactic Tagging with Pre-trained Language Models for Arabic and its Dialects	https://arxiv.org/abs/2110.06852
+MSP: Multi-Stage Prompting for Making Pre-trained Language Models Better Translators	https://arxiv.org/abs/2110.06609
+Dict-BERT: Enhancing Language Model Pre-training with Dictionary	https://arxiv.org/abs/2110.06490
+Bottom-Up Constituency Parsing and Nested Named Entity Recognition with Pointer Networks	https://arxiv.org/abs/2110.05419
+Disentangled Sequence to Sequence Learning for Compositional Generalization	https://arxiv.org/abs/2110.04655
+An Isotropy Analysis in the Multilingual BERT Embedding Space	https://arxiv.org/abs/2110.04504
+Learning to Describe Solutions for Bug Reports Based on Developer Discussions	https://arxiv.org/abs/2110.04353
+Towards Learning (Dis)-Similarity of Source Code from Program Contrasts	https://arxiv.org/abs/2110.03868
+Situated Dialogue Learning through Procedural Environment Generation	https://arxiv.org/abs/2110.03262
+Co-training an Unsupervised Constituency Parser with Weak Supervision	https://arxiv.org/abs/2110.02283
+MoEfication: Transformer Feed-forward Layers are Mixtures of Experts	https://arxiv.org/abs/2110.01786
+LexGLUE: A Benchmark Dataset for Legal Language Understanding in English	https://arxiv.org/abs/2110.00976
+Investigating Non-local Features for Neural Constituency Parsing	https://arxiv.org/abs/2109.12814
+AraT5: Text-to-Text Transformers for Arabic Language Generation	https://arxiv.org/abs/2109.12068
+Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming	https://arxiv.org/abs/2109.11410
+The Trade-offs of Domain Adaptation for Neural Language Models	https://arxiv.org/abs/2109.10274
+Multilingual Molecular Representation Learning via Contrastive Pre-training	https://arxiv.org/abs/2109.08830
+RnG-KBQA: Generation Augmented Iterative Ranking for Knowledge Base Question Answering	https://arxiv.org/abs/2109.08678
+Reframing Instructional Prompts to GPTk's Language	https://arxiv.org/abs/2109.07830
+CONTaiNER: Few-Shot Named Entity Recognition via Contrastive Learning	https://arxiv.org/abs/2109.07589
+Learning When to Translate for Streaming Speech	https://arxiv.org/abs/2109.07368
+Improving Zero-shot Cross-lingual Transfer between Closely Related Languages by injecting Character-level Noise	https://arxiv.org/abs/2109.06772
+xGQA: Cross-Lingual Visual Question Answering	https://arxiv.org/abs/2109.06082
+Packed Levitated Marker for Entity and Relation Extraction	https://arxiv.org/abs/2109.06067
+Transformers in the loop: Polarity in neural models of language	https://arxiv.org/abs/2109.03926
+It is AI's Turn to Ask Humans a Question: Question-Answer Pair Generation for Children's Story Books	https://arxiv.org/abs/2109.03423
+Rare Tokens Degenerate All Tokens: Improving Neural Text Generation via Adaptive Gradient Gating for Rare Token Embeddings	https://arxiv.org/abs/2109.03127
+Text-to-Table: A New Way of Information Extraction	https://arxiv.org/abs/2109.02707
+$\infty$-former: Infinite Memory Transformer	https://arxiv.org/abs/2109.00301
+It's not Rocket Science : Interpreting Figurative Language in Narratives	https://arxiv.org/abs/2109.00087
+MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER	https://arxiv.org/abs/2108.13655
+A Statutory Article Retrieval Dataset in French	https://arxiv.org/abs/2108.11792
+Rethinking Negative Sampling for Handling Missing Entity Annotations	https://arxiv.org/abs/2108.11607
+Impact of Evaluation Methodologies on Code Summarization	https://arxiv.org/abs/2108.09619
+Open Relation Modeling: Learning to Define Relations between Entities	https://arxiv.org/abs/2108.09241
+Fact-Tree Reasoning for N-ary Question Answering over Knowledge Graphs	https://arxiv.org/abs/2108.08297
+Low-Resource Adaptation of Open-Domain Generative Chatbots	https://arxiv.org/abs/2108.06329
+(Un)solving Morphological Inflection: Lemma Overlap Artificially Inflates Models' Performance	https://arxiv.org/abs/2108.05682
+Making Transformers Solve Compositional Tasks	https://arxiv.org/abs/2108.04378
+Noisy Channel Language Model Prompting for Few-Shot Text Classification	https://arxiv.org/abs/2108.04106
+Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification	https://arxiv.org/abs/2108.02035
+Improving Social Meaning Detection with Pragmatic Masking and Surrogate Fine-Tuning	https://arxiv.org/abs/2108.00356
+MemSum: Extractive Summarization of Long Documents Using Multi-Step Episodic Markov Decision Processes	https://arxiv.org/abs/2107.08929
+Deduplicating Training Data Makes Language Models Better	https://arxiv.org/abs/2107.06499
+Revisiting Uncertainty-based Query Strategies for Active Learning with Transformers	https://arxiv.org/abs/2107.05687
+Direct speech-to-speech translation with discrete units	https://arxiv.org/abs/2107.05604
+FaVIQ: FAct Verification from Information-seeking Questions	https://arxiv.org/abs/2107.02153
+Ethics Sheets for AI Tasks	https://arxiv.org/abs/2107.01183
+An Investigation of the (In)effectiveness of Counterfactually Augmented Data	https://arxiv.org/abs/2107.00753
+Combining Feature and Instance Attribution to Detect Artifacts	https://arxiv.org/abs/2107.00323
+A Closer Look at How Fine-tuning Changes BERT	https://arxiv.org/abs/2106.14282
+BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models	https://arxiv.org/abs/2106.10199
+Eider: Empowering Document-level Relation Extraction with Efficient Evidence Extraction and Inference-stage Fusion	https://arxiv.org/abs/2106.08657
+Question Answering Infused Pre-training of General-Purpose Contextualized Representations	https://arxiv.org/abs/2106.08190
+CBLUE: A Chinese Biomedical Language Understanding Evaluation Benchmark	https://arxiv.org/abs/2106.08087
+BERT Learns to Teach: Knowledge Distillation with Meta Learning	https://arxiv.org/abs/2106.04570
+Are Pretrained Transformers Robust in Intent Classification? A Missing Ingredient in Evaluation of Out-of-Scope Intent Detection	https://arxiv.org/abs/2106.04564
+Attention Temperature Matters in Abstractive Summarization Distillation	https://arxiv.org/abs/2106.03441
+Fully Hyperbolic Neural Networks	https://arxiv.org/abs/2105.14686
+Fast Nearest Neighbor Machine Translation	https://arxiv.org/abs/2105.14528
+VISITRON: Visual Semantics-Aligned Interactively Trained Object-Navigator	https://arxiv.org/abs/2105.11589
+Dependency Parsing as MRC-based Span-Span Prediction	https://arxiv.org/abs/2105.07654
+Premise-based Multimodal Reasoning: Conditional Inference on Joint Textual and Visual Clues	https://arxiv.org/abs/2105.07122
+Retrieval-Free Knowledge-Grounded Dialogue Response Generation with Adapters	https://arxiv.org/abs/2105.06232
+Shellcode_IA32: A Dataset for Automatic Shellcode Generation	https://arxiv.org/abs/2104.13100
+Misinfo Reaction Frames: Reasoning about Readers' Reactions to News Headlines	https://arxiv.org/abs/2104.08790
+Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity	https://arxiv.org/abs/2104.08786
+On the Sensitivity and Stability of Model Interpretations in NLP	https://arxiv.org/abs/2104.08782
+Cross-Task Generalization via Natural Language Crowdsourcing Instructions	https://arxiv.org/abs/2104.08773
+AmericasNLI: Evaluating Zero-shot Natural Language Understanding of Pretrained Multilingual Models in Truly Low-resource Languages	https://arxiv.org/abs/2104.08726
+Knowledge Neurons in Pretrained Transformers	https://arxiv.org/abs/2104.08696
+Distributed NLI: Learning to Predict Human Opinion Distributions for Language Reasoning	https://arxiv.org/abs/2104.08676
+On the Importance of Effectively Adapting Pretrained Language Models for Active Learning	https://arxiv.org/abs/2104.08320
+Bilingual alignment transfers to multilingual alignment for unsupervised parallel text mining	https://arxiv.org/abs/2104.07642
+Adapting Coreference Resolution Models through Active Learning	https://arxiv.org/abs/2104.07611
+First the worst: Finding better gender translations during beam search	https://arxiv.org/abs/2104.07429
+Two Birds with One Stone: Unified Model Learning for Both Recall and Ranking in News Recommendation	https://arxiv.org/abs/2104.07404
+SummScreen: A Dataset for Abstractive Screenplay Summarization	https://arxiv.org/abs/2104.07091
+Meta-Learning for Fast Cross-Lingual Adaptation in Dependency Parsing	https://arxiv.org/abs/2104.04736
+FIBER: Fill-in-the-Blanks as a Challenging Video Understanding Evaluation Framework	https://arxiv.org/abs/2104.04182
+Divide and Rule: Effective Pre-Training for Context-Aware Multi-Encoder Translation Models	https://arxiv.org/abs/2103.17151
+GLM: General Language Model Pretraining with Autoregressive Blank Infilling	https://arxiv.org/abs/2103.10360
+N-Shot Learning for Augmenting Task-Oriented Dialogue State Tracking	https://arxiv.org/abs/2103.00293
+CRAFT: A Benchmark for Causal Reasoning About Forces and inTeractions	https://arxiv.org/abs/2012.04293
+Rethinking Document-level Neural Machine Translation	https://arxiv.org/abs/2010.08961
+A Few-Shot Semantic Parser for Wizard-of-Oz Dialogues with the Precise ThingTalk Representation	https://arxiv.org/abs/2009.07968
+Sparsifying Transformer Models with Trainable Representation Pooling	https://arxiv.org/abs/2009.05169
+Towards Improving Selective Prediction Ability of NLP Systems	https://arxiv.org/abs/2008.09371
+Language-agnostic BERT Sentence Embedding	https://arxiv.org/abs/2007.01852
+Access Control for Electronic Health Records with Hybrid Blockchain-Edge Architecture	https://arxiv.org/abs/1906.01188
+Benchmarking for Public Health Surveillance tasks on Social Media with a Domain-Specific Pretrained Language Model	https://arxiv.org/abs/2204.04521
+KUCST@LT-EDI-	https://arxiv.org/abs/2204.04481
+Read, Revise, Repeat: A System Demonstration for Human-in-the-loop Iterative Text Revision	https://arxiv.org/abs/2204.03685
+Improving Generalizability in Implicitly Abusive Language Detection with Concept Activation Vectors	https://arxiv.org/abs/2204.02261
+Diverse Text Generation via Variational Encoder-Decoder Models with Gaussian Process Priors	https://arxiv.org/abs/2204.01227
+bitsa_nlp@LT-EDI-	https://arxiv.org/abs/2203.14267
+Unified Structure Generation for Universal Information Extraction	https://arxiv.org/abs/2203.12277
+Pre-training to Match for Unified Low-shot Relation Extraction	https://arxiv.org/abs/2203.12274
+ECO v1: Towards Event-Centric Opinion Mining	https://arxiv.org/abs/2203.12264
+Can Prompt Probe Pretrained Language Models? Understanding the Invisible Risks from a Causal View	https://arxiv.org/abs/2203.12258
+Few-shot Named Entity Recognition with Self-describing Networks	https://arxiv.org/abs/2203.12252
+ODE Transformer: An Ordinary Differential Equation-Inspired Model for Sequence Generation	https://arxiv.org/abs/2203.09176
+On Vision Features in Multimodal Machine Translation	https://arxiv.org/abs/2203.09173
+Type-Driven Multi-Turn Corrections for Grammatical Error Correction	https://arxiv.org/abs/2203.09136
+UNIMO-2: End-to-End Unified Vision-Language Grounded Learning	https://arxiv.org/abs/2203.09067
+LEVEN: A Large-Scale Chinese Legal Event Detection Dataset	https://arxiv.org/abs/2203.08556
+Better Quality Estimation for Low Resource Corpus Mining	https://arxiv.org/abs/2203.08259
+Leveraging Unimodal Self-Supervised Learning for Multimodal Audio-Visual Speech Recognition	https://arxiv.org/abs/2203.07996
+Graph Pre-training for AMR Parsing and Generation	https://arxiv.org/abs/2203.07836
+Understanding Iterative Revision from Human-Written Text	https://arxiv.org/abs/2203.03802
+An Empirical Study on Explanations in Out-of-Domain Settings	https://arxiv.org/abs/2203.00056
+Rethinking and Refining the Distinct Metric	https://arxiv.org/abs/2202.13587
+Structural Characterization for Dialogue Disentanglement	https://arxiv.org/abs/2110.08018
+Hierarchical Curriculum Learning for AMR Parsing	https://arxiv.org/abs/2110.07855
+Multi-Task Pre-Training for Plug-and-Play Task-Oriented Dialogue System	https://arxiv.org/abs/2109.14739
+PPT: Pre-trained Prompt Tuning for Few-shot Learning	https://arxiv.org/abs/2109.04332
+Combining (second-order) graph-based and headed-span-based projective dependency parsing	https://arxiv.org/abs/2108.05838
+Headed-Span-Based Projective Dependency Parsing	https://arxiv.org/abs/2108.04750
+A Flexible Multi-Task Model for BERT Serving	https://arxiv.org/abs/2107.05377
+Memorisation versus Generalisation in Pre-trained Language Models	https://arxiv.org/abs/2105.00828
+A Token-level Reference-free Hallucination Detection Benchmark for Free-form Text Generation	https://arxiv.org/abs/2104.08704
+Zero-Shot Cross-lingual Semantic Parsing	https://arxiv.org/abs/2104.07554

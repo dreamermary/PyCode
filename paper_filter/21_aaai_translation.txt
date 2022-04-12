@@ -1,0 +1,27 @@
+Synchronous Interactive Decoding For Multilingual Neural Machine Translation	https://www.aaai.org/AAAI21Papers/AAAI-6514.HeH.pdf
+Uwspeech: Speech To Speech Translation For Unwritten Languages	https://arxiv.org/abs/2006.07926
+Directqe: Direct Pretraining For Machine Translation Quality Estimation	https://www.aaai.org/AAAI21Papers/AAAI-10344.CuiQu.pdf
+TIME: Text and Image Mutual-Translation Adversarial Networks	https://arxiv.org/abs/2005.13192
+Analogical Image Translation For Fog Generation	https://arxiv.org/abs/2006.15618
+Learning Light-Weight Translation Models From Deep Transformer	https://arxiv.org/abs/2012.13866
+Empirical Regularization For Synthetic Sentence Pairs In Unsupervised Neural Machine Translation	https://www.aaai.org/AAAI21Papers/AAAI-520.AiXi.pdf
+Revisiting Iterative Back-Translation From The Perspective Of Compositional Generalization	https://arxiv.org/abs/2012.04276
+Multilingual Transfer Learning For Qa Using Translation As Data Augmentation	https://arxiv.org/abs/2012.05958
+Guiding Non-Autoregressive Neural Machine Translation Decoding With Reordering Information	https://arxiv.org/abs/1911.02215
+Future-Guided Incremental Transformer For Simultaneous Translation	https://arxiv.org/abs/2012.12465
+Lexically Constrained Neural Machine Translation With Explicit Alignment Guidance	https://www.aaai.org/AAAI21Papers/AAAI-4110.ChenG.pdf
+Meta-Curriculum Learning For Domain Adaptation In Neural Machine Translation	https://www.aaai.org/AAAI21Papers/AAAI-4465.ZhanR.pdf
+Finding Sparse Structures For Domain Specific Neural Machine Translation	https://arxiv.org/abs/2012.10586
+Listen, Understand And Translate: Triple Supervision Decouples End-To-End Speech-To-Text Translation	https://www.aaai.org/AAAI21Papers/AAAI-10343.DongQ.pdf
+Incremental Embedding Learning Via Zero-Shot Translation	https://arxiv.org/abs/2012.15497
+Towards Fully Automated Manga Translation	https://arxiv.org/abs/2012.14271
+Bridging The Domain Gap: Improve Informal Language Translation Via Counterfactual Domain Adaptation	https://www.aaai.org/AAAI21Papers/AAAI-5135.WangK.pdf
+Efficient Object-Level Visual Context Modeling For Multimodal Machine Translation: Masking Irrelevant Objects Helps Grounding	https://arxiv.org/abs/2101.05208
+Self-Supervised Bilingual Syntactic Alignment For Neural Machine Translation	https://www.aaai.org/AAAI21Papers/AAAI-452.ZhangT.pdf
+Translate The Facial Regions You Like Using Self-Adaptive Region Translation	https://www.aaai.org/AAAI21Papers/AAAI-1663.LiuW.pdf
+Visual Boundary Knowledge Translation For Foreground Segmentation	https://www.aaai.org/AAAI21Papers/AAAI-10288.FengZ.pdf
+Consecutive Decoding For Speech-To-Text Translation	https://www.aaai.org/AAAI21Papers/AAAI-9845.DongQ.pdf
+Mangagan: Unpaired Photo-To-Manga Translation Based On The Methodology Of Manga Drawing	https://www.aaai.org/AAAI21Papers/AAAI-222.SuH.pdf
+Learning Cycle-Consistent Cooperative Networks Via Alternating Mcmc Teaching For Unsupervised Cross-Domain Translation	https://www.aaai.org/AAAI21Papers/AAAI-5618.XieJ.pdf
+Accelerating Neural Machine Translation With Partial Word Embedding Compression	https://www.aaai.org/AAAI21Papers/AAAI-7260.ZhangF.pdf
+Deep Event Stereo Leveraged By Event-To-Image Translation	https://www.aaai.org/AAAI21Papers/AAAI-5340.AhmedSH.pdf

@@ -1,0 +1,14 @@
+|End-to-End Speech Translation for Code Switched Speech|acl22||https://arxiv.org/abs/2204.05076|
+|Learning When to Translate for Streaming Speech|acl22||https://arxiv.org/abs/2109.07368|
+|Direct speech-to-speech translation with discrete units|acl22||https://arxiv.org/abs/2107.05604|
+|Under the Morphosyntactic Lens: A Multifaceted Evaluation of Gender Bias in Speech Translation|acl22||https://arxiv.org/abs/2203.09866|
+|Sample, Translate, Recombine: Leveraging Audio Alignments for Data Augmentation in End-to-end Speech Translation|acl22||https://arxiv.org/abs/2203.08757|
+|STEMM: Self-learning with Speech-text Manifold Mixup for Speech Translation|acl22||https://arxiv.org/abs/2203.10426|
+|Using Pre-Trained Language Models for Producing Counter Narratives Against Hate Speech: a Comparative Study|acl22||https://arxiv.org/abs/2204.01440|
+|Dynamically Refined Regularization for Improving Cross-corpora Hate Speech Detection|acl22||https://arxiv.org/abs/2203.12536|
+|Listening to Affected Communities to Define Extreme Speech: Dataset and Experiments|acl22||https://arxiv.org/abs/2203.11764|
+|SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities|acl22||https://arxiv.org/abs/2203.06849|
+|Language-Agnostic Meta-Learning for Low-Resource Text-to-Speech with Articulatory Features|acl22||https://arxiv.org/abs/2203.03191|
+|Revisiting Over-Smoothness in Text to Speech|acl22||https://arxiv.org/abs/2202.13066|
+|SpeechT5: Unified-Modal Encoder-Decoder Pre-Training for Spoken Language Processing|acl22||https://arxiv.org/abs/2110.07205|
+|Leveraging Unimodal Self-Supervised Learning for Multimodal Audio-Visual Speech Recognition|acl22||https://arxiv.org/abs/2203.07996|

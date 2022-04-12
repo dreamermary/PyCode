@@ -1,0 +1,14 @@
+Image-Assisted Transformer in Zero-Resource Multi-Modal Translation	https://ieeexplore.ieee.org/document/9413389
+Semantic-Aware Unpaired Image-to-Image Translation for Urban Scene Images	https://ieeexplore.ieee.org/document/9414192
+Semi-Supervised Multimodal Image Translation for Missing Modality Imputation	https://ieeexplore.ieee.org/document/9413461
+Sig2Sig: Signal Translation Networks to Take the Remains of the Past	https://ieeexplore.ieee.org/document/9415084
+Robust Latent Representations Via Cross-Modal Translation and Alignment	https://ieeexplore.ieee.org/document/9413456
+ORTHROS: non-autoregressive end-to-end speech translation With dual-decoder	https://ieeexplore.ieee.org/document/9415093
+Cascaded Models with Cyclic Feedback for Direct Speech Translation	https://ieeexplore.ieee.org/document/9413719
+Jointly Trained Transformers Models for Spoken Language Translation	https://ieeexplore.ieee.org/document/9414159
+Streaming Simultaneous Speech Translation with Augmented Memory Transformer	https://ieeexplore.ieee.org/document/9414897
+An Empirical Study of End-To-End Simultaneous Speech Translation Decoding Strategies	https://ieeexplore.ieee.org/document/9414276
+Sentence Boundary Augmentation for Neural Machine Translation Robustness	https://ieeexplore.ieee.org/document/9413492
+An Empirical Study on Task-Oriented Dialogue Translation	https://ieeexplore.ieee.org/document/9413521
+Machine Translation Verbosity Control for Automatic Dubbing	https://ieeexplore.ieee.org/document/9414411
+Modeling Homophone Noise for Robust Neural Machine Translation	https://ieeexplore.ieee.org/document/9413586

@@ -1,0 +1,7 @@
+Adversarial Meta Sampling For Multilingual Low-Resource Speech Recognition	https://arxiv.org/abs/2012.11896
+Interactive Speech And Noise Modeling For Speech Enhancement	https://arxiv.org/abs/2012.09408
+Uwspeech: Speech To Speech Translation For Unwritten Languages	https://arxiv.org/abs/2006.07926
+Listen, Understand And Translate: Triple Supervision Decouples End-To-End Speech-To-Text Translation	https://www.aaai.org/AAAI21Papers/AAAI-10343.DongQ.pdf
+Multi-Spectrogan: High-Diversity And High-Fidelity Spectrogram Generation With Adversarial Style Combination For Speech Synthesis	https://arxiv.org/abs/2012.07267
+Consecutive Decoding For Speech-To-Text Translation	https://www.aaai.org/AAAI21Papers/AAAI-9845.DongQ.pdf
+Talnet: Voice Reconstruction From Tongue And Lip Articulation With Transfer Learning From Text-To-Speech Synthesis	https://www.aaai.org/AAAI21Papers/AAAI-1536.ZhangJX.pdf

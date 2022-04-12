@@ -1,0 +1,64 @@
+Zero-Shot Information Extraction as a Unified Text-to-Triple Translation.	https://academic.microsoft.com/paper/3201244947/citedby/search?q=Zero-Shot+Information+Extraction+as+a+Unified+Text-to-Triple+Translation.&qe=RId%253D1985105481&f=&orderBy=0
+Neural Machine Translation Quality and Post-Editing Performance	https://arxiv.org/abs/2109.05016
+Document Graph for Neural Machine Translation.	https://arxiv.org/abs/2012.03477
+Generalised Unsupervised Domain Adaptation of Neural Machine Translation with Cross-Lingual Data Selection.	https://arxiv.org/abs/2109.04292
+Distributionally Robust Multilingual Machine Translation.	https://arxiv.org/abs/2109.04020
+Multilingual Unsupervised Neural Machine Translation with Denoising Adapters.	https://arxiv.org/abs/2110.10472
+Learning Kernel-Smoothed Machine Translation with Retrieved Examples.	https://arxiv.org/abs/2109.09991
+BERT, mBERT, or BiBERT? A Study on Contextualized Embeddings for Neural Machine Translation.	https://arxiv.org/abs/2109.04588
+AligNART - Non-autoregressive Neural Machine Translation by Jointly Learning to Estimate Alignment and Translate.	https://arxiv.org/abs/2109.06481
+Efficient Inference for Multilingual Neural Machine Translation.	https://arxiv.org/abs/2109.06679
+AfroMT - Pretraining Strategies and Reproducible Benchmarks for Translation of 8 African Languages.	https://arxiv.org/abs/2109.04715
+Comparing Feature-Engineering and Feature-Learning Approaches for Multilingual Translationese Classification.	https://arxiv.org/abs/2109.07604
+Self-Supervised Quality Estimation for Machine Translation.	https://dblp.org/rec/conf/emnlp/ZhengTZMLSLL21
+Uncertainty-Aware Balancing for Multilingual and Multi-Domain Neural Machine Translation Training.	https://arxiv.org/abs/2109.02284
+Improving Multilingual Translation by Representation and Gradient Regularization.	https://arxiv.org/abs/2109.04778
+mT6: Multilingual Pretrained Text-to-Text Transformer with Translation Pairs	https://arxiv.org/abs/2104.08692
+Language Modeling, Lexical Translation, Reordering - The Training Process of NMT through the Lens of Classical SMT.	https://arxiv.org/abs/2109.01396
+Rethinking Data Augmentation for Low-Resource Neural Machine Translation - A Multi-Task Learning Approach.	https://arxiv.org/abs/2109.03645
+Learning to Rewrite for Non-Autoregressive Neural Machine Translation.	https://dblp.org/rec/conf/emnlp/GengF021
+mT6 - Multilingual Pretrained Text-to-Text Transformer with Translation Pairs.	https://dblp.org/rec/conf/emnlp/ChiDMHSMHSW21
+Improving Neural Machine Translation by Bidirectional Training.	https://arxiv.org/abs/2109.07780
+A Large-Scale Study of Machine Translation in the Turkic Languages	https://arxiv.org/abs/2109.04593
+Towards Making the Most of Dialogue Characteristics for Neural Chat Translation.	https://arxiv.org/abs/2109.00668
+Zero-Shot Cross-Lingual Transfer of Neural Machine Translation with Multilingual Pretrained Encoders.	https://arxiv.org/abs/2104.08757
+Scheduled Sampling Based on Decoding Steps for Neural Machine Translation.	https://arxiv.org/abs/2108.12963
+Rule-based Morphological Inflection Improves Neural Terminology Translation.	https://arxiv.org/abs/2109.04620
+Universal Simultaneous Machine Translation with Mixture-of-Experts Wait-k Policy.	https://arxiv.org/abs/2109.05238
+HintedBT - Augmenting Back-Translation with Quality and Transliteration Hints.	https://arxiv.org/abs/2109.04443
+It Is Not As Good As You Think! Evaluating Simultaneous Machine Translation on Interpretation Data.	https://arxiv.org/abs/2110.05213
+A Generative Framework for Simultaneous Machine Translation.	https://dblp.org/rec/conf/emnlp/MiaoBS21
+Machine Translation Decoding beyond Beam Search.	https://dblp.org/rec/conf/emnlp/LeblondASPLASV21
+Is "moby dick" a Whale or a Bird? Named Entities and Terminology in Speech Translation.	https://arxiv.org/abs/2109.07439
+Robust Open-Vocabulary Translation from Visual Text Representations.	https://arxiv.org/abs/2104.08211
+Unsupervised Neural Machine Translation with Universal Grammar.	https://dblp.org/rec/conf/emnlp/LiUSZ21
+Recurrent Attention for Neural Machine Translation.	https://dblp.org/rec/conf/emnlp/ZengWYJ021
+Cross-Attention is All You Need - Adapting Pretrained Transformers for Machine Translation.	https://dblp.org/rec/conf/emnlp/Gheini0M21
+Neural Machine Translation with Heterogeneous Topic Knowledge Embeddings.	https://dblp.org/rec/conf/emnlp/WangPZL21
+A Large-Scale Study of Machine Translation in Turkic Languages.	https://dblp.org/rec/conf/emnlp/MirzakhalovBAKT21
+Chinese Opinion Role Labeling with Corpus Translation - A Pivot Study.	https://dblp.org/rec/conf/emnlp/ZhenWFLZ21
+Neural Machine Translation Quality and Post-Editing Performance.	https://dblp.org/rec/conf/emnlp/ZouharPBT21
+Translation-based Supervision for Policy Generation in Simultaneous Neural Machine Translation.	https://dblp.org/rec/conf/emnlp/AlinejadSS21
+Speechformer - Reducing Information Loss in Direct Speech Translation.	https://arxiv.org/abs/2109.04574
+Data and Parameter Scaling Laws for Neural Machine Translation.	https://dblp.org/rec/conf/emnlp/GordonDK21
+Controlling Machine Translation for Multiple Attributes with Additive Interventions.	https://dblp.org/rec/conf/emnlp/SchioppaVSF21
+Translating Headers of Tabular Data - A Pilot Study of Schema Translation.	https://dblp.org/rec/conf/emnlp/Zhu0GL21
+Mutual-Learning Improves End-to-End Speech Translation.	https://dblp.org/rec/conf/emnlp/ZhaoLCG21
+Preventing Author Profiling through Zero-Shot Multilingual Back-Translation.	https://arxiv.org/abs/2109.09133
+Vision Matters When It Should - Sanity Checking Multimodal Machine Translation Models.	https://arxiv.org/abs/2109.03415
+Enlivening Redundant Heads in Multi-head Self-attention for Machine Translation.	https://dblp.org/rec/conf/emnlp/ZhangHFC21
+PhoMT - A High-Quality and Large-Scale Benchmark Dataset for Vietnamese-English Machine Translation.	https://arxiv.org/abs/2110.12199
+An Empirical Investigation of Word Alignment Supervision for Zero-Shot Multilingual Neural Machine Translation.	https://dblp.org/rec/conf/emnlp/RaganatoVCT21
+Encouraging Lexical Translation Consistency for Document-Level Neural Machine Translation.	https://dblp.org/rec/conf/emnlp/LyuLGZ21
+Don't Go Far Off - An Empirical Study on Neural Poetry Translation.	https://arxiv.org/abs/2109.02972
+"Wikily" Supervised Neural Translation Tailored to Cross-Lingual Tasks.	https://dblp.org/rec/conf/emnlp/RasooliCW21
+Cross Attention Augmented Transducer Networks for Simultaneous Translation.	https://dblp.org/rec/conf/emnlp/LiuDLLC21
+Improving the Quality Trade-Off for Neural Machine Translation Multi-Domain Adaptation.	https://dblp.org/rec/conf/emnlp/HaslerDTTBH21
+Improving Simultaneous Translation by Incorporating Pseudo-References with Fewer Reorderings.	https://dblp.org/rec/conf/emnlp/ChenZKM021
+The Effect of Round-Trip Translation on Fairness in Sentiment Analysis.	https://dblp.org/rec/conf/emnlp/ChristiansenGS21
+Investigating the Helpfulness of Word-Level Quality Estimation for Post-Editing Machine Translation Output.	https://dblp.org/rec/conf/emnlp/Shenoy0KG21
+GFST - Gender-Filtered Self-Training for More Accurate Gender in Translation.	https://dblp.org/rec/conf/emnlp/ChoubeyCMD21
+Zero-Shot Information Extraction as a Unified Text-to-Triple Translation.	https://academic.microsoft.com/paper/3201244947/citedby/search?q=Zero-Shot+Information+Extraction+as+a+Unified+Text-to-Triple+Translation.&qe=RId%253D1985105481&f=&orderBy=0
+Neural Machine Translation Quality and Post-Editing Performance	https://arxiv.org/abs/2109.05016
+Document Graph for Neural Machine Translation.	https://arxiv.org/abs/2012.03477
+Generalised Unsupervised Domain Adaptation of Neural Machine Translation with Cross-Lingual Data Selection.	https://arxiv.org/abs/2109.04292

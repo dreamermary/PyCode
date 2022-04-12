@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/new/_2_split_back.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/new/autosub" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/autosub/_3_gene_subtitle.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/new/autosub/main.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/new/autosub/tmp_3_gene_subtitle-gcd.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/new/autosub/tmp_3_gene_subtitle-mjts2-1.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/new/autosub/tmp_3_gene_subtitle-mjts2.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/new/autosub/tmp_3_gene_subtitle-mjts3-1.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/new/autosub/tmp_3_gene_subtitle-mjts3.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/new/autosub/tmp_3_gene_subtitle-mjts4-1.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/new/autosub/tmp_3_gene_subtitle-mjts4.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/new/autosub/tmp_3_gene_subtitle-mjts5.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/new/utils.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/old/1.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/old/2.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/old/3.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paper_crawler/aaai.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paper_crawler/acl_all.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paper_crawler/acl_tittle.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paper_crawler/aminer.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paper_crawler/icassp.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paper_crawler/tmp.py" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

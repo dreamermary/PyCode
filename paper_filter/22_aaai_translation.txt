@@ -1,0 +1,6 @@
+|Zero-shot Commonsense Question Answering with Cloze Translation and Consistency Optimization|aaai22||https://arxiv.org/abs/2201.00136|
+|Frequency-Aware Contrastive Learning for Neural Machine Translation|aaai22||https://arxiv.org/abs/2112.14484|
+|DetarNet: Decoupling Translation and Rotation by Siamese Network for Point Cloud Registration|aaai22||https://arxiv.org/abs/2112.14059|
+|Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement|aaai22||https://arxiv.org/abs/2112.10991|
+|Deep Translation Prior: Test-time Training for Photorealistic Style Transfer|aaai22||https://arxiv.org/abs/2112.06150|
+|Non-Parametric Online Learning from Human Feedback for Neural Machine Translation|aaai22||https://arxiv.org/abs/2109.11136|

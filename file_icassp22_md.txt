@@ -1,0 +1,520 @@
+|Multistream neural architectures for cued-speech recognition using a pre-trained visual feature extractor and constrained CTC decoding|icassp22||https://arxiv.org/abs/2204.04965|
+|Exploring Transformer's potential on automatic piano transcription|icassp22||https://arxiv.org/abs/2204.03898|
+|Genre-conditioned Acoustic Models for Automatic Lyrics Transcription of Polyphonic Music|icassp22||https://arxiv.org/abs/2204.03307|
+|Customizable End-to-end Optimization of Online Neural Network-supported Dereverberation for Hearing Devices|icassp22||https://arxiv.org/abs/2204.02694|
+|Vision Transformer Equipped with Neural Resizer on Facial Expression Recognition Task|icassp22||https://arxiv.org/abs/2204.02181|
+|Joint Learning of Feature Extraction and Cost Aggregation for Semantic Correspondence|icassp22||https://arxiv.org/abs/2204.02164|
+|Audio-visual multi-channel speech separation, dereverberation and recognition|icassp22||https://arxiv.org/abs/2204.01977|
+|Residual-guided Personalized Speech Synthesis based on Face Image|icassp22||https://arxiv.org/abs/2204.01672|
+|Optimizing the Consumption of Spiking Neural Networks with Activity Regularization|icassp22||https://arxiv.org/abs/2204.01460|
+|Acoustic-to-articulatory Inversion based on Speech Decomposition and Auxiliary Feature|icassp22||https://arxiv.org/abs/2204.00873|
+|Multi-task RNN-T with Semantic Decoder for Streamable Spoken Language Understanding|icassp22||https://arxiv.org/abs/2204.00558|
+|Few-shot One-class Domain Adaptation Based on Frequency for Iris Presentation Attack Detection|icassp22||https://arxiv.org/abs/2204.00376|
+|An End-to-end Chinese Text Normalization Model based on Rule-guided Flat-Lattice Transformer|icassp22||https://arxiv.org/abs/2203.16954|
+|Neural Architecture Search for Speech Emotion Recognition|icassp22||https://arxiv.org/abs/2203.16928|
+|A Character-level Span-based Model for Mandarin Prosodic Structure Prediction|icassp22||https://arxiv.org/abs/2203.16922|
+|NeuFA: Neural Network Based End-to-End Forced Alignment with Bidirectional Attention Mechanism|icassp22||https://arxiv.org/abs/2203.16838|
+|Weakly Supervised Patch Label Inference Networks for Efficient Pavement Distress Detection and Recognition in the Wild|icassp22||https://arxiv.org/abs/2203.16782|
+|Learning Decoupling Features Through Orthogonality Regularization|icassp22||https://arxiv.org/abs/2203.16772|
+|Robust Disentangled Variational Speech Representation Learning for Zero-shot Voice Conversion|icassp22||https://arxiv.org/abs/2203.16705|
+|SAR-ShipNet: SAR-Ship Detection Neural Network via Bidirectional Coordinate Attention and Multi-resolution Feature Fusion|icassp22||https://arxiv.org/abs/2203.15480|
+|Speech Emotion Recognition with Co-Attention based Multi-level Acoustic Information|icassp22||https://arxiv.org/abs/2203.15326|
+|Improving Source Separation by Explicitly Modeling Dependencies Between Sources|icassp22||https://arxiv.org/abs/2203.15140|
+|Improved singing voice separation with chromagram-based pitch-aware remixing|icassp22||https://arxiv.org/abs/2203.15092|
+|FLDP: Flexible strategy for local differential privacy|icassp22||https://arxiv.org/abs/2203.14875|
+|Towards Transferable Speech Emotion Representation: On loss functions for cross-lingual latent representations|icassp22||https://arxiv.org/abs/2203.14865|
+|Distributed Link Sparsification for Scalable Scheduling Using Graph Neural Networks|icassp22||https://arxiv.org/abs/2203.14339|
+|Spatial Processing Front-End For Distant ASR Exploiting Self-Attention Channel Combinator|icassp22||https://arxiv.org/abs/2203.13919|
+|Pseudo-Label Transfer from Frame-Level to Note-Level in a Teacher-Student Framework for Singing Transcription from Polyphonic Music|icassp22||https://arxiv.org/abs/2203.13422|
+|Supervised Training of Siamese Spiking Neural Networks with Earth's Mover Distance|icassp22||https://arxiv.org/abs/2203.13207|
+|Wide band sub-band speech coding using nonlinear prediction|icassp22||https://arxiv.org/abs/2203.12896|
+|Disentangleing Content and Fine-grained Prosody Information via Hybrid ASR Bottleneck Features for Voice Conversion|icassp22||https://arxiv.org/abs/2203.12813|
+|Towards Expressive Speaking Style Modelling with Hierarchical Context Information for Mandarin Speech Synthesis|icassp22||https://arxiv.org/abs/2203.12201|
+|FullSubNet+: Channel Attention FullSubNet with Complex Spectrograms for Speech Enhancement|icassp22||https://arxiv.org/abs/2203.12188|
+|On Adversarial Robustness of Large-scale Audio Visual Learning|icassp22||https://arxiv.org/abs/2203.12122|
+|Building Robust Spoken Language Understanding by Cross Attention between Phoneme Sequence and ASR Hypothesis|icassp22||https://arxiv.org/abs/2203.12067|
+|Nonlinear prediction with neural nets in ADPCM|icassp22||https://arxiv.org/abs/2203.11612|
+|Exploiting Cross Domain Acoustic-to-articulatory Inverted Features For Disordered Speech Recognition|icassp22||https://arxiv.org/abs/2203.10274|
+|A Track-Wise Ensemble Event Independent Network for Polyphonic Sound Event Localization and Detection|icassp22||https://arxiv.org/abs/2203.10228|
+|Investigating self-supervised learning for speech enhancement and separation|icassp22||https://arxiv.org/abs/2203.07960|
+|FB-MSTCN: A Full-Band Single-Channel Speech Enhancement Method Based on Multi-Scale Temporal Convolutional Network|icassp22||https://arxiv.org/abs/2203.07684|
+|Efficient universal shuffle attack for visual object tracking|icassp22||https://arxiv.org/abs/2203.06898|
+|Deformable VisTR: Spatio temporal deformable attention for video instance segmentation|icassp22||https://arxiv.org/abs/2203.06318|
+|An error correction scheme for improved air-tissue boundary in real-time MRI video for speech production|icassp22||https://arxiv.org/abs/2203.06004|
+|Block-Sparse Adversarial Attack to Fool Transformer-Based Text Classifiers|icassp22||https://arxiv.org/abs/2203.05948|
+|Saliency-Driven Versatile Video Coding for Neural Object Detection|icassp22||https://arxiv.org/abs/2203.05944|
+|Integrating Dependency Tree Into Self-attention for Sentence Representation|icassp22||https://arxiv.org/abs/2203.05918|
+|Transformer-based Streaming ASR with Cumulative Attention|icassp22||https://arxiv.org/abs/2203.05736|
+|Blind Extraction of Equitable Partitions from Graph Signals|icassp22||https://arxiv.org/abs/2203.05407|
+|Language Adaptive Cross-lingual Speech Representation Learning with Sparse Sharing Sub-networks|icassp22||https://arxiv.org/abs/2203.04583|
+|Harmonicity Plays a Critical Role in DNN Based Versus in Biologically-Inspired Monaural Speech Segregation Systems|icassp22||https://arxiv.org/abs/2203.04420|
+|Locate This, Not That: Class-Conditioned Sound Event DOA Estimation|icassp22||https://arxiv.org/abs/2203.04197|
+|Improving CTC-based speech recognition via knowledge transferring from pre-trained language models|icassp22||https://arxiv.org/abs/2203.03582|
+|When BERT Meets Quantum Temporal Convolution Learning for Text Classification in Heterogeneous Computing|icassp22||https://arxiv.org/abs/2203.03550|
+|ARM 4-BIT PQ: SIMD-based Acceleration for Approximate Nearest Neighbor Search on ARM|icassp22||https://arxiv.org/abs/2203.02505|
+|No More Than 6ft Apart: Robust K-Means via Radius Upper Bounds|icassp22||https://arxiv.org/abs/2203.02502|
+|iSTFTNet: Fast and Lightweight Mel-Spectrogram Vocoder Incorporating Inverse Short-Time Fourier Transform|icassp22||https://arxiv.org/abs/2203.02395|
+|MM-DFN: Multimodal Dynamic Fusion Network for Emotion Recognition in Conversations|icassp22||https://arxiv.org/abs/2203.02385|
+|Adaptive Discounting of Implicit Language Models in RNN-Transducers|icassp22||https://arxiv.org/abs/2203.02317|
+|Integrating Statistical Uncertainty into Neural Network-Based Speech Enhancement|icassp22||https://arxiv.org/abs/2203.02288|
+|MANNER: Multi-view Attention Network for Noise Erasure|icassp22||https://arxiv.org/abs/2203.02181|
+|Audio-Visual Object Classification for Human-Robot Collaboration|icassp22||https://arxiv.org/abs/2203.01977|
+|Low complexity equalization for AFDM in doubly dispersive channels|icassp22||https://arxiv.org/abs/2203.01875|
+|The Vicomtech Audio Deepfake Detection System based on Wav2Vec2 for the|icassp22||https://arxiv.org/abs/2203.01573|
+|Deep Temporal Interpolation of Radar-based Precipitation|icassp22||https://arxiv.org/abs/2203.01277|
+|Container Localisation and Mass Estimation with an RGB-D Camera|icassp22||https://arxiv.org/abs/2203.01207|
+|Sketched RT3D: How to reconstruct billions of photons per second|icassp22||https://arxiv.org/abs/2203.00952|
+|Towards a Common Speech Analysis Engine|icassp22||https://arxiv.org/abs/2203.00613|
+|A Novel Viewport-Adaptive Motion Compensation Technique for Fisheye Video|icassp22||https://arxiv.org/abs/2202.13892|
+|Restless Multi-Armed Bandits under Exogenous Global Markov Process|icassp22||https://arxiv.org/abs/2202.13665|
+||icassp22||https://arxiv.org/abs/2202.13290|
+||icassp22||https://arxiv.org/abs/2202.13288|
+|Multi-Level Contrastive Learning for Cross-Lingual Alignment|icassp22||https://arxiv.org/abs/2202.13083|
+|High-Dimensional Sparse Bayesian Learning without Covariance Matrices|icassp22||https://arxiv.org/abs/2202.12808|
+|Harmonic gated compensation network plus for|icassp22||https://arxiv.org/abs/2202.12643|
+|Goal-Oriented Communication for Edge Learning based on the Information Bottleneck|icassp22||https://arxiv.org/abs/2202.12639|
+|openFEAT: Improving Speaker Identification by Open-set Few-shot Embedding Adaptation with Transformer|icassp22||https://arxiv.org/abs/2202.12349|
+|Towards Low-distortion Multi-channel Speech Enhancement: The ESPNet-SE Submission to The L3DAS22 Challenge|icassp22||https://arxiv.org/abs/2202.12298|
+|ISDA: Position-Aware Instance Segmentation with Deformable Attention|icassp22||https://arxiv.org/abs/2202.12251|
+|Self-Attention for Incomplete Utterance Rewriting|icassp22||https://arxiv.org/abs/2202.12160|
+|Phase Continuity: Learning Derivatives of Phase Spectrum for Speech Enhancement|icassp22||https://arxiv.org/abs/2202.11918|
+|Blind Reverberation Time Estimation in Dynamic Acoustic Conditions|icassp22||https://arxiv.org/abs/2202.11790|
+|Towards Speaker Age Estimation with Label Distribution Learning|icassp22||https://arxiv.org/abs/2202.11424|
+|Improving fairness in speaker verification via Group-adapted Fusion Network|icassp22||https://arxiv.org/abs/2202.11323|
+|Knowledge Augmented BERT Mutual Network in Multi-turn Spoken Dialogues|icassp22||https://arxiv.org/abs/2202.11299|
+|NetRCA: An Effective Network Fault Cause Localization Algorithm|icassp22||https://arxiv.org/abs/2202.11269|
+|r-G2P: Evaluating and Enhancing Robustness of Grapheme to Phoneme Conversion by Controlled noise introducing and Contextual information incorporation|icassp22||https://arxiv.org/abs/2202.11194|
+|Neural Speech Synthesis on a Shoestring: Improving the Efficiency of LPCNet|icassp22||https://arxiv.org/abs/2202.11169|
+|DRVC: A Framework of Any-to-Any Voice Conversion with Self-Supervised Learning|icassp22||https://arxiv.org/abs/2202.10976|
+|Wavebender GAN: An architecture for phonetically meaningful speech manipulation|icassp22||https://arxiv.org/abs/2202.10973|
+|VU-BERT: A Unified framework for Visual Dialog|icassp22||https://arxiv.org/abs/2202.10787|
+|Cut and Continuous Paste towards Real-time Deep Fall Detection|icassp22||https://arxiv.org/abs/2202.10687|
+|Deep Iterative Phase Retrieval for Ptychography|icassp22||https://arxiv.org/abs/2202.10573|
+|L3DAS22 Challenge: Learning 3D Audio Sources in a Real Office Environment|icassp22||https://arxiv.org/abs/2202.10372|
+|Learning Multiple Explainable and Generalizable Cues for Face Anti-spoofing|icassp22||https://arxiv.org/abs/2202.10187|
+|The PCG-AIID System for L3DAS22 Challenge: MIMO and MISO convolutional recurrent Network for Multi Channel Speech Enhancement and Speech Recognition|icassp22||https://arxiv.org/abs/2202.10017|
+|L-SpEx: Localized Target Speaker Extraction|icassp22||https://arxiv.org/abs/2202.09995|
+|Multiscale Crowd Counting and Localization By Multitask Point Supervision|icassp22||https://arxiv.org/abs/2202.09942|
+|towards automatic transcription of polyphonic electric guitar music:a new dataset and a multi-loss transformer model|icassp22||https://arxiv.org/abs/2202.09907|
+|Enhancing Affective Representations of Music-Induced EEG through Multimodal Supervision and latent Domain Adaptation|icassp22||https://arxiv.org/abs/2202.09750|
+|Model-Based Reconstruction for Collimated Beam Ultrasound Systems|icassp22||https://arxiv.org/abs/2202.09703|
+|LPC Augment: An LPC-Based ASR Data Augmentation Algorithm for Low and Zero-Resource Children's Dialects|icassp22||https://arxiv.org/abs/2202.09529|
+|Is Cross-Attention Preferable to Self-Attention for Multi-Modal Emotion Recognition?|icassp22||https://arxiv.org/abs/2202.09263|
+|Multi-view and Multi-modal Event Detection Utilizing Transformer-based Multi-sensor fusion|icassp22||https://arxiv.org/abs/2202.09124|
+|Echo-aware Adaptation of Sound Event Localization and Detection in Unknown Environments|icassp22||https://arxiv.org/abs/2202.09121|
+|Speaker Identity Preservation in Dysarthric Speech Reconstruction by Adversarial Speaker Adaptation|icassp22||https://arxiv.org/abs/2202.09082|
+|VCVTS: Multi-speaker Video-to-Speech synthesis via cross-modal knowledge transfer from voice conversion|icassp22||https://arxiv.org/abs/2202.09081|
+|CLSEG: Contrastive Learning of Story Ending Generation|icassp22||https://arxiv.org/abs/2202.09049|
+|Social Welfare Maximization in Cross-Silo Federated Learning|icassp22||https://arxiv.org/abs/2202.09044|
+|Quantisation-aware Precoding for MU-MIMO with Limited-capacity Fronthaul|icassp22||https://arxiv.org/abs/2202.08925|
+|Attributable-Watermarking of Speech Generative Models|icassp22||https://arxiv.org/abs/2202.08900|
+|Multi-Channel Speech Denoising for Machine Ears|icassp22||https://arxiv.org/abs/2202.08793|
+|A Two-Stage U-Net for High-Fidelity Denoising of Historical Recordings|icassp22||https://arxiv.org/abs/2202.08702|
+|Semantically Proportional Patchmix for Few-Shot Learning|icassp22||https://arxiv.org/abs/2202.08647|
+|Mitigating Closed-model Adversarial Examples with Bayesian Neural Modeling for Enhanced End-to-End Speech Recognition|icassp22||https://arxiv.org/abs/2202.08532|
+|End-to-end Music Remastering System Using Self-supervised and Adversarial Training|icassp22||https://arxiv.org/abs/2202.08520|
+|A Study of Designing Compact Audio-Visual Wake Word Spotting System Based on Iterative Fine-Tuning in Neural Network Pruning|icassp22||https://arxiv.org/abs/2202.08509|
+|Wearable SELD dataset: Dataset for sound event localization and detection using wearable devices around head|icassp22||https://arxiv.org/abs/2202.08458|
+|ADD|icassp22||https://arxiv.org/abs/2202.08433|
+|Low-Rank Phase Retrieval with Structured Tensor Models|icassp22||https://arxiv.org/abs/2202.08260|
+|Voice Filter: Few-shot text-to-speech speaker adaptation using voice conversion as a post-processing module|icassp22||https://arxiv.org/abs/2202.08164|
+|APPLADE: Adjustable Plug-and-play Audio Declipper Combining DNN with Sparse Optimization|icassp22||https://arxiv.org/abs/2202.08028|
+|On loss functions and evaluation metrics for music source separation|icassp22||https://arxiv.org/abs/2202.07968|
+|Robust Nonparametric Distribution Forecast with Backtest-based Bootstrap and Adaptive Residual Selection|icassp22||https://arxiv.org/abs/2202.07955|
+|Knowledge Transfer from Large-scale Pretrained Language Models to End-to-end Speech Recognizers|icassp22||https://arxiv.org/abs/2202.07894|
+|Deep-Learning-Assisted Configuration of Reconfigurable Intelligent Surfaces in Dynamic rich-scattering Environments|icassp22||https://arxiv.org/abs/2202.07884|
+|SRP-DNN: Learning Direct-Path Phase Difference for Multiple Moving Sound Source Localization|icassp22||https://arxiv.org/abs/2202.07859|
+|Conversational Speech Recognition By Learning Conversation-level Characteristics|icassp22||https://arxiv.org/abs/2202.07855|
+|ProsoSpeech: Enhancing Prosody With Quantized Vector Pre-training in Text-to-Speech|icassp22||https://arxiv.org/abs/2202.07816|
+|Speech Denoising in the Waveform Domain with Self-Attention|icassp22||https://arxiv.org/abs/2202.07790|
+|Nonverbal Sound Detection for Disordered Speech|icassp22||https://arxiv.org/abs/2202.07750|
+|A Low-Parametric Model for Bit-Rate Estimation of VVC Residual Coding|icassp22||https://arxiv.org/abs/2202.07369|
+|Multi-Task Deep Residual Echo Suppression with Echo-aware Loss|icassp22||https://arxiv.org/abs/2202.06850|
+|Partially Fake Audio Detection by Self-attention-based Fake Span Discovery|icassp22||https://arxiv.org/abs/2202.06684|
+|Tight integration of neural- and clustering-based diarization through deep unfolding of infinite Gaussian mixture model|icassp22||https://arxiv.org/abs/2202.06524|
+|Modeling Intention, Emotion and External World in Dialogue Systems|icassp22||https://arxiv.org/abs/2202.06476|
+|Distribution augmentation for low-resource expressive text-to-speech|icassp22||https://arxiv.org/abs/2202.06409|
+|Incremental user embedding modeling for personalized text classification|icassp22||https://arxiv.org/abs/2202.06369|
+|DEEPCHORUS: A Hybrid Model of Multi-scale Convolution and Self-attention for Chorus Detection|icassp22||https://arxiv.org/abs/2202.06338|
+|Multimodal Depression Classification Using Articulatory Coordination Features And Hierarchical Attention Based Text Embeddings|icassp22||https://arxiv.org/abs/2202.06238|
+|On Federated Learning with Energy Harvesting Clients|icassp22||https://arxiv.org/abs/2202.06105|
+|USTED: Improving ASR with a Unified Speech and Text Encoder-Decoder|icassp22||https://arxiv.org/abs/2202.06045|
+|Deep Performer: Score-to-Audio Music Performance Synthesis|icassp22||https://arxiv.org/abs/2202.06034|
+|Improving Contextual Coherence in Variational Personalized and Empathetic Dialogue Agents|icassp22||https://arxiv.org/abs/2202.05971|
+|FrAUG: A Frame Rate Based Data Augmentation Method for Depression Detection from Speech Signals|icassp22||https://arxiv.org/abs/2202.05912|
+|On the Acquisition of Stationary Signals Using Uniform ADCs|icassp22||https://arxiv.org/abs/2202.05143|
+|Cross-speaker style transfer for text-to-speech using data augmentation|icassp22||https://arxiv.org/abs/2202.05083|
+|The USTC-Ximalaya system for the|icassp22||https://arxiv.org/abs/2202.04855|
+|Royalflush Speaker Diarization System for|icassp22||https://arxiv.org/abs/2202.04814|
+|Spatial active noise control based on individual kernel interpolation of primary and secondary sound fields|icassp22||https://arxiv.org/abs/2202.04807|
+|The Volcspeech system for the|icassp22||https://arxiv.org/abs/2202.04261|
+|Self-supervised Contrastive Learning for Cross-domain Hyperspectral Image Representation|icassp22||https://arxiv.org/abs/2202.03968|
+|Speech Emotion Recognition using Self-Supervised Features|icassp22||https://arxiv.org/abs/2202.03896|
+|InferGrad: Improving Diffusion Models for Vocoder by Considering Inference in Training|icassp22||https://arxiv.org/abs/2202.03751|
+|A two-step approach to leverage contextual data: speech recognition in air-traffic communications|icassp22||https://arxiv.org/abs/2202.03725|
+|Summary On The|icassp22||https://arxiv.org/abs/2202.03647|
+|Efficient Adapter Transfer of Self-Supervised Speech Models for Automatic Speech Recognition|icassp22||https://arxiv.org/abs/2202.03218|
+|T-NGA: Temporal Network Grafting Algorithm for Learning to Process Spiking Audio Sensor Events|icassp22||https://arxiv.org/abs/2202.03204|
+|Learning Sound Localization Better From Semantically Similar Samples|icassp22||https://arxiv.org/abs/2202.03007|
+|Deep Deterministic Independent Component Analysis for Hyperspectral Unmixing|icassp22||https://arxiv.org/abs/2202.02951|
+|Multi-domain Unsupervised Image-to-Image Translation with Appearance Adaptive Convolution|icassp22||https://arxiv.org/abs/2202.02779|
+|SEED: Sound Event Early Detection via Evidential Uncertainty|icassp22||https://arxiv.org/abs/2202.02441|
+|Iterative Self Knowledge Distillation -- From Pothole Classification to Fine-Grained and COVID Recognition|icassp22||https://arxiv.org/abs/2202.02265|
+|The CUHK-TENCENT speaker diarization system for the|icassp22||https://arxiv.org/abs/2202.01986|
+|Improving Lyrics Alignment through Joint Pitch Detection|icassp22||https://arxiv.org/abs/2202.01646|
+|MFA: TDNN with Multi-scale Frequency-channel Attention for Text-independent Speaker Verification with Short Utterances|icassp22||https://arxiv.org/abs/2202.01624|
+|Joint Speech Recognition and Audio Captioning|icassp22||https://arxiv.org/abs/2202.01405|
+|ASR-Aware End-to-end Neural Diarization|icassp22||https://arxiv.org/abs/2202.01286|
+|RescoreBERT: Discriminative Speech Recognition Rescoring with BERT|icassp22||https://arxiv.org/abs/2202.01094|
+|The CORAL++ Algorithm for Unsupervised Domain Adaptation of Speaker Recogntion|icassp22||https://arxiv.org/abs/2202.01092|
+|Gradient Variance Loss for Structure-Enhanced Image Super-Resolution|icassp22||https://arxiv.org/abs/2202.00997|
+|TONet: Tone-Octave Network for Singing Melody Extraction from Polyphonic Music|icassp22||https://arxiv.org/abs/2202.00951|
+|HTS-AT: A Hierarchical Token-Semantic Audio Transformer for Sound Classification and Detection|icassp22||https://arxiv.org/abs/2202.00874|
+|Federated Learning Challenges and Opportunities: An Outlook|icassp22||https://arxiv.org/abs/2202.00807|
+|LocUNet: Fast Urban Positioning Using Radio Maps and Deep Learning|icassp22||https://arxiv.org/abs/2202.00738|
+|Closing the sim-to-real gap in guided wave damage detection with adversarial training of variational auto-encoders|icassp22||https://arxiv.org/abs/2202.00570|
+|Maximum Batch Frobenius Norm for Multi-Domain Text Classification|icassp22||https://arxiv.org/abs/2202.00537|
+|Unified Multimodal Punctuation Restoration Framework for Mixed-Modality Corpus|icassp22||https://arxiv.org/abs/2202.00468|
+|Memory-based Message Passing: Decoupling the Message for Propogation from Discrimination|icassp22||https://arxiv.org/abs/2202.00423|
+|Differentiable Digital Signal Processing Mixture Model for Synthesis Parameter Extraction from Mixture of Harmonic Sounds|icassp22||https://arxiv.org/abs/2202.00200|
+|Threshold Independent Evaluation of Sound Event Detection Scores|icassp22||https://arxiv.org/abs/2201.13148|
+|PostGAN: A GAN-Based Post-Processor to Enhance the Quality of Coded Speech|icassp22||https://arxiv.org/abs/2201.13093|
+|Improving End-to-End Contextual Speech Recognition with Fine-Grained Contextual Knowledge Selection|icassp22||https://arxiv.org/abs/2201.12806|
+|Win the Lottery Ticket via Fourier Analysis: Frequencies Guided Network Pruning|icassp22||https://arxiv.org/abs/2201.12712|
+|Convolutional Filtering in Simplicial Complexes|icassp22||https://arxiv.org/abs/2201.12584|
+|The HCCL-DKU system for fake audio generation task of the|icassp22||https://arxiv.org/abs/2201.12567|
+|Polyphonic audio event detection: multi-label or multi-class multi-task classification problem?|icassp22||https://arxiv.org/abs/2201.12557|
+|Progressive Continual Learning for Spoken Keyword Spotting|icassp22||https://arxiv.org/abs/2201.12546|
+|ItôWave: Itô Stochastic Differential Equation Is All You Need For Wave Generation|icassp22||https://arxiv.org/abs/2201.12519|
+|Improving End-to-End Models for Set Prediction in Spoken Language Understanding|icassp22||https://arxiv.org/abs/2201.12105|
+|Neural-FST Class Language Model for End-to-End Speech Recognition|icassp22||https://arxiv.org/abs/2201.11867|
+|Sentiment-Aware Automatic Speech Recognition pre-training for enhanced Speech Emotion Recognition|icassp22||https://arxiv.org/abs/2201.11826|
+|Synthesizing Dysarthric Speech Using Multi-talker TTS for Dysarthric Speech Recognition|icassp22||https://arxiv.org/abs/2201.11571|
+|The MSXF TTS System for|icassp22||https://arxiv.org/abs/2201.11400|
+|Tackling data scarcity in speech translation using zero-shot multilingual machine translation techniques|icassp22||https://arxiv.org/abs/2201.11172|
+|Learnable Wavelet Packet Transform for Data-Adapted Spectrograms|icassp22||https://arxiv.org/abs/2201.11069|
+|Pair-Level Supervised Contrastive Learning for Natural Language Inference|icassp22||https://arxiv.org/abs/2201.10927|
+|SkiM: Skipping Memory LSTM for Low-Latency Real-Time Continuous Speech Separation|icassp22||https://arxiv.org/abs/2201.10800|
+|Exploiting Hybrid Models of Tensor-Train Networks for Spoken Command Recognition|icassp22||https://arxiv.org/abs/2201.10609|
+|Distributed Image Transmission using Deep Joint Source-Channel Coding|icassp22||https://arxiv.org/abs/2201.10340|
+|Improving the fusion of acoustic and text representations in RNN-T|icassp22||https://arxiv.org/abs/2201.10240|
+|Improving Adversarial Waveform Generation based Singing Voice Conversion with Harmonic Signals|icassp22||https://arxiv.org/abs/2201.10130|
+|Endpoint Detection for Streaming End-to-End Multi-talker ASR|icassp22||https://arxiv.org/abs/2201.09979|
+|A Bayesian Permutation training deep representation learning method for speech enhancement with variational autoencoder|icassp22||https://arxiv.org/abs/2201.09875|
+|Hyperspectral Image Super-resolution with Deep Priors and Degradation Model Inversion|icassp22||https://arxiv.org/abs/2201.09851|
+|MMLatch: Bottom-up Top-down Fusion for Multimodal Sentiment Analysis|icassp22||https://arxiv.org/abs/2201.09828|
+|Improving Factored Hybrid HMM Acoustic Modeling without State Tying|icassp22||https://arxiv.org/abs/2201.09692|
+|PickNet: Real-Time Channel Selection for Ad Hoc Microphone Arrays|icassp22||https://arxiv.org/abs/2201.09586|
+|Accelerated Intravascular Ultrasound Imaging using Deep Reinforcement Learning|icassp22||https://arxiv.org/abs/2201.09522|
+|End-to-End Neural Speech Coding for Real-Time Communications|icassp22||https://arxiv.org/abs/2201.09429|
+|LiteHAR: Lightweight Human Activity Recognition from WiFi Signals with Random Convolution Kernels|icassp22||https://arxiv.org/abs/2201.09310|
+|A Pre-trained Audio-Visual Transformer for Emotion Recognition|icassp22||https://arxiv.org/abs/2201.09165|
+|Investigating the Potential of Auxiliary-Classifier GANs for Image Classification in Low Data Regimes|icassp22||https://arxiv.org/abs/2201.09120|
+|Exploring auditory acoustic features for the diagnosis of the Covid-19|icassp22||https://arxiv.org/abs/2201.09110|
+|BBA-net: A bi-branch attention network for crowd counting|icassp22||https://arxiv.org/abs/2201.08983|
+|Visual Representation Learning with Self-Supervised Attention for Low-Label High-data Regime|icassp22||https://arxiv.org/abs/2201.08951|
+|Supervised and Self-supervised Pretraining Based COVID-19 Detection Using Acoustic Breathing/Cough/Speech Signals|icassp22||https://arxiv.org/abs/2201.08934|
+|A Noise-Robust Self-supervised Pre-training Model Based Speech Representation Learning for Automatic Speech Recognition|icassp22||https://arxiv.org/abs/2201.08930|
+|Image-to-Video Re-Identification via Mutual Discriminative Knowledge Transfer|icassp22||https://arxiv.org/abs/2201.08887|
+|Simpler is better: spectral regularization and up-sampling techniques for variational autoencoders|icassp22||https://arxiv.org/abs/2201.07544|
+|A Short Tutorial on The Weisfeiler-Lehman Test And Its Variants|icassp22||https://arxiv.org/abs/2201.07083|
+|ConvMixer: Feature Interactive Convolution with Curriculum Learning for Small Footprint and Noisy Far-field Keyword Spotting|icassp22||https://arxiv.org/abs/2201.05863|
+|A Likelihood Ratio based Domain Adaptation Method for E2E Models|icassp22||https://arxiv.org/abs/2201.03655|
+|Robust classification with flexible discriminant analysis in heterogeneous data|icassp22||https://arxiv.org/abs/2201.02967|
+|IQDUBBING: Prosody modeling based on discrete self-supervised speech representation for expressive voice conversion|icassp22||https://arxiv.org/abs/2201.00269|
+|Confidence-Aware Multi-Teacher Knowledge Distillation|icassp22||https://arxiv.org/abs/2201.00007|
+|DPCCN: Densely-Connected Pyramid Complex Convolutional Network for Robust Speech Separation And Extraction|icassp22||https://arxiv.org/abs/2112.13520|
+|Graph attentive feature aggregation for text-independent speaker verification|icassp22||https://arxiv.org/abs/2112.12343|
+|Compressive Scanning Transmission Electron Microscopy|icassp22||https://arxiv.org/abs/2112.11955|
+|Self-Supervised Learning based Monaural Speech Enhancement with Multi-Task Pre-Training|icassp22||https://arxiv.org/abs/2112.11459|
+|Multi-turn RNN-T for streaming recognition of multi-party speech|icassp22||https://arxiv.org/abs/2112.10200|
+|Self-Supervised Learning for speech recognition with Intermediate layer supervision|icassp22||https://arxiv.org/abs/2112.08778|
+|Isometric MT: Neural Machine Translation for Automatic Dubbing|icassp22||https://arxiv.org/abs/2112.08682|
+|Prosody-Aware Neural Machine Translation for Dubbing|icassp22||https://arxiv.org/abs/2112.08548|
+|RawNeXt: Speaker verification system for variable-duration utterances with deep layer aggregation and extended dynamic scaling policies|icassp22||https://arxiv.org/abs/2112.07935|
+|ImportantAug: a data augmentation agent for speech|icassp22||https://arxiv.org/abs/2112.07156|
+|Learning-based personal speech enhancement for teleconferencing by exploiting spatial-spectral features|icassp22||https://arxiv.org/abs/2112.05686|
+|End-to-end Alexa Device Arbitration|icassp22||https://arxiv.org/abs/2112.04914|
+|Self-Supervised Speaker Verification with Simple Siamese Network and Self-Supervised Regularization|icassp22||https://arxiv.org/abs/2112.04459|
+|Learning music audio representations via weak language supervision|icassp22||https://arxiv.org/abs/2112.04214|
+|VocBench: A Neural Vocoder Benchmark for Speech Synthesis|icassp22||https://arxiv.org/abs/2112.03099|
+|Blind Super-resolution of Point Sources via Projected Gradient Descent|icassp22||https://arxiv.org/abs/2112.01077|
+|GPU-Accelerated Forward-Backward algorithm with Application to Lattice-Free MMI|icassp22||https://arxiv.org/abs/2112.00709|
+|Representation learning through cross-modal conditional teacher-student training for speech emotion recognition|icassp22||https://arxiv.org/abs/2112.00158|
+|Do We Still Need Automatic Speech Recognition for Spoken Language Understanding?|icassp22||https://arxiv.org/abs/2111.14842|
+|ESPnet-SLU: Advancing Spoken Language Understanding through ESPnet|icassp22||https://arxiv.org/abs/2111.14706|
+|Waveform Optimization for Wireless Power Transfer with Power Amplifier and Energy Harvester Non-Linearities|icassp22||https://arxiv.org/abs/2111.14156|
+|Speaker Embedding-aware Neural Diarization for Flexible Number of Speakers with Textual Information|icassp22||https://arxiv.org/abs/2111.13694|
+|Polyphonic Sound Event Detection Using Capsule Neural Network on Multi-Type-Multi-Scale Time-Frequency Representation|icassp22||https://arxiv.org/abs/2111.12869|
+|One-shot Voice Conversion For Style Transfer Based On Speaker Adaptation|icassp22||https://arxiv.org/abs/2111.12277|
+|SpeechMoE2: Mixture-of-Experts Model with Improved Routing|icassp22||https://arxiv.org/abs/2111.11831|
+|Effect of noise suppression losses on speech distortion and ASR performance|icassp22||https://arxiv.org/abs/2111.11606|
+|Universal Efficient Variable-rate Neural Image Compression|icassp22||https://arxiv.org/abs/2111.11305|
+|Lattention: Lattice-attention in ASR rescoring|icassp22||https://arxiv.org/abs/2111.10157|
+|Differentiable Wavetable Synthesis|icassp22||https://arxiv.org/abs/2111.10003|
+|Towards Measuring Fairness in Speech Recognition: Casual Conversations Dataset Transcriptions|icassp22||https://arxiv.org/abs/2111.09983|
+|Transformer-S2A: Robust and Efficient Speech-to-Animation|icassp22||https://arxiv.org/abs/2111.09771|
+|BLOOM-Net: Blockwise Optimization for Masking Networks Toward Scalable and Efficient Speech Enhancement|icassp22||https://arxiv.org/abs/2111.09372|
+|Unsupervised Speech Enhancement with speech recognition embedding and disentanglement losses|icassp22||https://arxiv.org/abs/2111.08678|
+|S-DCCRN: Super Wide Band DCCRN with learnable complex feature for speech enhancement|icassp22||https://arxiv.org/abs/2111.08387|
+|Monaural source separation: From anechoic to reverberant environments|icassp22||https://arxiv.org/abs/2111.07578|
+|Time-Frequency Attention for Monaural Speech Enhancement|icassp22||https://arxiv.org/abs/2111.07518|
+|Delay-Oriented Distributed Scheduling Using Graph Neural Networks|icassp22||https://arxiv.org/abs/2111.07017|
+|MultiSV: Dataset for Far-Field Multi-Channel Speaker Verification|icassp22||https://arxiv.org/abs/2111.06458|
+|Self-Normalized Importance Sampling for Neural Language Modeling|icassp22||https://arxiv.org/abs/2111.06310|
+|Joint Radar-Communications Processing from a Dual-Blind Deconvolution Perspective|icassp22||https://arxiv.org/abs/2111.06304|
+|Uformer: A Unet based dilated complex & real dual-path conformer network for simultaneous speech enhancement and dereverberation|icassp22||https://arxiv.org/abs/2111.06015|
+|Evaluation Of Orthogonal Chirp Division Multiplexing For Automotive Integrated Sensing And Communications|icassp22||https://arxiv.org/abs/2111.04975|
+|Joint AEC AND Beamforming with Double-Talk Detection using RNN-Transformer|icassp22||https://arxiv.org/abs/2111.04904|
+|Learning Filterbanks for End-to-End Acoustic Beamforming|icassp22||https://arxiv.org/abs/2111.04614|
+|RawBoost: A Raw Data Boosting and Augmentation Method applied to Automatic Speaker Verification Anti-Spoofing|icassp22||https://arxiv.org/abs/2111.04433|
+|Enhancing Prototypical Few-Shot Learning by Leveraging the Local-Level Strategy|icassp22||https://arxiv.org/abs/2111.04331|
+|Characterizing the adversarial vulnerability of speech self-supervised learning|icassp22||https://arxiv.org/abs/2111.04330|
+|Privacy attacks for automatic speech recognition acoustic models in a federated learning framework|icassp22||https://arxiv.org/abs/2111.03777|
+|Conformer-based Hybrid ASR System for Switchboard Dataset|icassp22||https://arxiv.org/abs/2111.03442|
+|Voice Conversion Can Improve ASR in Very Low-Resource Settings|icassp22||https://arxiv.org/abs/2111.02674|
+|Speech recognition for air traffic control via feature learning and end-to-end training|icassp22||https://arxiv.org/abs/2111.02654|
+|A Comparison of Discrete and Soft Speech Units for Improved Voice Conversion|icassp22||https://arxiv.org/abs/2111.02392|
+|Multi-input Architecture and Disentangled Representation Learning for Multi-dimensional Modeling of Music Similarity|icassp22||https://arxiv.org/abs/2111.01710|
+|Sequence Transduction with Graph-based Supervision|icassp22||https://arxiv.org/abs/2111.01272|
+|A transfer learning based approach for pronunciation scoring|icassp22||https://arxiv.org/abs/2111.00976|
+|SNRi Target Training for Joint Speech Enhancement and Recognition|icassp22||https://arxiv.org/abs/2111.00764|
+|A Novel 1D State Space for Efficient Music Rhythmic Analysis|icassp22||https://arxiv.org/abs/2111.00704|
+|Learning Continuous Representation of Audio for Arbitrary Scale Super Resolution|icassp22||https://arxiv.org/abs/2111.00195|
+|Pseudo-Labeling for Massively Multilingual Speech Recognition|icassp22||https://arxiv.org/abs/2111.00161|
+|Revisiting joint decoding based multi-talker speech recognition with DNN acoustic model|icassp22||https://arxiv.org/abs/2111.00009|
+|Combining Unsupervised and Text Augmented Semi-Supervised Learning for Low Resourced Autoregressive Speech Recognition|icassp22||https://arxiv.org/abs/2110.15836|
+|Fusing ASR Outputs in Joint Training for Speech Emotion Recognition|icassp22||https://arxiv.org/abs/2110.15684|
+|SA-SDR: A novel loss function for separation of meeting style data|icassp22||https://arxiv.org/abs/2110.15581|
+|Improving Noise Robustness of Contrastive Speech Representation Learning with Speech Reconstruction|icassp22||https://arxiv.org/abs/2110.15430|
+|TorchAudio: Building Blocks for Audio and Speech Processing|icassp22||https://arxiv.org/abs/2110.15018|
+|Continuous Speech Separation with Recurrent Selective Attention Network|icassp22||https://arxiv.org/abs/2110.14838|
+|Exploring single-song autoencoding schemes for audio-based music structure analysis|icassp22||https://arxiv.org/abs/2110.14437|
+|Nonnegative Tucker Decomposition with Beta-divergence for Music Structure Analysis of audio signals|icassp22||https://arxiv.org/abs/2110.14434|
+|Deep Learning For Prominence Detection In Children's Read Speech|icassp22||https://arxiv.org/abs/2110.14273|
+|Separating Long-Form Speech with Group-Wise Permutation Invariant Training|icassp22||https://arxiv.org/abs/2110.14142|
+|Temporal Knowledge Distillation for On-device Audio Classification|icassp22||https://arxiv.org/abs/2110.14131|
+|AQP: An Open Modular Python Platform for Objective Speech and Audio Quality Metrics|icassp22||https://arxiv.org/abs/2110.13589|
+|Towards Audio Domain Adaptation for Acoustic Scene Classification using Disentanglement Learning|icassp22||https://arxiv.org/abs/2110.13586|
+|TUNet: A Block-online Bandwidth Extension Model based on Transformers and Self-supervised Pretraining|icassp22||https://arxiv.org/abs/2110.13492|
+|CS-Rep: Making Speaker Verification Networks Embracing Re-parameterization|icassp22||https://arxiv.org/abs/2110.13465|
+|Multichannel Speech Enhancement without Beamforming|icassp22||https://arxiv.org/abs/2110.13130|
+|Unsupervised Source Separation By Steering Pretrained Music Models|icassp22||https://arxiv.org/abs/2110.13071|
+|MoDeRNN: Towards Fine-grained Motion Details for Spatiotemporal Predictive Learning|icassp22||https://arxiv.org/abs/2110.12978|
+|On Synchronization of Wireless Acoustic Sensor Networks in the Presence of Time-varying Sampling Rate Offsets and Speaker Changes|icassp22||https://arxiv.org/abs/2110.12820|
+|Discrete acoustic space for an efficient sampling in neural text-to-speech|icassp22||https://arxiv.org/abs/2110.12539|
+|Optimizing Alignment of Speech and Language Latent Spaces for End-to-End Speech Recognition and Understanding|icassp22||https://arxiv.org/abs/2110.12138|
+|Multiplication-Avoiding Variant of Power Iteration with Applications|icassp22||https://arxiv.org/abs/2110.12065|
+|REAL-M: Towards Speech Separation on Real Mixtures|icassp22||https://arxiv.org/abs/2110.10812|
+|TPARN: Triple-path Attentive Recurrent Network for Time-domain Multichannel Speech Enhancement|icassp22||https://arxiv.org/abs/2110.10757|
+|One model to enhance them all: array geometry agnostic multi-channel personalized speech enhancement|icassp22||https://arxiv.org/abs/2110.10330|
+|Continual self-training with bootstrapped remixing for speech enhancement|icassp22||https://arxiv.org/abs/2110.10103|
+|CycleFlow: Purify Information Factors by Cycle Loss|icassp22||https://arxiv.org/abs/2110.09928|
+|Rep Works in Speaker Verification|icassp22||https://arxiv.org/abs/2110.09720|
+|MRI Recovery with A Self-calibrated Denoiser|icassp22||https://arxiv.org/abs/2110.09418|
+|Automatic Learning of Subword Dependent Model Scales|icassp22||https://arxiv.org/abs/2110.09324|
+|Efficient Sequence Training of Attention Models using Approximative Recombination|icassp22||https://arxiv.org/abs/2110.09245|
+|Tackling the Score Shift in Cross-Lingual Speaker Verification by Exploiting Language Information|icassp22||https://arxiv.org/abs/2110.09150|
+|KaraTuner: Towards end to end natural pitch correction for singing voice in karaoke|icassp22||https://arxiv.org/abs/2110.09121|
+|Real Additive Margin Softmax for Speaker Verification|icassp22||https://arxiv.org/abs/2110.09116|
+|LDNet: Unified Listener Dependent Modeling in MOS Prediction for Synthetic Speech|icassp22||https://arxiv.org/abs/2110.09103|
+|Unsupervised Learned Kalman Filtering|icassp22||https://arxiv.org/abs/2110.09005|
+|Compression-aware Projection with Greedy Dimension Reduction for Convolutional Neural Network Activations|icassp22||https://arxiv.org/abs/2110.08828|
+|VISinger: Variational Inference with Adversarial Learning for End-to-End Singing Voice Synthesis|icassp22||https://arxiv.org/abs/2110.08813|
+|Attention W-Net: Improved Skip Connections for better Representations|icassp22||https://arxiv.org/abs/2110.08811|
+|A Variational Bayesian Approach to Learning Latent Variables for Acoustic Knowledge Transfer|icassp22||https://arxiv.org/abs/2110.08598|
+|ASR4REAL: An extended benchmark for speech models|icassp22||https://arxiv.org/abs/2110.08583|
+|Orthogonal Transforms for Signals on Directed Graphs|icassp22||https://arxiv.org/abs/2110.08364|
+|Towards Identity Preserving Normal to Dysarthric Voice Conversion|icassp22||https://arxiv.org/abs/2110.08213|
+|StreaMulT: Streaming Multimodal Transformer for Heterogeneous and Arbitrary Long Sequential Data|icassp22||https://arxiv.org/abs/2110.08021|
+|Don't speak too fast: The impact of data bias on self-supervised speech models|icassp22||https://arxiv.org/abs/2110.07957|
+|Toward Degradation-Robust Voice Conversion|icassp22||https://arxiv.org/abs/2110.07537|
+|Stability Analysis of Unfolded WMMSE for Power Allocation|icassp22||https://arxiv.org/abs/2110.07471|
+|M2MeT: The|icassp22||https://arxiv.org/abs/2110.07393|
+|Exploring Timbre Disentanglement in Non-Autoregressive Cross-Lingual Text-to-Speech|icassp22||https://arxiv.org/abs/2110.07192|
+|Multi-ACCDOA: Localizing and Detecting Overlapping Sounds from the Same Class with Auxiliary Duplicating Permutation Invariant Training|icassp22||https://arxiv.org/abs/2110.07124|
+|Auxiliary Loss of Transformer with Residual Connection for End-to-End Speaker Diarization|icassp22||https://arxiv.org/abs/2110.07116|
+|Continual learning using lattice-free MMI for speech recognition|icassp22||https://arxiv.org/abs/2110.07055|
+|Study of positional encoding approaches for Audio Spectrogram Transformers|icassp22||https://arxiv.org/abs/2110.06999|
+|ADMM-DAD net: a deep unfolding network for analysis compressed sensing|icassp22||https://arxiv.org/abs/2110.06986|
+|A Time Encoding approach to training Spiking Neural Networks|icassp22||https://arxiv.org/abs/2110.06735|
+|Singer separation for karaoke content generation|icassp22||https://arxiv.org/abs/2110.06707|
+|Diverse Audio Captioning via Adversarial Training|icassp22||https://arxiv.org/abs/2110.06691|
+|A Melody-Unsupervision Model for Singing Voice Synthesis|icassp22||https://arxiv.org/abs/2110.06546|
+|Automatic DJ Transitions with Differentiable Audio Effects and Generative Adversarial Networks|icassp22||https://arxiv.org/abs/2110.06525|
+|Dual-branch Attention-In-Attention Transformer for single-channel speech enhancement|icassp22||https://arxiv.org/abs/2110.06467|
+|SDR -- Medium Rare with Fast Computations|icassp22||https://arxiv.org/abs/2110.06440|
+|Exploring Wav2vec 2.0 fine-tuning for improved speech emotion recognition|icassp22||https://arxiv.org/abs/2110.06309|
+|Fine-grained style control in Transformer-based Text-to-speech Synthesis|icassp22||https://arxiv.org/abs/2110.06306|
+|S3PRL-VC: Open-source Voice Conversion Framework with Self-supervised Speech Representations|icassp22||https://arxiv.org/abs/2110.06280|
+|Speech Summarization using Restricted Self-Attention|icassp22||https://arxiv.org/abs/2110.06263|
+|Spatial mixup: Directional loudness modification as data augmentation for sound event localization and detection|icassp22||https://arxiv.org/abs/2110.06126|
+|Improving Character Error Rate Is Not Equal to Having Clean Speech: Speech Enhancement for ASR Systems with Black-box Acoustic Models|icassp22||https://arxiv.org/abs/2110.05968|
+|Multi-channel Narrow-Band Deep Speech Separation with Full-band Permutation Invariant Training|icassp22||https://arxiv.org/abs/2110.05966|
+|Label-Aware Ranked Loss for robust People Counting using Automotive in-cabin Radar|icassp22||https://arxiv.org/abs/2110.05876|
+|A bridge between features and evidence for binary attribute-driven perfect privacy|icassp22||https://arxiv.org/abs/2110.05840|
+|BERTraffic: A Robust BERT-Based Approach for Speaker Change Detection and Role Identification of Air-Traffic Communications|icassp22||https://arxiv.org/abs/2110.05781|
+|Large-scale Self-Supervised Speech Representation Learning for Automatic Speaker Verification|icassp22||https://arxiv.org/abs/2110.05777|
+|UniSpeech-SAT: Universal Speech Representation Learning with Speaker Aware Pre-Training|icassp22||https://arxiv.org/abs/2110.05752|
+|VarArray: Array-Geometry-Agnostic Continuous Speech Separation|icassp22||https://arxiv.org/abs/2110.05745|
+|DeepFilterNet: A Low Complexity Speech Enhancement Framework for Full-Band Audio based on Deep Filtering|icassp22||https://arxiv.org/abs/2110.05588|
+|Evaluating User Perception of Speech Recognition System Quality with Semantic Distance Metric|icassp22||https://arxiv.org/abs/2110.05376|
+|Explainable Fact-checking through Question Answering|icassp22||https://arxiv.org/abs/2110.05369|
+|Interactive Feature Fusion for End-to-End Noise-Robust Speech Recognition|icassp22||https://arxiv.org/abs/2110.05267|
+|Streaming Transformer Transducer Based Speech Recognition Using Non-Causal Convolution|icassp22||https://arxiv.org/abs/2110.05241|
+|A Multi-Resolution Front-End for End-to-End Speech Anti-Spoofing|icassp22||https://arxiv.org/abs/2110.05087|
+|Efficiently and Globally Solving Joint Beamforming and Compression Problem in the Cooperative Cellular Network via Lagrangian Duality|icassp22||https://arxiv.org/abs/2110.05085|
+|Amicable examples for informed source separation|icassp22||https://arxiv.org/abs/2110.05059|
+|Source Mixing and Separation Robust Audio Steganography|icassp22||https://arxiv.org/abs/2110.05054|
+|Multi-query multi-head attention pooling and Inter-topK penalty for speaker verification|icassp22||https://arxiv.org/abs/2110.05042|
+|Multi-View Self-Attention Based Transformer for Speaker Recognition|icassp22||https://arxiv.org/abs/2110.05036|
+|Wav2vec-Switch: Contrastive Learning from Original-noisy Speech Pairs for Robust Speech Recognition|icassp22||https://arxiv.org/abs/2110.04934|
+|Identity-Guided Face Generation with Multi-modal Contour Conditions|icassp22||https://arxiv.org/abs/2110.04854|
+|A Novel Negative $\ell_1$ Penalty Approach for Multiuser One-Bit Massive MIMO Downlink with PSK Signaling|icassp22||https://arxiv.org/abs/2110.04768|
+|Uncertainty in Data-Driven Kalman Filtering for Partially Known State-Space Models|icassp22||https://arxiv.org/abs/2110.04738|
+|Safeguarding UAV Networks Through Integrated Sensing, Jamming, and Communications|icassp22||https://arxiv.org/abs/2110.04733|
+|RTSNET: Deep Learning Aided Kalman Smoothing|icassp22||https://arxiv.org/abs/2110.04717|
+|Multi-Channel End-to-End Neural Diarization with Distributed Microphones|icassp22||https://arxiv.org/abs/2110.04694|
+|Poformer: A simple pooling transformer for speaker verification|icassp22||https://arxiv.org/abs/2110.04692|
+|Can Audio Captions Be Evaluated with Image Caption Metrics?|icassp22||https://arxiv.org/abs/2110.04684|
+|Mixture Model Auto-Encoders: Deep Clustering through Dictionary Learning|icassp22||https://arxiv.org/abs/2110.04683|
+|Personalized Automatic Speech Recognition Trained on Small Disordered Speech Datasets|icassp22||https://arxiv.org/abs/2110.04612|
+|Generating Disentangled Arguments with Prompts: A Simple Event Extraction Framework that Works|icassp22||https://arxiv.org/abs/2110.04525|
+|Data Augmentation with Locally-time Reversed Speech for Automatic Speech Recognition|icassp22||https://arxiv.org/abs/2110.04511|
+|PAMA-TTS: Progression-Aware Monotonic Attention for Stable Seq2Seq TTS With Accurate Phoneme Duration Control|icassp22||https://arxiv.org/abs/2110.04486|
+|Towards Lifelong Learning of Multilingual Text-To-Speech Synthesis|icassp22||https://arxiv.org/abs/2110.04482|
+|Deep Joint Source-Channel Coding for Wireless Image Transmission with Adaptive Rate Control|icassp22||https://arxiv.org/abs/2110.04456|
+|Towards Lightweight Applications: Asymmetric Enroll-Verify Structure for Speaker Verification|icassp22||https://arxiv.org/abs/2110.04438|
+|TitaNet: Neural Model for speaker representation with 1D Depth-wise separable convolutions and global context|icassp22||https://arxiv.org/abs/2110.04410|
+|Individualized Hear-through For Acoustic Transparency Using PCA-Based Sound Pressure Estimation At The Eardrum|icassp22||https://arxiv.org/abs/2110.04385|
+|Cross-speaker Emotion Transfer Based on Speaker Condition Layer Normalization and Semi-Supervised Training in Text-To-Speech|icassp22||https://arxiv.org/abs/2110.04153|
+|Privacy-Aware Communication Over a Wiretap Channel with Generative Networks|icassp22||https://arxiv.org/abs/2110.04094|
+|FAST-RIR: Fast neural diffuse room impulse response generator|icassp22||https://arxiv.org/abs/2110.04057|
+|KaraSinger: Score-Free Singing Voice Synthesis with VQ-VAE using Mel-spectrograms|icassp22||https://arxiv.org/abs/2110.04005|
+|Joint Scattering for Automatic Chick Call Recognition|icassp22||https://arxiv.org/abs/2110.03965|
+|Joint Normality Test Via Two-Dimensional Projection|icassp22||https://arxiv.org/abs/2110.03927|
+|Optimal QoS-Aware Network Slicing for Service-Oriented Networks with Flexible Routing|icassp22||https://arxiv.org/abs/2110.03915|
+|A Study of Low-Resource Speech Commands Recognition based on Adversarial Reprogramming|icassp22||https://arxiv.org/abs/2110.03894|
+|Phone-to-audio alignment without text: A Semi-supervised Approach|icassp22||https://arxiv.org/abs/2110.03876|
+|StyleGAN-induced data-driven regularization for inverse problems|icassp22||https://arxiv.org/abs/2110.03814|
+|Label Propagation across Graphs: Node Classification using Graph Neural Tangent Kernels|icassp22||https://arxiv.org/abs/2110.03763|
+|Direct design of biquad filter cascades with deep learning by sampling random polynomials|icassp22||https://arxiv.org/abs/2110.03691|
+|Towards Faster Continuous Multi-Channel HRTF Measurements Based on Learning System Models|icassp22||https://arxiv.org/abs/2110.03630|
+|Optimization of a Fixed Virtual Sensing Feedback ANC Controller for In-Ear Headphones with Multiple Loudspeakers|icassp22||https://arxiv.org/abs/2110.03586|
+|Prototype Learning for Interpretable Respiratory Sound Analysis|icassp22||https://arxiv.org/abs/2110.03536|
+|Accent-Robust Automatic Speech Recognition Using Supervised and Unsupervised Wav2vec Embeddings|icassp22||https://arxiv.org/abs/2110.03520|
+|Peer Collaborative Learning for Polyphonic Sound Event Detection|icassp22||https://arxiv.org/abs/2110.03511|
+|Analyzing the Robustness of Unsupervised Speech Recognition|icassp22||https://arxiv.org/abs/2110.03509|
+|Mandarin-English Code-switching Speech Recognition with Self-supervised Speech Representation Models|icassp22||https://arxiv.org/abs/2110.03504|
+|Camera Calibration through Camera Projection Loss|icassp22||https://arxiv.org/abs/2110.03479|
+|Multi-Head ReLU Implicit Neural Representation Networks|icassp22||https://arxiv.org/abs/2110.03448|
+|Light-SERNet: A lightweight fully convolutional neural network for speech emotion recognition|icassp22||https://arxiv.org/abs/2110.03435|
+|Fast learning from label proportions with small bags|icassp22||https://arxiv.org/abs/2110.03426|
+|SERAB: A multi-lingual benchmark for speech emotion recognition|icassp22||https://arxiv.org/abs/2110.03414|
+|Acoustic Signal based Non-Contact Ball Bearing Fault Diagnosis Using Adaptive Wavelet Denoising|icassp22||https://arxiv.org/abs/2110.03348|
+|VisualTTS: TTS with Accurate Lip-Speech Synchronization for Automatic Voice Over|icassp22||https://arxiv.org/abs/2110.03342|
+|Knowledge Distillation for Neural Transducers from Large Self-Supervised Pre-trained Models|icassp22||https://arxiv.org/abs/2110.03334|
+|Improving Confidence Estimation on Out-of-Domain Data for End-to-End Speech Recognition|icassp22||https://arxiv.org/abs/2110.03327|
+|Back from the future: bidirectional CTC decoding using future information in speech recognition|icassp22||https://arxiv.org/abs/2110.03326|
+|Explaining deep learning models for spoofing and deepfake detection with SHapley Additive exPlanations|icassp22||https://arxiv.org/abs/2110.03309|
+|Experimental investigation on STFT phase representations for deep learning-based dysarthric speech detection|icassp22||https://arxiv.org/abs/2110.03283|
+|FilterAugment: An Acoustic Environmental Data Augmentation Method|icassp22||https://arxiv.org/abs/2110.03282|
+|A Cough-based deep learning framework for detecting COVID-19|icassp22||https://arxiv.org/abs/2110.03251|
+|Sound Event Detection Guided by Semantic Contexts of Scenes|icassp22||https://arxiv.org/abs/2110.03243|
+|Temporal Dynamic Convolutional Neural Network for Text-Independent Speaker Verification and Phonemetic Analysis|icassp22||https://arxiv.org/abs/2110.03213|
+|Transferring Voice Knowledge for Acoustic Event Detection: An Empirical Study|icassp22||https://arxiv.org/abs/2110.03174|
+|StrengthNet: Deep Learning-based Emotion Strength Assessment for Emotional Speech Synthesis|icassp22||https://arxiv.org/abs/2110.03156|
+|Transcribe-to-Diarize: Neural Speaker Diarization for Unlimited Number of Speakers using End-to-End Speaker-Attributed ASR|icassp22||https://arxiv.org/abs/2110.03151|
+|Integrating Categorical Features in End-to-End ASR|icassp22||https://arxiv.org/abs/2110.03047|
+|Hierarchical prosody modeling and control in non-autoregressive parallel neural TTS|icassp22||https://arxiv.org/abs/2110.02952|
+|Unsupervised Audio-Caption Aligning Learns Correspondences between Individual Sound Events and Textual Phrases|icassp22||https://arxiv.org/abs/2110.02939|
+|Simplicial Convolutional Neural Networks|icassp22||https://arxiv.org/abs/2110.02585|
+|ActiveMatch: End-to-end Semi-supervised Active Representation Learning|icassp22||https://arxiv.org/abs/2110.02521|
+|Interpreting intermediate convolutional layers in unsupervised acoustic word classification|icassp22||https://arxiv.org/abs/2110.02375|
+|Causal Linear Topological Filters over a 2-Simplex|icassp22||https://arxiv.org/abs/2110.02362|
+|Neural Pitch-Shifting and Time-Stretching with Controllable LPCNet|icassp22||https://arxiv.org/abs/2110.02360|
+|DistilHuBERT: Speech Representation Learning by Layer-wise Distillation of Hidden-unit BERT|icassp22||https://arxiv.org/abs/2110.01900|
+|Multi-task Voice Activated Framework using Self-supervised Learning|icassp22||https://arxiv.org/abs/2110.01077|
+|End-to-End Complex-Valued Multidilated Convolutional Neural Network for Joint Acoustic Echo Cancellation and Noise Suppression|icassp22||https://arxiv.org/abs/2110.00745|
+|Predicting Flat-Fading Channels via Meta-Learned Closed-Form Linear Filters and Equilibrium Propagation|icassp22||https://arxiv.org/abs/2110.00414|
+|Large-scale ASR Domain Adaptation using Self- and Semi-supervised Learning|icassp22||https://arxiv.org/abs/2110.00165|
+|Fine-tuning wav2vec2 for speaker recognition|icassp22||https://arxiv.org/abs/2109.15053|
+|Joint magnitude estimation and phase recovery using Cycle-in-Cycle GAN for non-parallel speech enhancement|icassp22||https://arxiv.org/abs/2109.12591|
+|Holistic Semi-Supervised Approaches for EEG Representation Learning|icassp22||https://arxiv.org/abs/2109.11732|
+|Lightweight dynamic filter for keyword spotting|icassp22||https://arxiv.org/abs/2109.11165|
+|Unet-TTS: Improving Unseen Speaker and Style Transfer in One-shot Voice Cloning|icassp22||https://arxiv.org/abs/2109.11115|
+|Deep Augmented MUSIC Algorithm for Data-Driven DoA Estimation|icassp22||https://arxiv.org/abs/2109.10581|
+|Continuous Streaming Multi-Talker ASR with Dual-path Transducers|icassp22||https://arxiv.org/abs/2109.08555|
+|Fast-Slow Transformer for Visually Grounding Speech|icassp22||https://arxiv.org/abs/2109.08186|
+|Non-autoregressive Transformer with Unified Bidirectional Decoder for Automatic Speech Recognition|icassp22||https://arxiv.org/abs/2109.06684|
+|Embedding and Beamforming: All-neural Causal Beamformer for Multichannel Speech Enhancement|icassp22||https://arxiv.org/abs/2109.00265|
+|Neural HMMs are all you need (for high-quality attention-free TTS)|icassp22||https://arxiv.org/abs/2108.13320|
+|Position-based Contributive Embeddings for Aspect-Based Sentiment Analysis|icassp22||https://arxiv.org/abs/2108.05098|
+|Automated Audio Captioning using Transfer Learning and Reconstruction Latent Space Similarity Regularization|icassp22||https://arxiv.org/abs/2108.04692|
+|Deep Residual Echo Suppression and Noise Reduction: A Multi-Input FCRN Approach in a Hybrid Speech Enhancement System|icassp22||https://arxiv.org/abs/2108.03051|
+|An Adapter Based Pre-Training for Efficient and Scalable Self-Supervised Speech Representation Learning|icassp22||https://arxiv.org/abs/2107.13530|
+|Embedding Signals on Knowledge Graphs with Unbalanced Diffusion Earth Mover's Distance|icassp22||https://arxiv.org/abs/2107.12334|
+|Msdtron: a high-capability multi-speaker speech synthesis system for diverse data using characteristic information|icassp22||https://arxiv.org/abs/2107.03065|
+|Energy Consumption of Deep Generative Audio Models|icassp22||https://arxiv.org/abs/2107.02621|
+|End-to-end Neural Coreference Resolution Revisited: A Simple yet Effective Baseline|icassp22||https://arxiv.org/abs/2107.01700|
+|Spotting adversarial samples for speaker verification by neural vocoders|icassp22||https://arxiv.org/abs/2107.00309|
+|Augmenting Molecular Deep Generative Models with Topological Data Analysis Representations|icassp22||https://arxiv.org/abs/2106.04464|
+|End-To-End Deep Learning-Based Adaptation Control for Frequency-Domain Adaptive System Identification|icassp22||https://arxiv.org/abs/2106.01262|
+|Text2Video: Text-driven Talking-head Video Synthesis with Personalized Phoneme-Pose Dictionary|icassp22||https://arxiv.org/abs/2104.14631|
+|DPT-FSNet: Dual-path Transformer Based Full-band and Sub-band Fusion Network for Speech Enhancement|icassp22||https://arxiv.org/abs/2104.13002|
+|Integration of Pre-trained Networks with Continuous Token Interface for End-to-End Spoken Language Understanding|icassp22||https://arxiv.org/abs/2104.07253|
+|Attentive max feature map and joint training for acoustic scene classification|icassp22||https://arxiv.org/abs/2104.07213|
+|Integer-only Zero-shot Quantization for Efficient Speech Recognition|icassp22||https://arxiv.org/abs/2103.16827|
+|Progressive Image Super-Resolution via Neural Differential Equation|icassp22||https://arxiv.org/abs/2101.08987|
+|An Embarrassingly Simple Model for Dialogue Relation Extraction|icassp22||https://arxiv.org/abs/2012.13873|
+|Teaching CNNs to mimic Human Visual Cognitive Process & regularise Texture-Shape bias|icassp22||https://arxiv.org/abs/2006.14722|
+|Parameter-Free Style Projection for Arbitrary Style Transfer|icassp22||https://arxiv.org/abs/2003.07694|
+|Gan-Based Joint Activity Detection and Channel Estimation For Grant-free Random Access|icassp22||https://arxiv.org/abs/2204.01731|
+|Noise-robust Speech Recognition with 10 Minutes Unparalleled In-domain Data|icassp22||https://arxiv.org/abs/2203.15321|
+|Remix-cycle-consistent Learning on Adversarially Learned Separator for Accurate and Stable Unsupervised Speech Separation|icassp22||https://arxiv.org/abs/2203.14080|
+|Extended Graph Temporal Classification for Multi-Speaker End-to-End ASR|icassp22||https://arxiv.org/abs/2203.00232|
+|L3DAS22 Challenge: Learning 3D Audio Sources in a Real Office Environment|icassp22||https://arxiv.org/abs/2202.10372|
+|S3T: Self-Supervised Pre-training with Swin Transformer for Music Classification|icassp22||https://arxiv.org/abs/2202.10139|
+|The PCG-AIID System for L3DAS22 Challenge: MIMO and MISO convolutional recurrent Network for Multi Channel Speech Enhancement and Speech Recognition|icassp22||https://arxiv.org/abs/2202.10017|
+|Non-Autoregressive ASR with Self-Conditioned Folded Encoders|icassp22||https://arxiv.org/abs/2202.08474|
+|Automatic Depression Detection: An Emotional Audio-Textual Corpus and a GRU/BiLSTM-based Model|icassp22||https://arxiv.org/abs/2202.08210|
+|SpaIn-Net: Spatially-Informed Stereophonic Music Source Separation|icassp22||https://arxiv.org/abs/2202.07523|
+|Unsupervised word-level prosody tagging for controllable speech synthesis|icassp22||https://arxiv.org/abs/2202.07200|
+|QA4QG: Using Question Answering to Constrain Multi-Hop Question Generation|icassp22||https://arxiv.org/abs/2202.06538|
+|Learnable Nonlinear Compression for Robust Speaker Verification|icassp22||https://arxiv.org/abs/2202.05236|
+|Rate Coding or Direct Coding: Which One is Better for Accurate, Robust, and Energy-efficient Spiking Neural Networks?|icassp22||https://arxiv.org/abs/2202.03133|
+|Document-Level Event Extraction via Human-Like Reading Process|icassp22||https://arxiv.org/abs/2202.03092|
+|The CUHK-TENCENT speaker diarization system for the ICASSP 2022 multi-channel multi-party meeting transcription challenge|icassp22||https://arxiv.org/abs/2202.01986|
+|HistoKT: Cross Knowledge Transfer in Computational Pathology|icassp22||https://arxiv.org/abs/2201.11246|
+|Neural Grapheme-to-Phoneme Conversion with Pre-trained Grapheme Models|icassp22||https://arxiv.org/abs/2201.10716|
+|Run-and-back stitch search: novel block synchronous decoding for streaming encoder-decoder ASR|icassp22||https://arxiv.org/abs/2201.10190|
+|Improving non-autoregressive end-to-end speech recognition with pre-trained acoustic and language models|icassp22||https://arxiv.org/abs/2201.10103|
+|Polyphone disambiguation and accent prediction using pre-trained language models in Japanese TTS front-end|icassp22||https://arxiv.org/abs/2201.09427|
+|Cross-Modal ASR Post-Processing System for Error Correction and Utterance Rejection|icassp22||https://arxiv.org/abs/2201.03313|
+|Multi-speaker Multi-style Text-to-speech Synthesis With Single-speaker Single-style Training Data Scenarios|icassp22||https://arxiv.org/abs/2112.12743|
+|Detect what you want: Target Sound Detection|icassp22||https://arxiv.org/abs/2112.10153|
+|JTubeSpeech: corpus of Japanese speech collected from YouTube for speech recognition and speaker verification|icassp22||https://arxiv.org/abs/2112.09323|
+|Mask-combine Decoding and Classification Approach for Punctuation Prediction with real-time Inference Constraints|icassp22||https://arxiv.org/abs/2112.08098|
+|End-to-end speaker diarization with transformer|icassp22||https://arxiv.org/abs/2112.07463|
+|Cross-modal Knowledge Distillation for Vision-to-Sensor Action Recognition|icassp22||https://arxiv.org/abs/2112.01849|
+|Environmental Sound Extraction Using Onomatopoeic Words|icassp22||https://arxiv.org/abs/2112.00209|
+|CCA-MDD: A Coupled Cross-Attention based Framework for Streaming Mispronunciation detection and diagnosis|icassp22||https://arxiv.org/abs/2111.08191|
+|Objective measurement of pitch extractors' responses to frequency modulated sounds and two reference pitch extraction methods for analyzing voice pitch responses to auditory stimulation|icassp22||https://arxiv.org/abs/2111.03629|
+|Exploring Non-Autoregressive End-To-End Neural Modeling For English Mispronunciation Detection And Diagnosis|icassp22||https://arxiv.org/abs/2111.00844|
+|Identity Conversion for Emotional Speakers: A Study for Disentanglement of Emotion Style and Speaker Identity|icassp22||https://arxiv.org/abs/2110.10326|
+|The Cocktail Fork Problem: Three-Stem Audio Separation for Real-World Soundtracks|icassp22||https://arxiv.org/abs/2110.09958|
+|Improving Emotional Speech Synthesis by Using SUS-Constrained VAE and Text Encoder Aggregation|icassp22||https://arxiv.org/abs/2110.09780|
+|A non-hierarchical attention network with modality dropout for textual response generation in multimodal dialogue systems|icassp22||https://arxiv.org/abs/2110.09702|
+|Controllable Multichannel Speech Dereverberation based on Deep Neural Networks|icassp22||https://arxiv.org/abs/2110.08439|
+|NN3A: Neural Network supported Acoustic Echo Cancellation, Noise Suppression and Automatic Gain Control for Real-Time Communications|icassp22||https://arxiv.org/abs/2110.08437|
+|ESPnet2-TTS: Extending the Edge of TTS Research|icassp22||https://arxiv.org/abs/2110.07840|
+|Revisiting IPA-based Cross-lingual Text-to-speech|icassp22||https://arxiv.org/abs/2110.07187|
+|On Language Model Integration for RNN Transducer based Speech Recognition|icassp22||https://arxiv.org/abs/2110.06841|
+|Simple Attention Module based Speaker Verification with Iterative noisy label detection|icassp22||https://arxiv.org/abs/2110.06534|
+|Advancing Momentum Pseudo-Labeling with Conformer and Initialization Strategy|icassp22||https://arxiv.org/abs/2110.04948|
+|Estimating the confidence of speech spoofing countermeasure|icassp22||https://arxiv.org/abs/2110.04775|
+|A Mutual learning framework for Few-shot Sound Event Detection|icassp22||https://arxiv.org/abs/2110.04474|
+|Using multiple reference audios and style embedding constraints for speech synthesis|icassp22||https://arxiv.org/abs/2110.04451|
+|Hierarchical Conditional End-to-End ASR with CTC and Multi-Granular Subword Units|icassp22||https://arxiv.org/abs/2110.04109|
+|AASIST: Audio Anti-Spoofing using Integrated Spectro-Temporal Graph Attention Networks|icassp22||https://arxiv.org/abs/2110.01200|
+|PGTRNet: Two-phase Weakly Supervised Object Detection with Pseudo Ground Truth Refinement|icassp22||https://arxiv.org/abs/2108.11439|

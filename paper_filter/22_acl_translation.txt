@@ -1,0 +1,39 @@
+|Toward More Effective Human Evaluation for Machine Translation|acl22||https://arxiv.org/abs/2204.05307|
+|End-to-End Speech Translation for Code Switched Speech|acl22||https://arxiv.org/abs/2204.05076|
+|CipherDAug: Ciphertext based Data Augmentation for Neural Machine Translation|acl22||https://arxiv.org/abs/2204.00665|
+|Investigating Data Variance in Evaluations of Automatic Machine Translation Metrics|acl22||https://arxiv.org/abs/2203.15858|
+|Single Model Ensemble for Subword Regularized Models in Low-Resource Machine Translation|acl22||https://arxiv.org/abs/2203.13528|
+|Automatic Song Translation for Tonal Languages|acl22||https://arxiv.org/abs/2203.13420|
+|Integrating Vectorized Lexical Constraints for Neural Machine Translation|acl22||https://arxiv.org/abs/2203.12210|
+|STEMM: Self-learning with Speech-text Manifold Mixup for Speech Translation|acl22||https://arxiv.org/abs/2203.10426|
+|Neural Machine Translation with Phrase-Level Universal Visual Representations|acl22||https://arxiv.org/abs/2203.10299|
+|Under the Morphosyntactic Lens: A Multifaceted Evaluation of Gender Bias in Speech Translation|acl22||https://arxiv.org/abs/2203.09866|
+|Universal Conditional Masked Language Pre-training for Neural Machine Translation|acl22||https://arxiv.org/abs/2203.09210|
+|Modeling Dual Read/Write Paths for Simultaneous Machine Translation|acl22||https://arxiv.org/abs/2203.09163|
+|Gaussian Multi-head Attention for Simultaneous Machine Translation|acl22||https://arxiv.org/abs/2203.09072|
+|Reducing Position Bias in Simultaneous Machine Translation with Length-Aware Framework|acl22||https://arxiv.org/abs/2203.09053|
+|Triangular Transfer: Freezing the Pivot for Triangular Machine Translation|acl22||https://arxiv.org/abs/2203.09027|
+|BPE vs. Morphological Segmentation: A Case Study on Machine Translation of Four Polysynthetic Languages|acl22||https://arxiv.org/abs/2203.08954|
+|Pre-Trained Multilingual Sequence-to-Sequence Models: A Hope for Low-Resource Language Translation?|acl22||https://arxiv.org/abs/2203.08850|
+|Sample, Translate, Recombine: Leveraging Audio Alignments for Data Augmentation in End-to-end Speech Translation|acl22||https://arxiv.org/abs/2203.08757|
+|Understanding and Improving Sequence-to-Sequence Pretraining for Neural Machine Translation|acl22||https://arxiv.org/abs/2203.08442|
+|Bridging the Data Gap between Training and Inference for Unsupervised Neural Machine Translation|acl22||https://arxiv.org/abs/2203.08394|
+|Improving Word Translation via Two-Stage Contrastive Learning|acl22||https://arxiv.org/abs/2203.08307|
+|Can Synthetic Translations Improve Bitext Quality?|acl22||https://arxiv.org/abs/2203.07643|
+|Multilingual Mix: Example Interpolation Improves Multilingual Neural Machine Translation|acl22||https://arxiv.org/abs/2203.07627|
+|Overcoming Catastrophic Forgetting beyond Continual Learning: Balanced Training for Neural Machine Translation|acl22||https://arxiv.org/abs/2203.03910|
+|Conditional Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation|acl22||https://arxiv.org/abs/2203.02951|
+|Focus on the Target's Vocabulary: Masked Label Smoothing for Machine Translation|acl22||https://arxiv.org/abs/2203.02889|
+|From Simultaneous to Streaming Machine Translation by Leveraging Streaming History|acl22||https://arxiv.org/abs/2203.02459|
+|EAG: Extract and Generate Multi-way Aligned Corpus for Complete Multi-lingual Neural Machine Translation|acl22||https://arxiv.org/abs/2203.02180|
+|As Little as Possible, as Much as Necessary: Detecting Over- and Undertranslations with Contrastive Conditioning|acl22||https://arxiv.org/abs/2203.01927|
+|Confidence Based Bidirectional Global Context Aware Training Framework for Neural Machine Translation|acl22||https://arxiv.org/abs/2202.13663|
+|MSCTD: A Multimodal Sentiment Chat Translation Dataset|acl22||https://arxiv.org/abs/2202.13645|
+|OCR Improves Machine Translation for Low-Resource Languages|acl22||https://arxiv.org/abs/2202.13274|
+|Breaking Down Multilingual Machine Translation|acl22||https://arxiv.org/abs/2110.08130|
+|Direct speech-to-speech translation with discrete units|acl22||https://arxiv.org/abs/2107.05604|
+|Fast Nearest Neighbor Machine Translation|acl22||https://arxiv.org/abs/2105.14528|
+|First the worst: Finding better gender translations during beam search|acl22||https://arxiv.org/abs/2104.07429|
+|Divide and Rule: Effective Pre-Training for Context-Aware Multi-Encoder Translation Models|acl22||https://arxiv.org/abs/2103.17151|
+|Rethinking Document-level Neural Machine Translation|acl22||https://arxiv.org/abs/2010.08961|
+|On Vision Features in Multimodal Machine Translation|acl22||https://arxiv.org/abs/2203.09173|

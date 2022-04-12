@@ -1,0 +1,7 @@
+Latent Hatred - A Benchmark for Understanding Implicit Hate Speech.	https://arxiv.org/abs/2109.05322
+Cross-Register Projection for Headline Part of Speech Tagging.	https://arxiv.org/abs/2109.07483
+Residual Adapters for Parameter-Efficient ASR Adaptation to Atypical and Accented Speech.	https://arxiv.org/abs/2109.06952
+Sequential Randomized Smoothing for Adversarially Robust Speech Recognition.	https://dblp.org/rec/conf/emnlp/OlivierR21
+Is "moby dick" a Whale or a Bird? Named Entities and Terminology in Speech Translation.	https://arxiv.org/abs/2109.07439
+Speechformer - Reducing Information Loss in Direct Speech Translation.	https://arxiv.org/abs/2109.04574
+Mutual-Learning Improves End-to-End Speech Translation.	https://dblp.org/rec/conf/emnlp/ZhaoLCG21

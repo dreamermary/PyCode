@@ -1,0 +1,47 @@
+|The USTC-NELSLIP Systems for Simultaneous Speech Translation Task at IWSLT 2021|acl21||https://aclanthology.org/2021.iwslt-1.2/|
+|Multilingual Speech Translation from Efficient Finetuning of Pretrained Models|acl21||https://aclanthology.org/2021.acl-long.68/|
+|Beyond Sentence-Level End-to-End Speech Translation: Context Helps|acl21||https://aclanthology.org/2021.acl-long.200/|
+|Stacked Acoustic-and-Textual Encoding: Integrating the Pre-trained Models into Speech Translation Encoders|acl21||https://aclanthology.org/2021.acl-long.204/|
+|Cascade versus Direct Speech Translation: Do the Differences Still Make a Difference?|acl21||https://aclanthology.org/2021.acl-long.224/|
+|Improving Speech Translation by Understanding and Learning from the Auxiliary Text Translation Task|acl21||https://aclanthology.org/2021.acl-long.328/|
+|Without Further Ado: Direct and Simultaneous Speech Translation by AppTek in 2021|acl21||https://aclanthology.org/2021.iwslt-1.5/|
+|The Volctrans Neural Speech Translation System for IWSLT 2021|acl21||https://aclanthology.org/2021.iwslt-1.6/|
+|A Large-Scale Chinese Multimodal NER Dataset with Speech Clues|acl21||https://aclanthology.org/2021.acl-long.218/|
+|The NiuTrans End-to-End Speech Translation System for IWSLT 2021 Offline Task|acl21||https://aclanthology.org/2021.iwslt-1.9/|
+|ESPnet-ST IWSLT 2021 Offline Speech Translation System|acl21||https://aclanthology.org/2021.iwslt-1.10/|
+|End-to-End Speech Translation with Pre-trained Models and Adapters: UPC at IWSLT 2021|acl21||https://aclanthology.org/2021.iwslt-1.11/|
+|VUS at IWSLT 2021: A Finetuned Pipeline for Offline Speech Translation|acl21||https://aclanthology.org/2021.iwslt-1.12/|
+|KIT’s IWSLT 2021 Offline Speech Translation System|acl21||https://aclanthology.org/2021.iwslt-1.13/|
+|FST: the FAIR Speech Translation System for the IWSLT21 Multilingual Shared Task|acl21||https://aclanthology.org/2021.iwslt-1.14/|
+|Maastricht University’s Multilingual Speech Translation System for IWSLT 2021|acl21||https://aclanthology.org/2021.iwslt-1.15/|
+|ZJU’s IWSLT 2021 Speech Translation System|acl21||https://aclanthology.org/2021.iwslt-1.16/|
+|Multilingual Speech Translation with Unified Transformer: Huawei Noah’s Ark Lab at IWSLT 2021|acl21||https://aclanthology.org/2021.iwslt-1.17/|
+|Multilingual Speech Translation KIT @ IWSLT2021|acl21||https://aclanthology.org/2021.iwslt-1.18/|
+|Edinburgh’s End-to-End Multilingual Speech Translation System for IWSLT 2021|acl21||https://aclanthology.org/2021.iwslt-1.19/|
+|ON-TRAC’ systems for the IWSLT 2021 low-resource speech translation and multilingual speech translation shared tasks|acl21||https://aclanthology.org/2021.iwslt-1.20/|
+|IMS’ Systems for the IWSLT 2021 Low-Resource Speech Translation Task|acl21||https://aclanthology.org/2021.iwslt-1.21/|
+|The USYD-JD Speech Translation System for IWSLT2021|acl21||https://aclanthology.org/2021.iwslt-1.22/|
+|Inverted Projection for Robust Speech Translation|acl21||https://aclanthology.org/2021.iwslt-1.28/|
+|Towards the evaluation of automatic simultaneous speech translation from a communicative perspective|acl21||https://aclanthology.org/2021.iwslt-1.29/|
+|Lightweight Adapter Tuning for Multilingual Speech Translation|acl21||https://aclanthology.org/2021.acl-short.103/|
+|NeurST: Neural Speech Translation Toolkit|acl21||https://aclanthology.org/2021.acl-demo.7/|
+|VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation|acl21||https://aclanthology.org/2021.acl-long.80/|
+|A Joint Model for Dropped Pronoun Recovery and Conversational Discourse Parsing in Chinese Conversational Speech|acl21||https://aclanthology.org/2021.acl-long.138/|
+|On Knowledge Distillation for Translating Erroneous Speech Transcriptions|acl21||https://aclanthology.org/2021.iwslt-1.24/|
+|Exposing the limits of Zero-shot Cross-lingual Hate Speech Detection|acl21||https://aclanthology.org/2021.acl-short.114/|
+|How Might We Create Better Benchmarks for Speech Recognition?|acl21||https://aclanthology.org/2021.bppf-1.4/|
+|Investigating the Impact of Gender Representation in ASR Training Data: a Case Study on Librispeech|acl21||https://aclanthology.org/2021.gebnlp-1.10/|
+|Apple Core-dination: Linguistic Feedback and Learning in a Speech-to-Action Shared World Game|acl21||https://aclanthology.org/2021.internlp-1.2/|
+|Multi-accent Speech Separation with One Shot Learning|acl21||https://aclanthology.org/2021.metanlp-1.7/|
+|A Speech-enabled Fixed-phrase Translator for Healthcare Accessibility|acl21||https://aclanthology.org/2021.nlp4posimpact-1.15/|
+|Lone Pine at SemEval-2021 Task 5: Fine-Grained Detection of Hate Speech Using BERToxic|acl21||https://aclanthology.org/2021.semeval-1.132/|
+|BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text|acl21||https://aclanthology.org/2021.wat-1.10/|
+|Modeling Profanity and Hate Speech in Social Media with Semantic Subspaces|acl21||https://aclanthology.org/2021.woah-1.2/|
+|Improving Counterfactual Generation for Fair Hate Speech Detection|acl21||https://aclanthology.org/2021.woah-1.10/|
+|Targets and Aspects in Social Media Hate Speech|acl21||https://aclanthology.org/2021.woah-1.19/|
+|QASR: QCRI Aljazeera Speech Resource A Large Scale Annotated Arabic Speech Corpus|acl21||https://aclanthology.org/2021.acl-long.177/|
+|HateCheck: Functional Tests for Hate Speech Detection Models|acl21||https://aclanthology.org/2021.acl-long.4/|
+|Hate Speech Detection Based on Sentiment Knowledge Sharing|acl21||https://aclanthology.org/2021.acl-long.556/|
+|Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech|acl21||https://aclanthology.org/2021.acl-long.250/|
+|Text-Free Image-to-Speech Synthesis Using Learned Segmental Units|acl21||https://aclanthology.org/2021.acl-long.411/|
+|An Improved Model for Voicing Silent Speech|acl21||https://aclanthology.org/2021.acl-short.23/|

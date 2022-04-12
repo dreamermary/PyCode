@@ -1,0 +1,4 @@
+|A Brief Overview of Unsupervised Neural Speech Representation Learning|aaai22||https://arxiv.org/abs/2203.01829|
+|Bridging the Gap: Using Deep Acoustic Representations to Learn Grounded Language from Percepts and Raw Speech|aaai22||https://arxiv.org/abs/2112.13758|
+|Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement|aaai22||https://arxiv.org/abs/2112.10991|
+|Self-Supervised Representation Learning for Speech Using Visual Grounding and Masked Language Modeling|aaai22||https://arxiv.org/abs/2202.03543|

@@ -1,0 +1,941 @@
+Universal Sentence Representation Learning with Conditional Masked Language Model.	https://arxiv.org/abs/2012.14388
+Contrastive Code Representation Learning.	https://arxiv.org/abs/2007.04973
+Towards Zero-Shot Knowledge Distillation for Natural Language Processing.	https://arxiv.org/abs/2012.15495
+A Scalable Framework for Learning From Implicit User Feedback to Improve Natural Language Understanding in Large-Scale Conversational AI Systems.	https://arxiv.org/abs/2010.12251
+AEDA - An Easier Data Augmentation Technique for Text Classification.	https://arxiv.org/abs/2108.13230
+ConvFiT - Conversational Fine-Tuning of Pretrained Language Models.	https://arxiv.org/abs/2109.10126
+A Partition Filter Network for Joint Entity and Relation Extraction.	https://arxiv.org/abs/2108.12202
+Broaden the Vision - Geo-Diverse Visual Commonsense Reasoning.	https://arxiv.org/abs/2109.06860
+Mathematical Word Problem Generation from Commonsense Knowledge Graph and Equations.	https://arxiv.org/abs/2010.06196
+TimeTraveler - Reinforcement Learning for Temporal Knowledge Graph Forecasting.	https://arxiv.org/abs/2109.04101
+Visually Grounded Reasoning across Languages and Cultures.	https://arxiv.org/abs/2109.13238
+MindCraft - Theory of Mind Modeling for Situated Dialogue in Collaborative Tasks.	https://arxiv.org/abs/2109.06275
+PermuteFormer - Efficient Relative Position Encoding for Long Sequences.	https://arxiv.org/abs/2109.02377
+Frustratingly Simple Pretraining Alternatives to Masked Language Modeling.	https://arxiv.org/abs/2109.01819
+GMH: A General Multi-hop Reasoning Model for KG Completion	https://arxiv.org/abs/2010.07620
+Investigating Pretrained Language Models for Graph-to-Text Generation	https://arxiv.org/abs/2007.08426
+SimCSE - Simple Contrastive Learning of Sentence Embeddings.	https://arxiv.org/abs/2104.08821
+The Power of Scale for Parameter-Efficient Prompt Tuning.	https://arxiv.org/abs/2104.08691
+Paired Examples as Indirect Supervision in Latent Decision Models.	https://academic.microsoft.com/paper/3108314103/citedby/search?q=Paired+Examples+as+Indirect+Supervision+in+Latent+Decision+Models&qe=RId%253D1985105481&f=&orderBy=0
+Multi-Modal Open-Domain Dialogue.	https://arxiv.org/abs/2010.01082
+Zero-Shot Information Extraction as a Unified Text-to-Triple Translation.	https://academic.microsoft.com/paper/3201244947/citedby/search?q=Zero-Shot+Information+Extraction+as+a+Unified+Text-to-Triple+Translation.&qe=RId%253D1985105481&f=&orderBy=0
+HittER - Hierarchical Transformers for Knowledge Graph Embeddings.	https://arxiv.org/abs/2008.12813
+Gradient Imitation Reinforcement Learning for Low Resource Relation Extraction.	https://arxiv.org/abs/2109.06415
+Unsupervised Conversation Disentanglement through Co-Training.	https://arxiv.org/abs/2109.03199
+A Relation-Oriented Clustering Method for Open Relation Extraction.	https://arxiv.org/abs/2109.07205
+Hierarchical Heterogeneous Graph Representation Learning for Short Text Classification.	https://arxiv.org/abs/2111.00180
+ONION - A Simple and Effective Defense Against Textual Backdoor Attacks.	https://arxiv.org/abs/2011.10369
+Label Verbalization and Entailment for Effective Zero and Few-Shot Relation Extraction.	https://arxiv.org/abs/2109.03659
+Neural Machine Translation Quality and Post-Editing Performance	https://arxiv.org/abs/2109.05016
+Solving Aspect Category Sentiment Analysis as a Text Generation Task.	https://arxiv.org/abs/2110.07310
+STraTA - Self-Training with Task Augmentation for Better Few-shot Learning.	https://arxiv.org/abs/2109.06270
+Weakly-supervised Text Classification Based on Keyword Graph.	https://arxiv.org/abs/2110.02591
+Learning Neural Templates for Recommender Dialogue System.	https://arxiv.org/abs/2109.12302
+Multiplex Graph Neural Network for Extractive Text Summarization.	https://arxiv.org/abs/2108.12870
+Allocating Large Vocabulary Capacity for Cross-Lingual Language Model Pre-Training.	https://arxiv.org/abs/2109.07306
+RoR - Read-over-Read for Long Document Machine Reading Comprehension.	https://arxiv.org/abs/2109.04780
+Enriching and Controlling Global Semantics for Text Summarization.	https://arxiv.org/abs/2109.10616
+Document Graph for Neural Machine Translation.	https://arxiv.org/abs/2012.03477
+Revisiting Self-training for Few-shot Learning of Language Model.	https://arxiv.org/abs/2110.01256
+FCM: A Fine-grained Comparison Model forMulti-turn Dialogue Reasoning	https://arxiv.org/abs/2109.10510
+Measuring Association Between Labels and Free-Text Rationales.	https://arxiv.org/abs/2010.12762
+ERNIE-M - Enhanced Multilingual Representation by Aligning Cross-lingual Semantics with Monolingual Corpora.	https://arxiv.org/abs/2012.15674
+DialogueCSE - Dialogue-based Contrastive Learning of Sentence Embeddings.	https://arxiv.org/abs/2109.12599
+Generalised Unsupervised Domain Adaptation of Neural Machine Translation with Cross-Lingual Data Selection.	https://arxiv.org/abs/2109.04292
+Heterogeneous Graph Neural Networks for Keyphrase Generation.	https://arxiv.org/abs/2109.04703
+DiscoDVT - Generating Long Text with Discourse-Aware Discrete Variational Transformer.	https://arxiv.org/abs/2110.05999
+FewshotQA - A simple framework for few-shot learning of question answering tasks using pre-trained text-to-text models.	https://arxiv.org/abs/2109.01951
+Generate & Rank - A Multi-task Framework for Math Word Problems.	https://arxiv.org/abs/2109.03034
+A Differentiable Relaxation of Graph Segmentation and Alignment for AMR Parsing.	https://arxiv.org/abs/2010.12676
+Distributionally Robust Multilingual Machine Translation.	https://arxiv.org/abs/2109.04020
+MapRE - An Effective Semantic Mapping Approach for Low-resource Relation Extraction.	https://arxiv.org/abs/2109.04108
+TransferNet - An Effective and Transparent Framework for Multi-hop Question Answering over Relation Graph.	https://arxiv.org/abs/2104.07302
+Knowledge Enhanced Fine-Tuning for Better Handling Unseen Entities in Dialogue Generation.	https://arxiv.org/abs/2109.05487
+Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training.	https://arxiv.org/abs/2109.05003
+Large-Scale Relation Learning for Question Answering over Knowledge Bases with Pre-trained Language Models.	https://dblp.org/rec/conf/emnlp/YanLWZDZWX21
+Moral Stories - Situated Reasoning about Norms, Intents, Actions, and their Consequences.	https://arxiv.org/abs/2012.15738
+Harms of Gender Exclusivity and Challenges in Non-Binary Representation in Language Technologies.	https://arxiv.org/abs/2108.12084
+Thinking Clearly, Talking Fast - Concept-Guided Non-Autoregressive Generation for Open-Domain Dialogue Systems.	https://arxiv.org/abs/2109.04084
+Improving Unsupervised Question Answering via Summarization-Informed Question Generation.	https://arxiv.org/abs/2109.07954
+Transformer Feed-Forward Layers Are Key-Value Memories.	https://arxiv.org/abs/2012.14913
+Fine-grained Entity Typing via Label Reasoning.	https://arxiv.org/abs/2109.05744
+Generalization in Text-based Games via Hierarchical Reinforcement Learning.	https://arxiv.org/abs/2109.09968
+OSCaR - Orthogonal Subspace Correction and Rectification of Biases in Word Embeddings.	https://arxiv.org/abs/2007.00049
+Surface Form Competition - Why the Highest Probability Answer Isn't Always Right.	https://arxiv.org/abs/2104.08315
+ReGen - Reinforcement Learning for Text and Knowledge Base Generation using Pretrained Language Models.	https://arxiv.org/abs/2108.12472
+Deep Attention Diffusion Graph Neural Networks for Text Classification.	https://aclanthology.org/2021.emnlp-main.642/
+The Perils of Using Mechanical Turk to Evaluate Open-Ended Text Generation.	https://arxiv.org/abs/2109.06835
+CSDS - A Fine-Grained Chinese Dataset for Customer Service Dialogue Summarization.	https://arxiv.org/abs/2108.13139
+Unsupervised Data Augmentation with Naive Augmentation and without Unlabeled Data.	https://arxiv.org/abs/2010.11966
+Jointly Learning to Repair Code and Generate Commit Message.	https://arxiv.org/abs/2109.12296
+UNKs Everywhere - Adapting Multilingual Language Models to New Scripts.	https://arxiv.org/abs/2012.15562
+Dialogue State Tracking with a Language Model using Schema-Driven Prompting.	https://arxiv.org/abs/2109.07506
+Controllable Neural Dialogue Summarization with Personal Named Entity Planning.	https://arxiv.org/abs/2109.13070
+Visual News - Benchmark and Challenges in News Image Captioning.	https://arxiv.org/abs/2010.03743v3
+AUTOSUMM - Automatic Model Creation for Text Summarization.	https://aclanthology.org/2021.emnlp-main.798/
+Improving Graph-based Sentence Ordering with Iteratively Predicted Pairwise Orderings.	https://arxiv.org/abs/2110.06446
+Uncovering Main Causalities for Long-tailed Information Extraction.	https://arxiv.org/abs/2109.05213
+Modular Self-Supervision for Document-Level Relation Extraction.	https://arxiv.org/abs/2109.05362
+FiD-Ex - Improving Sequence-to-Sequence Models for Extractive Rationale Generation.	https://arxiv.org/abs/2012.15482
+Tribrid - Stance Classification with Neural Inconsistency Detection.	https://arxiv.org/abs/2109.06508
+Coarse2Fine - Fine-grained Text Classification on Coarsely-grained Annotated Data.	https://arxiv.org/abs/2109.10856
+BiQUE - Biquaternionic Embeddings of Knowledge Graphs.	https://arxiv.org/abs/2109.14401
+Entity Relation Extraction as Dependency Parsing in Visually Rich Documents.	https://arxiv.org/abs/2110.09915
+Vision Guided Generative Pre-trained Language Models for Multimodal Abstractive Summarization.	https://arxiv.org/abs/2109.02401
+End-to-End Learning of Flowchart Grounded Task-Oriented Dialogs	https://arxiv.org/abs/2109.07263
+FLiText - A Faster and Lighter Semi-Supervised Text Classification with Convolution Networks.	https://arxiv.org/abs/2110.11869
+Do Transformer Modifications Transfer Across Implementations and Applications?	https://arxiv.org/abs/2102.11972
+Analyzing the Surprising Variability in Word Embedding Stability Across Languages.	https://arxiv.org/abs/2004.14876
+Text Counterfactuals via Latent Optimization and Shapley-Guided Search	https://arxiv.org/abs/2110.11589
+Diverse Distributions of Self-Supervised Tasks for Meta-Learning in NLP.	https://arxiv.org/abs/2111.01322
+Cross-lingual Intermediate Fine-tuning improves Dialogue State Tracking.	https://arxiv.org/abs/2109.13620
+Transferable Persona-Grounded Dialogues via Grounded Minimal Edits.	https://arxiv.org/abs/2109.07713
+Is Everything in Order? A Simple Way to Order Sentences.	https://arxiv.org/pdf/2104.07064v2.pdf
+A Three-Stage Learning Framework for Low-Resource Knowledge-Grounded Dialogue Generation.	https://arxiv.org/abs/2109.04096
+Conversational Multi-Hop Reasoning with Neural Commonsense Knowledge and Symbolic Logic Rules.	https://arxiv.org/abs/2109.08544
+StreamHover - Livestream Transcript Summarization and Annotation.	https://arxiv.org/abs/2109.05160
+Muppet - Massive Multi-task Representations with Pre-Finetuning.	https://arxiv.org/abs/2101.11038
+Exploring Task Difficulty for Few-Shot Relation Extraction.	https://arxiv.org/abs/2109.05473
+Summarize-then-Answer - Generating Concise Explanations for Multi-hop Reading Comprehension.	https://arxiv.org/abs/2109.06853
+Multilingual Unsupervised Neural Machine Translation with Denoising Adapters.	https://arxiv.org/abs/2110.10472
+Different Strokes for Different Folks - Investigating Appropriate Further Pre-training Approaches for Diverse Dialogue Tasks.	https://arxiv.org/abs/2109.06524
+Detect and Classify - Joint Span Detection and Classification for Health Outcomes.	https://arxiv.org/abs/2104.07789
+Automated Generation of Accurate & Fluent Medical X-ray Reports.	https://arxiv.org/abs/2108.12126
+DIALKI - Knowledge Identification in Conversational Systems through Dialogue-Document Contextualization.	https://arxiv.org/abs/2109.04673
+Corpus-based Open-Domain Event Type Induction.	https://arxiv.org/abs/2109.03322
+Learning to Selectively Learn for Weakly-supervised Paraphrase Generation.	https://arxiv.org/abs/2109.12457
+Learning from Noisy Labels for Entity-Centric Information Extraction.	https://arxiv.org/abs/2104.08656
+MultiDoc2Dial - Modeling Dialogues Grounded in Multiple Documents.	https://arxiv.org/abs/2109.12595
+Conundrums in Event Coreference Resolution - Making Sense of the State of the Art.	https://dblp.uni-trier.de/db/conf/emnlp/emnlp2020-1.html#LuN20
+Learning from Multiple Noisy Augmented Data Sets for Better Cross-Lingual Spoken Language Understanding.	https://arxiv.org/abs/2109.01583
+MTAdam - Automatic Balancing of Multiple Training Loss Terms.	https://arxiv.org/abs/2006.14683
+SgSum - Transforming Multi-document Summarization into Sub-graph Selection.	https://arxiv.org/abs/2110.12645
+Uncertainty Measures in Neural Belief Tracking and the Effects on Dialogue Policy Performance.	https://arxiv.org/abs/2109.04349
+Generative Context Pair Selection for Multi-hop Question Answering.	https://arxiv.org/abs/2104.08744
+What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA - Billions-scale Korean Generative Pretrained Transformers.	https://arxiv.org/abs/2109.04650
+FastIF - Scalable Influence Functions for Efficient Model Interpretation and Debugging.	https://arxiv.org/abs/2012.15781
+Logic-level Evidence Retrieval and Graph-based Verification Network for Table-based Fact Verification.	https://arxiv.org/abs/2109.06480
+Discovering the Unknown Knowns - Turning Implicit Knowledge in the Dataset into Explicit Training Examples for Visual Question Answering.	https://arxiv.org/abs/2109.06122
+Parallel Refinements for Lexically Constrained Text Generation with BART.	https://arxiv.org/abs/2109.12487
+Can NLI Models Verify QA Systems' Predictions?	https://arxiv.org/abs/2104.08731
+Zero-Shot Dialogue State Tracking via Cross-Task Transfer.	https://arxiv.org/abs/2109.04655
+Finding needles in a haystack - Sampling Structurally-diverse Training Sets from Synthetic Data for Compositional Generalization.	https://arxiv.org/abs/2109.02575
+Automatically Exposing Problems with Neural Dialog Models.	https://arxiv.org/abs/2109.06950
+CAST - Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees.	https://arxiv.org/abs/2108.12987
+Building and Evaluating Open-Domain Dialogue Corpora with Clarifying Questions.	https://arxiv.org/abs/2109.05794
+Do Long-Range Language Models Actually Use Long-Range Context?	https://arxiv.org/abs/2109.09115
+A Novel Global Feature-Oriented Relational Triple Extraction Model based on Table Filling.	https://arxiv.org/abs/2109.06705
+Incorporating Residual and Normalization Layers into Analysis of Masked Language Models.	https://arxiv.org/abs/2109.07152
+Learning Kernel-Smoothed Machine Translation with Retrieved Examples.	https://arxiv.org/abs/2109.09991
+SituatedQA - Incorporating Extra-Linguistic Contexts into QA.	https://arxiv.org/abs/2109.06157
+Continual Learning in Task-Oriented Dialogue Systems.	https://arxiv.org/abs/2012.15504
+Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection.	https://dblp.org/rec/conf/emnlp/JuZXLLZZ21
+Machine Reading Comprehension as Data Augmentation - A Case Study on Implicit Event Argument Extraction.	https://dblp.org/rec/conf/emnlp/LiuCX21
+Phrase Retrieval Learns Passage Retrieval, Too.	https://arxiv.org/abs/2109.08133
+DyLex - Incorporating Dynamic Lexicons into BERT for Sequence Labeling.	https://arxiv.org/abs/2109.08818
+End-to-End Conversational Search for Online Shopping with Utterance Transfer.	https://arxiv.org/abs/2109.05460
+Efficient Mind-Map Generation via Sequence-to-Graph and Reinforced Graph Refinement.	https://arxiv.org/abs/2109.02457
+RuleBERT - Teaching Soft Rules to Pre-Trained Language Models.	https://arxiv.org/abs/2109.13006
+Asking Questions Like Educational Experts - Automatically Generating Question-Answer Pairs on Real-World Examination Data.	https://arxiv.org/abs/2109.05179
+Low-Resource Dialogue Summarization with Domain-Agnostic Multi-Source Pretraining.	https://arxiv.org/abs/2109.04080
+Extracting Event Temporal Relations via Hyperbolic Geometry.	https://arxiv.org/abs/2109.05527
+UniKER - A Unified Framework for Combining Embedding and Definite Horn Rule Reasoning for Knowledge Graph Inference.	https://dblp.org/rec/conf/emnlp/ChengYZS21
+PASTE - A Tagging-Free Decoding Framework Using Pointer Networks for Aspect Sentiment Triplet Extraction.	https://arxiv.org/abs/2110.04794
+Graph Based Network with Contextualized Representations of Turns in Dialogue.	https://arxiv.org/abs/2109.04008
+A Graph-Based Neural Model for End-to-End Frame Semantic Parsing.	https://arxiv.org/abs/2109.12319
+Studying word order through iterative shuffling.	https://arxiv.org/abs/2109.04867
+Knowing False Negatives - An Adversarial Training Method for Distantly Supervised Relation Extraction.	https://arxiv.org/abs/2109.02099
+Importance Estimation from Multiple Perspectives for Keyphrase Extraction.	https://arxiv.org/abs/2110.09749
+Refocusing on Relevance - Personalization in NLG.	https://arxiv.org/abs/2109.05140
+BERT4GCN - Using BERT Intermediate Layers to Augment GCN for Aspect-based Sentiment Classification.	https://arxiv.org/abs/2110.00171
+Math Word Problem Generation with Mathematical Consistency and Problem Context Constraints.	https://arxiv.org/abs/2109.04546
+Mind the Style of Text! Adversarial and Backdoor Attacks Based on Text Style Transfer.	https://arxiv.org/abs/2110.07139
+Everything Is All It Takes - A Multipronged Strategy for Zero-Shot Cross-Lingual Information Extraction.	https://arxiv.org/abs/2109.06798
+Unsupervised Keyphrase Extraction by Jointly Modeling Local and Global Context.	https://arxiv.org/abs/2109.07293
+Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers.	https://arxiv.org/abs/2109.04448
+Reference-Centric Models for Grounded Collaborative Dialogue.	https://arxiv.org/abs/2109.05042
+Improving Multimodal Fusion with Hierarchical Mutual Information Maximization for Multimodal Sentiment Analysis.	https://arxiv.org/abs/2109.00412
+Multimodal Phased Transformer for Sentiment Analysis.	https://dblp.org/rec/conf/emnlp/ChengFB021
+Classification-based Quality Estimation: Small and Efficient Models for Real-world Applications	https://arxiv.org/abs/2109.08627
+COVR - A Test-Bed for Visually Grounded Compositional Generalization with Real Images.	https://arxiv.org/abs/2109.10613
+Generating Self-Contained and Summary-Centric Question Answer Pairs via Differentiable Reward Imitation Learning.	https://arxiv.org/abs/2109.04689
+Just Say No - Analyzing the Stance of Neural Dialogue Generation in Offensive Contexts.	https://arxiv.org/abs/2108.11830
+Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialog Systems	https://arxiv.org/abs/2108.12589
+Value-aware Approximate Attention.	https://arxiv.org/abs/2103.09857
+The Future is not One-dimensional - Complex Event Schema Induction by Graph Modeling for Event Prediction.	https://dblp.org/rec/conf/emnlp/LiLWHCJ0V21
+Highly Parallel Autoregressive Entity Linking with Discriminative Correction.	https://arxiv.org/abs/2109.03792
+Focus on what matters - Applying Discourse Coherence Theory to Cross Document Coreference.	https://arxiv.org/abs/2110.05362
+Automatic Text Evaluation through the Lens of Wasserstein Barycenters.	https://arxiv.org/abs/2108.12463
+SELFEXPLAIN - A Self-Explaining Architecture for Neural Text Classifiers.	https://arxiv.org/abs/2103.12279
+Synthetic Data Augmentation for Zero-Shot Cross-Lingual Question Answering.	https://arxiv.org/abs/2010.12643
+BeliefBank - Adding Memory to a Pre-Trained Language Model for a Systematic Notion of Belief.	https://arxiv.org/abs/2109.14723
+VideoCLIP - Contrastive Pre-training for Zero-shot Video-Text Understanding.	https://arxiv.org/abs/2109.14084
+When Attention Meets Fast Recurrence - Training Language Models with Reduced Compute.	https://arxiv.org/abs/2102.12459
+Progressive Adversarial Learning for Bootstrapping - A Case Study on Entity Set Expansion.	https://arxiv.org/abs/2109.12082
+Learning Opinion Summarizers by Selecting Informative Reviews.	https://arxiv.org/abs/2109.04325
+CodRED - A Cross-Document Relation Extraction Dataset for Acquiring Knowledge in the Wild.	https://dblp.org/rec/conf/emnlp/YaoDLLLZS21
+Dealing with Typos for BERT-based Passage Retrieval and Ranking.	https://arxiv.org/abs/2108.12139
+Document-level Entity-based Extraction as Template Generation.	https://arxiv.org/abs/2109.04901
+Segment, Mask, and Predict - Augmenting Chinese Word Segmentation with Self-Supervision.	https://dblp.org/rec/conf/emnlp/MaimaitiLZCHZLS21
+CodeT5 - Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation.	https://arxiv.org/abs/2109.00859
+Neural Attention-Aware Hierarchical Topic Model.	https://arxiv.org/abs/2110.07161
+Relation-aware Video Reading Comprehension for Temporal Language Grounding.	https://arxiv.org/abs/2110.05717
+BERT, mBERT, or BiBERT? A Study on Contextualized Embeddings for Neural Machine Translation.	https://arxiv.org/abs/2109.04588
+On the Relation between Syntactic Divergence and Zero-Shot Performance.	https://arxiv.org/abs/2110.04644
+Few-Shot Emotion Recognition in Conversation with Sequential Prototypical Networks.	https://arxiv.org/abs/2109.09366
+CrossFit - A Few-shot Learning Challenge for Cross-task Generalization in NLP.	https://arxiv.org/abs/2104.08835
+PAUSE - Positive and Annealed Unlabeled Sentence Embedding.	https://arxiv.org/abs/2109.03155
+Stepmothers are mean and academics are pretentious - What do pretrained language models learn about you?	https://arxiv.org/abs/2109.10052
+CRYPTOGRU - Low Latency Privacy-Preserving Text Analysis With GRU.	https://arxiv.org/abs/2010.11796
+AligNART - Non-autoregressive Neural Machine Translation by Jointly Learning to Estimate Alignment and Translate.	https://arxiv.org/abs/2109.06481
+Sorting through the noise - Testing robustness of information processing in pre-trained language models.	https://arxiv.org/abs/2109.12393
+ARMAN - Pre-training with Semantically Selecting and Reordering of Sentences for Persian Abstractive Summarization.	https://arxiv.org/abs/2109.04098
+Adversarial Attacks on Knowledge Graph Embeddings via Instance Attribution Methods.	https://arxiv.org/abs/2111.03120
+Classifying Dyads for Militarized Conflict Analysis.	https://arxiv.org/abs/2109.12860
+Balancing Methods for Multi-label Text Classification with Long-Tailed Class Distribution.	https://arxiv.org/abs/2109.04712
+Does It Capture STEL? A Modular, Similarity-based Linguistic Style Evaluation Framework.	https://arxiv.org/abs/2109.04817
+Who Responded to Whom: The Joint Effects of Latent Topics and Discourse in Conversation Structure	https://arxiv.org/abs/2104.08601
+Global Explainability of BERT-Based Evaluation Metrics by Disentangling along Linguistic Factors.	https://arxiv.org/abs/2110.04399
+Perturbation CheckLists for Evaluating NLG Evaluation Metrics.	https://arxiv.org/abs/2109.05771
+Enhanced Language Representation with Label Knowledge for Span Extraction.	https://arxiv.org/abs/2111.00884
+Adaptive Proposal Generation Network for Temporal Sentence Localization in Videos.	https://arxiv.org/abs/2109.06398
+Putting Words in BERT's Mouth - Navigating Contextualized Vector Spaces with Pseudowords.	https://arxiv.org/abs/2109.11491
+All Bark and No Bite - Rogue Dimensions in Transformer Language Models Obscure Representational Quality.	https://arxiv.org/abs/2109.04404
+One Source, Two Targets - Challenges and Rewards of Dual Decoding.	https://arxiv.org/abs/2109.10197
+Learning Logic Rules for Document-Level Relation Extraction.	https://arxiv.org/abs/2111.05407
+Knowledge-Aware Meta-learning for Low-Resource Text Classification.	https://arxiv.org/abs/2109.04707
+Aspect-Controllable Opinion Summarization.	https://arxiv.org/abs/2109.03171
+Efficient Inference for Multilingual Neural Machine Translation.	https://arxiv.org/abs/2109.06679
+Contrastive Explanations for Model Interpretability.	https://arxiv.org/abs/2103.01378
+GradTS - A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks.	https://arxiv.org/abs/2109.05748
+Efficient-FedRec - Efficient Federated Learning Framework for Privacy-Preserving News Recommendation.	https://arxiv.org/abs/2109.05446
+R$^3$Net:Relation-embedded Representation Reconstruction Network for Change Captioning	https://arxiv.org/abs/2110.10328
+Genre as Weak Supervision for Cross-lingual Dependency Parsing.	https://arxiv.org/abs/2109.04733
+AfroMT - Pretraining Strategies and Reproducible Benchmarks for Translation of 8 African Languages.	https://arxiv.org/abs/2109.04715
+Semi-Supervised Exaggeration Detection of Health Science Press Releases.	https://arxiv.org/abs/2108.13493
+MultiEURLEX - A multi-lingual and multi-label legal document classification dataset for zero-shot cross-lingual transfer.	https://arxiv.org/abs/2109.00904
+Structured Context and High-Coverage Grammar for Conversational Question Answering over Knowledge Graphs.	https://arxiv.org/abs/2109.00269
+Phrase-BERT - Improved Phrase Embeddings from BERT with an Application to Corpus Exploration.	https://arxiv.org/abs/2109.06304
+Progressively Guide to Attend - An Iterative Alignment Framework for Temporal Sentence Grounding.	https://arxiv.org/abs/2109.06400
+TEBNER - Domain Specific Named Entity Recognition with Type Expanded Boundary-aware Network.	https://dblp.org/rec/conf/emnlp/0002CLJ0SL21
+CLASSIC - Continual and Contrastive Learning of Aspect Sentiment Classification Tasks.	https://dblp.org/rec/conf/emnlp/KeLXS21
+Neural Natural Logic Inference for Interpretable Question Answering.	https://dblp.org/rec/conf/emnlp/ShiDD0021
+SideControl - Controlled Open-domain Dialogue Generation via Additive Side Networks.	https://arxiv.org/abs/2109.01958
+The Devil is in the Detail - Simple Tricks Improve Systematic Generalization of Transformers.	https://arxiv.org/abs/2108.12284
+Aspect Sentiment Quad Prediction as Paraphrase Generation.	https://arxiv.org/abs/2110.00796
+The Stem Cell Hypothesis - Dilemma behind Multi-Task Learning with Transformer Encoders.	https://arxiv.org/abs/2109.06939
+Multi-Sentence Resampling - A Simple Approach to Alleviate Dataset Length Bias and Beam-Search Degradation.	https://arxiv.org/abs/2109.06253
+Pushing on Text Readability Assessment - A Transformer Meets Handcrafted Linguistic Features.	https://arxiv.org/abs/2109.12258
+CLIFF - Contrastive Learning for Improving Faithfulness and Factuality in Abstractive Summarization.	https://arxiv.org/abs/2109.09209
+SPECTRA - Sparse Structured Text Rationalization.	https://arxiv.org/abs/2109.04552
+Open Aspect Target Sentiment Classification with Natural Language Prompts.	https://arxiv.org/abs/2109.03685
+Learning grounded word meaning representations on similarity graphs.	https://arxiv.org/abs/2109.03084
+Neural Path Hunter - Reducing Hallucination in Dialogue Systems via Path Grounding.	https://arxiv.org/abs/2104.08455
+Raise a Child in Large Language Model - Towards Effective and Generalizable Fine-tuning.	https://arxiv.org/abs/2109.05687
+Text AutoAugment - Learning Compositional Augmentation Policy for Text Classification.	https://arxiv.org/abs/2109.00523
+Frequency Effects on Syntactic Rule Learning in Transformers.	https://arxiv.org/abs/2109.07020
+Multilingual and Cross-Lingual Intent Detection from Spoken Data.	https://arxiv.org/abs/2104.08524
+Does External Knowledge Help Explainable Natural Language Inference? Automatic Evaluation vs. Human Ratings	https://arxiv.org/abs/2109.07833
+Virtual Data Augmentation - A Robust and General Framework for Fine-tuning Pre-trained Models.	https://arxiv.org/abs/2109.05793
+Scalable Font Reconstruction with Dual Latent Manifolds.	https://arxiv.org/abs/2109.06627
+Integrating Visuospatial, Linguistic, and Commonsense Structure into Story Visualization.	https://arxiv.org/abs/2110.10834
+Navigating the Kaleidoscope of COVID-19 Misinformation Using Deep Learning.	https://arxiv.org/abs/2110.15703
+Robust Retrieval Augmented Generation for Zero-shot Slot Filling.	https://arxiv.org/abs/2108.13934
+Text Detoxification using Large Pre-trained Neural Models.	https://arxiv.org/abs/2109.08914
+Pairwise Supervised Contrastive Learning of Sentence Representations.	https://arxiv.org/abs/2109.05424
+Beyond Text - Incorporating Metadata and Label Structure for Multi-Label Document Classification using Heterogeneous Graphs.	https://dblp.org/rec/conf/emnlp/YeZHZW21
+Editing Factual Knowledge in Language Models.	https://arxiv.org/abs/2104.08164
+End-to-end Neural Information Status Classification.	https://arxiv.org/abs/2109.02753
+Adversarial Scrubbing of Demographic Information for Text Classification.	https://arxiv.org/abs/2109.08613
+A Massively Multilingual Analysis of Cross-linguality in Shared Embedding Space.	https://arxiv.org/abs/2109.06324
+Data Augmentation for Cross-Domain Named Entity Recognition.	https://arxiv.org/abs/2109.01758
+Integrating Semantic Scenario and Word Relations for Abstractive Sentence Summarization.	https://dblp.org/rec/conf/emnlp/GuanGLLZ21
+Distantly Supervised Relation Extraction using Multi-Layer Revision Network and Confidence-based Multi-Instance Learning.	https://dblp.org/rec/conf/emnlp/LinL0G21
+Comparing Feature-Engineering and Feature-Learning Approaches for Multilingual Translationese Classification.	https://arxiv.org/abs/2109.07604
+Thermostat - A Large Collection of NLP Model Explanations and Analysis Tools.	https://arxiv.org/abs/2108.13961
+HRKD - Hierarchical Relational Knowledge Distillation for Cross-domain Language Model Compression.	https://arxiv.org/abs/2110.08551
+Data Augmentation with Hierarchical SQL-to-Question Generation for Cross-domain Text-to-SQL Parsing	https://arxiv.org/abs/2103.02227
+Natural Language Video Localization with Learnable Moment Proposals.	https://arxiv.org/abs/2109.10678
+Generating Datasets with Pretrained Language Models.	https://arxiv.org/abs/2104.07540
+Expanding End-to-End Question Answering on Differentiable Knowledge Graphs with Intersection.	https://dblp.org/rec/conf/emnlp/SenOS21
+Implicit Sentiment Analysis with Event-centered Text Representation.	https://dblp.org/rec/conf/emnlp/ZhouWZH21
+ESTER - A Machine Reading Comprehension Dataset for Reasoning about Event Semantic Relations.	https://dblp.org/rec/conf/emnlp/HanHSBNRP21
+Is Multi-Hop Reasoning Really Explainable? Towards Benchmarking Reasoning Interpretability.	https://arxiv.org/abs/2104.06751
+Will this Question be Answered? Question Filtering via Answer Model Distillation for Efficient Question Answering.	https://arxiv.org/abs/2109.07009
+Avoiding Inference Heuristics in Few-shot Prompt-based Finetuning.	https://arxiv.org/abs/2109.04144
+Meta-LMTC - Meta-Learning for Large-Scale Multi-Label Text Classification.	https://dblp.org/rec/conf/emnlp/WangSLDHC21
+Searching for an Effective Defender - Benchmarking Defense against Adversarial Word Substitution.	https://arxiv.org/abs/2108.12777
+Honey or Poison? Solving the Trigger Curse in Few-shot Event Detection via Causal Intervention.	https://arxiv.org/abs/2109.05747
+Improving Question Answering Model Robustness with Synthetic Adversarial Data Generation.	https://arxiv.org/abs/2104.08678
+Monitoring geometrical properties of word embeddings for detecting the emergence of new topics.	https://arxiv.org/abs/2111.03496
+Entity-Based Knowledge Conflicts in Question Answering.	https://arxiv.org/abs/2109.05052
+Compression, Transduction, and Creation - A Unified Framework for Evaluating Natural Language Generation.	https://arxiv.org/abs/2109.06379
+Few-Shot Intent Detection via Contrastive Pre-Training and Fine-Tuning.	https://arxiv.org/abs/2109.06349
+Self-Supervised Quality Estimation for Machine Translation.	https://dblp.org/rec/conf/emnlp/ZhengTZMLSLL21
+Data Augmentation Methods for Anaphoric Zero Pronouns	https://arxiv.org/abs/2109.09825
+Smoothing Dialogue States for Open Conversational Machine Reading.	https://arxiv.org/abs/2108.12599
+Weakly-Supervised Visual-Retriever-Reader for Knowledge-based Question Answering.	https://arxiv.org/abs/2109.04014
+Not All Negatives are Equal - Label-Aware Contrastive Loss for Fine-grained Text Classification.	https://arxiv.org/abs/2109.05427
+AdapterDrop - On the Efficiency of Adapters in Transformers.	https://arxiv.org/abs/2010.11918
+A Bag of Tricks for Dialogue Summarization.	https://arxiv.org/abs/2109.08232
+Augmenting BERT-style Models with Predictive Coding to Improve Discourse-level Representations.	https://arxiv.org/abs/2109.04602
+Backdoor Attacks on Pre-trained Models by Layerwise Weight Poisoning.	https://arxiv.org/abs/2108.13888
+ConRPG - Paraphrase Generation using Contexts as Regularizer.	https://arxiv.org/abs/2109.00363
+MiRANews - Dataset and Benchmarks for Multi-Resource-Assisted News Summarization.	https://arxiv.org/abs/2109.10650
+(Mis)alignment Between Stance Expressed in Social Media Data and Public Opinion Surveys.	https://arxiv.org/abs/2109.01762
+Inducing Transformer's Compositional Generalization Ability via Auxiliary Sequence Prediction Tasks.	https://arxiv.org/abs/2109.15256
+Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks.	https://arxiv.org/abs/2110.04522
+GOLD - Improving Out-of-Scope Detection in Dialogues using Data Augmentation.	https://arxiv.org/abs/2109.03079
+Contrastive Domain Adaptation for Question Answering using Limited Text Corpora.	https://arxiv.org/abs/2108.13854
+A Role-Selected Sharing Network for Joint Machine-Human Chatting Handoff and Service Satisfaction Analysis.	https://arxiv.org/abs/2109.08412
+Transductive Learning for Unsupervised Text Style Transfer.	https://arxiv.org/abs/2109.07812
+Relation Extraction with Word Graphs from N-grams.	https://dblp.org/rec/conf/emnlp/QinTS21
+Matching-oriented Embedding Quantization For Ad-hoc Retrieval.	https://dblp.org/rec/conf/emnlp/XiaoLSL021
+Time-dependent Entity Embedding is not All You Need - A Re-evaluation of Temporal Knowledge Graph Completion Models under a Unified Framework.	https://dblp.org/rec/conf/emnlp/HanZMT21
+Decomposing Complex Questions Makes Multi-Hop QA Easier and More Interpretable.	https://arxiv.org/abs/2110.13472
+LayoutReader - Pre-training of Text and Layout for Reading Order Detection.	https://arxiv.org/abs/2108.11591
+Active Learning by Acquiring Contrastive Examples.	https://arxiv.org/abs/2109.03764
+LM-Critic - Language Models for Unsupervised Grammatical Error Correction.	https://arxiv.org/abs/2109.06822
+On the Challenges of Evaluating Compositional Explanations in Multi-Hop Inference - Relevance, Completeness, and Expert Ratings.	https://arxiv.org/abs/2109.03334
+Enhancing Multiple-choice Machine Reading Comprehension by Punishing Illogical Interpretations.	https://dblp.org/rec/conf/emnlp/JuZT0CZLZ21
+Timeline Summarization based on Event Graph Compression via Time-Aware Optimal Transport.	https://dblp.org/rec/conf/emnlp/Li0YWGJM21
+Discovering Representation Sprachbund For Multilingual Pre-Training.	https://arxiv.org/abs/2109.00271
+RAP - Robustness-Aware Perturbations for Defending against Backdoor Attacks on NLP Models.	https://arxiv.org/abs/2110.07831
+Exophoric Pronoun Resolution in Dialogues with Topic Regularization.	https://arxiv.org/abs/2109.04787
+Understanding Politics via Contextualized Discourse Processing.	https://arxiv.org/abs/2012.15784
+Fast, Effective and Self-Supervised: Transforming Masked LanguageModels into Universal Lexical and Sentence Encoders	https://arxiv.org/abs/2104.08027
+CHoRaL - Collecting Humor Reaction Labels from Millions of Social Media Users.	https://dblp.org/rec/conf/emnlp/YangHH21
+Beyond Preserved Accuracy - Evaluating Loyalty and Robustness of BERT Compression.	https://arxiv.org/abs/2109.03228
+Dynamic Knowledge Distillation for Pre-trained Language Models.	https://dblp.org/rec/conf/emnlp/LiLRLZ021
+Learning Implicit Sentiment in Aspect-based Sentiment Analysis with Supervised Contrastive Pre-Training.	https://arxiv.org/abs/2111.02194
+Intention Reasoning Network for Multi-Domain End-to-end Task-Oriented Dialogue.	https://dblp.org/rec/conf/emnlp/MaLZLC21
+Structural Adapters in Pretrained Language Models for AMR-to-Text Generation.	https://arxiv.org/abs/2103.09120
+CRFR - Improving Conversational Recommender Systems via Flexible Fragments Reasoning on Knowledge Graphs.	https://dblp.org/rec/conf/emnlp/ZhouWHH21
+Don't be Contradicted with Anything! CI-ToD - Towards Benchmarking Consistency for Task-oriented Dialogue System.	https://dblp.org/rec/conf/emnlp/QinXHCXC21
+ProtoInfoMax - Prototypical Networks with Mutual Information Maximization for Out-of-Domain Detection.	https://arxiv.org/abs/2108.12229
+Adaptive Information Seeking for Open-Domain Question Answering.	https://arxiv.org/abs/2109.06747
+Learning Compact Metrics for MT.	https://arxiv.org/abs/2110.06341
+End-to-End Entity Resolution and Question Answering Using Differentiable Knowledge Graphs.	https://arxiv.org/abs/2109.05817
+Improving Distantly-Supervised Named Entity Recognition with Self-Collaborative Denoising Learning.	https://arxiv.org/abs/2110.04429
+A Bayesian Framework for Information-Theoretic Probing.	https://arxiv.org/abs/2109.03853
+Distilling Relation Embeddings from Pretrained Language Models.	https://arxiv.org/abs/2110.15705
+STANKER - Stacking Network based on Level-grained Attention-masked BERT for Rumor Detection on Social Media.	https://dblp.org/rec/conf/emnlp/RaoMJL21
+Aligning Cross-lingual Sentence Representations with Dual Momentum Contrast.	https://arxiv.org/abs/2109.00253
+Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories.	https://dblp.org/rec/conf/emnlp/QinCTS21
+EARL - Informative Knowledge-Grounded Conversation Generation with Entity-Agnostic Representation Learning.	https://dblp.org/rec/conf/emnlp/ZhouHLC021
+Powering Comparative Classification with Sentiment Analysis via Domain Adaptive Knowledge Transfer.	https://arxiv.org/abs/2109.03819
+From Alignment to Assignment - Frustratingly Simple Unsupervised Entity Alignment.	https://arxiv.org/abs/2109.02363
+T3-Vis: a visual analytic framework for Training and fine-Tuning Transformers in NLP	https://arxiv.org/abs/2108.13587
+Total Recall - a Customized Continual Learning Method for Neural Semantic Parsers.	https://arxiv.org/abs/2109.05186
+RocketQAv2 - A Joint Training Method for Dense Passage Retrieval and Passage Re-ranking.	https://arxiv.org/abs/2110.07367
+Controllable Semantic Parsing via Retrieval Augmentation.	https://arxiv.org/abs/2110.08458
+$Q^{2}$: Evaluating Factual Consistency in Knowledge-Grounded Dialogues via Question Generation and Question Answering	https://arxiv.org/abs/2104.08202
+BiSECT - Learning to Split and Rephrase Sentences with Bitexts.	https://arxiv.org/abs/2109.05006
+Pre-train or Annotate? Domain Adaptation with a Constrained Budget.	https://arxiv.org/abs/2109.04711
+APIRecX - Cross-Library API Recommendation via Pre-Trained Language Model.	https://dblp.org/rec/conf/emnlp/KangW00Y21
+Adversarial Regularization as Stackelberg Game - An Unrolled Optimization Approach.	https://dblp.org/rec/conf/emnlp/ZuoLJLHGCZ21
+Few-Shot Named Entity Recognition - An Empirical Baseline Study.	https://dblp.org/rec/conf/emnlp/HuangLSJBCPG021
+Beta Distribution Guided Aspect-aware Graph for Aspect Category Sentiment Analysis with Affective Knowledge.	https://dblp.org/rec/conf/emnlp/LiangSY0YZYX21
+Modeling Document-Level Context for Event Detection via Important Context Selection.	https://dblp.org/rec/conf/emnlp/VeysehNNMN21
+Re-embedding Difficult Samples via Mutual Information Constrained Semantically Oversampling for Imbalanced Text Classification.	https://dblp.org/rec/conf/emnlp/TianCZ0XWD21
+Cross-Domain Label-Adaptive Stance Detection.	https://arxiv.org/abs/2104.07467
+Numerical reasoning in machine reading comprehension tasks - are we there yet?	https://arxiv.org/abs/2109.08207
+Learning Prototype Representations Across Few-Shot Tasks for Event Detection.	https://dblp.org/rec/conf/emnlp/LaiDN21
+Linguistic dependencies and statistical dependence	https://arxiv.org/abs/2104.08685
+Generic resources are what you need - Style transfer tasks without task-specific parallel training data.	https://arxiv.org/abs/2109.04543
+Uncertainty-Aware Balancing for Multilingual and Multi-Domain Neural Machine Translation Training.	https://arxiv.org/abs/2109.02284
+Improving Multilingual Translation by Representation and Gradient Regularization.	https://arxiv.org/abs/2109.04778
+FinQA - A Dataset of Numerical Reasoning over Financial Data.	https://arxiv.org/abs/2109.00122
+Constrained Language Models Yield Few-Shot Semantic Parsers.	https://arxiv.org/abs/2104.08768
+ExplaGraphs - An Explanation Graph Generation Task for Structured Commonsense Reasoning.	https://arxiv.org/abs/2104.07644
+Detecting Speaker Personas from Conversational Texts.	https://arxiv.org/abs/2109.01330
+Effect of Visual Extensions on Natural Language Understanding in Vision-and-Language Models.	https://dblp.org/rec/conf/emnlp/IkiA21
+Continual Few-Shot Learning for Text Classification.	https://dblp.org/rec/conf/emnlp/PasunuruSB21
+Synchronous Dual Network with Cross-Type Attention for Joint Entity and Relation Extraction.	https://dblp.org/rec/conf/emnlp/WuS21
+Towards Realistic Few-Shot Relation Extraction.	https://dblp.org/rec/conf/emnlp/BrodyWB21
+Probing Across Time - What Does RoBERTa Know and When?	https://arxiv.org/abs/2104.07885
+DuRecDial 2.0 - A Bilingual Parallel Corpus for Conversational Recommendation.	https://arxiv.org/abs/2109.08877
+What's in Your Head? Emergent Behaviour in Multi-Task Transformer Models.	https://arxiv.org/abs/2104.06129
+mT6: Multilingual Pretrained Text-to-Text Transformer with Translation Pairs	https://arxiv.org/abs/2104.08692
+Multi-granularity Textual Adversarial Attack with Behavior Cloning.	https://arxiv.org/abs/2109.04367
+Integrating Deep Event-Level and Script-Level Information for Script Event Prediction.	https://arxiv.org/abs/2110.15706
+Language Modeling, Lexical Translation, Reordering - The Training Process of NMT through the Lens of Classical SMT.	https://arxiv.org/abs/2109.01396
+Learning Constraints and Descriptive Segmentation for Subevent Detection.	https://arxiv.org/abs/2109.06316
+ReasonBERT - Pre-trained to Reason with Distant Supervision.	https://arxiv.org/abs/2109.04912
+How to Leverage Multimodal EHR Data for Better Medical Predictions?	https://arxiv.org/abs/2110.15763
+Rethinking Data Augmentation for Low-Resource Neural Machine Translation - A Multi-Task Learning Approach.	https://arxiv.org/abs/2109.03645
+Block Pruning For Faster Transformers.	https://arxiv.org/abs/2109.04838
+RockNER - A Simple Method to Create Adversarial Examples for Evaluating the Robustness of Named Entity Recognition Models.	https://arxiv.org/abs/2109.05620
+Shortcutted Commonsense - Data Spuriousness in Deep Learning of Commonsense Reasoning.	https://dblp.org/rec/conf/emnlp/BrancoBRS21
+Region under Discussion for visual dialog.	https://dblp.org/rec/conf/emnlp/MazuecosLSMVB21
+NB-MLM - Efficient Domain Adaptation of Masked Language Models for Sentiment Analysis.	https://dblp.org/rec/conf/emnlp/ArefyevKS21
+Cross-lingual Sentence Embedding using Multi-Task Learning.	https://dblp.org/rec/conf/emnlp/GoswamiDAFM21
+Natural Language Processing Meets Quantum Physics - A Survey and Categorization.	https://dblp.org/rec/conf/emnlp/WuLZ021
+Learning to Rewrite for Non-Autoregressive Neural Machine Translation.	https://dblp.org/rec/conf/emnlp/GengF021
+CTAL - Pre-training Cross-modal Transformer for Audio-and-Language Representations.	https://dblp.org/rec/conf/emnlp/LiDKLWL21
+mT6 - Multilingual Pretrained Text-to-Text Transformer with Translation Pairs.	https://dblp.org/rec/conf/emnlp/ChiDMHSMHSW21
+Sparsity and Sentence Structure in Encoder-Decoder Attention of Summarization Systems.	https://arxiv.org/abs/2109.03888
+Improving Sequence-to-Sequence Pre-training via Sequence Span Rewriting.	https://dblp.org/rec/conf/emnlp/ZhouGX0W21
+Rethinking Denoised Auto-Encoding in Language Pre-Training.	https://dblp.org/rec/conf/emnlp/LuoYLRSHH21
+Simple Conversational Data Augmentation for Semi-supervised Abstractive Dialogue Summarization.	https://dblp.org/rec/conf/emnlp/ChenY21a
+Domain-Lifelong Learning for Dialogue State Tracking via Knowledge Preservation Networks.	https://dblp.org/rec/conf/emnlp/LiuCLCCYH0021
+Evaluation Paradigms in Question Answering.	https://dblp.org/rec/conf/emnlp/RodriguezB21
+Improving Neural Machine Translation by Bidirectional Training.	https://arxiv.org/abs/2109.07780
+Neural Unification for Logic Reasoning over Natural Language.	https://arxiv.org/abs/2109.08460
+Improved Latent Tree Induction with Distant Supervision via Span Constraints.	https://arxiv.org/abs/2109.05112
+STaCK - Sentence Ordering with Temporal Commonsense Knowledge.	https://arxiv.org/abs/2109.02247
+SIMMC 2.0 - A Task-oriented Dialog Dataset for Immersive Multimodal Conversations.	https://arxiv.org/abs/2104.08667
+When is Wall a Pared and when a Muro? - Extracting Rules Governing Lexical Selection.	https://arxiv.org/abs/2109.06014
+Knowledge-Aware Graph-Enhanced GPT-2 for Dialogue State Tracking.	https://arxiv.org/abs/2104.04466
+Mitigating Language-Dependent Ethnic Bias in BERT.	https://arxiv.org/abs/2109.05704
+RICA - Evaluating Robust Inference Capabilities Based on Commonsense Axioms.	https://academic.microsoft.com/paper/3087922520/citedby/search?q=RICA%3A+Evaluating+Robust+Inference+Capabilities+Based+on+Commonsense+Axioms.&qe=RId%253D1985105481&f=&orderBy=0
+Document-Level Text Simplification - Dataset, Criteria and Baseline.	https://arxiv.org/abs/2110.05071
+English Machine Reading Comprehension Datasets: A Survey	https://arxiv.org/abs/2101.10421
+WebSRC: A Dataset for Web-Based Structural Reading Comprehension	https://arxiv.org/abs/2101.09465
+A Large-Scale Study of Machine Translation in the Turkic Languages	https://arxiv.org/abs/2109.04593
+DILBERT: Customized Pre-Training for Domain Adaptation withCategory Shift, with an Application to Aspect Extraction	https://arxiv.org/abs/2109.00571
+Separating Retention from Extraction in the Evaluation of End-to-end Relation Extraction.	https://arxiv.org/abs/2109.12008
+Conditional probing - measuring usable information beyond a baseline.	https://arxiv.org/abs/2109.09234
+What's Hidden in a One-layer Randomly Weighted Transformer?	https://arxiv.org/abs/2109.03939
+MuVER - Improving First-Stage Entity Retrieval with Multi-View Entity Representations.	https://arxiv.org/abs/2109.05716
+HETFORMER - Heterogeneous Transformer with Sparse Attention for Long-Text Extractive Summarization.	https://arxiv.org/abs/2110.06388
+Finetuning Pretrained Transformers into RNNs.	https://arxiv.org/abs/2103.13076
+Crosslingual Transfer Learning for Relation and Event Extraction via Word Category and Class Alignments.	https://dblp.org/rec/conf/emnlp/NguyenNMN21
+Time-aware Graph Neural Network for Entity Alignment between Temporal Knowledge Graphs.	https://dblp.org/rec/conf/emnlp/XuS021
+Neuralizing Regular Expressions for Slot Filling.	https://dblp.org/rec/conf/emnlp/JiangJT21
+Leveraging Order-Free Tag Relations for Context-Aware Recommendation.	https://dblp.org/rec/conf/emnlp/KangKSM21
+Hierarchical Multi-label Text Classification with Horizontal and Vertical Category Correlations.	https://dblp.org/rec/conf/emnlp/XuTZGXJR21
+Multitask Semi-Supervised Learning for Class-Imbalanced Discourse Classification.	https://dblp.org/rec/conf/emnlp/SpangherMSD21
+Not Just Classification - Recognizing Implicit Discourse Relation on Joint Modeling of Classification and Generation.	https://dblp.org/rec/conf/emnlp/JiangFCLZ21
+Seeking Common but Distinguishing Difference, A Joint Aspect-based Sentiment Analysis Model.	https://dblp.org/rec/conf/emnlp/JingLZJ21
+Mixture-of-Partitions - Infusing Large Biomedical Knowledge Graphs into BERT.	https://arxiv.org/abs/2109.04810
+Role of Language Relatedness in Multilingual Fine-tuning of Language Models - A Case Study in Indo-Aryan Languages.	https://arxiv.org/abs/2109.10534
+Relational World Knowledge Representation in Contextual Language Models - A Review.	https://arxiv.org/abs/2104.05837
+Towards Making the Most of Dialogue Characteristics for Neural Chat Translation.	https://arxiv.org/abs/2109.00668
+Learning with Instance Bundles for Reading Comprehension.	https://arxiv.org/abs/2104.08735
+Zero-Shot Cross-Lingual Transfer of Neural Machine Translation with Multilingual Pretrained Encoders.	https://arxiv.org/abs/2104.08757
+Evaluating the Robustness of Neural Language Models to Input Perturbations.	https://arxiv.org/abs/2108.12237
+XTREME-R - Towards More Challenging and Nuanced Multilingual Evaluation.	https://arxiv.org/abs/2104.07412
+MATE - Multi-view Attention for Table Transformer Efficiency.	https://arxiv.org/abs/2109.04312
+Joint Passage Ranking for Diverse Multi-Answer Retrieval.	https://arxiv.org/abs/2104.08445
+Scheduled Sampling Based on Decoding Steps for Neural Machine Translation.	https://arxiv.org/abs/2108.12963
+Efficient Nearest Neighbor Language Models.	https://arxiv.org/abs/2109.04212
+YASO - A Targeted Sentiment Analysis Evaluation Dataset for Open-Domain Reviews.	https://dblp.org/rec/conf/emnlp/OrbachTSAKS21
+SpellBERT - A Lightweight Pretrained Model for Chinese Spelling Check.	https://dblp.org/rec/conf/emnlp/JiYQ21
+Unsupervised Relation Extraction - A Variational Autoencoder Approach.	https://dblp.org/rec/conf/emnlp/YuanE21
+A Language Model-based Generative Classifier for Sentence-level Discourse Parsing.	https://dblp.org/rec/conf/emnlp/ZhangKO21
+TDEER - An Efficient Translating Decoding Schema for Joint Extraction of Entities and Relations.	https://dblp.org/rec/conf/emnlp/LiLDYLH21
+TransPrompt - Towards an Automatic Transferable Prompting Framework for Few-shot Text Classification.	https://dblp.org/rec/conf/emnlp/0001WQH021
+CrossVQA - Scalably Generating Benchmarks for Systematically Testing VQA Generalization.	https://dblp.org/rec/conf/emnlp/AkulaCGSZS21
+Models and Datasets for Cross-Lingual Summarisation.	https://dblp.org/rec/conf/emnlp/Perez-Beltrachini21
+Uncertain Local-to-Global Networks for Document-Level Event Factuality Identification.	https://dblp.org/rec/conf/emnlp/Cao0Y0021
+Frame Semantic-Enhanced Sentence Modeling for Sentence-level Extractive Text Summarization.	https://dblp.org/rec/conf/emnlp/GuanGLLT21
+Answering Open-Domain Questions of Varying Reasoning Steps from Text.	https://dblp.org/rec/conf/emnlp/0003LSM21
+Cross-lingual Aspect-based Sentiment Analysis with Aspect Term Code-Switching.	https://dblp.org/rec/conf/emnlp/ZhangHPBL21
+Layer-wise Model Pruning based on Mutual Information	https://arxiv.org/abs/2108.12594
+ConvAbuse: Data, Analysis, and Benchmarks for Nuanced Abuse Detection in Conversational AI	https://arxiv.org/abs/2109.09483
+How much coffee was consumed during EMNLP 2019? Fermi Problems - A New Reasoning Challenge for AI.	https://arxiv.org/abs/2110.14207
+To be Closer - Learning to Link up Aspects with Opinions.	https://arxiv.org/abs/2109.08382
+RankNAS - Efficient Neural Architecture Search by Pairwise Ranking.	https://arxiv.org/abs/2109.07383
+Rule-based Morphological Inflection Improves Neural Terminology Translation.	https://arxiv.org/abs/2109.04620
+QA-Align - Representing Cross-Text Content Overlap by Aligning Question-Answer Propositions.	https://arxiv.org/abs/2109.12655
+Moving on from OntoNotes - Coreference Resolution Model Transfer.	https://arxiv.org/abs/2104.08457
+Latent Hatred - A Benchmark for Understanding Implicit Hate Speech.	https://arxiv.org/abs/2109.05322
+Towards Automatic Evaluation of Dialog Systems: A Model-Free Off-Policy Evaluation Approach	https://arxiv.org/abs/2102.10242
+On the Influence of Masking Policies in Intermediate Pre-training.	https://arxiv.org/abs/2104.08840
+Identifying Morality Frames in Political Tweets using Relational Learning.	https://arxiv.org/abs/2109.04535
+Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset.	https://arxiv.org/abs/2109.07679
+NewsCLIPpings - Automatic Generation of Out-of-Context Multimodal Media.	https://arxiv.org/abs/2104.05893
+Low-Rank Subspaces for Unsupervised Entity Linking.	https://arxiv.org/abs/2104.08737
+Universal Simultaneous Machine Translation with Mixture-of-Experts Wait-k Policy.	https://arxiv.org/abs/2109.05238
+Evaluating the Morphosyntactic Well-formedness of Generated Texts.	https://arxiv.org/abs/2103.16590
+Filling the Gaps in Ancient Akkadian Texts - A Masked Language Modelling Approach.	https://arxiv.org/abs/2109.04513
+BARThez - a Skilled Pretrained French Sequence-to-Sequence Model.	https://arxiv.org/abs/2010.12321
+Assessing the Reliability of Word Embedding Gender Bias Measures.	https://arxiv.org/abs/2109.04732
+Multivalent Entailment Graphs for Question Answering.	https://arxiv.org/abs/2104.07846
+Unsupervised Multi-View Post-OCR Error Correction With Language Models.	https://dblp.org/rec/conf/emnlp/GuptaCBHB21
+Efficient Contrastive Learning via Novel Data Augmentation and Curriculum Learning.	https://arxiv.org/abs/2109.05941
+Fine-grained Entity Typing without Knowledge Base.	https://dblp.org/rec/conf/emnlp/QianLLLJZ021
+PDALN - Progressive Domain Adaptation over a Pre-trained Model for Low-Resource Cross-Domain Named Entity Recognition.	https://dblp.org/rec/conf/emnlp/ZhangXYLZ21
+Enhancing the Context Representation in Similarity-based Word Sense Disambiguation.	https://dblp.org/rec/conf/emnlp/WangZW21
+A Semantic Feature-Wise Transformation Relation Network for Automatic Short Answer Grading.	https://dblp.org/rec/conf/emnlp/LiTP21
+Layer-wise Model Pruning based on Mutual Information.	https://dblp.org/rec/conf/emnlp/FanL00WMS21
+Exposure Bias versus Self-Recovery - Are Distortions Really Incremental for Autoregressive Text Generation?	https://dblp.org/rec/conf/emnlp/HeZZG21
+Fast, Effective, and Self-Supervised - Transforming Masked Language Models into Universal Lexical and Sentence Encoders.	https://dblp.org/rec/conf/emnlp/0001VKC21
+Extracting Fine-Grained Knowledge Graphs of Scientific Claims - Dataset and Transformer-Based Results.	https://arxiv.org/abs/2109.10453
+Subword Mapping and Anchoring across Languages.	https://arxiv.org/abs/2109.04556
+Pseudo Zero Pronoun Resolution Improves Zero Anaphora Resolution.	https://arxiv.org/abs/2104.07425
+Discretized Integrated Gradients for Explaining Language Models.	https://arxiv.org/abs/2108.13654
+Contrasting Human- and Machine-Generated Word-Level Adversarial Examples for Text Classification.	https://arxiv.org/abs/2109.04385
+HintedBT - Augmenting Back-Translation with Quality and Transliteration Hints.	https://arxiv.org/abs/2109.04443
+How Do Neural Sequence Models Generalize? Local and Global Context Cues for Out-of-Distribution Prediction	https://arxiv.org/abs/2111.03108
+Consistent Accelerated Inference via Confident Adaptive Transformers.	https://arxiv.org/abs/2104.08803
+A surprisal-duration trade-off across and within the world's languages.	https://arxiv.org/abs/2109.15000
+Predicting emergent linguistic compositions through time - Syntactic frame extension via multimodal chaining.	https://arxiv.org/abs/2109.04652
+Artificial Text Detection via Examining the Topology of Attention Maps.	https://arxiv.org/abs/2109.04825
+CTAL: Pre-training Cross-modal Transformer for Audio-and-Language Representations	https://arxiv.org/abs/2109.00181
+Exploring the Role of BERT Token Representations to Explain Sentence Probing Results.	https://arxiv.org/abs/2104.01477
+Cross-Register Projection for Headline Part of Speech Tagging.	https://arxiv.org/abs/2109.07483
+The World of an Octopus - How Reporting Bias Influences a Language Model's Perception of Color.	https://arxiv.org/abs/2110.08182
+Measuring Sentence-Level and Aspect-Level (Un)certainty in Science Communications.	https://arxiv.org/abs/2109.14776
+Masked Language Modeling and the Distributional Hypothesis - Order Word Matters Pre-training for Little.	https://arxiv.org/abs/2104.06644
+Sparse Attention with Linear Units.	https://arxiv.org/abs/2104.07012
+IndoNLG - Benchmark and Resources for Evaluating Indonesian Natural Language Generation.	https://arxiv.org/abs/2104.08200
+Connect-the-Dots - Bridging Semantics between Words and Definitions via Aligning Word Sense Inventories.	https://arxiv.org/abs/2110.14091
+Back to the Basics - A Quantitative Analysis of Statistical and Graph-Based Term Weighting Schemes for Keyword Extraction.	https://arxiv.org/abs/2104.08028
+How much pretraining data do language models need to learn syntax?	https://arxiv.org/abs/2109.03160
+CLIPScore - A Reference-free Evaluation Metric for Image Captioning.	https://arxiv.org/abs/2104.08718
+Causal Direction of Data Collection Matters - Implications of Causal and Anticausal Learning for NLP.	https://arxiv.org/abs/2110.03618
+Low Frequency Names Exhibit Bias and Overfitting in Contextualizing Language Models.	https://arxiv.org/abs/2110.00672
+Are Gender-Neutral Queries Really Gender-Neutral? Mitigating Gender Bias in Image Search.	https://arxiv.org/abs/2109.05433
+Structure-aware Fine-tuning of Sequence-to-sequence Transformers for Transition-based AMR Parsing.	https://arxiv.org/abs/2110.15534
+SPARQLing Database Queries from Intermediate Question Decompositions.	https://arxiv.org/abs/2109.06162
+Summary Explorer - Visualizing the State of the Art in Text Summarization.	https://arxiv.org/abs/2108.01879
+It Is Not As Good As You Think! Evaluating Simultaneous Machine Translation on Interpretation Data.	https://arxiv.org/abs/2110.05213
+Case-based Reasoning for Natural Language Queries over Knowledge Bases.	https://arxiv.org/abs/2104.08762
+ActiveEA - Active Learning for Neural Entity Alignment.	https://arxiv.org/abs/2110.06474
+Exploiting Twitter as Source of Large Corpora of Weakly Similar Pairs for Semantic Sentence Embeddings.	https://arxiv.org/abs/2110.02030
+Journalistic Guidelines Aware News Image Captioning.	https://arxiv.org/abs/2109.02865
+Meta Distant Transfer Learning for Pre-trained Language Models.	https://dblp.org/rec/conf/emnlp/0001PQHYZ21
+ECONET - Effective Continual Pretraining of Language Models for Event Temporal Reasoning.	https://dblp.org/rec/conf/emnlp/Han0P21
+Data-to-text Generation by Splicing Together Nearest Neighbors.	https://dblp.org/rec/conf/emnlp/WisemanBS21
+Chinese WPLC - A Chinese Dataset for Evaluating Pretrained Language Models on Word Prediction Given Long-Range Context.	https://dblp.org/rec/conf/emnlp/GeSX021
+Effective Sequence-to-Sequence Dialogue State Tracking.	https://arxiv.org/abs/2108.13990
+Back to Square One - Artifact Detection, Training and Commonsense Disentanglement in the Winograd Schema.	https://dblp.org/rec/conf/emnlp/ElazarZGR21
+Bridge to Target Domain by Prototypical Contrastive Learning and Label Confusion - Re-explore Zero-Shot Learning for Slot Filling.	https://arxiv.org/abs/2110.03572
+Rationales for Sequential Predictions.	https://arxiv.org/abs/2109.06387
+Considering Nested Tree Structure in Sentence Extractive Summarization with Pre-trained Transformer.	https://dblp.org/rec/conf/emnlp/KwonKKO21
+A Generative Framework for Simultaneous Machine Translation.	https://dblp.org/rec/conf/emnlp/MiaoBS21
+CSAGN - Conversational Structure Aware Graph Network for Conversational Semantic Role Labeling.	https://arxiv.org/abs/2109.11541
+Sentence Bottleneck Autoencoders from Transformer Language Models.	https://arxiv.org/abs/2109.00055
+A Simple and Effective Positional Encoding for Transformers.	https://dblp.org/rec/conf/emnlp/ChenTBCCF21
+Machine Translation Decoding beyond Beam Search.	https://dblp.org/rec/conf/emnlp/LeblondASPLASV21
+Text2Mol - Cross-Modal Molecule Retrieval with Natural Language Queries.	https://dblp.org/rec/conf/emnlp/EdwardsZJ21
+Interactive Machine Comprehension with Dynamic Knowledge Graphs.	https://arxiv.org/abs/2109.00077
+Data Augmentation with Hierarchical SQL-to-Question Generation for Cross-domain Text-to-SQL Parsing.	https://dblp.org/rec/conf/emnlp/WuWLZXWZW21
+Is "moby dick" a Whale or a Bird? Named Entities and Terminology in Speech Translation.	https://arxiv.org/abs/2109.07439
+IGA - An Intent-Guided Authoring Assistant.	https://arxiv.org/abs/2104.07000
+Adversarial Mixing Policy for Relaxing Locally Linear Constraints in Mixup.	https://arxiv.org/abs/2109.07177
+Agreeing to Disagree - Annotating Offensive Language Datasets with Annotators' Disagreement.	https://arxiv.org/abs/2109.13563
+The Impact of Positional Encodings on Multilingual Compression.	https://arxiv.org/abs/2109.05388
+Improving Multimodal fusion via Mutual Dependency Maximisation.	https://arxiv.org/abs/2109.00922
+Robustness Evaluation of Entity Disambiguation Using Prior Probes - the Case of Entity Overshadowing.	https://arxiv.org/abs/2108.10949
+Style Pooling - Automatic Text Style Obfuscation for Improved Classification Fairness.	https://arxiv.org/abs/2109.04624
+$k$Folden: $k$-Fold Ensemble for Out-Of-Distribution Detection	https://arxiv.org/abs/2108.12731
+Back to Square One: Bias Detection, Training and Commonsense Disentanglement in the Winograd Schema	https://arxiv.org/abs/2104.08161
+Graphine - A Dataset for Graph-aware Terminology Definition Generation.	https://arxiv.org/abs/2109.04018
+Perspective-taking and Pragmatics for Generating Empathetic Responses Focused on Emotion Causes.	https://arxiv.org/abs/2109.08828
+Improving Zero-Shot Cross-Lingual Transfer Learning via Robust Training.	https://arxiv.org/abs/2104.08645
+I Wish I Would Have Loved This One, But I Didn't - A Multilingual Dataset for Counterfactual Detection in Product Review.	https://arxiv.org/abs/2104.06893
+Point-of-Interest Type Prediction using Text and Images.	https://arxiv.org/abs/2109.00602
+Robust Open-Vocabulary Translation from Visual Text Representations.	https://arxiv.org/abs/2104.08211
+A Strong Baseline for Query Efficient Attacks in a Black Box Setting.	https://arxiv.org/abs/2109.04775
+Topic Transferable Table Question Answering.	https://arxiv.org/abs/2109.07377
+An Empirical Study on Leveraging Position Embeddings for Target-oriented Opinion Words Extraction.	https://arxiv.org/abs/2109.01238
+On Pursuit of Designing Multi-modal Transformer for Video Grounding.	https://arxiv.org/abs/2109.06085
+Can Language Models be Biomedical Knowledge Bases?	https://arxiv.org/abs/2109.07154
+A Simple and Effective Method To Eliminate the Self Language Bias in Multilingual Representations.	https://arxiv.org/abs/2109.04727
+Exploring Underexplored Limitations of Cross-Domain Text-to-SQL Generalization.	https://arxiv.org/abs/2109.05157
+Mitigating False-Negative Contexts in Multi-document Question Answering with Retrieval Marginalization.	https://dblp.org/rec/conf/emnlp/Ni0D21
+Explore Better Relative Position Embeddings from Encoding Perspective for Transformer Models.	https://dblp.org/rec/conf/emnlp/Qu0M21
+Wasserstein Selective Transfer Learning for Cross-domain Text Mining.	https://dblp.org/rec/conf/emnlp/FengQLZS21
+A Thorough Evaluation of Task-Specific Pretraining for Summarization.	https://dblp.org/rec/conf/emnlp/RotheMN21
+Self-Supervised Curriculum Learning for Spelling Error Correction.	https://dblp.org/rec/conf/emnlp/GanXZ21
+Voice Query Auto Completion.	https://dblp.org/rec/conf/emnlp/TangKCXZLYMSML21
+Single-dataset Experts for Multi-dataset Question Answering.	https://arxiv.org/abs/2109.13880
+Knowledge Base Completion Meets Transfer Learning.	https://arxiv.org/abs/2108.13073
+Have You Seen That Number? Investigating Extrapolation in Question Answering Models.	https://dblp.org/rec/conf/emnlp/KimHKKM21
+On the Transferability of Adversarial Attacks against Neural Text Classifier.	https://dblp.org/rec/conf/emnlp/YuanZZHC21
+Comparative Opinion Quintuple Extraction from Product Reviews.	https://dblp.org/rec/conf/emnlp/LiuXY21
+Profanity-Avoiding Training Framework for Seq2seq Models with Certified Robustness.	https://dblp.org/rec/conf/emnlp/ZhangZL0SL21
+Cost-effective End-to-end Information Extraction for Semi-structured Document Images.	https://arxiv.org/abs/2104.08041
+GraphMR - Graph Neural Network for Mathematical Reasoning.	https://dblp.org/rec/conf/emnlp/FengL0ZX21
+Injecting Entity Types into Entity-Guided Text Generation.	https://arxiv.org/abs/2009.13401
+Distantly-Supervised Dense Retrieval Enables Open-Domain Question Answering without Evidence Annotation.	https://dblp.org/rec/conf/emnlp/ZhaoXBD21
+Improving Stance Detection with Multi-Dataset Learning and Knowledge Distillation.	https://dblp.org/rec/conf/emnlp/LiZC21
+Unsupervised Neural Machine Translation with Universal Grammar.	https://dblp.org/rec/conf/emnlp/LiUSZ21
+Set Generation Networks for End-to-End Knowledge Base Population.	https://dblp.org/rec/conf/emnlp/SuiW000B21
+Context-Aware Interaction Network for Question Matching.	https://arxiv.org/abs/2104.08451
+ClauseRec - A Clause Recommendation Framework for AI-aided Contract Authoring.	https://arxiv.org/abs/2110.15794
+Event Coreference Data (Almost) for Free - Mining Hyperlinks from Online News.	https://dblp.org/rec/conf/emnlp/BugertG21
+Improving Query Graph Generation for Complex Question Answering over Knowledge Base.	https://dblp.org/rec/conf/emnlp/QinLPA21
+Adaptive Bridge between Training and Inference for Dialogue Generation.	https://dblp.org/rec/conf/emnlp/XuZZCDL21
+Dimensional Emotion Detection from Categorical Emotion.	https://dblp.org/rec/conf/emnlp/ParkKYJPO21
+GAML-BERT - Improving BERT Early Exiting by Gradient Aligned Mutual Learning.	https://dblp.org/rec/conf/emnlp/ZhuWNX21
+Less is More - Pretrain a Strong Siamese Encoder for Dense Text Retrieval Using a Weak Decoder.	https://dblp.org/rec/conf/emnlp/LuHXKMDBLO21
+Controlled Evaluation of Grammatical Knowledge in Mandarin Chinese Language Models.	https://dblp.org/rec/conf/emnlp/WangHLQ21
+Idiosyncratic but not Arbitrary - Learning Idiolects in Online Registers Reveals Distinctive yet Consistent Individual Styles.	https://arxiv.org/abs/2109.03158
+Revisiting the Uniform Information Density Hypothesis.	https://arxiv.org/abs/2109.11635
+WhyAct - Identifying Action Reasons in Lifestyle Vlogs.	https://arxiv.org/abs/2109.02747
+Distilling Linguistic Context for Language Model Compression.	https://arxiv.org/abs/2109.08359
+Types of Out-of-Distribution Texts and How to Detect Them.	https://arxiv.org/abs/2109.06827
+Self-Supervised Detection of Contextual Synonyms in a Multi-Class Setting - Phenotype Annotation Use Case.	https://arxiv.org/abs/2109.01935
+AM2iCo: Evaluating Word Meaning in Context across Low-ResourceLanguages with Adversarial Examples	https://arxiv.org/abs/2104.08639
+Back-Training excels Self-Training at Unsupervised Domain Adaptation of Question Generation and Passage Retrieval.	https://arxiv.org/abs/2104.08801
+Evaluating the Evaluation Metrics for Style Transfer - A Case Study in Multilingual Formality Transfer.	https://arxiv.org/abs/2110.10668
+Memory and Knowledge Augmented Language Models for Inferring Salience in Long-Form Stories.	https://arxiv.org/abs/2109.03754
+Salience-Aware Event Chain Modeling for Narrative Understanding.	https://arxiv.org/abs/2109.10475
+Debiasing Methods in Natural Language Understanding Make Bias More Accessible.	https://arxiv.org/abs/2109.04095
+What to Pre-Train on? Efficient Intermediate Task Selection.	https://arxiv.org/abs/2104.08247
+XLEnt - Mining a Large Cross-lingual Entity Dataset with Lexical-Semantic-Phonetic Word Alignment.	https://arxiv.org/abs/2104.08597
+Caption Enriched Samples for Improving Hateful Memes Detection.	https://arxiv.org/abs/2109.10649
+Implicit Premise Generation with Discourse-aware Commonsense Knowledge Models.	https://arxiv.org/abs/2109.05358
+Iconary - A Pictionary-Based Game for Testing Multimodal Communication with Drawings and Text.	https://dblp.org/rec/conf/emnlp/ClarkSSBYKHCMSS21
+Disentangling Representations of Text by Masking Transformers.	https://arxiv.org/abs/2104.07155
+Can We Improve Model Robustness through Secondary Attribute Counterfactuals?	https://dblp.org/rec/conf/emnlp/Balashankar0PTC21
+Modeling Disclosive Transparency in NLP Application Descriptions.	https://dblp.org/rec/conf/emnlp/SaxonLWAW21
+Universal-KD - Attention-based Output-Grounded Intermediate Layer Knowledge Distillation.	https://dblp.org/rec/conf/emnlp/WuRGH021
+GMH - A General Multi-hop Reasoning Model for KG Completion.	https://dblp.org/rec/conf/emnlp/ZhangLJLWJY21
+Extract, Denoise and Enforce - Evaluating and Improving Concept Preservation for Text-to-Text Generation.	https://dblp.org/rec/conf/emnlp/MaoML0021
+Building the Directed Semantic Graph for Coherent Long Text Generation.	https://dblp.org/rec/conf/emnlp/WangZD21
+Recurrent Attention for Neural Machine Translation.	https://dblp.org/rec/conf/emnlp/ZengWYJ021
+#HowYouTagTweets - Learning User Hashtagging Preferences via Personalized Topic Attention.	https://dblp.org/rec/conf/emnlp/ZhangZX0JP21
+Improving Pre-trained Vision-and-Language Embeddings for Phrase Grounding.	https://dblp.org/rec/conf/emnlp/DouP21
+Continuous Entailment Patterns for Lexical Inference in Context.	https://arxiv.org/abs/2109.03695
+Towards Zero-shot Commonsense Reasoning with Self-supervised Refinement of Language Models.	https://arxiv.org/abs/2109.05105
+Incorporating medical knowledge in BERT for clinical relation extraction.	https://dblp.org/rec/conf/emnlp/RoyP21
+Cross-Policy Compliance Detection via Question Answering.	https://arxiv.org/abs/2109.03731
+Contextualize Knowledge Bases with Transformer for End-to-end Task-Oriented Dialogue Systems.	https://dblp.org/rec/conf/emnlp/GouLLDS21
+Semantics-Preserved Data Augmentation for Aspect-Based Sentiment Analysis.	https://dblp.org/rec/conf/emnlp/HsuCHC21
+Effects of Parameter Norm Growth During Transformer Training - Inductive Bias from Gradient Descent.	https://dblp.org/rec/conf/emnlp/MerrillRG0S21
+Maximal Clique Based Non-Autoregressive Open Information Extraction.	https://dblp.org/rec/conf/emnlp/0002WLZSW21
+A Semantic Filter Based on Relations for Knowledge Graph Completion.	https://dblp.org/rec/conf/emnlp/LiangYLH21
+A Secure and Efficient Federated Learning Framework for NLP.	https://dblp.org/rec/conf/emnlp/WangDMWLLHMRD21
+Utilizing Relative Event Time to Enhance Event-Event Temporal Relation Extraction.	https://dblp.org/rec/conf/emnlp/WenJ21
+Explaining Answers with Entailment Trees.	https://arxiv.org/abs/2104.08661
+Sentence-Permuted Paragraph Generation.	https://arxiv.org/abs/2104.07228
+Enjoy the Salience - Towards Better Transformer-based Faithful Explanations with Word Salience.	https://arxiv.org/abs/2108.13759
+$Q2$ - Evaluating Factual Consistency in Knowledge-Grounded Dialogues via Question Generation and Question Answering.	https://dblp.org/rec/conf/emnlp/HonovichCANSA21
+HypMix - Hyperbolic Interpolative Data Augmentation.	https://dblp.org/rec/conf/emnlp/SawhneyTAJYF21
+Mapping probability word problems to executable representations.	https://dblp.org/rec/conf/emnlp/SusterFTKDRD21
+Cross-Attention is All You Need - Adapting Pretrained Transformers for Machine Translation.	https://dblp.org/rec/conf/emnlp/Gheini0M21
+Label-Enhanced Hierarchical Contextualized Representation for Sequential Metaphor Identification.	https://dblp.org/rec/conf/emnlp/LiYHZZL21
+Contrastive Out-of-Distribution Detection for Pretrained Transformers.	https://dblp.org/rec/conf/emnlp/Zhou0C21
+Learning Neural Ordinary Equations for Forecasting Future Links on Temporal Knowledge Graphs.	https://dblp.org/rec/conf/emnlp/HanDMGT21
+MLEC-QA - A Chinese Multi-Choice Biomedical Question Answering Dataset.	https://dblp.org/rec/conf/emnlp/LiZC21a
+Neural Machine Translation with Heterogeneous Topic Knowledge Embeddings.	https://dblp.org/rec/conf/emnlp/WangPZL21
+Wino-X - Multilingual Winograd Schemas for Commonsense Reasoning and Coreference Resolution.	https://dblp.org/rec/conf/emnlp/EmelinS21
+QuestEval - Summarization Asks for Fact-based Evaluation.	https://dblp.org/rec/conf/emnlp/ScialomDLPSWG21
+SWEAT - Scoring Polarization of Topics across Different Corpora.	https://arxiv.org/abs/2109.07231
+Netmarble AI Center's WMT21 Automatic Post-Editing Shared Task Submission.	https://arxiv.org/abs/2109.06515
+Think about it! Improving defeasible reasoning by first modeling the question scenario.	https://arxiv.org/abs/2110.12349
+How Does Counterfactually Augmented Data Impact Models for Social Computing Constructs?	https://arxiv.org/abs/2109.07022
+Certified Robustness to Programmable Transformations in LSTMs.	https://arxiv.org/abs/2102.07818
+Competency Problems - On Finding and Removing Artifacts in Language Data.	https://arxiv.org/abs/2104.08646
+Gradient-based Adversarial Attacks against Text Transformers.	https://arxiv.org/abs/2104.13733
+Achieving Model Robustness through Discrete Adversarial Training.	https://arxiv.org/abs/2104.05062
+Classification of hierarchical text using geometric deep learning - the case of clinical trials corpus.	https://arxiv.org/abs/2110.15710
+Residual Adapters for Parameter-Efficient ASR Adaptation to Atypical and Accented Speech.	https://arxiv.org/abs/2109.06952
+A Unified Speaker Adaptation Approach for ASR.	https://arxiv.org/abs/2110.08545
+Evaluating Debiasing Techniques for Intersectional Biases.	https://arxiv.org/abs/2109.10441
+IndoBERTweet - A Pretrained Language Model for Indonesian Twitter with Effective Domain-Specific Vocabulary Initialization.	https://arxiv.org/abs/2109.04607
+SHAPE - Shifted Absolute Position Embedding for Transformers.	https://arxiv.org/abs/2109.05644
+Improving and Simplifying Pattern Exploiting Training.	https://arxiv.org/abs/2103.11955
+Guilt by Association - Emotion Intensities in Lexical Representations.	https://arxiv.org/abs/2104.08679
+A Simple Geometric Method for Cross-Lingual Linguistic Transformations with Pre-trained Autoencoders.	https://arxiv.org/abs/2104.03630
+RAST - Domain-Robust Dialogue Rewriting as Sequence Tagging.	https://dblp.org/rec/conf/emnlp/HaoS0XT021
+kFolden - k-Fold Ensemble for Out-Of-Distribution Detection.	https://dblp.org/rec/conf/emnlp/LiLSFZWMZ21
+AM2iCo - Evaluating Word Meaning in Context across Low-Resource Languages with Adversarial Examples.	https://dblp.org/rec/conf/emnlp/LiuPMVK21
+Enhancing Document Ranking with Task-adaptive Training and Segmented Token Recovery Mechanism.	https://dblp.org/rec/conf/emnlp/SunCTZJW21
+How to Train BERT with an Academic Budget.	https://arxiv.org/abs/2104.07705
+CAPE - Context-Aware Private Embeddings for Private Language Learning.	https://arxiv.org/abs/2108.12318
+Simple and Effective Unsupervised Redundancy Elimination to Compress Dense Vectors for Passage Retrieval.	https://dblp.org/rec/conf/emnlp/MaLSXL21
+On Homophony and R¨¦nyi Entropy.	https://dblp.org/rec/conf/emnlp/PimentelMTC21
+Generation and Extraction Combined Dialogue State Tracking with Hierarchical Ontology Integration.	https://dblp.org/rec/conf/emnlp/LiLWY21
+CoLV - A Collaborative Latent Variable Model for Knowledge-Grounded Dialogue Generation.	https://dblp.org/rec/conf/emnlp/ZhanSCZ21
+Levenshtein Training for Word-level Quality Estimation.	https://arxiv.org/abs/2109.05611
+English Machine Reading Comprehension Datasets - A Survey.	https://dblp.org/rec/conf/emnlp/DzendzikFV21
+PRIDE - Predicting Relationships in Conversations.	https://dblp.org/rec/conf/emnlp/TigunovaMYW21
+Open Knowledge Graphs Canonicalization using Variational Autoencoders.	https://dblp.org/rec/conf/emnlp/DashRMBG21
+Sociolectal Analysis of Pretrained Language Models.	https://dblp.org/rec/conf/emnlp/0022ZZS21
+Semantic Novelty Detection in Natural Language Descriptions.	https://dblp.org/rec/conf/emnlp/MaPMC00G21
+Biomedical Concept Normalization by Leveraging Hypernyms.	https://dblp.org/rec/conf/emnlp/YanZ00SL21
+"It doesn't look good for a date" - Transforming Critiques into Preferences for Conversational Recommendation Systems.	https://arxiv.org/abs/2109.07576
+"Average" Approximates "First Principal Component"? An Empirical Analysis on Representations from Neural Language Models.	https://arxiv.org/abs/2104.08673
+Event Graph based Sentence Fusion.	https://dblp.org/rec/conf/emnlp/YuanWL21
+Weakly supervised discourse segmentation for multiparty oral conversations.	https://dblp.org/rec/conf/emnlp/GravellierHMPF21
+Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialog Systems.	https://dblp.org/rec/conf/emnlp/MiZ0CHF21
+Structure-Augmented Keyphrase Generation.	https://dblp.org/rec/conf/emnlp/KimJCH21
+Asking It All - Generating Contextualized Questions for any Semantic Role.	https://dblp.org/rec/conf/emnlp/PyatkinRMGTD21
+R\3Net - Relation-embedded Representation Reconstruction Network for Change Captioning.	https://dblp.org/rec/conf/emnlp/TuLYG021
+Bayesian Topic Regression for Causal Inference.	https://arxiv.org/abs/2109.05317
+Towards Incremental Transformers - An Empirical Analysis of Transformer Models for Incremental NLU.	https://arxiv.org/abs/2109.07364
+AttentionRank - Unsupervised Keyphrase Extraction using Self and Cross Attentions.	https://dblp.org/rec/conf/emnlp/DingL21
+Human Rationales as Attribution Priors for Explainable Stance Detection.	https://dblp.org/rec/conf/emnlp/JayaramA21
+GeneSis - A Generative Approach to Substitutes in Context.	https://dblp.org/rec/conf/emnlp/LacerraTN21
+Knowledge Graph Representation Learning using Ordinary Differential Equations.	https://dblp.org/rec/conf/emnlp/NayyeriXHA0V21
+Paraphrase Generation - A Survey of the State of the Art.	https://dblp.org/rec/conf/emnlp/ZhouB21
+Sequential Cross-Document Coreference Resolution.	https://arxiv.org/abs/2104.08413
+Lifelong Event Detection with Knowledge Transfer.	https://dblp.org/rec/conf/emnlp/YuJN21
+CR-Walker - Tree-Structured Graph Reasoning and Dialog Acts for Conversational Recommendation.	https://dblp.org/rec/conf/emnlp/MaTH21
+A Large-Scale Study of Machine Translation in Turkic Languages.	https://dblp.org/rec/conf/emnlp/MirzakhalovBAKT21
+Chinese Opinion Role Labeling with Corpus Translation - A Pivot Study.	https://dblp.org/rec/conf/emnlp/ZhenWFLZ21
+Learning Bill Similarity with Annotated and Augmented Corpora of Bills.	https://arxiv.org/abs/2109.06527
+Lawyers are Dishonest? Quantifying Representational Harms in Commonsense Knowledge Resources.	https://arxiv.org/abs/2103.11320
+Long-Range Modeling of Source Code Files with eWASH - Extended Window Access by Syntax Hierarchy.	https://arxiv.org/abs/2109.08780
+DWUG - A large Resource of Diachronic Word Usage Graphs in Four Languages.	https://arxiv.org/abs/2104.08540
+IndoNLI - A Natural Language Inference Dataset for Indonesian.	https://arxiv.org/abs/2110.14566
+Neuro-Symbolic Reinforcement Learning with First-Order Logic.	https://arxiv.org/abs/2110.10963
+Investigating Robustness of Dialog Models to Popular Figurative Language Constructs.	https://arxiv.org/abs/2110.00687
+Systematic Generalization on gSCAN - What is Nearly Solved and What is Next?	https://arxiv.org/abs/2109.12243
+BERT-Beta - A Proactive Probabilistic Approach to Text Moderation.	https://arxiv.org/abs/2109.08805
+Nearest Neighbour Few-Shot Learning for Cross-lingual Classification.	https://arxiv.org/abs/2109.02221
+Transformer-based Lexically Constrained Headline Generation.	https://arxiv.org/abs/2109.07080
+Contextualized Query Embeddings for Conversational Search.	https://arxiv.org/abs/2104.08707
+Word-Level Coreference Resolution.	https://arxiv.org/abs/2109.04127
+Foreseeing the Benefits of Incidental Supervision.	https://dblp.org/rec/conf/emnlp/HeZNR21
+We've had this conversation before - A Novel Approach to Measuring Dialog Similarity.	https://arxiv.org/abs/2110.05780
+Detecting Health Advice in Medical Research Literature.	https://dblp.org/rec/conf/emnlp/LiW021
+Improving Math Word Problems with Pre-trained Knowledge and Hierarchical Reasoning.	https://dblp.org/rec/conf/emnlp/YuWZX21
+Neural Machine Translation Quality and Post-Editing Performance.	https://dblp.org/rec/conf/emnlp/ZouharPBT21
+Unsupervised Paraphrasing Consistency Training for Low Resource Named Entity Recognition.	https://dblp.org/rec/conf/emnlp/WangH21
+On the Benefit of Syntactic Supervision for Cross-lingual Transfer in Semantic Role Labeling.	https://dblp.org/rec/conf/emnlp/ZhangSH21
+Translation-based Supervision for Policy Generation in Simultaneous Neural Machine Translation.	https://dblp.org/rec/conf/emnlp/AlinejadSS21
+"Was it "stated" or was it "claimed"? - How linguistic bias affects generative language models.	https://dblp.org/rec/conf/emnlp/PatelP21
+Language-agnostic Representation from Multilingual Sentence Encoders for Cross-lingual Similarity Estimation.	https://dblp.org/rec/conf/emnlp/TiyajamornKAO21
+Smelting Gold and Silver for Improved Multilingual AMR-to-Text Generation.	https://arxiv.org/abs/2109.03808
+Speechformer - Reducing Information Loss in Direct Speech Translation.	https://arxiv.org/abs/2109.04574
+Zero-Shot Dialogue Disentanglement by Self-Supervised Entangled Response Selection.	https://arxiv.org/abs/2110.12646
+Data and Parameter Scaling Laws for Neural Machine Translation.	https://dblp.org/rec/conf/emnlp/GordonDK21
+BPM_MT - Enhanced Backchannel Prediction Model using Multi-Task Learning.	https://dblp.org/rec/conf/emnlp/JangKJSG21
+Controlling Machine Translation for Multiple Attributes with Additive Interventions.	https://dblp.org/rec/conf/emnlp/SchioppaVSF21
+Adversarial Attack against Cross-lingual Knowledge Graph Alignment.	https://dblp.org/rec/conf/emnlp/ZhangZ0WWHDC021
+Learn to Copy from the Copying History - Correlational Copy Network for Abstractive Summarization.	https://dblp.org/rec/conf/emnlp/000100WW0Z21
+Perhaps PTLMs Should Go to School - A Task to Assess Open Book and Closed Book QA.	https://dblp.org/rec/conf/emnlp/CiosiciCLHFW21
+Feedback Attribution for Counterfactual Bandit Learning in Multi-Domain Spoken Language Understanding.	https://dblp.org/rec/conf/emnlp/FalkeL21
+Towards Label-Agnostic Emotion Embeddings.	https://dblp.org/rec/conf/emnlp/BuechelMH21
+MS-Mentions - Consistently Annotating Entity Mentions in Materials Science Procedural Text.	https://dblp.org/rec/conf/emnlp/OGormanJM0MOM21
+Few-Shot Text Generation with Natural Language Instructions.	https://dblp.org/rec/conf/emnlp/SchickS21
+Translating Headers of Tabular Data - A Pilot Study of Schema Translation.	https://dblp.org/rec/conf/emnlp/Zhu0GL21
+Open-domain clarification question generation without question examples.	https://arxiv.org/abs/2110.09779
+Hitting your MARQ - Multimodal ARgument Quality Assessment in Long Debate Video.	https://dblp.org/rec/conf/emnlp/0003SHIHMH21
+Proxy Indicators for the Quality of Open-domain Dialogues.	https://dblp.org/rec/conf/emnlp/Nedelchev0U21
+Mutual-Learning Improves End-to-End Speech Translation.	https://dblp.org/rec/conf/emnlp/ZhaoLCG21
+WebSRC - A Dataset for Web-Based Structural Reading Comprehension.	https://dblp.org/rec/conf/emnlp/ChenZCJZLX021
+NDH-Full - Learning and Evaluating Navigational Agents on Full-Length Dialogue.	https://dblp.org/rec/conf/emnlp/KimLB21
+Revisiting Tri-training of Dependency Parsers.	https://arxiv.org/abs/2109.08122
+Collaborative Learning of Bidirectional Decoders for Unsupervised Text Style Transfer.	https://dblp.org/rec/conf/emnlp/0001CML21
+CATE - A Contrastive Pre-trained Model for Metaphor Detection with Semi-supervised Learning.	https://dblp.org/rec/conf/emnlp/LinMYC21
+Data Collection vs. Knowledge Graph Completion - What is Needed to Improve Coverage?	https://dblp.org/rec/conf/emnlp/0001B21
+Code-switched inspired losses for spoken dialog representations.	https://dblp.org/rec/conf/emnlp/ColomboCLC21a
+Coupling Context Modeling with Zero Pronoun Recovering for Document-Level Natural Language Generation.	https://dblp.org/rec/conf/emnlp/TanZZ21
+An Empirical Study on Multiple Information Sources for Zero-Shot Fine-Grained Entity Typing.	https://dblp.org/rec/conf/emnlp/0019JL0FYX21
+Exploring Strategies for Generalizable Commonsense Reasoning with Pre-trained Models.	https://arxiv.org/abs/2109.02837
+Sequence Length is a Domain - Length-based Overfitting in Transformer Models.	https://arxiv.org/abs/2109.07276
+Fairness-aware Class Imbalanced Learning.	https://arxiv.org/abs/2109.10444
+Preventing Author Profiling through Zero-Shot Multilingual Back-Translation.	https://arxiv.org/abs/2109.09133
+Examining Cross-lingual Contextual Embeddings with Orthogonal Structural Probes.	https://arxiv.org/abs/2109.04921
+Graph Algorithms for Multiparallel Word Alignment.	https://arxiv.org/abs/2109.06283
+Vision Matters When It Should - Sanity Checking Multimodal Machine Translation Models.	https://arxiv.org/abs/2109.03415
+KnowMAN - Weakly Supervised Multinomial Adversarial Networks.	https://arxiv.org/abs/2109.07994
+Minimal Supervision for Morphological Inflection.	https://arxiv.org/abs/2104.08512
+The Effect of Efficient Messaging and Input Variability on Neural-Agent Iterated Language Learning.	https://arxiv.org/abs/2104.07637
+Revisiting Pivot-Based Paraphrase Generation - Language Is Not the Only Optional Pivot.	https://dblp.org/rec/conf/emnlp/Cai0021
+Text Counterfactuals via Latent Optimization and Shapley-Guided Search.	https://dblp.org/rec/conf/emnlp/FernP21
+More is Better - Enhancing Open-Domain Dialogue Generation via Multi-Source Heterogeneous Knowledge.	https://dblp.org/rec/conf/emnlp/WuLWZZW21
+Enlivening Redundant Heads in Multi-head Self-attention for Machine Translation.	https://dblp.org/rec/conf/emnlp/ZhangHFC21
+MS\2 - Multi-Document Summarization of Medical Studies.	https://dblp.org/rec/conf/emnlp/DeYoungBZKW21
+Data-QuestEval - A Referenceless Metric for Data-to-Text Semantic Evaluation.	https://dblp.org/rec/conf/emnlp/RebuffelSSPLSSG21
+NegatER - Unsupervised Discovery of Negatives in Commonsense Knowledge Bases.	https://dblp.org/rec/conf/emnlp/SafaviZK21
+Diagnosing the First-Order Logical Reasoning Ability Through LogicNLI.	https://dblp.org/rec/conf/emnlp/TianLCX0J21
+Finding a Balanced Degree of Automation for Summary Evaluation.	https://dblp.org/rec/conf/emnlp/ZhangB21
+You should evaluate your language model on marginal likelihood over tokenisations.	https://dblp.org/rec/conf/emnlp/CaoR21
+Paraphrasing Compound Nominalizations.	https://dblp.org/rec/conf/emnlp/LeeLW21
+How to leverage the multimodal EHR data for better medical prediction?	https://dblp.org/rec/conf/emnlp/YangW21
+Signed Coreference Resolution.	https://dblp.org/rec/conf/emnlp/YinDA21
+Boosting Cross-Lingual Transfer via Self-Learning with Uncertainty Estimation.	https://arxiv.org/abs/2109.00194
+AVocaDo - Strategy for Adapting Vocabulary to Downstream Domain.	https://arxiv.org/abs/2110.13434
+Leveraging Capsule Routing to Associate Knowledge with Medical Literature Hierarchically.	https://dblp.org/rec/conf/emnlp/LiuCCZLYP21
+Looking for Confirmations - An Effective and Human-Like Visual Dialogue Strategy.	https://arxiv.org/abs/2109.05312
+"So You Think You're Funny?" - Rating the Humour Quotient in Standup Comedy.	https://arxiv.org/abs/2110.12765
+Finnish Dialect Identification - The Effect of Audio and Text.	https://arxiv.org/abs/2111.03800
+Towards Automatic Evaluation of Dialog Systems - A Model-Free Off-Policy Evaluation Approach.	https://dblp.org/rec/conf/emnlp/JiangDYZ021
+TEMP - Taxonomy Expansion with Dynamic Margin Loss through Taxonomy-Paths.	https://dblp.org/rec/conf/emnlp/LiuXWJWY21
+Contextual Rephrase Detection for Reducing Friction in Dialogue Systems.	https://dblp.org/rec/conf/emnlp/WangGHFLLG21
+Progressive Self-Training with Discriminator for Aspect Term Extraction.	https://dblp.org/rec/conf/emnlp/WangWZYX21
+A Collaborative Multi-agent Reinforcement Learning Framework for Dialog Action Decomposition.	https://dblp.org/rec/conf/emnlp/WangW21
+ChemNER - Fine-Grained Chemistry Named Entity Recognition with Ontology-Guided Distant Supervision.	https://dblp.org/rec/conf/emnlp/WangHSGX021
+Fine-grained Factual Consistency Assessment for Abstractive Summarization Models.	https://dblp.org/rec/conf/emnlp/ZhangNW21
+Bridging Perception, Memory, and Inference through Semantic Relations.	https://dblp.org/rec/conf/emnlp/BjorklundLD21
+Documenting Large Webtext Corpora - A Case Study on the Colossal Clean Crawled Corpus.	https://dblp.org/rec/conf/emnlp/DodgeSMAIGM021
+Is Information Density Uniform in Task-Oriented Dialogues?	https://dblp.org/rec/conf/emnlp/GiulianelliSF21
+Multi-Vector Attention Models for Deep Re-ranking.	https://dblp.org/rec/conf/emnlp/ZhouD21
+When differential privacy meets NLP - The devil is in the detail.	https://arxiv.org/abs/2109.03175
+Reinforced Counterfactual Data Augmentation for Dual Sentiment Classification.	https://dblp.org/rec/conf/emnlp/ChenXY21
+Inducing Stereotypical Character Roles from Plot Structure.	https://dblp.org/rec/conf/emnlp/JahanMF21
+Emotion Inference in Multi-Turn Conversations with Addressee-Aware Module and Ensemble Strategy.	https://dblp.org/rec/conf/emnlp/LiZLWLLZ21
+Gradient-Based Adversarial Factual Consistency Evaluation for Abstractive Summarization.	https://dblp.org/rec/conf/emnlp/ZengCX021
+Cryptonite - A Cryptic Crossword Benchmark for Extreme Ambiguity in Language.	https://arxiv.org/abs/2103.01242
+Softmax Tree - An Accurate, Fast Classifier When the Number of Classes Is Large.	https://dblp.org/rec/conf/emnlp/ZharmagambetovG21
+Language Models are Few-Shot Butlers.	https://arxiv.org/abs/2104.07972
+Detecting Contact-Induced Semantic Shifts - What Can Embedding-Based Methods Do in Practice?	https://dblp.org/rec/conf/emnlp/MileticPT21
+Comparing Text Representations - A Theory-Driven Approach.	https://arxiv.org/abs/2109.07458
+Visual Goal-Step Inference using wikiHow.	https://arxiv.org/abs/2104.05845
+Model Selection for Cross-lingual Transfer.	https://dblp.org/rec/conf/emnlp/ChenR21
+Fast WordPiece Tokenization.	https://dblp.org/rec/conf/emnlp/SongSSDZ21
+COUGH - A Challenge Dataset and Models for COVID-19 FAQ Retrieval.	https://dblp.org/rec/conf/emnlp/ZhangSYLS21
+CoPHE - A Count-Preserving Hierarchical Evaluation Metric in Large-Scale Multi-Label Text Classification.	https://arxiv.org/abs/2109.04853
+What's in a Name? Answer Equivalence For Open-Domain Question Answering.	https://arxiv.org/abs/2109.05289
+Efficient Sampling of Dependency Structure.	https://arxiv.org/abs/2109.06521
+Good-Enough Example Extrapolation.	https://arxiv.org/abs/2109.05602
+PhoMT - A High-Quality and Large-Scale Benchmark Dataset for Vietnamese-English Machine Translation.	https://arxiv.org/abs/2110.12199
+Mind the Context - The Impact of Contextualization in Neural Module Networks for Grounding Visual Referring Expressions.	https://dblp.org/rec/conf/emnlp/AkulaGWZR21
+Argument Pair Extraction with Mutual Guidance and Inter-sentence Relation Graph.	https://dblp.org/rec/conf/emnlp/BaoLSZYX21
+Exploring Non-Autoregressive Text Style Transfer.	https://dblp.org/rec/conf/emnlp/MaL21
+Sequential Randomized Smoothing for Adversarially Robust Speech Recognition.	https://dblp.org/rec/conf/emnlp/OlivierR21
+Abstract, Rationale, Stance - A Joint Model for Scientific Claim Verification.	https://arxiv.org/abs/2110.15116
+Treasures Outside Contexts - Improving Event Detection via Global Statistics.	https://dblp.org/rec/conf/emnlp/0044ZYS21
+Instance-adaptive training with noise-robust losses against noisy labels.	https://dblp.org/rec/conf/emnlp/JinSXY21
+FAME - Feature-Based Adversarial Meta-Embeddings for Robust Input Representations.	https://dblp.org/rec/conf/emnlp/LangeASK21
+An Empirical Investigation of Word Alignment Supervision for Zero-Shot Multilingual Neural Machine Translation.	https://dblp.org/rec/conf/emnlp/RaganatoVCT21
+Classification-based Quality Estimation - Small and Efficient Models for Real-world Applications.	https://dblp.org/rec/conf/emnlp/SunECCSG21
+SOM-NCSCM - An Efficient Neural Chinese Sentence Compression Model Enhanced with Self-Organizing Map.	https://dblp.org/rec/conf/emnlp/ZiWLLCC21
+Language-Aligned Waypoint (LAW) Supervision for Vision-and-Language Navigation in Continuous Environments.	https://arxiv.org/abs/2109.15207
+Discrete and Soft Prompting for Multilingual Models.	https://arxiv.org/abs/2109.03630
+An Evaluation Dataset and Strategy for Building Robust Multi-turn Response Selection Model.	https://arxiv.org/abs/2109.04834
+Reducing Discontinuous to Continuous Parsing with Pointer Network Reordering.	https://arxiv.org/abs/2104.06239
+Iterative GNN-based Decoder for Question Generation.	https://dblp.org/rec/conf/emnlp/FeiZZ21
+Unimodal and Crossmodal Refinement Network for Multimodal Sequence Fusion.	https://dblp.org/rec/conf/emnlp/GuoKZWW21
+Exploring Methods for Generating Feedback Comments for Writing Learning.	https://dblp.org/rec/conf/emnlp/HanawaNI21
+Effective Convolutional Attention Network for Multi-label Clinical Document Classification.	https://dblp.org/rec/conf/emnlp/LiuCKGS21
+Lying Through One's Teeth - A Study on Verbal Leakage Cues.	https://dblp.org/rec/conf/emnlp/YehK21
+Aligning Actions Across Recipe Graphs.	https://dblp.org/rec/conf/emnlp/DonatelliSBKZK21
+Encouraging Lexical Translation Consistency for Document-Level Neural Machine Translation.	https://dblp.org/rec/conf/emnlp/LyuLGZ21
+Evaluating Scholarly Impact - Towards Content-Aware Bibliometrics.	https://dblp.org/rec/conf/emnlp/ManchandaK21
+Building Adaptive Acceptability Classifiers for Neural NLG.	https://dblp.org/rec/conf/emnlp/BatraJHAYLDMKBK21
+MRF-Chat - Improving Dialogue with Markov Random Fields.	https://dblp.org/rec/conf/emnlp/GroverHBP21
+WinoLogic - A Zero-Shot Logic-based Diagnostic Dataset for Winograd Schema Challenge.	https://dblp.org/rec/conf/emnlp/HeHLZ21
+Contrastive Conditioning for Assessing Disambiguation in MT - A Case Study of Distilled Bias.	https://dblp.org/rec/conf/emnlp/VamvasS21
+ValNorm Quantifies Semantics to Reveal Consistent Valence Biases Across Languages and Over Centuries.	https://dblp.org/rec/conf/emnlp/ToneyC21
+MassiveSumm - a very large-scale, very multilingual, news summarisation dataset.	https://dblp.org/rec/conf/emnlp/VarabS21
+Reconstruction Attack on Instance Encoding for Language Understanding.	https://dblp.org/rec/conf/emnlp/XieH21
+Learning with Different Amounts of Annotation - From Zero to Many Labels.	https://dblp.org/rec/conf/emnlp/ZhangGC21
+Syntactically-Informed Unsupervised Paraphrasing with Non-Parallel Data.	https://dblp.org/rec/conf/emnlp/YangLXZMHXC21
+Extend, don't rebuild - Phrasing conditional graph modification as autoregressive sequence labelling.	https://dblp.org/rec/conf/emnlp/WeberMGL21
+A Fine-Grained Domain Adaption Model for Joint Word Segmentation and POS Tagging.	https://dblp.org/rec/conf/emnlp/JiangLSZXX21
+End-to-End Learning of Flowchart Grounded Task-Oriented Dialogs.	https://dblp.org/rec/conf/emnlp/RaghuJ21
+Lifelong Explainer for Lifelong Learners.	https://dblp.org/rec/conf/emnlp/SituMZPH21
+AESOP - Paraphrase Generation with Adaptive Syntactic Control.	https://dblp.org/rec/conf/emnlp/SunMP21
+Narrative Embedding - Re-Contextualization Through Attention.	https://dblp.org/rec/conf/emnlp/WilnerWG21
+ConvAbuse - Data, Analysis, and Benchmarks for Nuanced Detection in Conversational AI.	https://dblp.org/rec/conf/emnlp/CurryAR21
+Truth-Conditional Captions for Time Series Data.	https://dblp.org/rec/conf/emnlp/JhamtaniB21
+MetaTS - Meta Teacher-Student Network for Multilingual Sequence Labeling with Minimal Supervision.	https://dblp.org/rec/conf/emnlp/LiZC0SY21
+TADPOLE - Task ADapted Pre-Training via AnOmaLy DEtection.	https://dblp.org/rec/conf/emnlp/MadanKK21
+Conditional Poisson Stochastic Beams.	https://dblp.org/rec/conf/emnlp/MeisterAVC21
+Extracting Material Property Measurement Data from Scientific Articles.	https://dblp.org/rec/conf/emnlp/PanapitiyaPSS21
+NeuTral Rewriter - A Rule-Based and Neural Approach to Automatic Rewriting into Gender Neutral Alternatives.	https://dblp.org/rec/conf/emnlp/VanmassenhoveES21
+A Label-Aware BERT Attention Network for Zero-Shot Multi-Intent Detection in Spoken Language Understanding.	https://dblp.org/rec/conf/emnlp/WuSJ21
+A Large-Scale Dataset for Empathetic Response Generation.	https://dblp.org/rec/conf/emnlp/WelivitaXP21
+Don't Go Far Off - An Empirical Study on Neural Poetry Translation.	https://arxiv.org/abs/2109.02972
+Understanding and Overcoming the Challenges of Efficient Transformer Quantization.	https://arxiv.org/abs/2109.12948
+VeeAlign - Multifaceted Context Representation Using Dual Attention for Ontology Alignment.	https://dblp.org/rec/conf/emnlp/IyerAK21
+Ultra-High Dimensional Sparse Representations with Binarization for Efficient Text Retrieval.	https://dblp.org/rec/conf/emnlp/JangKHMPYS21
+Word Reordering for Zero-shot Cross-lingual Structured Prediction.	https://dblp.org/rec/conf/emnlp/JiJWHHWW21
+Aligning Multidimensional Worldviews and Discovering Ideological Differences.	https://dblp.org/rec/conf/emnlp/MilbauerME21
+Effective Fine-Tuning Methods for Cross-lingual Adaptation.	https://dblp.org/rec/conf/emnlp/YuJ21
+Constructing a Psychometric Testbed for Fair Natural Language Processing.	https://dblp.org/rec/conf/emnlp/AbbasiDLNSY21
+Synthetic Textual Features for the Large-Scale Detection of Basic-level Categories in English and Mandarin.	https://dblp.org/rec/conf/emnlp/ChenT21
+Toward Deconfounding the Effect of Entity Demographics for Question Answering Accuracy.	https://dblp.org/rec/conf/emnlp/GorWB21
+An Information-Theoretic Characterization of Morphological Fusion.	https://dblp.org/rec/conf/emnlp/Rathi0F21
+PICARD - Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models.	https://arxiv.org/abs/2109.05093
+Does Social Pressure Drive Persuasion in Online Fora?	https://dblp.org/rec/conf/emnlp/JainS21
+Inflate and Shrink - Enriching and Reducing Interactions for Fast Text-Image Retrieval.	https://dblp.org/rec/conf/emnlp/LiuYL21
+Multi-stage Training with Improved Negative Contrast for Neural Passage Retrieval.	https://dblp.org/rec/conf/emnlp/LuAMNY21
+GupShup - Summarizing Open-Domain Code-Switched Conversations.	https://dblp.org/rec/conf/emnlp/MehnazMGGJGKLAS21
+"Wikily" Supervised Neural Translation Tailored to Cross-Lingual Tasks.	https://dblp.org/rec/conf/emnlp/RasooliCW21
+Don't Search for a Search Method - Simple Heuristics Suffice for Adversarial Text Attacks.	https://dblp.org/rec/conf/emnlp/BergerRES21
+On Classifying whether Two Texts are on the Same Side of an Argument.	https://dblp.org/rec/conf/emnlp/KornerWHHP21
+DILBERT - Customized Pre-Training for Domain Adaptation with Category Shift, with an Application to Aspect Extraction.	https://dblp.org/rec/conf/emnlp/LekhtmanZR21
+Cross Attention Augmented Transducer Networks for Simultaneous Translation.	https://dblp.org/rec/conf/emnlp/LiuDLLC21
+Connecting Attributions and QA Model Behavior on Realistic Counterfactuals.	https://dblp.org/rec/conf/emnlp/YeND21
+Efficient Dialogue Complementary Policy Learning via Deep Q-network Policy and Episodic Memory Policy.	https://dblp.org/rec/conf/emnlp/ZhaoWZW21
+Are Transformers a Modern Version of ELIZA? Observations on French Object Verb Agreement.	https://arxiv.org/abs/2109.10133
+Simple Entity-Centric Questions Challenge Dense Retrievers.	https://arxiv.org/abs/2109.08535
+IR like a SIR - Sense-enhanced Information Retrieval for Multiple Languages.	https://dblp.org/rec/conf/emnlp/BlloshmiPCBNP21
+Using Sociolinguistic Variables to Reveal Changing Attitudes Towards Sexuality and Gender.	https://dblp.org/rec/conf/emnlp/CH-WangJ21
+Come hither or go away? Recognising pre-electoral coalition signals in the news.	https://dblp.org/rec/conf/emnlp/RehbeinPABSS21
+A Root of a Problem - Optimizing Single-Root Dependency Parsing.	https://dblp.org/rec/conf/emnlp/StanojevicC21
+Low-resource Taxonomy Enrichment with Pretrained Language Models.	https://dblp.org/rec/conf/emnlp/TakeokaAO21
+Numeracy enhances the Literacy of Language Models.	https://dblp.org/rec/conf/emnlp/ThawaniPI21
+Dynamic Forecasting of Conversation Derailment.	https://arxiv.org/abs/2110.05111
+ConSeC - Word Sense Disambiguation as Continuous Sense Comprehension.	https://dblp.org/rec/conf/emnlp/BarbaPN21
+Improving the Quality Trade-Off for Neural Machine Translation Multi-Domain Adaptation.	https://dblp.org/rec/conf/emnlp/HaslerDTTBH21
+A New Representation for Span-based CCG Parsing.	https://dblp.org/rec/conf/emnlp/KatoM21
+Unsupervised Paraphrasing with Pretrained Language Models.	https://dblp.org/rec/conf/emnlp/NiuYZKWX21
+Locke's Holiday - Belief Bias in Machine Reading.	https://dblp.org/rec/conf/emnlp/Sogaard21
+Learning Universal Authorship Representations.	https://dblp.org/rec/conf/emnlp/SotoMOCKBA21
+Does BERT Learn as Humans Perceive? Understanding Linguistic Styles through Lexica.	https://arxiv.org/abs/2109.02738
+Self-training with Few-shot Rationalization.	https://dblp.org/rec/conf/emnlp/BhatSM21
+Improving Simultaneous Translation by Incorporating Pseudo-References with Fewer Reorderings.	https://dblp.org/rec/conf/emnlp/ChenZKM021
+The Effect of Round-Trip Translation on Fairness in Sentiment Analysis.	https://dblp.org/rec/conf/emnlp/ChristiansenGS21
+What happens if you treat ordinal ratings as interval data? Human evaluations in NLP are even more under-powered than you think.	https://dblp.org/rec/conf/emnlp/HowcroftR21
+Fix-Filter-Fix - Intuitively Connect Any Models for Effective Bug Fixing.	https://dblp.org/rec/conf/emnlp/HongZZWS21
+Is this the end of the gold standard? A straightforward reference-less grammatical error correction metric.	https://dblp.org/rec/conf/emnlp/IslamM21
+Efficient Multi-Task Auxiliary Learning - Selecting Auxiliary Data by Feature Similarity.	https://dblp.org/rec/conf/emnlp/KungYCYC21
+Integrating Personalized PageRank into Neural Word Sense Disambiguation.	https://dblp.org/rec/conf/emnlp/SheikhBN21
+Flexible Generation of Natural Language Deductions.	https://dblp.org/rec/conf/emnlp/BostromZCD21
+Neuro-Symbolic Approaches for Text-Based Policy Learning.	https://dblp.org/rec/conf/emnlp/ChaudhurySOKTM21
+Linguistic Dependencies and Statistical Dependence.	https://dblp.org/rec/conf/emnlp/HooverDSO21
+SYSML - StYlometry with Structure and Multitask Learning - Implications for Darknet Forum Migrant Analysis.	https://dblp.org/rec/conf/emnlp/ManerikerH021
+Students Who Study Together Learn Better - On the Importance of Collective Knowledge Distillation for Domain Transfer in Fact Verification.	https://dblp.org/rec/conf/emnlp/MithunSS21
+Narrative Theory for Computational Narrative Understanding.	https://dblp.org/rec/conf/emnlp/PiperSB21
+To Share or not to Share - Predicting Sets of Sources for Model Transfer Learning.	https://arxiv.org/abs/2104.08078
+Definition Modelling for Appropriate Specificity.	https://dblp.org/rec/conf/emnlp/HuangKA21
+A Unified Encoding of Structures in Transition Systems.	https://dblp.org/rec/conf/emnlp/JiJWHHWW21a
+Local Word Discovery for Interactive Transcription.	https://dblp.org/rec/conf/emnlp/LaneB21
+Jump-Starting Item Parameters for Adaptive Language Tests.	https://dblp.org/rec/conf/emnlp/McCarthyYLELS21
+Investigating the Helpfulness of Word-Level Quality Estimation for Post-Editing Machine Translation Output.	https://dblp.org/rec/conf/emnlp/Shenoy0KG21
+Multi-Class Grammatical Error Detection for Correction - A Tale of Two Systems.	https://dblp.org/rec/conf/emnlp/YuanTD021
+Modeling Human Sentence Processing with Left-Corner Recurrent Neural Network Grammars.	https://arxiv.org/abs/2109.04939
+GFST - Gender-Filtered Self-Training for More Accurate Gender in Translation.	https://dblp.org/rec/conf/emnlp/ChoubeyCMD21
+We Need to Talk About train-dev-test Splits.	https://dblp.org/rec/conf/emnlp/Goot21
+Frustratingly Simple but Surprisingly Strong - Using Language-Independent Features for Zero-shot Cross-lingual Semantic Parsing.	https://dblp.org/rec/conf/emnlp/YangFWY21
+Universal Sentence Representation Learning with Conditional Masked Language Model.	https://arxiv.org/abs/2012.14388
+Contrastive Code Representation Learning.	https://arxiv.org/abs/2007.04973
+Towards Zero-Shot Knowledge Distillation for Natural Language Processing.	https://arxiv.org/abs/2012.15495
+A Scalable Framework for Learning From Implicit User Feedback to Improve Natural Language Understanding in Large-Scale Conversational AI Systems.	https://arxiv.org/abs/2010.12251
+AEDA - An Easier Data Augmentation Technique for Text Classification.	https://arxiv.org/abs/2108.13230
+ConvFiT - Conversational Fine-Tuning of Pretrained Language Models.	https://arxiv.org/abs/2109.10126
+A Partition Filter Network for Joint Entity and Relation Extraction.	https://arxiv.org/abs/2108.12202
+Broaden the Vision - Geo-Diverse Visual Commonsense Reasoning.	https://arxiv.org/abs/2109.06860
+Mathematical Word Problem Generation from Commonsense Knowledge Graph and Equations.	https://arxiv.org/abs/2010.06196
+TimeTraveler - Reinforcement Learning for Temporal Knowledge Graph Forecasting.	https://arxiv.org/abs/2109.04101
+Visually Grounded Reasoning across Languages and Cultures.	https://arxiv.org/abs/2109.13238
+MindCraft - Theory of Mind Modeling for Situated Dialogue in Collaborative Tasks.	https://arxiv.org/abs/2109.06275
+PermuteFormer - Efficient Relative Position Encoding for Long Sequences.	https://arxiv.org/abs/2109.02377
+Frustratingly Simple Pretraining Alternatives to Masked Language Modeling.	https://arxiv.org/abs/2109.01819
+GMH: A General Multi-hop Reasoning Model for KG Completion	https://arxiv.org/abs/2010.07620
+Investigating Pretrained Language Models for Graph-to-Text Generation	https://arxiv.org/abs/2007.08426
+SimCSE - Simple Contrastive Learning of Sentence Embeddings.	https://arxiv.org/abs/2104.08821
+The Power of Scale for Parameter-Efficient Prompt Tuning.	https://arxiv.org/abs/2104.08691
+Paired Examples as Indirect Supervision in Latent Decision Models.	https://academic.microsoft.com/paper/3108314103/citedby/search?q=Paired+Examples+as+Indirect+Supervision+in+Latent+Decision+Models&qe=RId%253D1985105481&f=&orderBy=0
+Multi-Modal Open-Domain Dialogue.	https://arxiv.org/abs/2010.01082
+Zero-Shot Information Extraction as a Unified Text-to-Triple Translation.	https://academic.microsoft.com/paper/3201244947/citedby/search?q=Zero-Shot+Information+Extraction+as+a+Unified+Text-to-Triple+Translation.&qe=RId%253D1985105481&f=&orderBy=0
+HittER - Hierarchical Transformers for Knowledge Graph Embeddings.	https://arxiv.org/abs/2008.12813
+Gradient Imitation Reinforcement Learning for Low Resource Relation Extraction.	https://arxiv.org/abs/2109.06415
+Unsupervised Conversation Disentanglement through Co-Training.	https://arxiv.org/abs/2109.03199
+A Relation-Oriented Clustering Method for Open Relation Extraction.	https://arxiv.org/abs/2109.07205
+Hierarchical Heterogeneous Graph Representation Learning for Short Text Classification.	https://arxiv.org/abs/2111.00180
+ONION - A Simple and Effective Defense Against Textual Backdoor Attacks.	https://arxiv.org/abs/2011.10369
+Label Verbalization and Entailment for Effective Zero and Few-Shot Relation Extraction.	https://arxiv.org/abs/2109.03659
+Neural Machine Translation Quality and Post-Editing Performance	https://arxiv.org/abs/2109.05016
+Solving Aspect Category Sentiment Analysis as a Text Generation Task.	https://arxiv.org/abs/2110.07310
+STraTA - Self-Training with Task Augmentation for Better Few-shot Learning.	https://arxiv.org/abs/2109.06270
+Weakly-supervised Text Classification Based on Keyword Graph.	https://arxiv.org/abs/2110.02591
+Learning Neural Templates for Recommender Dialogue System.	https://arxiv.org/abs/2109.12302
+Multiplex Graph Neural Network for Extractive Text Summarization.	https://arxiv.org/abs/2108.12870
+Allocating Large Vocabulary Capacity for Cross-Lingual Language Model Pre-Training.	https://arxiv.org/abs/2109.07306
+RoR - Read-over-Read for Long Document Machine Reading Comprehension.	https://arxiv.org/abs/2109.04780
+Enriching and Controlling Global Semantics for Text Summarization.	https://arxiv.org/abs/2109.10616
+Document Graph for Neural Machine Translation.	https://arxiv.org/abs/2012.03477
+Revisiting Self-training for Few-shot Learning of Language Model.	https://arxiv.org/abs/2110.01256
+FCM: A Fine-grained Comparison Model forMulti-turn Dialogue Reasoning	https://arxiv.org/abs/2109.10510
+Measuring Association Between Labels and Free-Text Rationales.	https://arxiv.org/abs/2010.12762
+ERNIE-M - Enhanced Multilingual Representation by Aligning Cross-lingual Semantics with Monolingual Corpora.	https://arxiv.org/abs/2012.15674
+DialogueCSE - Dialogue-based Contrastive Learning of Sentence Embeddings.	https://arxiv.org/abs/2109.12599
+Generalised Unsupervised Domain Adaptation of Neural Machine Translation with Cross-Lingual Data Selection.	https://arxiv.org/abs/2109.04292
+Heterogeneous Graph Neural Networks for Keyphrase Generation.	https://arxiv.org/abs/2109.04703
+DiscoDVT - Generating Long Text with Discourse-Aware Discrete Variational Transformer.	https://arxiv.org/abs/2110.05999
+FewshotQA - A simple framework for few-shot learning of question answering tasks using pre-trained text-to-text models.	https://arxiv.org/abs/2109.01951
+Generate & Rank - A Multi-task Framework for Math Word Problems.	https://arxiv.org/abs/2109.03034
+A Differentiable Relaxation of Graph Segmentation and Alignment for AMR Parsing.	https://arxiv.org/abs/2010.12676

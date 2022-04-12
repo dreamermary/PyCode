@@ -1,0 +1,654 @@
+Equilibrium Finding in Normal-Form Games Via Greedy Regret Minimization	https://arxiv.org/abs/2204.04826
+Self-Supervised Audio-and-Text Pre-training with Extremely Low-Resource Parallel Data	https://arxiv.org/abs/2204.04645
+Re-Examining Human Annotations for Interpretable NLP	https://arxiv.org/abs/2204.04580
+Efficient Extraction of Pathologies from C-Spine Radiology Reports using Multi-Task Learning	https://arxiv.org/abs/2204.04544
+Measuring AI Systems Beyond Accuracy	https://arxiv.org/abs/2204.04211
+Powering Finetuning in Few-shot Learning: Domain-Agnostic Feature Adaptation with Rectified Class Prototypes	https://arxiv.org/abs/2204.03749
+Finding Counterfactual Explanations through Constraint Relaxations	https://arxiv.org/abs/2204.03429
+Learning to Solve Travelling Salesman Problem with Hardness-adaptive Curriculum	https://arxiv.org/abs/2204.03236
+	https://arxiv.org/abs/2204.02437
+Distinguishing Homophenes Using Multi-Head Visual-Audio Memory for Lip Reading	https://arxiv.org/abs/2204.01725
+Explainable and Interpretable Diabetic Retinopathy Classification Based on Neural-Symbolic Learning	https://arxiv.org/abs/2204.00624
+Evaluation of Fake News Detection with Knowledge-Enhanced Language Models	https://arxiv.org/abs/2204.00458
+Optimization for Classical Machine Learning Problems on the GPU	https://arxiv.org/abs/2203.16340
+Understanding Graph Convolutional Networks for Text Classification	https://arxiv.org/abs/2203.16060
+Longitudinal Fairness with Censorship	https://arxiv.org/abs/2203.16024
+Exploring Opportunities in Usable Hazard Analysis Processes for AI Engineering	https://arxiv.org/abs/2203.15628
+End-to-End Transformer Based Model for Image Captioning	https://arxiv.org/abs/2203.15350
+Learning Parameterized Task Structure for Generalization to Unseen Entities	https://arxiv.org/abs/2203.15034
+Solving Disjunctive Temporal Networks with Uncertainty under Restricted Time-Based Controllability using Tree Search and Graph Neural Networks	https://arxiv.org/abs/2203.15030
+Manipulating Twitter Through Deletions	https://arxiv.org/abs/2203.13893
+Modeling Attrition in Recommender Systems with Departing Bandits	https://arxiv.org/abs/2203.13423
+Learning Losses for Strategic Classification	https://arxiv.org/abs/2203.13421
+Gender and Racial Stereotype Detection in Legal Opinion Word Embeddings	https://arxiv.org/abs/2203.13369
+Differential Assessment of Black-Box AI Agents	https://arxiv.org/abs/2203.13236
+Adversarial Training for Improving Model Robustness? Look at Both Prediction and Interpretation	https://arxiv.org/abs/2203.12709
+An Algorithmic Introduction to Savings Circles	https://arxiv.org/abs/2203.12486
+Certified Symmetry and Dominance Breaking for Combinatorial Optimisation	https://arxiv.org/abs/2203.12275
+The Harmony Index: a Utilitarian Metric for Measuring Effectiveness in Mixed-Skill Teams	https://arxiv.org/abs/2203.12222
+Self-Supervised Robust Scene Flow Estimation via the Alignment of Probability Density Functions	https://arxiv.org/abs/2203.12193
+NovGrid: A Flexible Grid World for Evaluating Agent Response to Novelty	https://arxiv.org/abs/2203.12117
+Toward Physically Realizable Quantum Neural Networks	https://arxiv.org/abs/2203.12092
+A Factor-Based Framework for Decision-Making Competency Self-Assessment	https://arxiv.org/abs/2203.11981
+What can we Learn Even From the Weakest? Learning Sketches for Programmatic Strategies	https://arxiv.org/abs/2203.11912
+Consent as a Foundation for Responsible Autonomy	https://arxiv.org/abs/2203.11420
+Optimizing Binary Decision Diagrams with MaxSAT for classification	https://arxiv.org/abs/2203.11386
+Stereo Neural Vernier Caliper	https://arxiv.org/abs/2203.11018
+RareGAN: Generating Samples for Rare Classes	https://arxiv.org/abs/2203.10674
+Recognising the importance of preference change: A call for a coordinated multidisciplinary research effort in the age of AI	https://arxiv.org/abs/2203.10525
+On the Computation of Necessary and Sufficient Explanations	https://arxiv.org/abs/2203.10451
+Investigating the Effects of Robot Proficiency Self-Assessment on Trust and Performance	https://arxiv.org/abs/2203.10407
+Meta-Learning for Online Update of Recommender Systems	https://arxiv.org/abs/2203.10354
+Shared Control in Human Robot Teaming: Toward Context-Aware Communication	https://arxiv.org/abs/2203.10218
+FORCE: A Framework of Rule-Based Conversational Recommender System	https://arxiv.org/abs/2203.10001
+Truthful Aggregation of Budget Proposals with Proportionality Guarantees	https://arxiv.org/abs/2203.09971
+Hypergraph Modeling via Spectral Embedding Connection: Hypergraph Cut, Weighted Kernel $k$-means, and Heat Kernel	https://arxiv.org/abs/2203.09888
+Are You Robert or RoBERTa? Deceiving Online Authorship Attribution Models Using Neural Text Generators	https://arxiv.org/abs/2203.09813
+Learning of Structurally Unambiguous Probabilistic Grammars	https://arxiv.org/abs/2203.09441
+Expressivity of Planning with Horn Description Logic Ontologies (Technical Report)	https://arxiv.org/abs/2203.09361
+An Interactive Explanatory AI System for Industrial Quality Control	https://arxiv.org/abs/2203.09181
+DRAG: Dynamic Region-Aware GCN for Privacy-Leaking Image Detection	https://arxiv.org/abs/2203.09121
+Causal Robot Communication Inspired by Observational Learning Insights	https://arxiv.org/abs/2203.09114
+FairFoody: Bringing in Fairness in Food Delivery	https://arxiv.org/abs/2203.08849
+Is it all a cluster game? -- Exploring Out-of-Distribution Detection based on Clustering in the Embedding Space	https://arxiv.org/abs/2203.08549
+Optimal Admission Control for Multiclass Queues with Time-Varying Arrival Rates via State Abstraction	https://arxiv.org/abs/2203.08019
+Online Task Assignment Problems with Reusable Resources	https://arxiv.org/abs/2203.07605
+Procedural Text Understanding via Scene-Wise Evolution	https://arxiv.org/abs/2203.07600
+VAST: The Valence-Assessing Semantics Test for Contextualizing Language Models	https://arxiv.org/abs/2203.07504
+L2Explorer: A Lifelong Reinforcement Learning Assessment Environment	https://arxiv.org/abs/2203.07454
+Texture Generation Using Dual-Domain Feature Flow with Multi-View Hallucinations	https://arxiv.org/abs/2203.06901
+Policy Learning for Robust Markov Decision Process with a Mismatched Generative Model	https://arxiv.org/abs/2203.06587
+Wasserstein Adversarial Transformer for Cloud Workload Prediction	https://arxiv.org/abs/2203.06501
+Evaluating Explainable AI on a Multi-Modal Medical Imaging Task: Can Existing Algorithms Fulfill Clinical Requirements?	https://arxiv.org/abs/2203.06487
+Concentration Network for Reinforcement Learning of Large-Scale Multi-Agent Systems	https://arxiv.org/abs/2203.06416
+Label-efficient Hybrid-supervised Learning for Medical Image Segmentation	https://arxiv.org/abs/2203.05956
+OneRel:Joint Entity and Relation Extraction with One Module in One Step	https://arxiv.org/abs/2203.05412
+A Tighter Approximation Guarantee for Greedy Minimum Entropy Coupling	https://arxiv.org/abs/2203.05108
+'Beach' to 'Bitch': Inadvertent Unsafe Transcription of Kids' Content on YouTube	https://arxiv.org/abs/2203.04837
+DuMLP-Pin: A Dual-MLP-dot-product Permutation-invariant Network for Set Feature Extraction	https://arxiv.org/abs/2203.04007
+Defending Graph Convolutional Networks against Dynamic Graph Perturbations via Bayesian Self-supervision	https://arxiv.org/abs/2203.03762
+TIGGER: Scalable Generative Modelling for Temporal Interaction Graphs	https://arxiv.org/abs/2203.03564
+Leashing the Inner Demons: Self-Detoxification for Language Models	https://arxiv.org/abs/2203.03072
+Recursive Reasoning Graph for Multi-Agent Reinforcement Learning	https://arxiv.org/abs/2203.02844
+Cosine Model Watermarking Against Ensemble Distillation	https://arxiv.org/abs/2203.02777
+Semantic-Aware Representation Blending for Multi-Label Image Recognition with Partial Labels	https://arxiv.org/abs/2203.02172
+A Brief Overview of Unsupervised Neural Speech Representation Learning	https://arxiv.org/abs/2203.01829
+Modality-Adaptive Mixup and Invariant Decomposition for RGB-Infrared Person Re-Identification	https://arxiv.org/abs/2203.01735
+Debiased Batch Normalization via Gaussian Process for Generalizable Person Re-Identification	https://arxiv.org/abs/2203.01723
+Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work	https://arxiv.org/abs/2203.01536
+PetsGAN: Rethinking Priors for Single Image Generation	https://arxiv.org/abs/2203.01488
+Robust Seatbelt Detection and Usage Recognition for Driver Monitoring Systems	https://arxiv.org/abs/2203.00810
+Generalizable Person Re-Identification via Self-Supervised Batch Norm Test-Time Adaption	https://arxiv.org/abs/2203.00672
+Disentangled Spatiotemporal Graph Generative Models	https://arxiv.org/abs/2203.00411
+Explaining RADAR features for detecting spoofing attacks in Connected Autonomous Vehicles	https://arxiv.org/abs/2203.00150
+Proceedings of the Artificial Intelligence for Cyber Security (AICS) Workshop at	https://arxiv.org/abs/2202.14010
+Risk-Neutral Market Simulation	https://arxiv.org/abs/2202.13996
+Semi-Structured Query Grounding for Document-Oriented Databases with Deep Retrieval and Its Application to Receipt and POI Matching	https://arxiv.org/abs/2202.13959
+Deepfake Network Architecture Attribution	https://arxiv.org/abs/2202.13843
+Split HE: Fast Secure Inference Combining Split Learning and Homomorphic Encryption	https://arxiv.org/abs/2202.13351
+Towards Robust Off-policy Learning for Runtime Uncertainty	https://arxiv.org/abs/2202.13337
+Domain Knowledge-Based Automated Analog Circuit Design with Deep Reinforcement Learning	https://arxiv.org/abs/2202.13185
+Learning to Schedule Heuristics for the Simultaneous Stochastic Optimization of Mining Complexes	https://arxiv.org/abs/2202.12866
+The Theory, Practice, and Ethical Challenges of Designing a Diversity-Aware Platform for Social Relations	https://arxiv.org/abs/2202.12700
+Exploring Multi-Modal Representations for Ambiguity Detection & Coreference Resolution in the SIMMC 2.0 Challenge	https://arxiv.org/abs/2202.12645
+Complexity of Deliberative Coalition Formation	https://arxiv.org/abs/2202.12594
+Learning to Liquidate Forex: Optimal Stopping via Adaptive Top-K Regression	https://arxiv.org/abs/2202.12578
+Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection	https://arxiv.org/abs/2202.12481
+Directed Graph Auto-Encoders	https://arxiv.org/abs/2202.12449
+Instantaneous Physiological Estimation using Video Transformers	https://arxiv.org/abs/2202.12368
+Matching Papers and Reviewers at Large Conferences	https://arxiv.org/abs/2202.12273
+Exploring the Unfairness of DP-SGD Across Settings	https://arxiv.org/abs/2202.12058
+Domain Disentangled Generative Adversarial Network for Zero-Shot Sketch-Based 3D Shape Retrieval	https://arxiv.org/abs/2202.11948
+CAISE: Conversational Agent for Image Search and Editing	https://arxiv.org/abs/2202.11847
+Investigations of Performance and Bias in Human-AI Teamwork in Hiring	https://arxiv.org/abs/2202.11812
+Prune and Tune Ensembles: Low-Cost Ensemble Learning With Sparse Independent Subnetworks	https://arxiv.org/abs/2202.11782
+ML-based Anomaly Detection in Optical Fiber Monitoring	https://arxiv.org/abs/2202.11756
+Gaussian Process-Driven History Matching for Physical Layer Parameter Estimation in Optical Fiber Communication Networks	https://arxiv.org/abs/2202.11700
+A Complete Criterion for Value of Information in Soluble Influence Diagrams	https://arxiv.org/abs/2202.11629
+Fairness-Aware Naive Bayes Classifier for Data with Multiple Sensitive Features	https://arxiv.org/abs/2202.11499
+Learning Temporal Point Processes for Efficient Retrieval of Continuous Time Event Sequences	https://arxiv.org/abs/2202.11485
+Multi-view Intent Disentangle Graph Networks for Bundle Recommendation	https://arxiv.org/abs/2202.11425
+Reliable Inlier Evaluation for Unsupervised Point Cloud Registration	https://arxiv.org/abs/2202.11292
+A Semi-Supervised Learning Approach with Two Teachers to Improve Breakdown Identification in Dialogues	https://arxiv.org/abs/2202.10948
+Gradient Based Activations for Accurate Bias-Free Learning	https://arxiv.org/abs/2202.10943
+Why Fair Labels Can Yield Unfair Predictions: Graphical Conditions for Introduced Unfairness	https://arxiv.org/abs/2202.10816
+Incorporating Constituent Syntax for Coreference Resolution	https://arxiv.org/abs/2202.10710
+Inferring Lexicographically-Ordered Rewards from Preferences	https://arxiv.org/abs/2202.10153
+Audio Visual Scene-Aware Dialog Generation with Transformer-based Video Representations	https://arxiv.org/abs/2202.09979
+Cross-Task Knowledge Distillation in Multi-Task Recommendation	https://arxiv.org/abs/2202.09852
+Teaching Drones on the Fly: Can Emotional Feedback Serve as Learning Signal for Training Artificial Agents?	https://arxiv.org/abs/2202.09634
+Highlighting Object Category Immunity for the Generalization of Human-Object Interaction Detection	https://arxiv.org/abs/2202.09492
+Synthetic Disinformation Attacks on Automated Fact Verification Systems	https://arxiv.org/abs/2202.09381
+(2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering	https://arxiv.org/abs/2202.09277
+Deep Movement Primitives: toward Breast Cancer Examination Robot	https://arxiv.org/abs/2202.09265
+Hedonic Diversity Games: A Complexity Picture with More than Two Colors	https://arxiv.org/abs/2202.09210
+Efficient and Reliable Probabilistic Interactive Learning with Structured Outputs	https://arxiv.org/abs/2202.08566
+LIMREF: Local Interpretable Model Agnostic Rule-based Explanations for Forecasting, with an Application to Electricity Smart Meter Data	https://arxiv.org/abs/2202.07766
+Bayesian Optimisation for Active Monitoring of Air Pollution	https://arxiv.org/abs/2202.07595
+BLUE at Memotion 2.0	https://arxiv.org/abs/2202.07543
+Matching Tweets With Applicable Fact-Checks Across Languages	https://arxiv.org/abs/2202.07094
+Strategy Discovery and Mixture in Lifelong Learning from Heterogeneous Demonstration	https://arxiv.org/abs/2202.07014
+Hedonic Games and Treewidth Revisited	https://arxiv.org/abs/2202.06925
+Design of Explainability Module with Experts in the Loop for Visualization and Dynamic Adjustment of Continual Learning	https://arxiv.org/abs/2202.06781
+Online-updated High-order Collaborative Networks for Single Image Deraining	https://arxiv.org/abs/2202.06568
+Measuring "Why" in Recommender Systems: a Comprehensive Survey on the Evaluation of Explainable Recommendation	https://arxiv.org/abs/2202.06466
+Visual Sound Localization in the Wild by Cross-Modal Interference Erasing	https://arxiv.org/abs/2202.06406
+Goal Recognition as Reinforcement Learning	https://arxiv.org/abs/2202.06356
+OctAttention: Octree-based Large-scale Contexts Model for Point Cloud Compression	https://arxiv.org/abs/2202.06028
+Electricity Consumption Forecasting for Out-of-distribution Time-of-Use Tariffs	https://arxiv.org/abs/2202.05517
+Faster No-Regret Learning Dynamics for Extensive-Form Correlated and Coarse Correlated Equilibria	https://arxiv.org/abs/2202.05446
+Zero Shot Learning for Predicting Energy Usage of Buildings in Sustainable Design	https://arxiv.org/abs/2202.05206
+Amplitude Spectrum Transformation for Open Compound Domain Adaptive Semantic Segmentation	https://arxiv.org/abs/2202.04287
+Maximum Likelihood Uncertainty Estimation: Robustness to Outliers	https://arxiv.org/abs/2202.03870
+Learning Optical Flow with Adaptive Graph Reasoning	https://arxiv.org/abs/2202.03857
+Accelerating Part-Scale Simulation in Liquid Metal Jet Additive Manufacturing via Operator Learning	https://arxiv.org/abs/2202.03665
+Personalized Public Policy Analysis in Social Sciences using Causal-Graphical Normalizing Flows	https://arxiv.org/abs/2202.03281
+AI Research Associate for Early-Stage Scientific Discovery	https://arxiv.org/abs/2202.03199
+Combining Deep Learning and Reasoning for Address Detection in Unstructured Text Documents	https://arxiv.org/abs/2202.03103
+BEAS: Blockchain Enabled Asynchronous & Secure Federated Machine Learning	https://arxiv.org/abs/2202.02817
+SFMGNet: A Physics-based Neural Network To Predict Pedestrian Trajectories	https://arxiv.org/abs/2202.02791
+RerrFact: Reduced Evidence Retrieval Representations for Scientific Claim Verification	https://arxiv.org/abs/2202.02646
+Towards To-a-T Spatio-Temporal Focus for Skeleton-Based Action Recognition	https://arxiv.org/abs/2202.02314
+LTU Attacker for Membership Inference	https://arxiv.org/abs/2202.02278
+Advances in MetaDL:	https://arxiv.org/abs/2202.01890
+Optimized Potential Initialization for Low-latency Spiking Neural Networks	https://arxiv.org/abs/2202.01440
+DocBed: A Multi-Stage OCR Solution for Documents with Complex Layouts	https://arxiv.org/abs/2202.01414
+Surrogate Modeling for Physical Systems with Preserved Properties and Adjustable Tradeoffs	https://arxiv.org/abs/2202.01139
+A Longitudinal Dataset of Twitter ISIS Users	https://arxiv.org/abs/2202.00878
+Context Uncertainty in Contextual Bandits with Applications to Recommender Systems	https://arxiv.org/abs/2202.00805
+Novelty Controlled Paraphrase Generation with Retrieval Augmented Conditional Prompt Tuning	https://arxiv.org/abs/2202.00535
+Activity Recognition in Assembly Tasks by Bayesian Filtering in Multi-Hypergraphs	https://arxiv.org/abs/2202.00332
+The Metric Distortion of Multiwinner Voting	https://arxiv.org/abs/2201.13332
+Fast Monte-Carlo Approximation of the Attention Mechanism	https://arxiv.org/abs/2201.12854
+Commonsense Knowledge Reasoning and Generation with Pre-trained Language Models: A Survey	https://arxiv.org/abs/2201.12438
+Electra: Conditional Generative Model based Predicate-Aware Query Approximation	https://arxiv.org/abs/2201.12420
+Multiple-Source Domain Adaptation via Coordinated Domain Encoders and Paired Classifiers	https://arxiv.org/abs/2201.11870
+Ranking Info Noise Contrastive Estimation: Boosting Contrastive Learning via Ranked Positives	https://arxiv.org/abs/2201.11736
+Team Yao at Factify	https://arxiv.org/abs/2201.11664
+Heterogeneous Peer Effects in the Linear Threshold Model	https://arxiv.org/abs/2201.11242
+ReforesTree: A Dataset for Estimating Tropical Forest Carbon Stock with Deep Learning and Aerial Imagery	https://arxiv.org/abs/2201.11192
+On the Power of Gradual Network Alignment Using Dual-Perception Similarities	https://arxiv.org/abs/2201.10945
+When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism	https://arxiv.org/abs/2201.10801
+An Automated Question-Answering Framework Based on Evolution Algorithm	https://arxiv.org/abs/2201.10797
+From an Authentication Question to a Public Social Event: Characterizing Birthday Sharing on Twitter	https://arxiv.org/abs/2201.10655
+ADAPT: An Open-Source sUAS Payload for Real-Time Disaster Prediction and Response with AI	https://arxiv.org/abs/2201.10366
+Dichotomic Pattern Mining with Applications to Intent Prediction from Semi-Structured Clickstream Datasets	https://arxiv.org/abs/2201.09178
+Background Invariant Classification on Infrared Imagery by Data Efficient Training and Reducing Bias in CNNs	https://arxiv.org/abs/2201.09144
+Joint Learning of Hierarchical Community Structure and Node Representations: An Unsupervised Approach	https://arxiv.org/abs/2201.09086
+Enhancing Pseudo Label Quality for Semi-Supervised Domain-Generalized Medical Image Segmentation	https://arxiv.org/abs/2201.08657
+Cross-Domain Few-Shot Graph Classification	https://arxiv.org/abs/2201.08265
+Combining Machine Learning with Knowledge Engineering to detect Fake News in Social Networks-a survey	https://arxiv.org/abs/2201.08032
+PRMI: A Dataset of Minirhizotron Images for Diverse Plant Root Study	https://arxiv.org/abs/2201.08002
+Adaptive Energy Management for Self-Sustainable Wearables in Mobile Health	https://arxiv.org/abs/2201.07888
+Improving Biomedical Information Retrieval with Neural Retrievers	https://arxiv.org/abs/2201.07745
+SCOTCH: An Efficient Secure Computation Framework for Secure Aggregation	https://arxiv.org/abs/2201.07730
+Improving Behavioural Cloning with Human-Driven Dynamic Dataset Augmentation	https://arxiv.org/abs/2201.07719
+Anytime PSRO for Two-Player Zero-Sum Games	https://arxiv.org/abs/2201.07700
+Towards Federated Clustering: A Federated Fuzzy $c$-Means Algorithm (FFCM)	https://arxiv.org/abs/2201.07316
+NSGZero: Efficiently Learning Non-Exploitable Policy in Large-Scale Network Security Games with Neural Monte Carlo Tree Search	https://arxiv.org/abs/2201.07224
+Resistance Training using Prior Bias: toward Unbiased Scene Graph Generation	https://arxiv.org/abs/2201.06794
+Dialog Intent Induction via Density-based Deep Clustering Ensemble	https://arxiv.org/abs/2201.06731
+VaccinEU: COVID-19 vaccine conversations on Twitter in French, German and Italian	https://arxiv.org/abs/2201.06293
+GearNet: Stepwise Dual Learning for Weakly Supervised Domain Adaptation	https://arxiv.org/abs/2201.06001
+Sparse Cross-scale Attention Network for Efficient LiDAR Panoptic Segmentation	https://arxiv.org/abs/2201.05972
+Tailor Versatile Multi-modal Learning for Multi-label Emotion Recognition	https://arxiv.org/abs/2201.05834
+Uncertainty-Aware Multi-View Representation Learning	https://arxiv.org/abs/2201.05776
+The Lokahi Prototype: Toward the automatic Extraction of Entity Relationship Models from Text	https://arxiv.org/abs/2201.05327
+Grassmannian Shape Representations for Aerodynamic Applications	https://arxiv.org/abs/2201.04649
+MeTeoR: Practical Reasoning in Datalog with Metric Temporal Operators	https://arxiv.org/abs/2201.04596
+VGAER: Graph Neural Network Reconstruction based Community Detection	https://arxiv.org/abs/2201.04066
+DDG-DA: Data Distribution Generation for Predictable Concept Drift Adaptation	https://arxiv.org/abs/2201.04038
+Feature Space Hijacking Attacks against Differentially Private Split Learning	https://arxiv.org/abs/2201.04018
+MobileFaceSwap: A Lightweight Framework for Video Face Swapping	https://arxiv.org/abs/2201.03808
+Competing Mutual Information Constraints with Stochastic Competition-based Activations for Learning Diversified Representations	https://arxiv.org/abs/2201.03624
+Model-Based Image Signal Processors via Learnable Dictionaries	https://arxiv.org/abs/2201.03210
+Medication Error Detection Using Contextual Language Models	https://arxiv.org/abs/2201.03035
+An Ensemble Approach to Acronym Extraction using Transformers	https://arxiv.org/abs/2201.03026
+Robust and Resource-Efficient Data-Free Knowledge Distillation by Generative Pseudo Replay	https://arxiv.org/abs/2201.03019
+Zero-Shot and Few-Shot Classification of Biomedical Articles in Context of the COVID-19 Pandemic	https://arxiv.org/abs/2201.03017
+A Multi-agent Reinforcement Learning Approach for Efficient Client Selection in Federated Learning	https://arxiv.org/abs/2201.02932
+Best of Both Worlds: A Hybrid Approach for Multi-Hop Explanation with Declarative Facts	https://arxiv.org/abs/2201.02740
+iDECODe: In-distribution Equivariance for Conformal Out-of-distribution Detection	https://arxiv.org/abs/2201.02331
+Fixation Maximization in the Positional Moran Process	https://arxiv.org/abs/2201.02248
+Fortunately, Discourse Markers Can Enhance Language Models for Sentiment Analysis	https://arxiv.org/abs/2201.02026
+A Generalized Bootstrap Target for Value-Learning, Efficiently Combining Value and Feature Predictions	https://arxiv.org/abs/2201.01836
+Formal Analysis of Art: Proxy Learning of Visual Concepts from Style Through Language Models	https://arxiv.org/abs/2201.01819
+NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-task Financial Forecasting	https://arxiv.org/abs/2201.01770
+TableParser: Automatic Table Parsing with Weak Supervision from Spreadsheets	https://arxiv.org/abs/2201.01654
+Mining Adverse Drug Reactions from Unstructured Mediums at Scale	https://arxiv.org/abs/2201.01405
+A Deeper Understanding of State-Based Critics in Multi-Agent Reinforcement Learning	https://arxiv.org/abs/2201.01221
+Interpretable Low-Resource Legal Decision Making	https://arxiv.org/abs/2201.01164
+DeepVisualInsight: Time-Travelling Visualization for Spatio-Temporal Causality of Deep Classification Training	https://arxiv.org/abs/2201.01155
+Trusting Machine Learning Results from Medical Procedures in the Operating Room	https://arxiv.org/abs/2201.01060
+Aligning Domain-specific Distribution and Classifier for Cross-domain Classification from Multiple Sources	https://arxiv.org/abs/2201.01003
+Neural Piecewise-Constant Delay Differential Equations	https://arxiv.org/abs/2201.00960
+An Adversarial Benchmark for Fake News Detection Models	https://arxiv.org/abs/2201.00912
+Delving into Sample Loss Curve to Embrace Noisy and Imbalanced Data	https://arxiv.org/abs/2201.00849
+An Efficient Combinatorial Optimization Model Using Learning-to-Rank Distillation	https://arxiv.org/abs/2201.00695
+Neural combinatorial optimization beyond the TSP: Existing architectures under-represent graph structure	https://arxiv.org/abs/2201.00668
+Zero-shot Commonsense Question Answering with Cloze Translation and Consistency Optimization	https://arxiv.org/abs/2201.00136
+Learning to Predict 3D Lane Shape and Camera Pose from a Single Image via Geometry Constraints	https://arxiv.org/abs/2112.15351
+Deconfounded Visual Grounding	https://arxiv.org/abs/2112.15324
+SimSR: Simple Distance-based State Representation for Deep Reinforcement Learning	https://arxiv.org/abs/2112.15303
+Feature Generation and Hypothesis Verification for Reliable Face Anti-Spoofing	https://arxiv.org/abs/2112.14894
+LeSICiN: A Heterogeneous Graph-based Approach for Automatic Legal Statute Identification from Indian Legal Documents	https://arxiv.org/abs/2112.14731
+Private Rank Aggregation in Central and Local Models	https://arxiv.org/abs/2112.14652
+Frequency-Aware Contrastive Learning for Neural Machine Translation	https://arxiv.org/abs/2112.14484
+DetarNet: Decoupling Translation and Rotation by Siamese Network for Point Cloud Registration	https://arxiv.org/abs/2112.14059
+Transformer Uncertainty Estimation with Hierarchical Stochastic Attention	https://arxiv.org/abs/2112.13776
+Bridging the Gap: Using Deep Acoustic Representations to Learn Grounded Language from Percepts and Raw Speech	https://arxiv.org/abs/2112.13758
+AdaptivePose: Human Parts as Adaptive Points	https://arxiv.org/abs/2112.13635
+Dual Contrastive Learning for General Face Forgery Detection	https://arxiv.org/abs/2112.13522
+Miti-DETR: Object Detection based on Transformers with Mitigatory Self-Attention Convergence	https://arxiv.org/abs/2112.13310
+Deeper Clinical Document Understanding Using Relation Extraction	https://arxiv.org/abs/2112.13259
+Continual Learning for Unsupervised Anomaly Detection in Continuous Auditing of Financial Accounting Data	https://arxiv.org/abs/2112.13215
+Gaussian Process Bandits with Aggregated Feedback	https://arxiv.org/abs/2112.13029
+Not All Voxels Are Equal: Semantic Scene Completion from the Point-Voxel Perspective	https://arxiv.org/abs/2112.12925
+Latent Time Neural Ordinary Differential Equations	https://arxiv.org/abs/2112.12728
+FedFR: Joint Optimization Federated Framework for Generic and Personalized Face Recognition	https://arxiv.org/abs/2112.12496
+Pose Adaptive Dual Mixup for Few-Shot Single-View 3D Reconstruction	https://arxiv.org/abs/2112.12484
+Iteratively Selecting an Easy Reference Frame Makes Unsupervised Video Object Segmentation Easier	https://arxiv.org/abs/2112.12402
+Text is no more Enough! A Benchmark for Profile-based Spoken Language Understanding	https://arxiv.org/abs/2112.11953
+Automatic Product Copywriting for E-Commerce	https://arxiv.org/abs/2112.11915
+A Label Dependence-aware Sequence Generation Model for Multi-level Implicit Discourse Relation Recognition	https://arxiv.org/abs/2112.11740
+Hybrid Curriculum Learning for Emotion Recognition in Conversation	https://arxiv.org/abs/2112.11718
+RepBin: Constraint-based Graph Representation Learning for Metagenomic Binning	https://arxiv.org/abs/2112.11696
+Decompose the Sounds and Pixels, Recompose the Events	https://arxiv.org/abs/2112.11547
+Max-Margin Contrastive Learning	https://arxiv.org/abs/2112.11450
+Zeroth-order Optimization for Composite Problems with Functional Constraints	https://arxiv.org/abs/2112.11420
+Contrast and Generation Make BART a Good Dialogue Emotion Recognizer	https://arxiv.org/abs/2112.11202
+SOIT: Segmenting Objects with Instance-Aware Transformers	https://arxiv.org/abs/2112.11037
+Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement	https://arxiv.org/abs/2112.10991
+ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization	https://arxiv.org/abs/2112.10977
+Fast Algorithms for Poker Require Modelling it as a Sequential Bayesian Game	https://arxiv.org/abs/2112.10890
+Learning Bayesian Networks in the Presence of Structural Side Information	https://arxiv.org/abs/2112.10884
+HarmoFL: Harmonizing Local and Global Drifts in Federated Learning on Heterogeneous Medical Images	https://arxiv.org/abs/2112.10775
+MuMuQA: Multimedia Multi-Hop News Question Answering via Cross-Media Knowledge Extraction and Grounding	https://arxiv.org/abs/2112.10728
+Evolutionary Hierarchical Harvest Schedule Optimization for Food Waste Prevention	https://arxiv.org/abs/2112.10712
+Differentially Private Regret Minimization in Episodic Markov Decision Processes	https://arxiv.org/abs/2112.10599
+Learning Robust Policy against Disturbance in Transition Dynamics via State-Conservative Policy Optimization	https://arxiv.org/abs/2112.10513
+Towards Trustworthy Cross-patient Model Development	https://arxiv.org/abs/2112.10441
+Diaformer: Automatic Diagnosis via Symptoms Sequence Generation	https://arxiv.org/abs/2112.10433
+Unifying Model Explainability and Robustness for Joint Text Classification and Rationale Extraction	https://arxiv.org/abs/2112.10424
+Parameterized Approximation Algorithms for $k$-Center Clustering and Variants	https://arxiv.org/abs/2112.10195
+MoCaNet: Motion Retargeting in-the-wild via Canonicalization Networks	https://arxiv.org/abs/2112.10082
+Set Twister for Single-hop Node Classification	https://arxiv.org/abs/2112.09752
+Explain, Edit, and Understand: Rethinking User Study Design for Evaluating Model Explanations	https://arxiv.org/abs/2112.09669
+Distillation of RL Policies with Formal Guarantees via Variational Abstraction of Markov Decision Processes (Technical Report)	https://arxiv.org/abs/2112.09655
+Stability Verification in Stochastic Control Systems via Neural Network Supermartingales	https://arxiv.org/abs/2112.09495
+SiamTrans: Zero-Shot Multi-Frame Image Restoration with Pre-Trained Siamese Transformers	https://arxiv.org/abs/2112.09426
+Improving evidential deep learning via multi-task learning	https://arxiv.org/abs/2112.09368
+Incentivizing Collaboration in Machine Learning via Synthetic Data Rewards	https://arxiv.org/abs/2112.09327
+Towards End-to-End Image Compression and Analysis with Transformers	https://arxiv.org/abs/2112.09300
+Logically at Factify	https://arxiv.org/abs/2112.09253
+AFDetV2: Rethinking the Necessity of the Second Stage for Object Detection from Point Clouds	https://arxiv.org/abs/2112.09205
+ALEBk: Feasibility Study of Attention Level Estimation via Blink Detection applied to e-Learning	https://arxiv.org/abs/2112.09165
+IS-COUNT: Large-scale Object Counting from Satellite Images with Covariate-based Importance Sampling	https://arxiv.org/abs/2112.09126
+Pushing the Limits of Rule Reasoning in Transformers through Natural Language Satisfiability	https://arxiv.org/abs/2112.09054
+Deep Reinforcement Learning Policies Learn Shared Adversarial Features Across MDPs	https://arxiv.org/abs/2112.09025
+ADBCMM : Acronym Disambiguation by Building Counterfactuals and Multilingual Mixing	https://arxiv.org/abs/2112.08991
+Deep Generative Models for Geometric Design Under Uncertainty	https://arxiv.org/abs/2112.08919
+Contrastive Spatio-Temporal Pretext Learning for Self-supervised Video Representation	https://arxiv.org/abs/2112.08913
+Graph Structure Learning with Variational Information Bottleneck	https://arxiv.org/abs/2112.08903
+Adapting Document-Grounded Dialog Systems to Spoken Conversations using Data Augmentation and a Noisy Channel Model	https://arxiv.org/abs/2112.08844
+Self-supervised Enhancement of Latent Discovery in GANs	https://arxiv.org/abs/2112.08835
+Graph-wise Common Latent Factor Extraction for Unsupervised Graph Representation Learning	https://arxiv.org/abs/2112.08830
+Graph Convolutional Networks with Dual Message Passing for Subgraph Isomorphism Counting and Matching	https://arxiv.org/abs/2112.08764
+Unsupervised Reinforcement Learning in Multiple Environments	https://arxiv.org/abs/2112.08746
+SGEITL: Scene Graph Enhanced Image-Text Learning for Visual Commonsense Reasoning	https://arxiv.org/abs/2112.08587
+A First Mathematical Runtime Analysis of the Non-Dominated Sorting Genetic Algorithm II (NSGA-II)	https://arxiv.org/abs/2112.08581
+Block-Skim: Efficient Question Answering for Transformer	https://arxiv.org/abs/2112.08560
+Event-Aware Multimodal Mobility Nowcasting	https://arxiv.org/abs/2112.08443
+Lifelong Generative Modelling Using Dynamic Expansion Graph Model	https://arxiv.org/abs/2112.08370
+Rethinking Influence Functions of Neural Networks in the Over-parameterized Regime	https://arxiv.org/abs/2112.08297
+Image-Adaptive YOLO for Object Detection in Adverse Weather Conditions	https://arxiv.org/abs/2112.08088
+TLogic: Temporal Logical Rules for Explainable Link Forecasting on Temporal Knowledge Graphs	https://arxiv.org/abs/2112.08025
+Homography Decomposition Networks for Planar Object Tracking	https://arxiv.org/abs/2112.07909
+Zero-shot Audio Source Separation through Query-based Learning from Weakly-labeled Data	https://arxiv.org/abs/2112.07891
+Tracing Text Provenance via Context-Aware Lexical Substitution	https://arxiv.org/abs/2112.07873
+Split Moves for Monte-Carlo Tree Search	https://arxiv.org/abs/2112.07761
+Conservative and Adaptive Penalty for Model-Based Safe Reinforcement Learning	https://arxiv.org/abs/2112.07701
+ISEEQ: Information Seeking Question Generation using Dynamic Meta-Information Retrieval and Knowledge Graphs	https://arxiv.org/abs/2112.07622
+DiPS: Differentiable Policy for Sketching in Recommender Systems	https://arxiv.org/abs/2112.07616
+The King is Naked: on the Notion of Robustness for Natural Language Processing	https://arxiv.org/abs/2112.07605
+Liquid Democracy with Ranked Delegations	https://arxiv.org/abs/2112.07509
+Reconfiguring Shortest Paths in Graphs	https://arxiv.org/abs/2112.07499
+Uncertainty Estimation via Response Scaling for Pseudo-mask Noise Mitigation in Weakly-supervised Semantic Segmentation	https://arxiv.org/abs/2112.07431
+Obtaining Calibrated Probabilities with Personalized Ranking Models	https://arxiv.org/abs/2112.07428
+TRACER: Extreme Attention Guided Salient Object Tracing Network	https://arxiv.org/abs/2112.07380
+Answering Queries with Negation over Existential Rules	https://arxiv.org/abs/2112.07376
+Geometry-Contrastive Transformer for Generalized 3D Pose Transfer	https://arxiv.org/abs/2112.07374
+Static-Dynamic Co-Teaching for Class-Incremental 3D Object Detection	https://arxiv.org/abs/2112.07241
+From Dense to Sparse: Contrastive Pruning for Better Pre-trained Language Model Compression	https://arxiv.org/abs/2112.07198
+MDD-Eval: Self-Training on Augmented Data for Multi-Domain Dialogue Evaluation	https://arxiv.org/abs/2112.07194
+PantheonRL: A MARL Library for Dynamic Training Interactions	https://arxiv.org/abs/2112.07013
+Role of Human-AI Interaction in Selective Prediction	https://arxiv.org/abs/2112.06751
+Learning to Learn Transferable Attack	https://arxiv.org/abs/2112.06658
+MAGIC: Multimodal relAtional Graph adversarIal inferenCe for Diverse and Unpaired Text-based Image Captioning	https://arxiv.org/abs/2112.06558
+Hybrid Graph Neural Networks for Few-Shot Learning	https://arxiv.org/abs/2112.06538
+Anatomizing Bias in Facial Analysis	https://arxiv.org/abs/2112.06522
+Sparse Structure Learning via Graph Neural Networks for Inductive Document Classification	https://arxiv.org/abs/2112.06386
+ValueNet: A New Dataset for Human Value Driven Dialogue System	https://arxiv.org/abs/2112.06346
+Predicting Above-Sentence Discourse Structure using Distant Supervision from Topic Segmentation	https://arxiv.org/abs/2112.06196
+Deep Translation Prior: Test-time Training for Photorealistic Style Transfer	https://arxiv.org/abs/2112.06150
+Online Adaptation of Neural Network Models by Modified Extended Kalman Filter for Customizable and Transferable Driving Behavior Prediction	https://arxiv.org/abs/2112.06129
+A Comparative Study on Robust Graph Neural Networks to Structural Noises	https://arxiv.org/abs/2112.06070
+Towards Autonomous Satellite Communications: An AI-based Framework to Address System-level Challenges	https://arxiv.org/abs/2112.06055
+Deterministic and Discriminative Imitation (D2-Imitation): Revisiting Adversarial Imitation for Sample Efficiency	https://arxiv.org/abs/2112.06054
+The Price of Justified Representation	https://arxiv.org/abs/2112.05994
+Leaping Through Time with Gradient-based Adaptation for Recommendation	https://arxiv.org/abs/2112.05914
+Hybrid Neural Networks for On-device Directional Hearing	https://arxiv.org/abs/2112.05893
+TempoQR: Temporal Question Reasoning over Knowledge Graphs	https://arxiv.org/abs/2112.05785
+On Causally Disentangled Representations	https://arxiv.org/abs/2112.05746
+Boosting Active Learning via Improving Test Performance	https://arxiv.org/abs/2112.05683
+Interpretable Clustering via Multi-Polytope Machines	https://arxiv.org/abs/2112.05653
+Preemptive Image Robustification for Protecting Users against Man-in-the-Middle Adversarial Attacks	https://arxiv.org/abs/2112.05634
+Truthful Cake Sharing	https://arxiv.org/abs/2112.05632
+How Private Is Your RL Policy? An Inverse RL Based Analysis Framework	https://arxiv.org/abs/2112.05495
+Robustification of Online Graph Exploration Methods	https://arxiv.org/abs/2112.05422
+Predicting Physical World Destinations for Commands Given to Self-Driving Cars	https://arxiv.org/abs/2112.05419
+Unsupervised Editing for Counterfactual Stories	https://arxiv.org/abs/2112.05417
+A Self-supervised Mixed-curvature Graph Neural Network	https://arxiv.org/abs/2112.05393
+Rethinking the Two-Stage Framework for Grounded Situation Recognition	https://arxiv.org/abs/2112.05375
+Learning-Augmented Algorithms for Online Steiner Tree	https://arxiv.org/abs/2112.05353
+Blockwise Sequential Model Learning for Partially Observable Reinforcement Learning	https://arxiv.org/abs/2112.05343
+Multimodal Interactions Using Pretrained Unimodal Models for SIMMC 2.0	https://arxiv.org/abs/2112.05328
+Attention-based Transformation from Latent Features to Point Clouds	https://arxiv.org/abs/2112.05324
+Learning Generalizable Behavior via Visual Rewrite Rules	https://arxiv.org/abs/2112.05218
+Context-aware Health Event Prediction via Transition Functions on Dynamic Disease Graphs	https://arxiv.org/abs/2112.05195
+Word Embeddings via Causal Inference: Gender Bias Reducing and Semantic Information Preserving	https://arxiv.org/abs/2112.05194
+Deep Recurrent Neural Network with Multi-scale Bi-directional Propagation for Video Deblurring	https://arxiv.org/abs/2112.05150
+Model Doctor: A Simple Gradient Aggregation Strategy for Diagnosing and Treating CNN Classifiers	https://arxiv.org/abs/2112.04934
+Enhancing Column Generation by a Machine-Learning-Based Pricing Heuristic for Graph Coloring	https://arxiv.org/abs/2112.04906
+Nice perfume. How long did you marinate in it? Multimodal Sarcasm Explanation	https://arxiv.org/abs/2112.04873
+Knowledge Distillation for Object Detection via Rank Mimicking and Prediction-guided Feature Imitation	https://arxiv.org/abs/2112.04840
+SimIPU: Simple 2D Image and 3D Point Cloud Unsupervised Pre-Training for Spatial-Aware Visual Representations	https://arxiv.org/abs/2112.04680
+Style Mixing and Patchwise Prototypical Matching for One-Shot Unsupervised Domain Adaptive Semantic Segmentation	https://arxiv.org/abs/2112.04665
+A Fully Single Loop Algorithm for Bilevel Optimization without Hessian Inverse	https://arxiv.org/abs/2112.04660
+Learning Auxiliary Monocular Contexts Helps Monocular 3D Object Detection	https://arxiv.org/abs/2112.04628
+Enhancing Counterfactual Classification via Self-Training	https://arxiv.org/abs/2112.04461
+Truth-tracking via Approval Voting: Size Matters	https://arxiv.org/abs/2112.04387
+On the Use of Unrealistic Predictions in Hundreds of Papers Evaluating Graph Representations	https://arxiv.org/abs/2112.04274
+Topology-aware Convolutional Neural Network for Efficient Skeleton-based Action Recognition	https://arxiv.org/abs/2112.04178
+Boosting Contrastive Learning with Relation Knowledge Distillation	https://arxiv.org/abs/2112.04174
+Weighted Fairness Notions for Indivisible Items Revisited	https://arxiv.org/abs/2112.04166
+Assessing a Single Image in Reference-Guided Image Synthesis	https://arxiv.org/abs/2112.04163
+Contrastive Instruction-Trajectory Learning for Vision-Language Navigation	https://arxiv.org/abs/2112.04138
+FreeTalky: Don't Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue	https://arxiv.org/abs/2112.04126
+Fully Attentional Network for Semantic Segmentation	https://arxiv.org/abs/2112.04108
+Learning to Select the Next Reasonable Mention for Entity Linking	https://arxiv.org/abs/2112.04104
+Shrub Ensembles for Online Classification	https://arxiv.org/abs/2112.03723
+GKS: Graph-based Knowledge Selector for Task-oriented Dialog System	https://arxiv.org/abs/2112.03719
+SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal	https://arxiv.org/abs/2112.03631
+Saliency Diversified Deep Ensemble for Robustness to Adversaries	https://arxiv.org/abs/2112.03615
+DCAN: Improving Temporal Action Detection via Dual Context Aggregation	https://arxiv.org/abs/2112.03612
+Handwritten Mathematical Expression Recognition via Attention Aggregation based Bi-directional Mutual Learning	https://arxiv.org/abs/2112.03603
+Unsupervised Learning of Compositional Scene Representations from Multiple Unspecified Viewpoints	https://arxiv.org/abs/2112.03568
+Graph Neural Controlled Differential Equations for Traffic Forecasting	https://arxiv.org/abs/2112.03558
+ADD: Frequency Attention and Multi-View based Knowledge Distillation to Detect Low-Quality Compressed Deepfake Images	https://arxiv.org/abs/2112.03553
+Combining Learning from Human Feedback and Knowledge Engineering to Solve Hierarchical Tasks in Minecraft	https://arxiv.org/abs/2112.03482
+Defending against Model Stealing via Verifying Embedded External Features	https://arxiv.org/abs/2112.03476
+Improving Neural Cross-Lingual Summarization via Employing Optimal Transport Distance for Knowledge Distillation	https://arxiv.org/abs/2112.03473
+Emulating Spatio-Temporal Realizations of Three-Dimensional Isotropic Turbulence via Deep Sequence Learning Models	https://arxiv.org/abs/2112.03469
+Top-Down Deep Clustering with Multi-generator GANs	https://arxiv.org/abs/2112.03398
+Label Hallucination for Few-Shot Classification	https://arxiv.org/abs/2112.03340
+Context-Aware Transfer Attacks for Object Detection	https://arxiv.org/abs/2112.03223
+Modification-Fair Cluster Editing	https://arxiv.org/abs/2112.03183
+DANets: Deep Abstract Networks for Tabular Data Classification and Regression	https://arxiv.org/abs/2112.02962
+A Tale of Color Variants: Representation and Self-Supervised Learning in Fashion E-Commerce	https://arxiv.org/abs/2112.02910
+Reliable Propagation-Correction Modulation for Video Object Segmentation	https://arxiv.org/abs/2112.02853
+One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning	https://arxiv.org/abs/2112.02749
+BERTMap: A BERT-based Ontology Alignment System	https://arxiv.org/abs/2112.02682
+Diverse, Global and Amortised Counterfactual Explanations for Uncertainty Estimates	https://arxiv.org/abs/2112.02646
+Interpretable Privacy Preservation of Text Representations Using Vector Steganography	https://arxiv.org/abs/2112.02557
+Augmentation-Free Self-Supervised Learning on Graphs	https://arxiv.org/abs/2112.02472
+Fast Graph Neural Tangent Kernel via Kronecker Sketching	https://arxiv.org/abs/2112.02446
+Stage Conscious Attention Network (SCAN) : A Demonstration-Conditioned Policy for Few-Shot Imitation	https://arxiv.org/abs/2112.02278
+CTIN: Robust Contextual Transformer Network for Inertial Navigation	https://arxiv.org/abs/2112.02143
+Probing Linguistic Information For Logical Inference In Pre-trained Language Models	https://arxiv.org/abs/2112.01753
+Hybrid Instance-aware Temporal Fusion for Online Video Instance Segmentation	https://arxiv.org/abs/2112.01695
+InfoLM: A New Metric to Evaluate Summarization & Data2Text Generation	https://arxiv.org/abs/2112.01589
+Active Learning for Domain Adaptation: An Energy-Based Approach	https://arxiv.org/abs/2112.01406
+Iterative Contrast-Classify For Semi-supervised Temporal Action Segmentation	https://arxiv.org/abs/2112.01402
+InsCLR: Improving Instance Retrieval with Self-Supervision	https://arxiv.org/abs/2112.01390
+Breaking the Convergence Barrier: Optimization via Fixed-Time Convergent Flows	https://arxiv.org/abs/2112.01363
+Stationary Diffusion State Neural Estimation for Multiview Clustering	https://arxiv.org/abs/2112.01334
+Local Justice and the Algorithmic Allocation of Societal Resources	https://arxiv.org/abs/2112.01236
+Bayesian Optimization over Permutation Spaces	https://arxiv.org/abs/2112.01049
+ShuttleNet: Position-aware Fusion of Rally Progress and Player Styles for Stroke Forecasting in Badminton	https://arxiv.org/abs/2112.01044
+Local Similarity Pattern and Cost Self-Reassembling for Deep Stereo Matching Networks	https://arxiv.org/abs/2112.01011
+Fast Sparse Decision Tree Optimization via Reference Ensembles	https://arxiv.org/abs/2112.00798
+Provable Guarantees for Understanding Out-of-distribution Detection	https://arxiv.org/abs/2112.00787
+Reconsidering Tweets: Intervening During Tweet Creation Decreases Offensive Content	https://arxiv.org/abs/2112.00773
+Reference-guided Pseudo-Label Generation for Medical Semantic Segmentation	https://arxiv.org/abs/2112.00735
+Molecular Contrastive Learning with Chemical Element Knowledge Graph	https://arxiv.org/abs/2112.00544
+Zero-Shot Cross-Lingual Machine Reading Comprehension via Inter-sentence Dependency Graph	https://arxiv.org/abs/2112.00503
+Detecting Adversaries, yet Faltering to Noise? Leveraging Conditional Variational AutoEncoders for Adversary Detection in the Presence of Noisy Images	https://arxiv.org/abs/2111.15518
+GALAXY: A Generative Pre-trained Model for Task-Oriented Dialog with Semi-Supervised Learning and Explicit Policy Injection	https://arxiv.org/abs/2111.14592
+SimCLAD: A Simple Framework for Contrastive Learning of Acronym Disambiguation	https://arxiv.org/abs/2111.14306
+PSG: Prompt-based Sequence Generation for Acronym Extraction	https://arxiv.org/abs/2111.14301
+Weakening the Inner Strength: Spotting Core Collusive Users in YouTube Blackmarket Network	https://arxiv.org/abs/2111.14086
+CL-NERIL: A Cross-Lingual Model for NER in Indian Languages	https://arxiv.org/abs/2111.11815
+Teaching Humans When To Defer to a Classifier via Exemplars	https://arxiv.org/abs/2111.11297
+Winds of Change: Impact of COVID-19 on Vaccine-related Opinions of Twitter users	https://arxiv.org/abs/2111.10667
+Meta Adversarial Perturbations	https://arxiv.org/abs/2111.10291
+Max-Min Grouped Bandits	https://arxiv.org/abs/2111.08862
+Keypoint Message Passing for Video-based Person Re-Identification	https://arxiv.org/abs/2111.08279
+The Partially Observable History Process	https://arxiv.org/abs/2111.08102
+Towards One Shot Search Space Poisoning in Neural Architecture Search	https://arxiv.org/abs/2111.07138
+PESTO: Switching Point based Dynamic and Relative Positional Encoding for Code-Mixed Languages	https://arxiv.org/abs/2111.06599
+On Semantic Cognition, Inductive Generalization, and Language Models	https://arxiv.org/abs/2111.02603
+Reproducibility as a Mechanism for Teaching Fairness, Accountability, Confidentiality, and Transparency in Artificial Intelligence	https://arxiv.org/abs/2111.00826
+Social Media Reveals Urban-Rural Differences in Stress across China	https://arxiv.org/abs/2110.15726
+End-to-end Learning the Partial Permutation Matrix for Robust 3D Point Cloud Registration	https://arxiv.org/abs/2110.15250
+Towards Fine-Grained Reasoning for Fake News Detection	https://arxiv.org/abs/2110.15064
+Market Design for Drone Traffic Management	https://arxiv.org/abs/2110.13784
+Self-Initiated Open World Learning for Autonomous AI Agents	https://arxiv.org/abs/2110.11385
+NeuralArTS: Structuring Neural Architecture Search with Type Theory	https://arxiv.org/abs/2110.08710
+Hindsight Network Credit Assignment: Efficient Credit Assignment in Networks of Discrete Stochastic Units	https://arxiv.org/abs/2110.07700
+Distribution-Free Federated Learning with Conformal Predictions	https://arxiv.org/abs/2110.07661
+SGD-X: A Benchmark for Robust Generalization in Schema-Guided Dialogue Systems	https://arxiv.org/abs/2110.06800
+Well-classified Examples are Underestimated in Classification with Deep Neural Networks	https://arxiv.org/abs/2110.06537
+Analysis of the influence of political polarization in the vaccination stance: the Brazilian COVID-19 scenario	https://arxiv.org/abs/2110.03382
+Self-Supervised Knowledge Assimilation for Expert-Layman Text Style Transfer	https://arxiv.org/abs/2110.02950
+Partner-Aware Algorithms in Decentralized Cooperative Bandit Teams	https://arxiv.org/abs/2110.00751
+TEACh: Task-driven Embodied Agents that Chat	https://arxiv.org/abs/2110.00534
+Symbolic Brittleness in Sequence Models: on Systematic Generalization in Symbolic Mathematics	https://arxiv.org/abs/2109.13986
+XLM-K: Improving Cross-Lingual Language Model Pre-Training with Multilingual Knowledge	https://arxiv.org/abs/2109.12573
+LGD: Label-guided Self-distillation for Object Detection	https://arxiv.org/abs/2109.11496
+Fast and Efficient MMD-based Fair PCA via Optimization over Stiefel Manifold	https://arxiv.org/abs/2109.11196
+Non-Parametric Online Learning from Human Feedback for Neural Machine Translation	https://arxiv.org/abs/2109.11136
+BiRdQA: A Bilingual Dataset for Question Answering on Tricky Riddles	https://arxiv.org/abs/2109.11087
+AutoGCL: Automated Graph Contrastive Learning via Learnable View Generators	https://arxiv.org/abs/2109.10259
+Reinforcement Learning for Finite-Horizon Restless Multi-Armed Multi-Action Bandits	https://arxiv.org/abs/2109.09855
+Interpretable Local Tree Surrogate Policies	https://arxiv.org/abs/2109.08180
+Target Languages (vs. Inductive Biases) for Learning to Act and Plan	https://arxiv.org/abs/2109.07195
+Spline-PINN: Approaching PDEs without Data using Fast, Physics-Informed Hermite-Spline CNNs	https://arxiv.org/abs/2109.07143
+Anchor DETR: Query Design for Transformer-Based Object Detection	https://arxiv.org/abs/2109.07107
+Deploying clinical machine learning? Consider the following...	https://arxiv.org/abs/2109.06919
+Few-Shot Cross-Lingual Stance Detection with Sentiment-Based Pre-Training	https://arxiv.org/abs/2109.06050
+CEM: Commonsense-aware Empathetic Response Generation	https://arxiv.org/abs/2109.05739
+On the Impact of Spurious Correlation for Out-of-distribution Detection	https://arxiv.org/abs/2109.05642
+College Student Retention Risk Analysis From Educational Database using Multi-Task Multi-Modal Neural Fusion	https://arxiv.org/abs/2109.05178
+Negative Sample Matters: A Renaissance of Metric Learning for Temporal Grounding	https://arxiv.org/abs/2109.04872
+Spatio-Temporal Recurrent Networks for Event-Based Optical Flow Estimation	https://arxiv.org/abs/2109.04871
+ErfAct and Pserf: Non-monotonic Smooth Trainable Activation Functions	https://arxiv.org/abs/2109.04386
+UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer	https://arxiv.org/abs/2109.04335
+Fusing task-oriented and open-domain dialogues in conversational agents	https://arxiv.org/abs/2109.04137
+Generation, augmentation, and alignment: A pseudo-source domain based method for source-free domain adaptation	https://arxiv.org/abs/2109.04015
+Retrieve, Caption, Generate: Visual Grounding for Enhancing Commonsense in Text Generation Models	https://arxiv.org/abs/2109.03892
+On the Transferability of Pre-trained Language Models: A Study from Artificial Datasets	https://arxiv.org/abs/2109.03537
+Heterogeneity-aware Twitter Bot Detection with Relational Graph Transformers	https://arxiv.org/abs/2109.02927
+DialogLM: Pre-trained Model for Long Dialogue Understanding and Summarization	https://arxiv.org/abs/2109.02492
+A Search Engine for Discovery of Scientific Challenges and Directions	https://arxiv.org/abs/2108.13751
+A Unifying Theory of Thompson Sampling for Continuous Risk-Averse Bandits	https://arxiv.org/abs/2108.11345
+Twitter User Representation using Weakly Supervised Graph Embedding	https://arxiv.org/abs/2108.08988
+Clustering with UMAP: Why and How Connectivity Matters	https://arxiv.org/abs/2108.05525
+BROS: A Pre-trained Language Model Focusing on Text and Layout for Better Key Information Extraction from Documents	https://arxiv.org/abs/2108.04539
+Sequential Blocked Matching	https://arxiv.org/abs/2108.00073
+Discovering User-Interpretable Capabilities of Black-Box Planning Agents	https://arxiv.org/abs/2107.13668
+Constraints Penalized Q-learning for Safe Offline Reinforcement Learning	https://arxiv.org/abs/2107.09003
+AutoBERT-Zero: Evolving BERT Backbone from Scratch	https://arxiv.org/abs/2107.07445
+IGrow: A Smart Agriculture Solution to Autonomous Greenhouse Control	https://arxiv.org/abs/2107.05464
+Disentangling Transfer and Interference in Multi-Domain Learning	https://arxiv.org/abs/2107.05445
+Transfer Learning from Synthetic to Real LiDAR Point Cloud for Semantic Segmentation	https://arxiv.org/abs/2107.05399
+Implicit Gradient Alignment in Distributed and Federated Learning	https://arxiv.org/abs/2106.13897
+TS2Vec: Towards Universal Representation of Time Series	https://arxiv.org/abs/2106.10466
+A Random CNN Sees Objects: One Inductive Bias of CNN and Its Applications	https://arxiv.org/abs/2106.09259
+Zero-Shot Controlled Generation with Encoder-Decoder Transformers	https://arxiv.org/abs/2106.06411
+Invariant Information Bottleneck for Domain Generalization	https://arxiv.org/abs/2106.06333
+Amortized Generation of Sequential Algorithmic Recourses for Black-box Models	https://arxiv.org/abs/2106.03962
+Same State, Different Task: Continual Reinforcement Learning without Interference	https://arxiv.org/abs/2106.02940
+Rethinking Pseudo Labels for Semi-Supervised Object Detection	https://arxiv.org/abs/2106.00168
+Less is More: Pay Less Attention in Vision Transformers	https://arxiv.org/abs/2105.14217
+The Complexity of Subelection Isomorphism Problems	https://arxiv.org/abs/2105.11923
+Vision Transformers are Robust Learners	https://arxiv.org/abs/2105.07581
+SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation	https://arxiv.org/abs/2105.04447
+CrossWalk: Fairness-enhanced Node Representation Learning	https://arxiv.org/abs/2105.02725
+DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism	https://arxiv.org/abs/2105.02446
+SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition	https://arxiv.org/abs/2105.00149
+Online certification of preference-based fairness for personalized recommender systems	https://arxiv.org/abs/2104.14527
+Do Feature Attribution Methods Correctly Attribute Features?	https://arxiv.org/abs/2104.14403
+Mutual Contrastive Learning for Visual Representation Learning	https://arxiv.org/abs/2104.12565
+Playing Lottery Tickets with Vision and Language	https://arxiv.org/abs/2104.11832
+One More Check: Making "Fake Background" Be Tracked Again	https://arxiv.org/abs/2104.09441
+BM-NAS: Bilevel Multimodal Neural Architecture Search	https://arxiv.org/abs/2104.09379
+Supervising Model Attention with Human Explanations for Robust Natural Language Inference	https://arxiv.org/abs/2104.08142
+Meta Faster R-CNN: Towards Accurate Few-Shot Object Detection with Attentive Feature Alignment	https://arxiv.org/abs/2104.07719
+NAREOR: The Narrative Reordering Problem	https://arxiv.org/abs/2104.06669
+Qubit Routing using Graph Neural Network aided Monte Carlo Tree Search	https://arxiv.org/abs/2104.01992
+MetaNODE: Prototype Optimization as a Neural ODE for Few-Shot Learning	https://arxiv.org/abs/2103.14341
+PureGaze: Purifying Gaze Feature for Generalizable Gaze Estimation	https://arxiv.org/abs/2103.13173
+Multi-Modal Answer Validation for Knowledge-Based VQA	https://arxiv.org/abs/2103.12248
+Towards Ultra-Resolution Neural Style Transfer via Thumbnail Instance Normalization	https://arxiv.org/abs/2103.11784
+Play the Shannon Game With Language Models: A Human-Free Approach to Summary Evaluation	https://arxiv.org/abs/2103.10918
+Degrade is Upgrade: Learning Degradation for Low-light Image Enhancement	https://arxiv.org/abs/2103.10621
+Secure Watermark for Deep Neural Networks with Multi-task Learning	https://arxiv.org/abs/2103.10021
+How to distribute data across tasks for meta-learning?	https://arxiv.org/abs/2103.08463
+Consistency Regularization for Adversarial Robustness	https://arxiv.org/abs/2103.04623
+Early-Bird GCNs: Graph-Network Co-Optimization Towards More Efficient GCN Training and Inference via Drawing Early-Bird Lottery Tickets	https://arxiv.org/abs/2103.00794
+PRISM: A Rich Class of Parameterized Submodular Information Measures for Guided Subset Selection	https://arxiv.org/abs/2103.00128
+Generalized Equivariance and Preferential Labeling for GNN Node Classification	https://arxiv.org/abs/2102.11485
+Training a Resilient Q-Network against Observational Interference	https://arxiv.org/abs/2102.09677
+Clustering Interval-Censored Time-Series for Disease Phenotyping	https://arxiv.org/abs/2102.07005
+Online Apprenticeship Learning	https://arxiv.org/abs/2102.06924
+Active Boundary Loss for Semantic Segmentation	https://arxiv.org/abs/2102.02696
+Self-Supervised Pretraining for RGB-D Salient Object Detection	https://arxiv.org/abs/2101.12482
+Deep One-Class Classification via Interpolated Gaussian Descriptor	https://arxiv.org/abs/2101.10043
+Learning Adversarial Markov Decision Processes with Delayed Feedback	https://arxiv.org/abs/2012.14843
+With False Friends Like These, Who Can Notice Mistakes?	https://arxiv.org/abs/2012.14738
+LOREN: Logic-Regularized Reasoning for Interpretable Fact Verification	https://arxiv.org/abs/2012.13577
+CODE: Contrastive Pre-training with Adversarial Fine-tuning for Zero-shot Expert Linking	https://arxiv.org/abs/2012.11336
+Certified Robustness of Nearest Neighbors against Data Poisoning and Backdoor Attacks	https://arxiv.org/abs/2012.03765
+Braid: Weaving Symbolic and Neural Knowledge into Coherent Logical Explanations	https://arxiv.org/abs/2011.13354
+A Nested Bi-level Optimization Framework for Robust Few Shot Learning	https://arxiv.org/abs/2011.06782
+The Manufacture of Partisan Echo Chambers by Follow Train Abuse on Twitter	https://arxiv.org/abs/2010.13691
+What About Inputing Policy in Value Function: Policy Representation and Policy-extended Value Function Approximator	https://arxiv.org/abs/2010.09536
+On the Fairness of Causal Algorithmic Recourse	https://arxiv.org/abs/2010.06529
+Gradient Flow in Sparse Neural Networks and How Lottery Tickets Win	https://arxiv.org/abs/2010.03533
+Detecting Misclassification Errors in Neural Networks with a Gaussian Process Model	https://arxiv.org/abs/2010.02065
+UNISON: Unpaired Cross-lingual Image Captioning	https://arxiv.org/abs/2010.01288
+Efficient Robust Training via Backward Smoothing	https://arxiv.org/abs/2010.01278
+Online Missing Value Imputation and Change Point Detection with the Gaussian Copula	https://arxiv.org/abs/2009.12326
+Knowledge Bridging for Empathetic Dialogue Generation	https://arxiv.org/abs/2009.09708
+Sparse-RS: a versatile framework for query-efficient sparse black-box adversarial attacks	https://arxiv.org/abs/2006.12834
+SplitFed: When Federated Learning Meets Split Learning	https://arxiv.org/abs/2004.12088
+Improved Gradient based Adversarial Attacks for Quantized Networks	https://arxiv.org/abs/2003.13511
+Robust Out-of-distribution Detection for Neural Networks	https://arxiv.org/abs/2003.09711
+Un-Mix: Rethinking Image Mixtures for Unsupervised Visual Representation Learning	https://arxiv.org/abs/2003.05438
+FOCUS: Flexible Optimizable Counterfactual Explanations for Tree Ensembles	https://arxiv.org/abs/1911.12199
+Pareto Optimization for Subset Selection with Dynamic Cost Constraints	https://arxiv.org/abs/1811.07806
+Scalable Algorithms for Tractable Schatten Quasi-Norm Minimization	https://arxiv.org/abs/1606.01245
+Efficient Virtual View Selection for 3D Hand Pose Estimation	https://arxiv.org/abs/2203.15458
+ProgressiveMotionSeg: Mutually Reinforced Framework for Event-Based Motion Segmentation	https://arxiv.org/abs/2203.11732
+Weakly-Supervised Salient Object Detection Using Point Supervison	https://arxiv.org/abs/2203.11652
+Laneformer: Object-aware Row-Column Transformers for Lane Detection	https://arxiv.org/abs/2203.09830
+Panini-Net: GAN Prior Based Degradation-Aware Feature Interpolation for Face Restoration	https://arxiv.org/abs/2203.08444
+UofA-Truth at Factify 2022 : Transformer And Transfer Learning Based Multi-Modal Fact-Checking	https://arxiv.org/abs/2203.07990
+Exploiting the Potential of Datasets: A Data-Centric Approach for Model Robustness	https://arxiv.org/abs/2203.05323
+Towards Efficient Data-Centric Robust Machine Learning with Noise-based Augmentation	https://arxiv.org/abs/2203.03810
+Fast and Data Efficient Reinforcement Learning from Pixels via Non-Parametric Value Approximation	https://arxiv.org/abs/2203.03078
+Unsupervised Domain Adaptive Salient Object Detection Through Uncertainty-Aware Pseudo-Label Learning	https://arxiv.org/abs/2202.13170
+Content-Variant Reference Image Quality Assessment via Knowledge Distillation	https://arxiv.org/abs/2202.13123
+Guide Local Feature Matching by Overlap Estimation	https://arxiv.org/abs/2202.09050
+Neural Marionette: Unsupervised Learning of Motion Skeleton and Latent Dynamics from Volumetric Video	https://arxiv.org/abs/2202.08418
+Dual Task Framework for Improving Persona-grounded Dialogue Dataset	https://arxiv.org/abs/2202.05435
+Image Difference Captioning with Pre-training and Contrastive Learning	https://arxiv.org/abs/2202.04298
+Self-Supervised Representation Learning for Speech Using Visual Grounding and Masked Language Modeling	https://arxiv.org/abs/2202.03543
+Sim2Real Object-Centric Keypoint Detection and Description	https://arxiv.org/abs/2202.00448
+Detecting Human-Object Interactions with Object-Guided Cross-Modal Calibrated Semantics	https://arxiv.org/abs/2202.00259
+TrustAL: Trustworthy Active Learning using Knowledge Distillation	https://arxiv.org/abs/2201.11661
+Knowledge Sharing via Domain Adaptation in Customs Fraud Detection	https://arxiv.org/abs/2201.06759
+Unsupervised Temporal Video Grounding with Deep Semantic Clustering	https://arxiv.org/abs/2201.05307
+Coarse-to-Fine Embedded PatchMatch and Multi-Scale Dynamic Aggregation for Reference-based Super-Resolution	https://arxiv.org/abs/2201.04358
+Efficient Non-Local Contrastive Attention for Image Super-Resolution	https://arxiv.org/abs/2201.03794
+Learning Quality-aware Representation for Multi-person Pose Regression	https://arxiv.org/abs/2201.01087
+Detailed Facial Geometry Recovery from Multi-view Images by Learning an Implicit Function	https://arxiv.org/abs/2201.01016
+Exploring Motion and Appearance Information for Temporal Sentence Grounding	https://arxiv.org/abs/2201.00457
+Memory-Guided Semantic Learning Network for Temporal Sentence Grounding	https://arxiv.org/abs/2201.00454
+Detail-Preserving Transformer for Light Field Image Super-Resolution	https://arxiv.org/abs/2201.00346
+Constraint Sampling Reinforcement Learning: Incorporating Expertise For Faster Learning	https://arxiv.org/abs/2112.15221
+Semantic Feature Extraction for Generalized Zero-shot Learning	https://arxiv.org/abs/2112.14478
+Deformable Graph Convolutional Networks	https://arxiv.org/abs/2112.14438
+Delving into Probabilistic Uncertainty for Unsupervised Domain Adaptive Person Re-Identification	https://arxiv.org/abs/2112.14025
+Boosting Generative Zero-Shot Learning by Synthesizing Diverse Features with Attribute Augmentation	https://arxiv.org/abs/2112.12573
+Hierarchical Cross-Modality Semantic Correlation Learning Model for Multimodal Summarization	https://arxiv.org/abs/2112.12072
+ALP: Data Augmentation using Lexicalized PCFGs for Few-Shot Text Classification	https://arxiv.org/abs/2112.11916
+Multi-Centroid Representation Network for Domain Adaptive Person Re-ID	https://arxiv.org/abs/2112.11689
+Enabling NAS with Automated Super-Network Generation	https://arxiv.org/abs/2112.10878
+UFPMP-Det: Toward Accurate and Efficient Object Detection on Drone Imagery	https://arxiv.org/abs/2112.10415
+Elastic-Link for Binarized Neural Network	https://arxiv.org/abs/2112.10149
+Meta Propagation Networks for Graph Few-shot Semi-supervised Learning	https://arxiv.org/abs/2112.09810
+On Optimizing Interventions in Shared Autonomy	https://arxiv.org/abs/2112.09169
+Activation Modulation and Recalibration Scheme for Weakly Supervised Semantic Segmentation	https://arxiv.org/abs/2112.08996
+Saliency Grafting: Innocuous Attribution-Guided Mixup with Calibrated Label Mixing	https://arxiv.org/abs/2112.08796
+KGR^4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation	https://arxiv.org/abs/2112.08266
+Text Gestalt: Stroke-Aware Scene Text Image Super-Resolution	https://arxiv.org/abs/2112.08171
+Temporal Action Proposal Generation with Background Constraint	https://arxiv.org/abs/2112.07984
+Transcoded Video Restoration by Temporal Spatial Auxiliary Network	https://arxiv.org/abs/2112.07948
+Imagine by Reasoning: A Reasoning-Based Implicit Semantic Data Augmentation for Long-Tailed Classification	https://arxiv.org/abs/2112.07928
+Robust Depth Completion with Uncertainty-Driven Loss Functions	https://arxiv.org/abs/2112.07895
+Multi-Modal Perception Attention Network with Self-Supervised Learning for Audio-Visual Speaker Tracking	https://arxiv.org/abs/2112.07423
+Improving Human-Object Interaction Detection via Phrase Learning and Label Composition	https://arxiv.org/abs/2112.07383
+Federated Learning for Face Recognition with Gradient Correction	https://arxiv.org/abs/2112.07246
+Lifelong Hyper-Policy Optimization with Multiple Importance Sampling Regularization	https://arxiv.org/abs/2112.06625
+LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks	https://arxiv.org/abs/2112.05355
+Edge-aware Guidance Fusion Network for RGB Thermal Scene Parsing	https://arxiv.org/abs/2112.05144
+Adaptive Kernel Graph Neural Network	https://arxiv.org/abs/2112.04575
+Suppressing Static Visual Cues via Normalizing Flows for Self-Supervised Video Representation Learning	https://arxiv.org/abs/2112.03803
+Safe Distillation Box	https://arxiv.org/abs/2112.03695
+Contrastive Learning from Extremely Augmented Skeleton Sequences for Self-supervised Action Recognition	https://arxiv.org/abs/2112.03590
+DIY Graphics Tab: A Cost-Effective Alternative to Graphics Tablet for Educators	https://arxiv.org/abs/2112.03269
+Texture Reformer: Towards Fast and Universal Interactive Texture Transfer	https://arxiv.org/abs/2112.02788
+Protecting Intellectual Property of Language Generation APIs with Lexical Watermark	https://arxiv.org/abs/2112.02701
+Open Vocabulary Electroencephalography-To-Text Decoding and Zero-shot Sentiment Classification	https://arxiv.org/abs/2112.02690
+A Novel Approach to Solving Goal-Achieving Problems for Board Games	https://arxiv.org/abs/2112.02563
+Pose-guided Feature Disentangling for Occluded Person Re-identification Based on Transformer	https://arxiv.org/abs/2112.02466
+Behind the Curtain: Learning Occluded Shapes for 3D Object Detection	https://arxiv.org/abs/2112.02205
+Adaptive Poincaré Point to Set Distance for Few-Shot Classification	https://arxiv.org/abs/2112.01719
+Inferring Prototypes for Multi-Label Few-Shot Image Classification with Word Vector Guided Attention	https://arxiv.org/abs/2112.01037
+TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning	https://arxiv.org/abs/2112.01030
+STEM: Unsupervised STructural EMbedding for Stance Detection	https://arxiv.org/abs/2112.00712
+Representing Prior Knowledge Using Randomly, Weighted Feature Networks for Visual Relationship Detection	https://arxiv.org/abs/2111.10686
+Graph Transplant: Node Saliency-Guided Graph Mixup with Local Structure Preservation	https://arxiv.org/abs/2111.05639
+MultiplexNet: Towards Fully Satisfied Logical Constraints in Neural Networks	https://arxiv.org/abs/2111.01564
+SSAST: Self-Supervised Audio Spectrogram Transformer	https://arxiv.org/abs/2110.09784
+Mastering the Explicit Opinion-role Interaction: Syntax-aided Neural Transition System for Unified Opinion Role Labeling	https://arxiv.org/abs/2110.02001
+GenCo: Generative Co-training for Generative Adversarial Networks with Limited Data	https://arxiv.org/abs/2110.01254
+Fully Spiking Variational Autoencoder	https://arxiv.org/abs/2110.00375
+Learning logic programs through divide, constrain, and conquer	https://arxiv.org/abs/2109.07818
+Adversarial Bone Length Attack on Action Recognition	https://arxiv.org/abs/2109.05830
+UniMS: A Unified Framework for Multimodal Summarization with Knowledge Distillation	https://arxiv.org/abs/2109.05812
+CINS: Comprehensive Instruction for Few-shot Learning in Task-oriented Dialog Systems	https://arxiv.org/abs/2109.04645
+Juvenile state hypothesis: What we can learn from lottery ticket hypothesis researches?	https://arxiv.org/abs/2109.03862
+Scaled ReLU Matters for Training Vision Transformers	https://arxiv.org/abs/2109.03810
+Learning to Transfer with von Neumann Conditional Divergence	https://arxiv.org/abs/2108.03531
+KOALA: A Kalman Optimization Algorithm with Loss Adaptivity	https://arxiv.org/abs/2107.03331
+Towards Real-time and Light-weight Line Segment Detection	https://arxiv.org/abs/2106.00186
+Nested Hierarchical Transformer: Towards Accurate, Data-Efficient and Interpretable Visual Understanding	https://arxiv.org/abs/2105.12723
+Flexible Instance-Specific Rationalization of NLP Models	https://arxiv.org/abs/2104.08219
+PrivateSNN: Privacy-Preserving Spiking Neural Networks	https://arxiv.org/abs/2104.03414
+DeepThermal: Combustion Optimization for Thermal Power Generating Units Using Offline Reinforcement Learning	https://arxiv.org/abs/2102.11492
+SAIL: Self-Augmented Graph Contrastive Learning	https://arxiv.org/abs/2009.00934
+Making Adversarial Examples More Transferable and Indistinguishable	https://arxiv.org/abs/2007.03838
+Policy Optimization with Stochastic Mirror Descent	https://arxiv.org/abs/1906.10462

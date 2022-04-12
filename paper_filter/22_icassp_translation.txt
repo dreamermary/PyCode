@@ -1,0 +1,4 @@
+|Multi-domain Unsupervised Image-to-Image Translation with Appearance Adaptive Convolution|icassp22||https://arxiv.org/abs/2202.02779|
+|Tackling data scarcity in speech translation using zero-shot multilingual machine translation techniques|icassp22||https://arxiv.org/abs/2201.11172|
+|Isometric MT: Neural Machine Translation for Automatic Dubbing|icassp22||https://arxiv.org/abs/2112.08682|
+|Prosody-Aware Neural Machine Translation for Dubbing|icassp22||https://arxiv.org/abs/2112.08548|

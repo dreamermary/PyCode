@@ -1,0 +1,1724 @@
+Rethinking The Separation Layers In Speech Separation Networks	9414176
+On Permutation Invariant Training For Speech Source Separation	9413559
+Count And Separate: Incorporating Speaker Counting For Continuous Speaker Separation	9414677
+Ultra-Lightweight Speech Separation Via Group Communication	9414322
+Attention Is All You Need In Speech Separation	9413901
+Multichannel Overlapping Speaker Segmentation Using Multiple Hypothesis Tracking Of Acoustic And Spatial Features	9414130
+Semi-Supervised Singing Voice Separation With Noisy Self-Training	9413723
+Neuro-Steered Music Source Separation With EEG-Based Auditory Attention Decoding And Contrastive-NMF	9413841
+Complex Ratio Masking For Singing Voice Separation	9414398
+Transcription Is All You Need: Learning To Separate Musical Mixtures With Score As Supervision	9413358
+All For One And One For All: Improving Music Separation By Bridging Networks	9414044
+An Hrnet-Blstm Model With Two-Stage Training For Singing Melody Extraction	9414431
+DeepF0: End-To-End Fundamental Frequency Estimation for Music and Speech Signals	9414050
+Differentiable Signal Processing With Black-Box Audio Effects	9415103
+Automatic Multitrack Mixing With A Differentiable Mixing Console Of Neural Audio Effects	9414364
+Sequence-To-Sequence Singing Voice Synthesis With Perceptual Entropy Loss	9414348
+Reverb Conversion Of Mixed Vocal Tracks Using An End-To-End Convolutional Deep Neural Network	9414038
+Extending Music Based On Emotion And Tonality Via Generative Adversarial Network	9413365
+Improving The Robustness Of Right Whale Detection In Noisy Conditions Using Denoising Autoencoders And Augmented Training	9414682
+Self-Supervised VQ-VAE for One-Shot Music Style Transfer	9414235
+Capturing Temporal Dependencies Through Future Prediction for CNN-Based Audio Classifiers	9414018
+Segmental Dtw: A Parallelizable Alternative to Dynamic Time Warping	9413827
+Pitch-Timbre Disentanglement Of Musical Instrument Sounds Based On Vae-Based Metric Learning	9414059
+Asynchronous Acoustic Echo Cancellation Over Wireless Channels	9414288
+Combining Adaptive Filtering And Complex-Valued Deep Postfiltering For Acoustic Echo Cancellation	9414868
+Deep Residual Echo Suppression With A Tunable Tradeoff Between Signal Distortion And Echo Suppression	9414958
+Robust STFT Domain Multi-Channel Acoustic Echo Cancellation with Adaptive Decorrelation of the Reference Signals	9413836
+A Method for Determining Periodically Time-Varying Bias and Its Applications in Acoustic Feedback Cancellation	9414685
+Weighted Recursive Least Square Filter and Neural Network Based Residual ECHO Suppression for the AEC-Challenge	9414623
+ICASSP 2021 Acoustic Echo Cancellation Challenge: Integrated Adaptive Echo Cancellation with Time Alignment and Deep Learning-Based Residual Echo Plus Noise Suppression	9414462
+ICASSP 2021 Acoustic Echo Cancellation Challenge: Datasets, Testing Framework, and Results	9413457
+AEC in A Netshell: on Target and Topology Choices for FCRN Acoustic Echo Cancellation	9414715
+Kernel-Interpolation-Based Filtered-X Least Mean Square for Spatial Active Noise Control In Time Domain	9414842
+Wave-Domain Optimization of Secondary Source Placement Free From Information of Error Sensor Positions	9414622
+Lasaft: Latent Source Attentive Frequency Transformation For Conditioned Source Separation	9413896
+Surrogate Source Model Learning for Determined Source Separation	9414255
+Auditory Filterbanks Benefit Universal Sound Source Separation	9414105
+What＊s all the Fuss about Free Universal Sound Separation Data?	9414774
+SepNet: A Deep Separation Matrix Prediction Network for Multichannel Audio Source Separation	9414884
+CDPAM: Contrastive Learning for Perceptual Audio Similarity	9413711
+Linear Multichannel Blind Source Separation based on Time-Frequency Mask Obtained by Harmonic/Percussive Sound Separation	9413494
+Multichannel-based Learning for Audio Object Extraction	9414585
+DBnet: Doa-Driven Beamforming Network for end-to-end Reverberant Sound Source Separation	9414187
+Joint Dereverberation and Separation With Iterative Source Steering	9413478
+Exploiting Non-Negative Matrix Factorization for Binaural Sound Localization in the Presence of Directional Interference	9414233
+Blind Extraction of Moving Audio Source in a Challenging Environment Supported by Speaker Identification Via X-Vectors	9414331
+Mind the Beat: Detecting Audio Onsets from EEG Recordings of Music Listening	9414245
+Don＊t Look Back: An Online Beat Tracking Method Using RNN and Enhanced Particle Filtering	9413915
+Singing Melody Extraction from Polyphonic Music based on Spectral Correlation Modeling	9414190
+Improving Automatic Drum Transcription Using Large-Scale Audio-to-Midi Aligned Data	9414409
+Frequency-Temporal Attention Network for Singing Melody Extraction	9413444
+Statistical Correction of Transcribed Melody Notes Based on Probabilistic Integration of a Music Language Model and a Transcription Error Model	9414249
+Reliability Assessment of Singing Voice F0-Estimates Using Multiple Algorithms	9413372
+End-to-End Lyrics Recognition with Voice to Singing Style Transfer	9415096
+Singing Language Identification Using a Deep Phonotactic Approach	9414203
+On the Preparation and Validation of a Large-Scale Dataset of Singing Transcription	9414601
+Joint Multi-Pitch Detection and Score Transcription for Polyphonic Piano Music	9413601
+Karaoke Key Recommendation Via Personalized Competence-Based Rating Prediction	9414524
+A Closed-Loop Gain-Control Feedback Model for The Medial Efferent System of The Descending Auditory Pathway	9414195
+DHASP: Differentiable Hearing Aid Speech Processing	9414571
+Computationally Efficient DNN-Based Approximation of an Auditory Model for Applications in Speech Processing	9413993
+Cascaded All-Pass Filters with Randomized Center Frequencies and Phase Polarity for Acoustic and Speech Measurement and Data Augmentation	9415057
+Probing Acoustic Representations for Phonetic Properties	9414776
+An End-To-End Non-Intrusive Model for Subjective and Objective Real-World Speech Assessment Using a Multi-Task Framework	9414182
+Few-Shot Continual Learning for Audio Classification	9413584
+Zero-Shot Audio Classification with Factored Linear and Nonlinear Acoustic-Semantic Projections	9414994
+Unsupervised and Semi-Supervised Few-Shot Acoustic Event Classification	9414546
+Flow-Based Self-Supervised Density Estimation for Anomalous Sound Detection	9414662
+Self-Training for Sound Event Detection in Audio Mixtures	9414450
+Prototypical Networks for Domain Adaptation in Acoustic Scene Classification	9414876
+A Global-Local Attention Framework for Weakly Labelled Audio Tagging	9414357
+An Improved Mean Teacher Based Method for Large Scale Weakly Labeled Semi-Supervised Sound Event Detection	9414931
+Comparison of Deep Co-Training and Mean-Teacher Approaches for Semi-Supervised Audio Tagging	9415116
+The Benefit of Temporally-Strong Labels in Audio Event Classification	9414579
+Unsupervised Contrastive Learning of Sound Event Representations	9415009
+Sound Event Detection by Consistency Training and Pseudo-Labeling With Feature-Pyramid Convolutional Recurrent Neural Networks	9414350
+SESQA: Semi-Supervised Learning for Speech Quality Assessment	9414052
+Detecting Signal Corruptions in Voice Recordings For Speech Therapy	9414383
+MBNET: MOS Prediction for Synthesized Speech with Mean-Bias Network	9413877
+Non-Intrusive Binaural Prediction of Speech Intelligibility Based on Phoneme Classification	9413874
+Warp-Q: Quality Prediction for Generative Neural Speech Codecs	9414901
+Crowdsourcing Approach for Subjective Evaluation of Echo Impairment	9414904
+Amplitude Matching: Majorization每Minimization Algorithm for Sound Field Control Only with Amplitude Constraint	9414855
+3D Multizone Soundfield Reproduction in a Reverberant Environment Using Intensity Matching Method	9414077
+The Far-Field Equatorial Array for Binaural Rendering	9414368
+Spherical Harmonic Representation for Dynamic Sound-Field Measurements	9413708
+Direction Preserving Wind Noise Reduction Of B-Format Signals	9415089
+Refinement of Direction of Arrival Estimators by Majorization-Minimization Optimization on the Array Manifold	9414798
+On the Predictability of Hrtfs from Ear Shapes Using Deep Networks	9414042
+Applied Methods for Sparse Sampling of Head-Related Transfer Functions	9413976
+Personalized HRTF Modeling Using DNN-Augmented BEM	9414448
+Efficient Training Data Generation for Phase-Based DOA Estimation	9414070
+Acoustic Reflectors Localization from Stereo Recordings Using Neural Networks	9414473
+Detecting Acoustic Reflectors Using A Robot＊s Ego-Noise	9414061
+Prediction of Object Geometry from Acoustic Scattering Using Convolutional Neural Networks	9414743
+Blind Amplitude Estimation of Early Room Reflections Using Alternating Least Squares	9413873
+Acoustic Analysis and Dataset of Transitions Between Coupled Rooms	9415122
+On Loss Functions for Deep-Learning Based T60 Estimation	9414442
+Towards Listening to 10 People Simultaneously: An Efficient Permutation Invariant Training of Audio Source Separation Using Sinkhorn＊s Algorithm	9414508
+Accelerating Auxiliary Function-Based Independent Vector Analysis	9413950
+One-Shot Conditional Audio Filtering of Arbitrary Sounds	9414003
+Low Latency Online Blind Source Separation Based on Joint Optimization with Blind Dereverberation	9413700
+Autoregressive Fast Multichannel Nonnegative Matrix Factorization For Joint Blind Source Separation And Dereverberation	9414857
+Phase Recovery with Bregman Divergences for Audio Source Separation	9413717
+Adversarial Attacks on Audio Source Separation	9414844
+Maximum a Posteriori Estimator for Convolutive Sound Source Separation with Sub-Source Based NTF Model and the Localization Probabilistic Prior on the Mixing Matrix	9413863
+Unified Gradient Reweighting for Model Biasing with Applications to Source Separation	9414071
+Melon Playlist Dataset: A Public Dataset for Audio-Based Playlist Generation and Music Tagging	9413552
+Investigating the Efficacy of Music Version Retrieval Systems for Setlist Identification	9414603
+Instrument Classification of Solo Sheet Music Images	9413732
+Bytecover: Cover Song Identification Via Multi-Loss Training	9414128
+Multi-Task Self-Supervised Pre-Training for Music Classification	9414405
+Towards Explaining Expressive Qualities in Piano Recordings: Transfer of Explanatory Features Via Acoustic Domain Adaptation	9413638
+Supervised Chorus Detection for Popular Music Using Convolutional Neural Network and Multi-Task Learning	9413773
+Structure-Aware Audio-to-Score Alignment Using Progressively Dilated Convolutional Neural Networks	9414049
+Language-Sensitive Music Emotion Recognition Models: are We Really There Yet?	9413721
+Leveraging the Structure of Musical Preference in Content-Aware Music Recommendation	9414194
+Low Resource Audio-To-Lyrics Alignment from Polyphonic Music Recordings	9414395
+Multimodal Metric Learning for Tag-Based Music Retrieval	9413514
+Learning Contextual Tag Embeddings for Cross-Modal Alignment of Audio and Tags	9414638
+Efficient End-to-End Audio Embeddings Generation for Audio Classification on Target Applications	9414229
+Text-to-Audio Grounding: Building Correspondence Between Captions and Sound Events	9414834
+Multi-View Audio And Music Classification	9414551
+Audio-Visual Event Recognition Through the Lens of Adversary	9415065
+DCASENET: An Integrated Pretrained Deep Neural Network for Detecting and Classifying Acoustic Scenes and Events	9414406
+A Curated Dataset of Urban Scenes for Audio-Visual Scene Analysis	9415085
+Improving Sound Event Detection Metrics: Insights from DCASE 2020	9414711
+Artificially Synthesising Data for Audio Classification and Segmentation to Improve Speech and Music Detection in Radio Broadcast	9413597
+LSSED: A Large-Scale Dataset and Benchmark for Speech Emotion Recognition	9414542
+Enhancing Audio Augmentation Methods with Consistency Learning	9414316
+Fast Threshold Optimization for Multi-Label Audio Tagging Using Surrogate Gradient Learning	9414091
+Towards Efficient Models for Real-Time Deep Noise Suppression	9413580
+Teacher-Student Learning for Low-Latency Online Speech Enhancement Using Wave-U-Net	9414280
+Learning Disentangled Feature Representations for Speech Enhancement Via Adversarial Training	9413512
+Speech Enhancement Autoencoder with Hierarchical Latent Structure	9414695
+Variational Autoencoder for Speech Enhancement with a Noise-Aware Encoder	9414060
+Guided Variational Autoencoder for Speech Enhancement with a Supervised Classifier	9414363
+An Extension of Sparse Audio Declipper to Multiple Measurement Vectors	9414519
+Real-Time Speech Frequency Bandwidth Extension	9413439
+Bandwidth Extension is All You Need	9413575
+Audio Dequantization Using (Co)Sparse (Non)Convex Methods	9414637
+Source-Aware Neural Speech Coding for Noisy Speech Compression	9413678
+Enhancing into the Codec: Noise Robust Speech Coding with Vector-Quantized Autoencoders	9414605
+Speech Enhancement with Mixture of Deep Experts with Clean Clustering Pre-Training	9414122
+A Novel NMF-HMM Speech Enhancement Algorithm Based on Poisson Mixture Model	9414620
+Phoneme-Based Distribution Regularization for Speech Enhancement	9414761
+Compressed Representation of Cepstral Coefficients via Recurrent Neural Networks for Informed Speech Enhancement	9414536
+Optimizing Short-Time Fourier Transform Parameters via Gradient Descent	9413704
+Iterative Geometry Calibration from Distance Estimates for Wireless Acoustic Sensor Networks	9413831
+On the Design of Square Differential Microphone Arrays with a Multistage Structure	9413759
+Arrays of First-Order Steerable Differential Microphones	9413476
+Planar Array Geometry Optimization for Region Sound Acquisition	9414446
+Estimation of Microphone Clusters in Acoustic Sensor Networks Using Unsupervised Federated Learning	9414186
+Misalignment Recognition in Acoustic Sensor Networks Using a Semi-Supervised Source Estimation Method and Markov Random Fields	9413765
+Rotation-Robust Beamforming Based on Sound Field Interpolation with Regularly Circular Microphone Array	9414196
+Sparse Recovery Beamforming and Upscaling in the Ray Space	9414268
+Combined Differential Beamforming With Uniform Linear Microphone Arrays	9414189
+Polynomial Matrix Eigenvalue Decomposition of Spherical Harmonics for Speech Enhancement	9414011
+A Parametric Unconstrained Binaural Beamformer Based Noise Reduction and Spatial Cue Preservation for Hearing-Assistive Devices	9414210
+A Simplified Wiener Beamformer Based on Covariance Matrix Modelling	9414719
+Control Architecture of the Double-Cross-Correlation Processor for Sampling-Rate-Offset Estimation in Acoustic Sensor Networks	9413768
+Deficient Basis Estimation of Noise Spatial Covariance Matrix for Rank-Constrained Spatial Covariance Matrix Estimation Method in Blind Speech Extraction	9414479
+Reducing Modal Error Propagation through Correcting Mismatched Microphone Gains Using Rapid	9415030
+Evaluation and Comparison of Three Source Direction-of-Arrival Estimators Using Relative Harmonic Coefficients	9414481
+Network-Aware Optimal Microphone Channel Selection in Wireless Acoustic Sensor Networks	9414528
+Supervised Direct-Path Relative Transfer Function Learning for Binaural Sound Source Localization	9413923
+Cross-Modal Spectrum Transformation Network for Acoustic Scene Classification	9414779
+Domestic Activities Clustering From Audio Recordings Using Convolutional Capsule Autoencoder Network	9414643
+Sound Event Detection and Separation: A Benchmark on Desed Synthetic Soundscapes	9414789
+A Two-Stage Approach to Device-Robust Acoustic Scene Classification	9414835
+Subspectral Normalization for Neural Audio Data Processing	9413522
+Slow-Fast Auditory Streams for Audio Recognition	9413376
+Impact of Sound Duration and Inactive Frames on Sound Event Detection Performance	9414949
+A New DCASE 2017 Rare Sound Event Detection Benchmark Under Equal Training Data: CRNN With Multi-Width Kernels	9414254
+Room Adaptive Conditioning Method for Sound Event Classification in Reverberant Environments	9413929
+Sound Event Detection Based on Curriculum Learning Considering Learning Difficulty of Events	9414184
+Sound Event Detection in Urban Audio with Single and Multi-Rate Pcen	9414697
+An Improved Event-Independent Network for Polyphonic Sound Event Localization and Detection	9413473
+Lightweight and Interpretable Neural Modeling of an Audio Distortion Effect Using Hyperconditioned Differentiable Biquads	9413996
+Attacking and Defending Behind A Psychoacoustics-Based Captcha	9414135
+Double-DCCCAE: Estimation of Body Gestures From Speech Waveform	9414660
+Investigating Local and Global Information for Automated Audio Captioning with Transfer Learning	9413982
+Unidirectional Memory-Self-Attention Transducer for Online Speech Recognition	9413932
+Accdoa: Activity-Coupled Cartesian Direction of Arrival Representation for Sound Event Localization And Detection	9413609
+Seen and Unseen Emotional Style Transfer for Voice Conversion with A New Emotional Speech Dataset	9413391
+U-Convolution Based Residual Echo Suppression with Multiple Encoders	9414753
+A Multi-Channel Temporal Attention Convolutional Neural Network Model for Environmental Sound Classification	9413498
+A General Network Architecture for Sound Event Localization and Detection Using Transfer Learning and Recurrent Neural Network	9414602
+Robust Recursive Least M-Estimate Adaptive Filter for the Identification of Low-Rank Acoustic Systems	9413983
+Noise-Robust Adaptation Control for Supervised Acoustic System Identification Exploiting a Noise Dictionary	9414180
+Interpolation of Irregularly Sampled Frequency Response Functions Using Convolutional Neural Networks	9413458
+Effective Rank-Based Estimation of the Coherent-to-Diffuse Power Ratio	9413985
+Room Impulse Response Interpolation from a Sparse Set of Measurements Using a Modal Architecture	9414399
+Processing Pipelines for Efficient, Physically-Accurate Simulation of Microphone Array Signals in Dynamic Sound Scenes	9413354
+A Classifier for Improving Cause and Effect in SSVEP-based BCIs for Individuals with Complex Communication Disorders	9414075
+Saga: Sparse Adversarial Attack on EEG-Based Brain Computer Interface	9413507
+Riemannian Geometry on Connectivity for Clinical BCI	9414790
+Decoding Music Attention from ※EEG Headphones§: A User-Friendly Auditory Brain-Computer Interface	9414492
+Mitigating Inter-Subject Brain Signal Variability FOR EEG-Based Driver Fatigue State Classification	9414613
+A Deep Spatio-Temporal Model for EEG-Based Imagined Speech Recognition	9413989
+Incorporating Uncertainty In Data Labeling Into Detection of Brain Interictal Epileptiform Discharges From EEG Using Weighted optimization	9414463
+Multi-Level Reversible Encryption for ECG Signals Using Compressive Sensing	9414983
+Validating the Inspired Sinewave Technique to Measure Lung Heterogeneity Compared to Atelectasis &amp; Over-Distended Volume in Computed Tomography Images	9413942
+A Patient-Invariant Model for Freezing of Gait Detection Aided by Wavelet Decomposition	9414780
+Identification of Uterine Contractions by An Ensemble of Gaussian Processes	9414041
+Arrhythmia Classification with Heartbeat-Aware Transformer	9413938
+Multi-Level Group Testing with Application to One-Shot Pooled COVID-19 Tests	9414574
+Detection of Covid-19 Through the Analysis of Vocal Fold Oscillations	9414201
+Ct-Caps: Feature Extraction-Based Automated Framework for Covid-19 Disease Identification From Chest Ct Scans Using Capsule Networks	9414214
+Few-Shot Learning for Ct Scan Based Covid-19 Diagnosis	9413443
+Graph-Based Pyramid Global Context Reasoning With a Saliency- Aware Projection for Covid-19 Lung Infections Segmentation	9413957
+Interpreting Glottal Flow Dynamics for Detecting Covid-19 From Voice	9414530
+Cycle Generative Adversarial Network Approaches to Produce Novel Portable Chest X-Rays Images for Covid-19 Diagnosis	9414031
+EEG-Based Emotion Classification Using Graph Signal Processing	9414342
+Granger Causality Based Directional Phase-Amplitude Coupling Measure	9414004
+REPAC: Reliable Estimation of Phase-Amplitude Coupling in Brain Networks	9414749
+Subspace Oddity - Optimization on Product of Stiefel Manifolds for EEG Data	9413730
+Decentralized Motion Inference and Registration of Neuropixel Data	9414145
+Dynamic Graph Learning Based on Graph Laplacian	9413744
+Mutual Information Flows in a Bivariate Point Process	9414484
+Uncertainty-Based Biological Age Estimation of Brain MRI Scans	9414112
+Sparse Representation of Complex-Valued fMRI Data Based on Hard Thresholding of Spatial Source Phase	9414589
+Tucker Decomposition for Extracting Shared and Individual Spatial Maps from Multi-Subject Resting-State fMRI Data	9413958
+Riemannian Geometry-Based Decoding of the Directional Focus of Auditory Attention Using EEG	9413404
+DFDM: A Deep Feature Decoupling Module for Lung Nodule Segmentation	9414938
+Pyramid U-Net for Retinal Vessel Segmentation	9414164
+A Probabilistic Model for Segmentation of Ambiguous 3D Lung Nodule	9415006
+Semi-Supervised Skin Lesion Segmentation with Learning Model Confidence	9414297
+A Hybrid Feature Enhancement Method for Gland Segmentation In Histopathology Images	9415095
+Automated Multi-Organ Segmentation in Pet Images Using Cascaded Training of a 3d U-Net and Convolutional Autoencoder	9414700
+Improved Supervised Training of Physics-Guided Deep Learning Image Reconstruction with Multi-Masking	9413495
+Fine-Grained Mri Reconstruction Using Attentive Selection Generative Adversarial Networks	9414981
+Ensure: Ensemble Stein＊s Unbiased Risk Estimator for Unsupervised Learning	9414513
+Ultrasound Elasticity Imaging Using Physics-Based Models and Learning-Based Plug-and-Play Priors	9413652
+A Periodic Frame Learning Approach for Accurate Landmark Localization in M-Mode Echocardiography	9414375
+A Bias-Reducing Loss Function for CT Image Denoising	9413855
+Learning Binary Semantic Embedding for Breast Histology Image Classification and Retrieval	9415036
+Channel Attention Residual U-Net for Retinal Vessel Segmentation	9414282
+CMIM: Cross-Modal Information Maximization For Medical Imaging	9414132
+Structure-Enhanced Attentive Learning For Spine Segmentation From Ultrasound Volume Projection Images	9414658
+Foveal Avascular Zone Segmentation of Octa Images Using Deep Learning Approach with Unsupervised Vessel Segmentation	9415070
+Acute Lymphoblastic Leukemia Detection Based on Adaptive Unsharpening and Deep Learning	9414362
+Meta Ordinal Weighting Net For Improving Lung Nodule Classification	9413622
+Deepnodule: Multi-Task Learning of Segmentation Bootstrap for Pulmonary Nodule Detection	9413825
+Dense Attention Module for Accurate Pulmonary Nodule Detection	9413936
+Unsupervised Multimodal Image Registration with Adaptative Gradient Guidance	9414320
+Improving Intraoperative Liver Registration in Image-Guided Surgery with Learning-Based Reconstruction	9414549
+A New Framework Based on Transfer Learning for Cross-Database Pneumonia Detection	9414997
+Hierarchical Attention-Based Temporal Convolutional Networks for Eeg-Based Emotion Recognition	9413635
+Deep Multiway Canonical Correlation Analysis For Multi-Subject Eeg Normalization	9414274
+Dynamic Graph Modeling Of Simultaneous EEG And Eye-Tracking Data For Reading Task Identification	9414343
+Learning From Heterogeneous Eeg Signals with Differentiable Channel Reordering	9413712
+Enhancing Multi-Channel Eeg Classification with Gramian Temporal Generative Adversarial Networks	9414078
+A Novel Convolutional Neural Network Model to Remove Muscle Artifacts from EEG	9414228
+Multilabel 12-Lead Electrocardiogram Classification Using Beat to Sequence Autoencoders	9414934
+Contrastive Embeddind Learning Method for Respiratory Sound Classification	9414385
+Decoding Neural Representations of Rhythmic Sounds From Magnetoencephalography	9414178
+Low-Dimensional Denoising Embedding Transformer for ECG Classification	9413766
+Self-Supervised Learning for Sleep Stage Classification with Predictive and Discriminative Contrastive Coding	9414752
+Length No Longer Matters: A Real Length Adaptive Arrhythmia Classification Model with Multi-Scale Convolution	9414616
+Few-Shot Learning for Decoding Surface Electromyography for Hand Gesture Recognition	9413582
+Deep Lung Auscultation Using Acoustic Biomarkers for Abnormal Respiratory Sound Event Detection	9414845
+Speaker-Independent Brain Enhanced Speech Denoising	9414969
+Shapelet Based Visual Assessment of Cluster Tendency in Analyzing Complex Upper Limb Motion	9414144
+Human-Centered Favorite Music Classification Using EEG-Based Individual Music Preference Via Deep Time-Series CCA	9414945
+Multi-Scale and Multi-Region Facial Discriminative Representation for Automatic Depression Level Prediction	9413504
+ECG Heart-Beat Classification Using Multimodal Image Fusion	9414709
+Estimation of Visual Features of Viewed Image From Individual and Shared Brain Information Based on FMRI Data Using Probabilistic Generative Model	9414507
+Hierarchical Pose Classification for Infant Action Analysis and Mental Development Assessment	9415088
+On The Relationship Between Speech-Based Breathing Signal Prediction Evaluation Measures and Breathing Parameters Estimation	9414756
+Prediction of Egfr Mutation Status in Lung Adenocarcinoma Using Multi-Source Feature Representations	9414064
+Training Neural Networks with Domain Pattern-Aware Auxiliary Task for Sleep Staging	9413683
+Classification of Expert-Novice Level Using Eye Tracking And Motion Data via Conditional Multimodal Variational Autoencoder	9414361
+Gate Trimming: One-Shot Channel Pruning for Efficient Convolutional Neural Networks	9414338
+Deep S<sup>3</sup>PR: Simultaneous Source Separation and Phase Retrieval Using Deep Generative Models	9413714
+Adversarial Attacks on Object Detectors with Limited Perturbations	9414125
+A Consensus Equilibrium Solution For Deep Image Prior Powered By Red	9414290
+Suremap: Predicting Uncertainty in Cnn-Based Image Reconstructions Using Stein＊s Unbiased Risk Estimate	9414306
+Multi-Initialization Meta-Learning with Domain Adaptation	9414554
+Stochastic Deep Unfolding for Imaging Inverse Problems	9414332
+Fusion-Based Digital Image Correlation Framework for Strain Measurement	9414987
+Learning Sparsifying Transforms for Image Reconstruction in Electrical Impedance Tomography	9413861
+D-VDAMP: Denoising-Based Approximate Message Passing for Compressive MRI	9414708
+Empirically Accelerating Scaled Gradient Projection Using Deep Neural Network for Inverse Problems in Image Processing	9415023
+Synthetic Aperture Acoustic Imaging with Deep Generative Model Based Source Distribution Prior	9414138
+Non-Local Single Image DE-Raining Without Decomposition	9415000
+Frame-Rate-Aware Aggregation for Efficient Video Super-Resolution	9414334
+Measurement Coding Framework with Adjacent Pixels Based Measurement Matrix for Compressively Sensed Images	9414068
+Multiview Sensing with Unknown Permutations: an Optimal Transport Approach	9415075
+A High-Frame-Rate Eye-Tracking Framework for Mobile Devices	9414624
+Catiloc: Camera Image Transformer for Indoor Localization	9414939
+Sar Image Autofocusing Using Wirtinger Calculus and Cauchy Regularization	9413629
+A Homogeneity-Based Multiscale Hyperspectral Image Representation for Sparse Spectral Unmixing	9415024
+Learning to Estimate Kernel Scale and Orientation of Defocus Blur with Asymmetric Coded Aperture	9413920
+Transmittance Regularizer for Binary coded Aperture Design in a Computational Imaging end-to-end Approach	9413903
+Fourier Transformation Autoencoders for Anomaly Detection	9415010
+Zero-Gradient Constraints for Destriping of Remote-Sensing Data	9415066
+Selection Based on Statistical Characteristics for Object Detection	9413848
+CSPN: Multi-Scale Cascade Spatial Pyramid Network for Object Detection	9414883
+Dual-Stream Network Based On Global Guidance for Salient Object Detection	9413702
+SSFENet: Spatial and Semantic Feature Enhancement Network for Object Detection	9413602
+Saliency-Driven Versatile Video Coding for Neural Object Detection	9415048
+Object-Oriented Relational Distillation for Object Detection	9413925
+Ensembling Object Detectors for Image and Video Data Analysis	9414013
+Training Real-Time Panoramic Object Detectors with Virtual Dataset	9414503
+Fast: Feature Aggregation for Detecting Salient Object in Real-Time	9414457
+Exploiting the Dual-Tree Complex Wavelet Transform for Ship Wake Detection in SAR Imagery	9414898
+Task-Related Self-Supervised Learning For Remote Sensing Image Change Detection	9414387
+Unsupervised Common Particular Object Discovery and Localization by Analyzing a Match Graph	9413549
+Predictive Coding for Lossless Dataset Compression	9413447
+Adaptive Dual Tree Structure For Screen Content Coding	9414002
+SNR-Adaptive Deep Joint Source-Channel Coding for Wireless Image Transmission	9414037
+Relying on a Rate Constraint to Reduce Motion Estimation Complexity	9414799
+A Novel Viewport-Adaptive Motion Compensation Technique for Fisheye Video	9413576
+Rate-Distortion Optimized Motion Estimation for on-the-Sphere Compression of 360 Videos	9413681
+Adaptive GOP Size Decision for Multi-Pass Video Coding Based on Hidden Markov Model	9414161
+Improved Intra Mode Coding Beyond Av1	9413420
+Decision Tree Based Inter Partition Termination For Av1 Encoding	9413481
+Image Coding For Machines: an End-To-End Learned Approach	9414465
+Sparse Flow Adversarial Model For Robust Image Compression	9415100
+HVS-Based Perceptual Color Compression of Image Data	9414773
+HOCA: Higher-Order Channel Attention for Single Image Super-Resolution	9414892
+Image Super-Resolution Using Multi-Resolution Attention Network	9414535
+Real Image Super-Resolution Using Token Based Contextual Attention	9414593
+Feature Redundancy Mining: Deep Light-Weight Image Super-Resolution Model	9413846
+Lightweight Non-Local Network for Image Super-Resolution	9414527
+Lightweight and Accurate Single Image Super-Resolution with Channel Segregation Network	9414039
+Deep Learning Architectural Designs for Super-Resolution Of Noisy Images	9414733
+Joint Coupled Transform Learning Framework for Multimodal Image Super-Resolution	9413490
+Hyperspectral Image Super-Resolution Via Adjacent Spectral Fusion Strategy	9413980
+Raw Data Processing for Practical Time-of-Flight Super-Resolution	9414354
+Edge-Aware Multi-Scale Progressive Colorization	9414764
+Learning Representation of Multi-Scale Object for Fine-Grained Image Retrieval	9414308
+Super-Resolution and Infection Edge Detection Co-Guided Learning for Covid-19 Ct Segmentation	9414327
+Gating Feature Dense Network for Single Anisotropic Mr Image Super-Resolution	9414646
+Adaptable Ensemble Distillation	9415015
+A Scale Invariant Measure of Flatness for Deep Network Minima	9413771
+Multi-Order Adversarial Representation Learning for Composed Query Image Retrieval	9414436
+Deep Neural Networks with Flexible Complexity While Training Based on Neural Ordinary Differential Equations	9413916
+Improving Memory Banks for Unsupervised Learning with Large Mini-Batch, Consistency and Hard Negative Mining	9414389
+Robust Binary Loss for Multi-Category Classification with Label Noise	9414493
+A Plug and Play Fast Intersection Over Union Loss for Boundary Box Regression	9413641
+Attribute Decomposition for Flow-Based Domain Mapping	9414028
+Ada-Sise: Adaptive Semantic Input Sampling for Efficient Explanation of Convolutional Neural Networks	9414942
+Network Pruning Using Linear Dependency Analysis on Feature Maps	9414393
+Multiple-Input Multiple-Output Fusion Network for Generalized Zero-Shot Learning	9413509
+Representative Local Feature Mining for Few-Shot Learning	9413890
+KAN: Knowledge-Augmented Networks for Few-Shot Learning	9413612
+Few-Shot Image Classification with Multi-Facet Prototypes	9414374
+Self-Supervised Learning for Few-Shot Image Classification	9413783
+Domain Adaptation for Learning Generator From Paired Few-Shot Data	9414702
+Deep Semi-Supervised Metric Learning Via Identification of Manifold Memberships	9414447
+A Ranked Similarity Loss Function with pair Weighting for Deep Metric Learning	9414668
+Statistical Distance Metric Learning for Image Set Retrieval	9413393
+Distribution-Aware Hierarchical Weighting Method for Deep Metric Learning	9414864
+Integrated Grad-Cam: Sensitivity-Aware Visual Explanation of Deep Convolutional Networks Via Integrated Gradient-Based Scoring	9415064
+Visualizing Association in Exemplar-Based Classification	9413574
+HFGCNET: High-Frequency Graph Reasoning for Finer Semantic Image Segmentation	9413469
+Unsupervised Image Segmentation with Spatial Triplet Markov Trees	9414435
+Cross Scene Video Foreground Segmentation Via Co-Occurrence Probability Oriented Supervised and Unsupervised Model Interaction	9413965
+Instance Segmentation with the Number of Clusters Incorporated in Embedding Learning	9414312
+Decouple the High-Frequency and Low-Frequency Information of Images for Semantic Segmentation	9414019
+MPDNet: A 3D Missing Part Detection Network Based on Point Cloud Segmentation	9414867
+SM+: Refined Scale Match for Tiny Person Detection	9414162
+Sub-Band Grouping Spectral Feature-Attention Block for Hyperspectral Image Classification	9414678
+Unsupervised Stacked Capsule Autoencoder for Hyperspectral Image Classification	9413664
+Robust Graph Autoencoder for Hyperspectral Anomaly Detection	9414767
+Reflectance-Oriented Probabilistic Equalization for Image Enhancement	9414651
+PD-GAN: Perceptual-Details GAN for Extremely Noisy Low Light Image Enhancement	9413433
+Heterogeneous two-Stream Network with Hierarchical Feature Prefusion for Multispectral Pan-Sharpening	9413736
+Synergic Feature Attention for Image Restoration	9413484
+Efficient Multi-Objective GANs for Image Restoration	9413897
+Self-Convolution: A Highly-Efficient Operator for Non-Local Image Restoration	9414124
+NMF-SAE: An Interpretable Sparse Autoencoder for Hyperspectral Unmixing	9414084
+An ADMM Based Network for Hyperspectral Unmixing Tasks	9414555
+Variational Autoencoders for Hyperspectral Unmixing with Endmember Variability	9414940
+Augmented Gaussian Linear Mixture Model for Spectral Variability in Hyperspectral Unmixing	9414358
+UTDN: An Unsupervised Two-Stream Dirichlet-Net for Hyperspectral Unmixing	9414810
+Laplacian Regularized Tensor Low-Rank Minimization for Hyperspectral Snapshot Compressive Imaging	9413381
+Compressing Local Descriptor Models for Mobile Applications	9414416
+VK-Net: Category-Level Point Cloud Registration with Unsupervised Rotation Invariant Keypoints	9414384
+Matching as Color Images: Thermal Image Local Feature Detection and Description	9414341
+Frame Rate Up-Conversion Using Key Point Agnostic Frequency-Selective Mesh-to-Grid Resampling	9413684
+Efficient Real-Time Video Stabilization with a Novel Least Squares Formulation	9414545
+Decomposing Textures using Exponential Analysis	9413909
+G-Arrays: Geometric Arrays for Efficient Point Cloud Processing	9413902
+QoE-Driven and Tile-Based Adaptive Streaming for Point Clouds	9414121
+Dynamic Point Cloud Compression Using A Cuboid Oriented Discrete Cosine Based Motion Model	9414171
+An Adaptive Pyramid Single-View Depth Lookup Table Coding Method	9414584
+Patch Decoder-Side Depth Estimation In Mpeg Immersive Video	9414056
+Geometry Consistency Of Augmented Reality Based On Semantics	9414088
+What And Where To Focus In Person Search	9414439
+Stable and Effective One-Step Method for Person Search	9413460
+An Adaptive Part-Based Model For Person Re-Identification	9415086
+Crowd Counting Via Multi-Level Regression With Latent Gaussian Maps	9414256
+Lightweight Dual-Task Networks For Crowd Counting In Aerial Images	9413949
+SANet++: Enhanced Scale Aggregation with Densely Connected Feature Fusion for Crowd Counting	9415091
+Attentive Semantic Exploring for Manipulated Face Detection	9414225
+Efficient Face Manipulation Via Deep Feature Disentanglement And Reintegration Net	9415043
+Continuous Face Aging Generative Adversarial Networks	9414429
+Fast Inverse Mapping of Face GANs	9413532
+Multi-Level Adaptive Region of Interest and Graph Learning for Facial Action Unit Recognition	9413551
+Bridging Unpaired Facial Photos and Sketches by Line-Drawings	9414380
+Temporal Rain Decomposition with Spatial Structure Guidance for Video Deraining	9413563
+GTA-Net: Gradual Temporal Aggregation Network for Fast Video Deraining	9413698
+Dense Feature Pyramid Grids Network for Single Image Deraining	9415034
+A Fast and Efficient Network for Single Image Deraining	9414978
+DNANet: Dense Nested Attention Network for Single Image Dehazing	9414179
+FWB-Net: Front White Balance Network for Color Shift Correction in Single Image Dehazing Via Atmospheric Light Estimation	9414200
+Learning Integrodifferential Models for Image Denoising	9414914
+Unrolling of Deep Graph Total Variation for Image Denoising	9414453
+Learning Model-Blind Temporal Denoisers without Ground Truths	9413606
+Image Denoising Based on Correlation Adaptive Sparse Modeling	9414213
+NASA: A Noise-Adaptive and Structure-Aware Learning Framework for Image Deblurring	9414459
+Multiple Auxiliary Networks for Single Blind Image Deblurring	9413674
+Joint Learning of Image Aesthetic Quality Assessment and Semantic Recognition Based on Feature Enhancement	9414367
+Nested Error Map Generation Network for No-Reference Image Quality Assessment	9413489
+Regression or classification? New methods to evaluate no-reference picture and video quality models	9414232
+Blind Image Quality Evaluator with Scale Robustness	9414441
+Multi-Scale Feature-Guided Stereoscopic Video Quality Assessment Based on 3d Convolutional Neural Network	9414231
+No-Reference Stereoscopic Image Quality Assessment Based on the Human Visual System	9414691
+Stereo Rectification Based on Epipolar Constrained Neural Network	9413735
+Multi-Scale Cascade Disparity Refinement Stereo Network	9414923
+Hierarchical Context Guided Aggregation Network for Stereo Matching	9414381
+Cost Affinity Learning Network for Stereo Matching	9413556
+Video Quality Prediction Using Voxel-Wise fMRI Models of the Visual Cortex	9414328
+Tensor Decomposition Via Core Tensor Networks	9413637
+Sign Language Segmentation with Temporal Convolutional Networks	9413817
+An Adaptive Discriminant and Sparsity Feature Descriptor for Finger Vein Recognition	9413688
+Routinggan: Routing Age Progression and Regression with Disentangled Learning	9414735
+Semantic-Aware Unpaired Image-to-Image Translation for Urban Scene Images	9414192
+Fontnet: On-Device Font Understanding and Prediction Pipeline	9413410
+Agent-Environment Network for Temporal Action Proposal Generation	9415101
+Adaptive Multi-Domain Learning for Outdoor 3d Human Pose and Shape Estimation	9414590
+Lightweight Human Pose Estimation under Resource-Limited Scenes	9413748
+Absolute 3d Pose Estimation and Length Measurement of Severely Deformed Fish from Monocular Videos in Longline Fishing	9414803
+Camera Calibration with Pose Guidance	9414468
+Real Versus Fake 4k - Authentic Resolution Assessment	9413898
+Perceptual Quality Assessment for Recognizing True and Pseudo 4k Content	9414932
+A New Tubular Structure Tracking Algorithm Based On Curvature-Penalized Perceptual Grouping	9414114
+Multiple Human Tracking in Non-Specific Coverage with Wearable Cameras	9414747
+Fine-Grained Pose Temporal Memory Module for Video Pose Estimation and Tracking	9413650
+Drawing Order Recovery from Trajectory Components	9413542
+Deep Hashing for Motion Capture Data Retrieval	9413505
+Hierarchical Attention Fusion for Geo-Localization	9414517
+AttentionLite: Towards Efficient Self-Attention Models for Vision	9415117
+Attention-Guided Second-Order Pooling Convolutional Networks	9414964
+SA-Net: Shuffle Attention for Deep Convolutional Neural Networks	9414568
+An Attention Based Wavelet Convolutional Model for Visual Saliency Detection	9413755
+Cascade Attention Fusion for Fine-Grained Image Captioning Based on Multi-Layer LSTM	9413691
+Webly Supervised Deep Attentive Quantization	9414172
+Unsupervised Audio-Visual Subspace Alignment for High-Stakes Deception Detection	9413550
+Violence Detection in Videos Based on Fusing Visual and Audio Information	9413686
+QUERYD: A Video Dataset with High-Quality Text and Audio Narrations	9414640
+Generating Natural Questions from Images for Multimodal Assistants	9413599
+An Adaptive Multi-Scale and Multi-Level Features Fusion Network with Perceptual Loss for Change Detection	9414394
+SeeHear: Signer Diarisation and a New Dataset	9414856
+Semantic Image Synthesis from Inaccurate and Coarse Masks	9414521
+Range Guided Depth Refinement and Uncertainty-Aware Aggregation for View Synthesis	9413981
+DP-VTON: Toward Detail-Preserving Image-Based Virtual Try-on Network	9414874
+Light Field Style Transfer with Local Angular Consistency	9414689
+Skip Attention GAN for Remote Sensing Image Synthesis	9414701
+Image Generation Based on Texture Guided VAE-AGAN for Regions of Interest Detection in Remote Sensing Images	9413823
+EADNet: Efficient Asymmetric Dilated Network For Semantic Segmentation	9413767
+Ltaf-Net: Learning Task-Aware Adaptive Features and Refining Mask for Few-Shot Semantic Segmentation	9414786
+Cgan-Net: Class-Guided Asymmetric Non-Local Network for Real-Time Semantic Segmentation	9414957
+Aggregation Architecture and all-to-one Network for Real-Time Semantic Segmentation	9413454
+Nlkd: Using Coarse Annotations For Semantic Segmentation Based on Knowledge Distillation	9414355
+Knowledge Reasoning for Semantic Segmentation	9415022
+Non-Convex Sparse Deviation Modeling Via Generative Models	9414170
+Imrnet: An Iterative Motion Compensation and Residual Reconstruction Network for Video Compressed Sensing	9414534
+Deep Color Constancy Using Temporal Gradient Under Ac Light Sources	9413356
+End-to-End Learning of Variational Models and Solvers for the Resolution of Interpolation Problems	9414629
+Multi-Models Fusion for Light Field Angular Super-Resolution	9413824
+Hide Chopin in the Music: Efficient Information Steganography Via Random Shuffling	9413357
+Pointer Networks for Arbitrary-Shaped Text Spotting	9414739
+Rotation Invariance Analysis of Local Convolutional Features in Image Retrieval	9414491
+Signature Feature Marking Enhanced IRM Framework for Drone Image Analysis in Precision Agriculture	9413577
+Vehicle 3d Localization in Road Scenes VIA a Monocular Moving Camera	9413487
+Gps-Denied Navigation Using Sar Images And Neural Networks	9414421
+Attention-Embedded Decomposed Network with Unpaired CT Images Prior for Metal Artifact Reduction	9413578
+Partial Feature Aggregation Network for Real-Time Object Counting	9413835
+A Bayesian Inference Approach for Location-Based Micro Motions using Radio Frequency Sensing	9414167
+Robust Spatial-Temporal Correlation Model for Background Initialization in Severe Scene	9414796
+2D-FRFT Based Frequency Shift-Invariant Digital Image Encryption	9414984
+Capturing Banding in Images: Database Construction and Objective Assessment	9413884
+On The Camera Position Dithering In Visual 3d Reconstruction	9414917
+Long-Short Temporal Modeling for Efficient Action Recognition	9413807
+Multi-Directional Convolution Networks with Spatial-Temporal Feature Pyramid Module for Action Recognition	9413610
+Unsupervised Motion Representation Enhanced Network for Action Recognition	9414222
+An Improved Deep Relation Network for Action Recognition in Still Images	9414302
+Human-Aware Coarse-to-Fine Online Action Detection	9413368
+SRF-Net: Selective Receptive Field Network for Anchor-Free Temporal Action Detection	9414253
+Semantic-Aware Context Aggregation for Image Inpainting	9414065
+Bishift-Net for Image Inpainting	9413380
+OAS-Net: Occlusion Aware Sampling Network for Accurate Optical Flow	9413531
+Mask4D: 4D Convolution Network for Light Field Occlusion Removal	9413449
+Self-Supervised Depth Estimation Via Implicit Cues from Videos	9413407
+Scene Completeness-Aware Lidar Depth Completion for Driving Scenario	9414295
+Semi-Supervised Feature Embedding for Data Sanitization in Real-World Events	9414461
+Exposing GAN-Generated Faces Using Inconsistent Corneal Specular Highlights	9414582
+A Features Decoupling Method for Multiple Manipulations Identification in Image Operation Chains	9414628
+Subjective and Objective Evaluation of Deepfake Videos	9414258
+Forensicability of Deep Neural Network Inference Pipelines	9414301
+SERN: Stance Extraction and Reasoning Network for Fake News Detection	9414787
+An Efficient Paper Anti-Counterfeiting Method Based on Microstructure Orientation Estimation	9415114
+Learning Double-Compression Video Fingerprints Left From Social-Media Platforms	9413366
+Checking PRNU Usability on Modern Devices	9413611
+Handwritten Digits Reconstruction from Unlabelled Embeddings	9414885
+Effect of Video Pixel-Binning on Source Attribution of Mixed Media	9415094
+Combining Dynamic Image and Prediction Ensemble for Cross-Domain Face Anti-Spoofing	9413926
+Label-Guided Dictionary Pair Learning for ECG Biometric Recognition	9413355
+Backdoor Attack Against Speaker Verification	9413468
+Class-Conditional Defense GAN Against End-To-End Speech Attacks	9413626
+Selfgait: A Spatiotemporal Representation Learning Method for Self-Supervised Gait Recognition	9413894
+Attack on Practical Speaker Verification System Using Universal Adversarial Perturbations	9413467
+Highly Efficient Protection of Biometric Face Samples with Selective JPEG2000 Encryption	9413941
+Deep Auto-Encoding and Biohashing for Secure Finger Vein Recognition	9414498
+Topic Sequence Embedding for User Identity Linkage from Heterogeneous Behavior Data	9415111
+Looking Through Walls: Inferring Scenes from Video-Surveillance Encrypted Traffic	9414391
+Optimal Attacking Strategy Against Online Reputation Systems with Consideration of the Message-Based Persuasion Phenomenon	9415012
+STEP-GAN: A One-Class Anomaly Detection Model with Applications to Power System Security	9415102
+Application-Layer DDOS Attacks with Multiple Emulation Dictionaries	9413570
+Secret Key Generation Over Wireless Channels using short Blocklength Multilevel Source Polar Coding	9415041
+Efficient Network Protection Games Against Multiple Types Of Strategic Attackers	9413758
+Detection Of Malicious DNS and Web Servers using Graph-Based Approaches	9415092
+Low Complexity Secure P-Tensor Product Compressed Sensing Reconstruction Outsourcing and Identity Authentication in Cloud	9413390
+Privacy-Preserving near Neighbor Search via Sparse Coding with Ambiguation	9414115
+Privacy-Preserving Optimal Insulin Dosing Decision	9414807
+Privacy-Accuracy Trade-Off of Inference as Service	9413438
+Federated Learning with Local Differential Privacy: Trade-Offs Between Privacy, Utility, and Communication	9413764
+Scalable Privacy-Preserving Distributed Extremely Randomized Trees for Structured Data With Multiple Colluding Parties	9413632
+Active Privacy-Utility Trade-Off Against A Hypothesis Testing Adversary	9414608
+Baitradar: A Multi-Model Clickbait Detection Algorithm Using Deep Learning	9414424
+Enabling Efficient and Expressive Spatial Keyword Queries On Encrypted Data	9413414
+Privacy-Preserving Cloud-Based DNN Inference	9413820
+Crypto-Oriented Neural Architecture Design	9413592
+Integrating Deep Learning with First-Order Logic Programmed Constraints for Zero-Day Phishing Attack Detection	9414850
+Improved Probabilistic Context-Free Grammars for Passwords Using Word Extraction	9414886
+Enhancing Image Steganography Via Stego Generation And Selection	9414723
+Synchronous Multi-Bit Audio Watermarking Based on Phase Shifting	9414307
+Image Steganography Based on Iterative Adversarial Perturbations Onto a Synchronized-Directions Sub-Image	9414055
+Extending the Reverse JPEG Compatibility Attack to Double Compressed Images	9414204
+Reversible Data Hiding in Jpeg Images for Privacy Protection	9415118
+A Layered Embedding-Based Scheme to Cope with Intra-Frame Distortion Drift In IPM-Based HEVC Steganography	9413728
+Meta-Learning with Attention for Improved Few-Shot Learning	9414936
+B-Small: A Bayesian Neural Network Approach to Sparse Model-Agnostic Meta-Learning	9414437
+Deep Transform and Metric Learning Networks	9414990
+Robustness and Diversity Seeking Data-Free Knowledge Distillation	9414674
+Ensemble Distillation Approaches for Grammatical Error Correction	9413385
+Train Your Classifier First: Cascade Neural Networks Training from Upper Layers to Lower Layers	9413565
+How Convolutional Neural Networks Deal with Aliasing	9414627
+Canet: Context-Aware Loss for Descriptor Learning	9415018
+Progressive Multi-Stage Feature Mix for Person Re-Identification	9413533
+Using Deep Image Priors to Generate Counterfactual Explanations	9413636
+Elliptical Shape Recovery from Blurred Pixels Using Deep Learning	9413440
+Factorized CRF with Batch Normalization Based on the Entire Training Data	9414188
+Evolutionary Quantization of Neural Networks with Mixed-Precision	9413631
+Evolving Quantized Neural Networks for Image Classification Using A Multi-Objective Genetic Algorithm	9413519
+Spectral Domain Convolutional Neural Network	9413409
+Parametric Spectral Filters for Fast Converging, Scalable Convolutional Neural Networks	9414587
+Feature Reuse for a Randomization Based Neural Network	9413424
+A ReLU Dense Layer to Improve the Performance of Neural Networks	9414269
+Nested Learning for Multi-Level Classification	9415076
+Cross-Modal Representation Reconstruction for Zero-Shot Classification	9413572
+HIGCNN: Hierarchical Interleaved Group Convolutional Neural Networks for Point Clouds Analysis	9413879
+AutoKWS: Keyword Spotting with Differentiable Architecture Search	9414848
+Embedding Semantic Hierarchy in Discrete Optimal Transport for Risk Minimization	9414891
+Identifying Spammers to Boost Crowdsourced Classification	9414242
+A Rank-Constrained Clustering Algorithm with Adaptive Embedding	9414490
+Towards Efficient Age Estimation by Embedding Potential Gender Features	9414529
+Adversarial Attacks on Coarse-to-Fine Classifiers	9413743
+GDTW: A Novel Differentiable DTW Loss for Time Series Tasks	9413895
+Hierarchical Recurrent Neural Network for Handwritten Strokes Classification	9413412
+Robust Domain-Free Domain Generalization with Class-Aware Alignment	9413872
+One-Bit Compressed Sensing Using Untrained Network Prior	9414581
+Deep Unfolding Network for Block-Sparse Signal Recovery	9414163
+REST: Robust lEarned Shrinkage-Thresholding Network Taming Inverse Problems with Model Mismatch	9414141
+Unfolding Neural Networks for Compressive Multichannel Blind Deconvolution	9414443
+Sparsity Driven Latent Space Sampling for Generative Prior Based Compressive Sensing	9413451
+A Sparse Coding Approach to Automatic Diet Monitoring with Continuous Glucose Monitors	9414452
+Speeding Up of Kernel-Based Learning for High-Order Tensors	9413524
+A Fast Randomized Adaptive CP Decomposition For Streaming Tensors	9413554
+Rank-Revealing Block-Term Decomposition for Tensor Completion	9415104
+Kernel Learning with Tensor Networks	9413826
+Fiber-Sampled Stochastic Mirror Descent for Tensor Decomposition with 汕-Divergence	9413830
+Regularized Recovery by Multi-Order Partial Hypergraph Total Variation	9414277
+Learning Discriminative Features for Semi-Supervised Anomaly Detection	9414285
+RGLN: Robust Residual Graph Learning Networks via Similarity-Preserving Mapping on Graphs	9414792
+Sequence-Level Self-Teaching Regularization	9413644
+Wearing A Mask: Compressed Representations of Variable-Length Sequences Using Recurrent Neural Tangent Kernels	9413450
+H-GPR: A Hybrid Strategy for Large-Scale Gaussian Process Regression	9414474
+Learning Optimal Lattice Codes for MIMO Communications	9414237
+A Bayesian Interpretation of the Light Gated Recurrent Unit	9414259
+A Large-Dimensional Analysis of Symmetric SNE	9413583
+A Dynamical Systems Perspective on Online Bayesian Nonparametric Estimators with Adaptive Hyperparameters	9414378
+Online Multi-Hop Information Based Kernel Learning Over Graphs	9414086
+Sparsity in Max-Plus Algebra and Applications in Multivariate Convex Regression	9414139
+Complex-Valued Vs. Real-Valued Neural Networks for Classification Perspectives: An Example on Non-Circular Data	9413814
+High-Frequency Adversarial Defense for Speech and Audio	9414525
+Learning Separable Time-Frequency Filterbanks for Audio Classification	9414916
+Upsampling Artifacts in Neural Audio Synthesis	9414913
+Deep Convolutional and Recurrent Networks for Polyphonic Instrument Classification from Monophonic Raw Audio Waveforms	9413479
+Learning Audio Embeddings with User Listening Data for Content-Based Music Recommendation	9414458
+Efficient Speech Emotion Recognition Using Multi-Scale CNN and Attention	9414286
+Neural Audio Fingerprint for High-Specific Audio Retrieval Based on Contrastive Learning	9414337
+Self-Training and Pre-Training are Complementary for Speech Recognition	9414641
+Unsupervised Discriminative Learning of Sounds for Audio Event Classification	9413482
+Similarity Analysis of Self-Supervised Speech Representations	9414321
+Joint Masked CPC And CTC Training For ASR	9414227
+A Comparison of Discrete Latent Variable Models for Speech Representation Learning	9413680
+Federated Learning from Big Data Over Networks	9414903
+Efficient Client Contribution Evaluation for Horizontal Federated Learning	9413377
+A Quantitative Metric for Privacy Leakage in Federated Learning	9413539
+Notice of Violation of IEEE Publication Principles: DP-SIGNSGD: When Efficiency Meets Privacy and Robustness	9414538
+Federated Algorithm with Bayesian Approach: Omni-Fedge	9413571
+Training Speech Recognition Models with Federated Learning: A Quality/Cost Framework	9413397
+Cross-Silo Federated Training in the Cloud with Diversity Scaling and Semi-Supervised Learning	9413428
+Gradual Federated Learning Using Simulated Annealing	9414455
+Optimal Importance Sampling for Federated Learning	9413655
+Multi-Tier Federated Learning for Vertically Partitioned Data	9415026
+Energy Minimization for Federated Learning with IRS-Assisted Over-the-Air Computation	9414785
+Adaptive Quantization of Model Updates for Communication-Efficient Federated Learning	9413697
+HebbNet: A Simplified Hebbian Learning Framework to do Biologically Plausible Learning	9414241
+t-k-means: A ROBUST AND STABLE k-means VARIANT	9414687
+Adaptive Feature Weight Learning For Robust Clustering Problem with Sparse Constraint	9413845
+Assisted Learning: Cooperative AI with Autonomy	9414618
+Geom-Spider-EM: Faster Variance Reduced Stochastic Expectation Maximization for Nonconvex Finite-Sum Optimization	9414271
+Learning a Tree of Neural Nets	9413718
+Corrupted Contextual Bandits: Online Learning with Corrupted Context	9414300
+Training a Bank of Wiener Models with a Novel Quadratic Mutual Information Cost Function	9415011
+Information and Regularization in Restricted Boltzmann Machines	9414497
+Deep Deterministic Information Bottleneck with Matrix-Based Entropy Functional	9414151
+Transitive Transfer Sparse Coding for Distant Domain	9415021
+Fast Local Representation Learning with Adaptive Anchor Graph	9414630
+Learning On Heterogeneous Graphs Using High-Order Relations	9413417
+Incomplete Multi-View Subspace Clustering with Low-Rank Tensor	9414688
+Channel-Wise Mix-Fusion Deep Neural Networks for Zero-Shot Learning	9413569
+Online Unsupervised Learning Using Ensemble Gaussian Processes with Random Features	9414960
+Dimension Selected Subspace Clustering	9413849
+Deep Ensemble Siamese Network For Incremental Signal Classification	9414902
+Non-Recursive Graph Convolutional Networks	9414106
+Ego-Based Entropy Measures for Structural Representations on Graphs	9414279
+Symmetric Sub-graph Spatio-Temporal Graph Convolution and its application in Complex Activity Recognition	9413833
+Progressive Spatio-Temporal Graph Convolutional Network for Skeleton-Based Human Action Recognition	9413860
+Sparse-Coded Dynamic Mode Decomposition on Graph for Prediction of River Water Level Distribution	9414533
+Graph Frequency Analysis of COVID-19 Incidence to Identify County-Level Contagion Patterns in the United States	9414854
+Generalized Polytopic Matrix Factorization	9413709
+Exact Linear Convergence Rate Analysis for Low-Rank Symmetric Matrix Completion via Gradient Descent	9413419
+Structured Support Exploration for Multilayer Sparse Matrix Factorization	9414238
+Optimal Selection of Matrix Shape and Decomposition Scheme for Neural Network Compression	9414224
+Sparse Graph Based Sketching for Fast Numerical Linear Algebra	9414030
+Cold Start Revisited: A Deep Hybrid Recommender with Cold-Warm Item Harmonization	9413384
+On a Guided Nonnegative Matrix Factorization	9413656
+Nonnegative Unimodal Matrix Factorization	9414631
+Kernel Orthogonal Nonnegative Matrix Factorization: Application to Multispectral Document Image Decomposition	9413964
+Random Projection Streams for (Weighted) Nonnegative Matrix Factorization	9413496
+Multivariate Non-Negative Matrix Factorization with Application to Energy Disaggregation	9414202
+Continuous-Time Self-Attention in Neural Differential Equation	9414104
+Blind Deinterleaving of Signals in Time Series with Self-Attention Based Soft Min-Cost Flow Learning	9415025
+Attention on Attention Sparse Dense Convolutional Network for Financial Signal Processing	9414397
+Stock Movement Prediction and Portfolio Management via Multimodal Learning with Transformer	9414893
+A Quaternion-Valued Variational Autoencoder	9413859
+Learning a Sparse Generative Non-Parametric Supervised Autoencoder	9414410
+DAG-GAN: Causal Structure Learning with Generative Adversarial Nets	9414770
+Relaxed Wasserstein with Applications to GANs	9414454
+Environment-Independent Wi-Fi Human Activity Recognition with Adversarial Network	9413590
+A Robust to Noise Adversarial Recurrent Model for Non-Intrusive Load Monitoring	9413663
+Enhancing Data-Free Adversarial Distillation with Activation Regularization and Virtual Interpolation	9413483
+Sequential Adversarial Anomaly Detection with Deep Fourier Kernel	9414197
+Incorporate Maximum Mean Discrepancy in Recurrent Latent Space for Sequential Generative Model	9414580
+FMA-ETA: Estimating Travel Time Entirely Based on FFN with Attention	9414054
+A Unified Approach to Translate Classical Bandit Algorithms to Structured Bandits	9413628
+Near-Optimal Algorithms for Piecewise-Stationary Cascading Bandits	9414506
+Optimum Feature Ordering for Dynamic Instance每Wise Joint Feature Selection and Classification	9414669
+POLA: Online Time Series Prediction by Adaptive Learning Rates	9414906
+Singer Identification Using Deep Timbre Feature Learning with KNN-NET	9413774
+Implicit HRTF Modeling Using Temporal Convolutional Networks	9414750
+Improving the Classification of Rare Chords With Unlabeled Data	9413701
+Loopnet: Musical Loop Synthesis Conditioned on Intuitive Musical Parameters	9415047
+Micaugment: One-Shot Microphone Style Transfer	9413994
+Wasserstein Barycenter Transport for Acoustic Adaptation	9414199
+Efficient Adversarial Audio Synthesis VIA Progressive Upsampling	9413954
+Multi-Channel Speech Enhancement Using Graph Neural Networks	9413955
+Multi-Decoder Dprnn: Source Separation for Variable Number of Speakers	9414205
+Data-Efficient Framework for Real-World Multiple Sound Source 2d Localization	9413695
+Fusing Information Streams in End-to-End Audio-Visual Speech Recognition	9414553
+Cooperative Scenarios for Multi-Agent Reinforcement Learning in Wireless Edge Caching	9414319
+Robust Deep Reinforcement Learning for Underwater Navigation with Unknown Disturbances	9414937
+Online Hyper-Parameter Tuning for the Contextual Bandit	9413526
+Double-Linear Thompson Sampling for Context-Attentive Bandits	9413882
+On the Marginal Benefit of Active Learning: Does Self-Supervision Eat its Cake?	9414665
+Robust Maml: Prioritization Task Buffer with Adaptive Learning Process for Model-Agnostic Meta-Learning	9413446
+Introducing Deep Reinforcement Learning to Nlu Ranking Tasks	9414475
+Temporal Link Prediction Via Reinforcement Learning	9413413
+A Deep Reinforcement Learning Approach To Audio-Based Navigation In A Multi-Speaker Environment	9415013
+Global-Localized Agent Graph Convolution for Multi-Agent Reinforcement Learning	9414993
+Gaussian Process Temporal-Difference Learning with Scalability and Worst-Case Performance Guarantees	9414667
+Self-Inference Of Others＊ Policies For Homogeneous Agents In Cooperative Multi-Agent Reinforcement Learning	9414712
+Semi-Supervised Batch Active Learning Via Bilevel Optimization	9414206
+Kernearl-Based Lifelong Policy Gradient Reinforcement Learning	9414511
+Policy Augmentation: An Exploration Strategy For Faster Convergence of Deep Reinforcement Learning Algorithms	9413545
+Graphcomm: A Graph Neural Network Based Method for Multi-Agent Reinforcement Learning	9413716
+In Situ Calibration of Cross-Sensitive Sensors in Mobile Sensor Arrays Using Fast Informed Non-Negative Matrix Factorization	9414742
+Multiphish: Multi-Modal Features Fusion Networks for Phishing Detection	9415016
+Failure Prediction by Confidence Estimation of Uncertainty-Aware Dirichlet Networks	9414153
+Two-Stage Framework for Seasonal Time Series Forecasting	9414118
+Recursive Input and State Estimation: a General Framework for Learning from Time Series With Missing Data	9414801
+On the Performance-Complexity Tradeoff in Stochastic Greedy Weak Submodular Optimization	9413990
+Semi-Supervised Time Series Classification by Temporal Relation Prediction	9413883
+Continuous Cnn For Nonuniform Time Series	9414318
+Blend-Res<sup>2</sup>net: Blended Representation Space by Transformation of Residual Mapping with Restrained Learning for Time Series Classification	9414647
+Spatiotemporal Attention for Multivariate Time Series Prediction and Interpretation	9413914
+Tabular Transformers for Modeling Multivariate Time Series	9414142
+Real-Time Synchronization in Neural Networks for Multivariate Time Series Anomaly Detection	9413847
+Fast Graph Kernel with Optical Random Features	9413614
+Fast Hierarchy Preserving Graph Embedding via Subspace Constraints	9414919
+Graph Embedding using Multi-Layer Adjacent Point Merging Model	9413362
+Node Attribute Completion in Knowledge Graphs with Multi-Relational Propagation	9414016
+UserReg: A Simple but Strong Model for Rating Prediction	9413646
+Toward Skills Dialog Orchestration with Online Learning	9414303
+Adaptive Re-Balancing Network with Gate Mechanism for Long-Tailed Visual Question Answering	9414074
+Co-Capsule Networks Based Knowledge Transfer for Cross-Domain Recommendation	9413924
+Modurec: Recommender Systems with Feature and Time Modulation	9413676
+Sig2Sig: Signal Translation Networks to Take the Remains of the Past	9415084
+Solving a Class of Non-Convex Min-Max Games Using Adaptive Momentum Methods	9414476
+Minimizing Weighted Concave Impurity Partition Under Constraints	9414887
+Constant Approximation Algorithm for Minimizing Concave Impurity	9415005
+Fusing Multitask Models by Recursive Least Squares	9414440
+Centrality Based Number of Cluster Estimation in Graph Clustering	9413940
+Dependence-Guided Multi-View Clustering	9414971
+Improved Step-Size Schedules for Noisy Gradient Methods	9414419
+Respipe: Resilient Model-Distributed DNN Training at Edge Networks	9413553
+An Optimal Stochastic Compositional Optimization Method with Applications to Meta Learning	9414369
+Decentralized Optimization on Time-Varying Directed Graphs Under Communication Constraints	9415052
+Decentralized Deep Learning Using Momentum-Accelerated Consensus	9414564
+Demystifying Model Averaging for Communication-Efficient Federated Matrix Factorization	9413927
+Sample Efficient Subspace-Based Representations for Nonlinear Meta-Learning	9414359
+Multi-Task Learning Via Sharing Inexact Low-Rank Subspace	9414782
+On The Adversarial Robustness of Principal Component Analysis	9413607
+Fast Manifold Landmarking Using Extreme Eigen-Pairs	9414679
+Affine Projection Subspace Tracking	9415032
+A Hierarchical Subspace Model for Language-Attuned Acoustic Unit Discovery	9414899
+Independent Vector Analysis Using Semi-Parametric Density Estimation via Multivariate Entropy Maximization	9414839
+ICA with Orthogonality Constraint: Identifiability And A New Efficient Algorithm	9415059
+Blind Extraction of Moving Sources via Independent Component and Vector Analysis: Examples	9413422
+Single Channel Voice Separation for Unknown Number of Speakers Under Reverberant and Noisy Settings	9413627
+Unsupervised Musical Timbre Transfer for Notification Sounds	9414760
+Visual Privacy Protection via Mapping Distortion	9414149
+L-Red: Efficient Post-Training Detection of Imperceptible Backdoor Attacks Without Access to the Training Set	9414562
+Multi-View Contrastive Learning for Online Knowledge Distillation	9414664
+Dynamic Texture Recognition via Nuclear Distances on Kernelized Scattering Histogram Spaces	9414783
+Clustering A Collection of Networks With Mixtures of L<inf>1</inf>-Sparse Graphical Models	9415068
+Taking A Closer Look at Synthesis: Fine-Grained Attribute Analysis for Person Re-Identification	9413757
+Unified Clustering and Outlier Detection on Specialized Hardware	9413754
+Class-Imbalanced Classifiers Using Ensembles of Gaussian Processes And Gaussian Process Latent Variable Models	9414754
+Improving Deep Learning Sound Events Classifiers Using Gram Matrix Feature-Wise Correlations	9414168
+Adversarially Robust Classification Based on GLRT	9413587
+Cross-Corpus Speech Emotion Recognition Using Joint Distribution Adaptive Regression	9414372
+Meta-Cognition-Based Simple And Effective Approach To Object Detection	9414737
+Graphnet: Graph Clustering with Deep Neural Networks	9413809
+Attention Enhanced Spatial Temporal Neural Network For HRRP Recognition	9413416
+DHCN: Deep Hierarchical Context Networks For Image Annotation	9413972
+Online Classification of Dynamic Multilayer-Network Time Series in Riemannian Manifolds	9413560
+On The Power of Deep But Naive Partial Label Learning	9414927
+Advances in Morphological Neural Networks: Training, Pruning and Enforcing Shape Constraints	9415123
+Adversarial Learning via Probabilistic Proximity Analysis	9414096
+Class Aware Robust Training	9414516
+Non-Singular Adversarial Robustness of Neural Networks	9414325
+Towards Adversarial Robustness Via Compact Feature Representations	9414696
+Adversarial Examples Detection Beyond Image Space	9414008
+Strong Data Augmentation Sanitizes Poisoning and Backdoor Attacks Without an Accuracy Tradeoff	9414862
+Contrastive Predictive Coding Supported Factorized Variational Autoencoder For Unsupervised Learning Of Disentangled Speech Representations	9414487
+Contrastive Separative Coding for Self-Supervised Representation Learning	9414352
+Contrastive Semi-Supervised Learning for ASR	9414079
+Contrastive Learning of General-Purpose Audio Representations	9413528
+SEQ-CPC : Sequential Contrastive Predictive Coding for Automatic Speech Recognition	9413645
+On Scaling Contrastive Representations for Low-Resource Speech Recognition	9414310
+Convex Neural Autoregressive Models: Towards Tractable, Expressive, and Theoretically-Backed Models for Sequential Forecasting and Generation	9413662
+Inertial Proximal Deep Learning Alternating Minimization for Efficient Neutral Network Training	9413500
+Kalman Optimizer for Consistent Gradient Descent	9414588
+Kalmannet: Data-Driven Kalman Filtering	9413750
+HCGM-Net: A Deep Unfolding Network for Financial Index Tracking	9414430
+Augmenting Transferred Representations for Stock Classification	9413530
+A Framework for Pruning Deep Neural Networks Using Energy-Based Models	9414434
+Prototype-Based Personalized Pruning	9414526
+Tensor Reordering for CNN Compression	9413944
+Pruning of Convolutional Neural Networks using ising Energy Model	9414645
+Reweighted Dynamic Group Convolution	9414570
+Layer-Wise Interpretation of Deep Neural Networks using Identity Initialization	9414873
+Detection of Post-Traumatic Stress Disorder Using Learned Time-Frequency Representations from Pupillometry	9414988
+Subject-Invariant Eeg Representation Learning For Emotion Recognition	9414496
+Towards Parkinson＊s Disease Prognosis Using Self-Supervised Learning and Anomaly Detection	9414840
+In-Bed Pressure-Based Pose Estimation Using Image Space Representation Learning	9413516
+Towards The Development of Subject-Independent Inverse Metabolic Models	9413829
+Human-Expert-Level Brain Tumor Detection Using Deep Learning with Data Distillation And Augmentation	9415067
+Multimodal Punctuation Prediction with Contextual Dropout	9414979
+Multi-Modal Label Dequantized Gaussian Process Latent Variable Model for Ordinal Label Estimation	9415090
+Generative Information Fusion	9414284
+Self-Augmented Multi-Modal Feature Embedding	9413974
+Optimize What Matters: Training DNN-Hmm Keyword Spotting Model Using End Metric	9414797
+Co-Attentional Transformers for Story-Based Video Understanding	9413868
+Deep Generative Demixing: Error Bounds for Demixing Subgaussian Mixtures of Lipschitz Signals	9413573
+Towards an Intrinsic Definition of Robustness for a Classifier	9414573
+Phase Transitions for One-Vs-One and One-Vs-All Linear Separability in Multiclass Gaussian Mixtures	9414099
+Leaky Integrator Dynamical Systems and Reachable Sets	9413667
+Benign Overfitting in Binary Classification of Gaussian Mixtures	9413946
+An Order-Optimal Adaptive Test Plan for Noisy Group Testing Under Unknown Noise Models	9414111
+SapAugment: Learning A Sample Adaptive Policy for Data Augmentation	9413928
+Hierarchical Coded Elastic Computing	9414863
+Synthesize &amp; Learn: Jointly Optimizing Generative and Classifier Networks for Improved Drowsiness Detection	9413822
+A Joint Convolutional and Spatial Quad-Directional LSTM Network for Phase Unwrapping	9414748
+Integrated Classification and Localization of Targets Using Bayesian Framework In Automotive Radars	9414131
+A DNN Autoencoder for Automotive Radar Interference Mitigation	9413619
+DURAS: Deep Unfolded Radar Sensing Using Doppler Focusing	9414967
+NNAKF: A Neural Network Adapted Kalman Filter for Target Tracking	9414681
+Multi-Sample Online Learning for Spiking Neural Networks Based on Generalized Expectation Maximization	9414804
+Probabilistic Graph Neural Networks for Traffic Signal Control	9414829
+Task-Aware Neural Architecture Search	9414412
+F-Net: Fusion Neural Network for Vehicle Trajectory Prediction in Autonomous Driving	9413881
+Unsupervised Reconstruction of Sea Surface Currents from AIS Maritime Traffic Data Using Learnable Variational Models	9415038
+A Compact Joint Distillation Network for Visual Food Recognition	9415019
+Pipeline Safety Early Warning Method for Distributed Signal using Bilinear CNN and LightGBM	9414544
+Deep Learning Based Hybrid Precoding in Dual-Band Communication Systems	9414488
+Deep Learning-Based Cross-Layer Resource Allocation for Wired Communication Systems	9413777
+ATVIO: Attention Guided Visual-Inertial Odometry	9413912
+Feature Integration via Semi-Supervised Ordinally Multi-Modal Gaussian Process Latent Variable Model	9414109
+A Multi-Layer Multi-Channel Attentive Network for Gender and Age Recognition	9413913
+Effect of Language Proficiency on Subjective Evaluation of Noise Suppression Algorithms	9413834
+Melody Harmonization Using Orderless Nade, Chord Balancing, and Blocked Gibbs Sampling	9414281
+Cross-Domain Semi-Supervised Deep Metric Learning for Image Sentiment Analysis	9414150
+Audiovisual Highlight Detection in Videos	9413394
+Teacher-Assisted Mini-Batch Sampling for Blind Distillation Using Metric Learning	9414294
+Rule-Embedded Network for Audio-Visual Voice Activity Detection in Live Musical Video Streams	9413418
+Reinforcement Stacked Learning with Semantic-Associated Attention for Visual Question Answering	9414636
+Hierarchical Refined Attention for Scene Text Recognition	9413534
+Collaborative Learning to Generate Audio-Video Jointly	9413802
+An Attention-Seq2Seq Model Based on CRNN Encoding for Automatic Labanotation Generation from Motion Capture Data	9414976
+Show and Speak: Directly Synthesize Spoken Description of Images	9414021
+Drawgan: Text to Image Synthesis with Drawing Generative Adversarial Networks	9414166
+Disentangling Subject-Dependent/-Independent Representations for 2D Motion Retargeting	9413715
+Network and Content-Dependent Bitrate Ladder Estimation for Adaptive Bitrate Video Streaming	9413558
+Ultra-Low Bitrate Video Conferencing Using Deep Image Animation	9414731
+Hierarchical Bit-Wise Differential Coding (HBDC) of Point Cloud Attributes	9413427
+Learning-Based Lossless Compression of 3D Point Cloud Geometry	9414763
+Image Coding with Neural Network-Based Colorization	9413816
+Joint Reinforcement Learning and Game Theory Bitrate Control Method for 360-Degree Dynamic Adaptive Streaming	9414370
+HCAG: A Hierarchical Context-Aware Graph Attention Model for Depression Detection	9413486
+When Face Recognition Meets Occlusion: A New Benchmark	9413893
+A Triplet Appearance Parsing Network for Person Re-Identification	9413666
+Part-Aligned Network with Background for Misaligned Person Search	9415107
+Learning Pose-Adaptive Lip Sync with Cascaded Temporal Convolutional Network	9413472
+Assessment of Bipolar Disorder Using Heterogeneous Data of Smartphone-Based Digital Phenotyping	9415008
+Multi-Granularity Feature Interaction and Relation Reasoning for 3D Dense Alignment and Face Reconstruction	9413649
+Independent Sign Language Recognition with 3d Body, Hands, and Face Reconstruction	9414278
+Multimodal Cross- and Self-Attention Network for Speech Emotion Recognition	9414654
+Multi-Target DoA Estimation with an Audio-Visual Fusion Mechanism	9413776
+Improving Multimodal Speech Enhancement by Incorporating Self-Supervised and Curriculum Learning	9413431
+Autoencoder for Vibrotactile Signal Compression	9413370
+Cross-Modal Knowledge Distillation For Fine-Grained One-Shot Classification	9414480
+Learning Audio-Visual Correlations From Variational Cross-Modal Generation	9414296
+ECCL: Explicit Correlation-Based Convolution Boundary Locator for Moment Localization	9414047
+COOPNet: Multi-Modal Cooperative Gender Prediction in Social Media User Profiling	9414808
+Robust Latent Representations Via Cross-Modal Translation and Alignment	9413456
+Semi-Supervised Multimodal Image Translation for Missing Modality Imputation	9413461
+Deep Adversarial Quantization Network for Cross-Modal Retrieval	9414247
+Scalable Discriminative Discrete Hashing For Large-Scale Cross-Modal Retrieval	9413871
+Hierarchical Similarity Learning for Language-Based Product Image Retrieval	9415007
+Bidirectional Focused Semantic Alignment Attention Network for Cross-Modal Retrieval	9414382
+Detection of Audio-Video Synchronization Errors Via Event Detection	9414924
+FC<sup>2</sup>RN: A Fully Convolutional Corner Refinement Network for Accurate Multi-Oriented Scene Text Detection	9413821
+DoA estimation of a hidden RF source exploiting simple backscatter radio tags	9414918
+Probability of Resolution of G-MUSIC: An Asymptotic Approach	9414025
+A Partially-Relaxed Robust DOA Estimator Under Non-Gaussian Low-Rank Interference and Noise	9413951
+Non-Coherent DOA Estimation of Off-Grid Signals With Uniform Circular Arrays	9415069
+Enhanced Standard Esprit For Overcoming Imperfections In DOA Estimation	9413726
+Constrained Tensor Decomposition for 2d DOA Estimation In Transmit Beamspace Mimo Radar with Subarrays	9413987
+Alternating Projections Gridless Covariance-Based Estimation For DOA	9414972
+Synthetic Data For Dnn-Based Doa Estimation of Indoor Speech	9414415
+Direction Of Arrival Estimation For Non-Coherent Sub-Arrays Via Joint Sparse And Low-Rank Signal Recovery	9414905
+Sparsity And Nonnegativity Constrained Krylov Approach For Direction Of Arrival Estimation	9415040
+Hybrid Analog-Digital MIMO Radar Receivers With Bit-Limited ADCs	9413749
+Sparse Array Transceiver Design for Enhanced Adaptive Beamforming in MIMO Radar	9414650
+Sparse Parameter Estimation for PMCW MIMO Radar Using Few-Bit ADCs	9414267
+Parameter Identifiability Of Spatial-Smoothing-Based Bistatic Mimo Radar	9414865
+Parameter Estimation for Coherent Passive MIMO Radar with Unknown Signals under Direct Path Influence	9414746
+Riemannian Geometric Optimization Methods for Joint Design of Transmit Sequence and Receive Filter of MIMO Radar	9413665
+High Accuracy Tracking of Targets Using Massive MIMO	9414089
+Admm-Based Fast Algorithm for Robust Multi-Group Multicast Beamforming	9413651
+Scalable and Distributed MMSE Algorithms for Uplink Receive Combining in Cell-Free Massive MIMO Systems	9414456
+Antenna Selection for Massive MIMO Systems Based on POMDP Framework	9414692
+RIS-Aided Joint Localization and Synchronization with a Single-Antenna Mmwave Receiver	9413515
+Joint Channel, Data, and Phase-Noise Estimation in MIMO-OFDM Systems Using a Tensor Modeling Approach	9414541
+Robust Steerable Differential Beamformers with Null Constraints for Concentric Circular Microphone Arrays	9414119
+Close-Talking Recording with Planarly Distributed Microphones	9414828
+(W)Earable Microphone Array and Ultrasonic Echo Localization for Coarse Indoor Environment Mapping	9414356
+Characterization of Mems Microphone Sensitivity and Phase Distributions with Applications in Array Processing	9413352
+Directional Sparse Filtering Using Weighted Lehmer Mean for Blind Separation of Unbalanced Speech Mixtures	9414336
+Distributed Speech Separation in Spatially Unconstrained Microphone Arrays	9414758
+An Adaptive Non-Linear Process for Under-Determined Virtual Microphone Beamforming	9413813
+Window Beamformer for Sparse Concentric Circular Array	9414069
+Single-Point Array Response Control with Minimum Pattern Deviation	9413763
+Focusing-Based Wideband Adaptive Beamforming Using Covariance Matrix Reconstruction	9414963
+Bayesian Multiple Change-Point Detection of Propagating Events	9413434
+One-Bit Autocorrelation Estimation With Non-Zero Thresholds	9414732
+A Novel Bayesian Approach for the Two-Dimensional Harmonic Retrieval Problem	9414486
+On Overfitting in Discrete Super-Resolution Recovery	9415033
+SIML: Sieved Maximum Likelihood for Array Signal Processing	9414991
+Estimation of Groundwater Storage Variations in Indus River Basin Using Grace Data	9413591
+Temporal Exemplar Channels In High-Multipath Environments	9414262
+Multi-Vehicle Velocity Estimation Using IEEE 802.11ad Waveform	9413567
+Real-Time Interaural Time Delay Estimation via Onset Detection	9414632
+EKFNet: Learning System Noise Statistics from Measurement Data	9415083
+Sliding-Capon Based Convolutional Beamspace for Linear Arrays	9414022
+Target Detection from Distributed Passive Sensors: Semi-Labeled Data Quantization	9413917
+Sparse Factorization-Based Detection of Off-the-Grid Moving Targets Using FMCW Radars	9414925
+A Robust Copula Model for Radar-Based Landmine Detection	9413694
+Radar Clutter Classification Using Expectation-Maximization Method	9413918
+A Meta-Learning Framework for Few-Shot Classification of Remote Sensing Scene	9413971
+Differential Convolution Feature Guided Deep Multi-Scale Multiple Instance Learning for Aerial Scene Classification	9414323
+Generalized Thinned Coprime Array for DOA Estimation	9414146
+TCLA Array: A New Sparse Array Design with Less Mutual Coupling	9415108
+Low Mutual Coupling Sparse Array Design Using ULA Fitting	9414768
+Low-Rank and Sparse Decomposition for Joint DOA Estimation and Contaminated Sensors Detection with Sparsely Contaminated Arrays	9413843
+Fundamental Trade-Offs in Noisy Super-Resolution with Synthetic Apertures	9413426
+Enhanced Blind Calibration of Uniform Linear Arrays with One-Bit Quantization by Kullback-Leibler Divergence Covariance Fitting	9413647
+Non-Iterative Blind Calibration of Nested Arrays with Asymptotically Optimal Weighting	9415037
+Sensor Networks TDOA Self-Calibration: 2D Complexity Analysis and Solutions	9414634
+Fast and Robust Stratified Self-Calibration Using Time-Difference-Of-Arrival Measurements	9414309
+Stability Analysis of the RC-PLMS Adaptive Beamformer Using a Simple Transfer Function Approximation	9413445
+On The Asymptotic Performance of One-Bit Co-Array-Based Music	9414706
+Kld Minimization-Based Constrained Measurement Filtering For Two-Step TDOA Indoor Tracking	9413374
+A Correntropy Based Algorithm for Robust Localization in Wireless Networks	9414143
+MuG: A Multipath-Exploited and Grid-Free Localisation Method	9414329
+Sparse Bayesian Learning for Acoustic Source Localization	9413960
+Automatic Fine-Grained Localization of Utility Pole Landmarks on Distributed Acoustic Sensing Traces Based on Bilinear Resnets	9415049
+SSLIDE: Sound Source Localization for Indoors Based on Deep Learning	9415109
+Physical-Layer Security via Distributed Beamforming in the Presence of Adversaries with Unknown Locations	9414861
+Canonical Polyadic Tensor Decomposition With Low-Rank Factor Matrices	9414606
+A Diffusion FXLMS Algorithm for Multi-Channel Active Noise Control and Variable Spatial Smoothing	9414609
+ADAPT-Then-Combine Full Waveform Inversion for Distributed Subsurface Imaging In Seismic Networks	9414072
+Data Fusion for Audiovisual Speaker Localization: Extending Dynamic Stream Weights to the Spatial Domain	9413399
+Towards Robust Training of Multi-Sensor Data Fusion Network Against Adversarial Examples in Semantic Segmentation	9413772
+Data-Driven Adaptive Network Resource Slicing for Multi-Tenant Networks	9413706
+Distributed Scheduling Using Graph Neural Networks	9414098
+Efficient Power Allocation Using Graph Neural Networks and Deep Algorithm Unfolding	9415106
+A Sample-Efficient Scheme for Channel Resource Allocation in Networked Estimation	9414552
+An Efficient Linear Programming Rounding-and-Refinement Algorithm for Large-Scale Network Slicing Problem	9413378
+Efficient Migration to the Next Generation of Networks Based on Digital Annealing	9414531
+A Technique for OFDM Symbol Slicing	9414504
+Communication Over Block Fading Channels 每 An Algorithmic Perspective On Optimal Transmission Schemes	9413887
+Secure UAV Communications Under Uncertain Eavesdroppers Locations	9413480
+On Strategic Jamming in Distributed Detection Networks	9414726
+Real Number Signal Processing can Detect Denial-of-Service Attacks	9413911
+A Hybrid Approach to Coded Compressed Sensing Where Coupling Takes Place Via the Outer Code	9414469
+Globally Optimal Beamforming for Rate Splitting Multiple Access	9413616
+Beam Focusing for Multi-User MIMO Communications with Dynamic Metasurface Antennas	9413746
+Pushing The Limit of Type I Codebook For Fdd Massive Mimo Beamforming: A Channel Covariance Reconstruction Approach	9414376
+First-Order Fast Algorithm for Structurally Optimal Multi-Group Multicast Beamforming in Large-Scale Systems	9414396
+Analog Beamforming With Antenna Selection For Large-Scale Antenna Arrays	9414673
+Beamforming for Bidirectional Mimo Full Duplex Under the Joint Sum Power and Per Antenna Power Constraints	9414995
+Iterative Reweighted Algorithms for Joint User Identification and Channel Estimation in Spatially Correlated Massive MTC	9413733
+Millimeter Wave MIMO Channel Estimation with 1-bit Spatial Sigma-Delta Analog-to-Digital Converters	9414010
+An Efficient Algorithm For Device Detection And Channel Estimation In Asynchronous IOT Systems	9413870
+Kalman Filter Based MIMO CSI Phase Recovery for COTS Wifi Devices	9413408
+Improved Atomic Norm Based Channel Estimation for Time-Varying Narrowband Leaked Channels	9413804
+Bayesian Massive MIMO Channel Estimation with Parameter Estimation Using Low-Resolution ADCs	9413477
+Optimal Detection in the Presence of Non-Gaussian Jamming	9414769
+An Efficient Active Set Algorithm for Covariance Based Joint Data and Activity Detection for Massive Random Access with Massive MIMO	9413525
+Neural Layered Min-Sum Decoding for Protograph LDPC Codes	9414543
+Integer Carrier Frequency Offset Estimation in OFDM with Zadoff-Chu Sequences	9413937
+Plug-And-Play Learned Gaussian-mixture Approximate Message Passing	9414910
+Low-Latency Polar Decoder Using Overlapped SCL Processing	9414326
+Modular Binary Tree Architecture for Distributed Large Intelligent Surface	9414989
+Stochastic Successive Weighted Sum-Rate Maximization for Multiuser MIMO Systems with Finite-Alphabet Inputs	9413799
+Rate 1 Quasi Orthogonal Universal Transmission and Combining for MIMO Systems Achieving Full Diversity	9414982
+Energy Efficiency Optimization Technique for SWIPT-Enabled Multi-Group Multicasting Systems with Heterogeneous Users	9415060
+Multi-Branch Tomlinson-Harashima Precoding for Rate Splitting Based Systems with Multiple Antennas	9413886
+Divide and Conquer: One-bit MIMO-OFDM Detection by Inexact Expectation Maximization	9414559
+Differential Chaos Shift Keying-Based Wireless Power Transfer	9414014
+VGAI: End-to-End Learning of Vision-Based Decentralized Controllers for Robot Swarms	9414219
+Recognition of Dynamic Hand Gesture Based on Mm-Wave Fmcw Radar Micro-Doppler Signatures	9414837
+Dynamic Resource Optimization for Adaptive Federated Learning at the Wireless Network Edge	9414832
+Deep Weighted MMSE Downlink Beamforming	9414561
+Deep Generative Model Learning For Blind Spectrum Cartography with NMF-Based Radio Map Disaggregation	9413382
+Mitigating Clipping Distortion in OFDM Using Deep Residual Learning	9413502
+A Low-Complexity Admm-Based Massive Mimo Detectors Via Deep Neural Networks	9414211
+Real-Time Radio Modulation Classification With An LSTM Auto-Encoder	9414351
+Deep Active Learning Approach to Adaptive Beamforming for mmWave Initial Alignment	9414523
+Learning to Continuously Optimize Wireless Resource in Episodically Dynamic Environment	9413503
+Adaptive Contention Window Design Using Deep Q-Learning	9414805
+On Information Asymmetry in Online Reinforcement Learning	9413968
+Jamming Strategy Generation for Hidden Communication Modes Via Graph Convolution Networks	9414154
+Contrastive Self-Supervised Learning for Wireless Power Control	9413621
+Measure-Transformed Covariance Test for Robust Spectrum Sensing	9414592
+Searching for Anomalies with Multiple Plays under Delay and Switching Costs	9413537
+Robust estimation of high-order phase dynamics using Variational Bayes inference	9415028
+Robust PCA Through Maximum Correntropy Power Iterations	9414347
+Score-Based Change Detection For Gradient-Based Learning Machines	9414085
+Super-Resolution Of Periodic Signals From Short Sequences Of Samples	9413593
+Quickest Change Detection With Time Inconsistent Anticipatory Agents In Cyber-Physical Systems	9414836
+Treatment Effect Estimation Using Invariant Risk Minimization	9413705
+An F-Test for Polynomial Frequency Modulation	9414209
+Quickest Joint Detection and Classification of Faults in Statistically Periodic Processes	9414101
+An Asymptotically Pointwise Optimal Procedure For Sequential Joint Detection And Estimation	9414365
+Locally Optimal Detection of Stochastic Targeted Universal Adversarial Perturbations	9413866
+A Decentralized Variance-Reduced Method for Stochastic Optimization Over Directed Graphs	9413600
+On Distributed Composite Tests with Dependent Observations in WSN	9415115
+Byzantine-Resilient Decentralized TD Learning with Linear Function Approximation	9413992
+On The Effect of Spatial Correlation on Distributed Energy Detection of a Stochastic Process	9415097
+Provably Fast Asynchronous And Distributed Algorithms For Pagerank Centrality Computation	9413643
+Decentralized Optimization Over Noisy, Rate-Constrained Networks: How We Agree By Talking About How We Disagree	9413527
+A Multiple Access Channel Game Using Latency Metric	9413529
+Linear Computation Coding	9414317
+Spectral Folding And Two-Channel Filter-Banks On Arbitrary Graphs	9414066
+Sparse Time-Frequency Representation Via Atomic Norm Minimization	9414921
+Message Transmission Over Rapidly Time-Varying Channels	9414699
+A Robust and Efficient Multi-Scale Seasonal-Trend Decomposition	9413939
+Noise-Assisted Multivariate Variational Mode Decomposition	9413367
+Approximate Weighted C R Coded Matrix Multiplication	9413800
+Periodic Signal Denoising: An Analysis-Synthesis Framework Based on Ramanujan Filter Banks and Dictionaries	9413689
+Compressive Signal Recovery Under Sensing Matrix Errors Combined With Unknown Measurement Gains	9413470
+Grid Optimization for Matrix-Based Source Localization Under Inhomogeneous Sensor Topology	9414100
+MSR-GAN: Multi-Segment Reconstruction via Adversarial Learning	9414895
+Count Sketch with Zero Checking: Efficient Recovery of Heavy Components	9413853
+Numerical Solution of Stochastic Differential Equations in Stiefel Manifolds via Tangent Space Parametrization	9413353
+On The Accuracy Limit of Joint Time-Delay/Doppler/Acceleration Estimation with a Band-Limited Signal	9414270
+Automatic Order Selection in Autoregressive Modeling with Application in EEG Sleep-Stage Classification	9414795
+New Variants of DFA Based on Loess and Lowess Methods: Generalization of the Detrending Moving Average	9414216
+Parameter Estimation for Student＊s t VAR Model with Missing Data	9414223
+Fast and Robust ADMM for Blind Super-Resolution	9415003
+Nonstationary Portfolios: Diversification in the Spectral Domain	9413769
+A Tyler-Type Estimator of Location and Scatter Leveraging Riemannian Optimization	9414974
+Statistical Properties of a Modified Welch Method That Uses Sample Percentiles	9415074
+Switched Hawkes Processes	9413812
+An Adaptive Regularization Approach to Portfolio Optimization	9413865
+Active Estimation From Multimodal Data	9414772
+Network Classifiers Based on Social Learning	9414126
+Bayes-Optimal Methods for Finding the Source of a Cascade	9414392
+Private Wireless Federated Learning with Anonymous Over-the-Air Computation	9413624
+Scalable Multilevel Quantization for Distributed Detection	9414032
+Stability of Algebraic Neural Networks to Small Perturbations	9414604
+Resolution Limits of 20 Questions Search Strategies for Moving Targets	9414680
+Gramian-Based Adaptive Combination Policies for Diffusion Learning Over Networks	9414449
+Graph-Adaptive Incremental Learning Using an Ensemble of Gaussian Process Experts	9413970
+Fast Decentralized Linear Functions Via Successive Graph Shift Operators	9415098
+Online Learning of Time-Varying Signals and Graphs	9415029
+Kernel Regression on Graphs in Random Fourier Features Space	9414951
+Graph-Homomorphic Perturbations for Private Decentralized Learning	9413811
+Variance-Constrained Learning for Stochastic Graph Neural Networks	9413751
+Graph Neural Network for Large-Scale Network Localization	9414520
+Graphon and Graph Neural Network Stability	9414838
+Graph Neural Networks for Decentralized Controllers	9414563
+Nonlinear State-Space Generalizations of Graph Convolutional Neural Networks	9414672
+Wide and Deep Graph Neural Networks with Distributed Online Learning	9415046
+Design of Graph Signal Sampling Matrices for Arbitrary Signal Subspaces	9414240
+Graph Signal Denoising Using Nested-Structured Deep Algorithm Unrolling	9414093
+Identifying First-Order Lowpass Graph Signals Using Perron Frobenius Theorem	9415031
+Graph Signal Denoising Via Unrolling Networks	9415073
+Adaptive Subsampling of Multidomain Signals with Product Graphs	9413459
+Robust Graph-Filter Identification with Graph Denoising Regularization	9414909
+Fast and Provable Robust PCA VIA Normalized Coherence Pursuit	9414012
+Aligning Sets of Temporal Signals with Riemannian Geometry and Koopman Operator	9413729
+Weight Identification Through Global Optimization in a New Hysteretic Neural Network Model	9413383
+Multiview Variational Graph Autoencoders for Canonical Correlation Analysis	9414466
+Cognitive Memory Constrained Human Decision Making based on Multi-source Information	9413745
+Binary Control and Digital-to-Analog Conversion Using Composite NUV Priors and Iterative Gaussian Message Passing	9413677
+Outlier-Robust Kernel Hierarchical-Optimization RLS on a Budget with Affine Constraints	9413415
+Adaptive Real-Time Filter for Partially-Observed Boolean Dynamical Systems	9413485
+Improving the Energy-Efficiency of a Kalman Filter Using Unreliable Memories	9413430
+Parallel Iterated Extended and Sigma-Point Kalman Smoothers	9413364
+Wiener Filter on Meet/Join Lattices	9415055
+Learning Bollob芍s-Riordan Graphs Under Partial Observability	9414217
+Learning Sparse Graph Laplacian with K Eigenvector Prior via Iterative Glasso and Projection	9414693
+Learning Mixed Membership from Adjacency Graph Via Systematic Edge Query: Identifiability and Algorithm	9413541
+Convergence Analysis of the Graph-Topology-Inference Kernel LMS Algorithm	9413693
+An Efficient Alternating Direction Method for Graph Learning from Smooth Signals	9414791
+Topological Volterra Filters	9414275
+Network Topology Inference with Graphon Spectral Penalties	9414266
+Network Topology Change-Point Detection from Graph Signals with Prior Spectral Signatures	9413857
+Online Time-Varying Topology Identification Via Prediction-Correction Algorithms	9415053
+Graph Learning Under Spectral Sparsity Constraints	9413561
+A Graph Learning Algorithm Based On Gaussian Markov Random Fields And Minimax Concave Penalty	9413850
+Figlearn: Filter and Graph Learning Using Optimal Transport	9413778
+Construction of Unit-Norm Tight Frame Based Preconditioner for Sparse Coding	9414404
+Sparse High-Order Portfolios Via Proximal Dca And Sca	9414048
+A Convex Penalty for Block-Sparse Signals with Unknown Structures	9414340
+Event-Driven Modulo Sampling	9414152
+No Relaxation: Guaranteed Recovery of Finite-Valued Signals from Undersampled Measurements	9413945
+Error Estimates in Second-Order Continuous-Time Sigma-Delta Modulators	9413672
+Banraw: Band-Limited Radar Waveform Design Via Phase Retrieval	9414781
+Sub-NYQUIST Multichannel Blind Deconvolution	9413856
+Modified Arcsine Law for One-Bit Sampled Stationary Signals with Time-Varying Thresholds	9414992
+Near-Optimal Resampling in Particle Filters Using the Ising Energy Model	9413633
+Time-Domain Concentration and Approximation of Computable Bandlimited Signals	9413984
+Guaranteed Reconstruction from Integrate-and-Fire Neurons with Alpha Synaptic Activation	9414759
+Social Learning Under Inferential Attacks	9413642
+Segregation in Social Networks: MARKOV Bridge Models and Estimation	9413690
+Controlled Testing and Isolation for Suppressing Covid-19	9414482
+Two-Stage Graph-Constrained Group Testing: Theory and Application	9414802
+Unveiling Anomalous Nodes Via Random Sampling and Consensus on Graphs	9414953
+Estimating Fiedler Value on Large Networks Based on Random Walk Observations	9413713
+Orthogonality and Zero DC Tradeoffs in Biorthogonal Graph Filterbanks	9413392
+Graph Signal Compression via Task-Based Quantization	9414657
+A Partially Collapsed Gibbs Sampler for Unsupervised Nonnegative Sparse Signal Restoration	9414293
+A Structure-Guided and Sparse-Representation-Based 3d Seismic Inversion Method	9415071
+Accelerating Frank-Wolfe with Weighted Average Gradients	9414485
+Yapa: Accelerated Proximal Algorithm for Convex Composite Problems	9414656
+Data Discovery Using Lossless Compression-Based Sparse Representation	9415027
+Safe Screening for Sparse Regression with the Kullback-Leibler Divergence	9414183
+On the Convergence of Randomized Bregman Coordinate Descent for Non-Lipschitz Composite Problems	9414191
+A Global Cayley Parametrization of Stiefel Manifold for Direct Utilization of Optimization Mechanisms Over Vector Spaces	9414157
+Training Logical Neural Networks by Primal每Dual Methods for Neuro-Symbolic Reasoning	9415044
+Cooperative Parameter Tracking on the Unit Sphere Using Distributed Adapt-Then-Combine Particle Filters and Parallel Transport	9414948
+Bayesian Estimation of a Tail-Index with Marginalized Threshold	9413935
+Block Kalman Filter: An Asymptotic Block Particle Filter in the Linear Gaussian Case	9413963
+Particle Gibbs Sampling for Regime-Switching State-Space Models	9414875
+Adaptive Importance Sampling Via Auto-Regressive Generative Models and Gaussian Processes	9414734
+Variational Parameter Learning in Sequential State-Space Model Via Particle Filtering	9414033
+Correlation-Based Robust Linear Regression with Iterative Outlier Removal	9414849
+On the Optimality of Backward Regression: Sparse Recovery and Subset Selection	9415082
+General Total Variation Regularized Sparse Bayesian Learning for Robust Block-Sparse Signal Recovery	9413977
+Automatic Registration and Clustering of Time Series	9414417
+Low-Rank on Graphs Plus Temporally Smooth Sparse Decomposition for Anomaly Detection in Spatiotemporal Data	9414360
+A Parallel Algorithm for Phase Retrieval with Dictionary Learning	9413991
+Improving RNN Transducer Modeling for Small-Footprint Keyword Spotting	9414339
+Cascaded Encoders for Unifying Streaming and Non-Streaming ASR	9414607
+A Better and Faster end-to-end Model for Streaming ASR	9413899
+Efficient Knowledge Distillation for RNN-Transducer Models	9413905
+Phoneme Based Neural Transducer for Large Vocabulary Speech Recognition	9413648
+RNN-T Based Open-Vocabulary Keyword Spotting in Mandarin with Multi-Level Detection	9413588
+Advancing RNN Transducer Technology for Speech Recognition	9414716
+Less is More: Improved RNN-T Decoding Using Limited Label Context and Path Merging	9414212
+Simpleflat: A Simple Whole-Network Pre-Training Approach for RNN Transducer-Based End-to-End Speech Recognition	9413741
+Echo State Speech Recognition	9414495
+Using Synthetic Audio to Improve the Recognition of Out-of-Vocabulary Words in End-to-End Asr Systems	9414778
+Wave-Tacotron: Spectrogram-Free End-to-End Text-to-Speech Synthesis	9413851
+Patnet : A Phoneme-Level Autoregressive Transformer Network for Speech Synthesis	9413658
+Multi-Rate Attention Architecture for Fast Streamable Text-to-Speech Spectrum Modeling	9414809
+End-to-End Text-to-Speech Using Latent Duration Based on VQ-VAE	9414499
+Lightspeech: Lightweight and Fast Text to Speech with Neural Architecture Search	9414403
+A New High Quality Trajectory Tiling Based Hybrid TTS In Real Time	9413969
+Parallel Tacotron: Non-Autoregressive and Controllable TTS	9414718
+Fcl-Taco2: Towards Fast, Controllable and Lightweight Text-to-Speech Synthesis	9414870
+Prosodic Clustering for Phoneme-Level Prosody Control in End-to-End Speech Synthesis	9413604
+Improving Naturalness and Controllability of Sequence-to-Sequence Speech Synthesis by Learning Local Prosody Representations	9414720
+Multi-Speaker Emotional Speech Synthesis with Fine-Grained Prosody Modeling	9413398
+Emotion Controllable Speech Synthesis Using Emotion-Unlabeled Dataset with the Assistance of Cross-Domain Speech Emotion Recognition	9413907
+Dual-Path Modeling for Long Recording Speech Separation in Meetings	9414127
+Time-Domain Loss Modulation Based on Overlap Ratio for Monaural Conversational Speaker Separation	9413900
+Continuous Speech Separation with Conformer	9413423
+A Flow-Based Neural Network for Time Domain Speech Enhancement	9413999
+Sandglasset: A Light Multi-Granularity Self-Attentive Network for Time-Domain Speech Separation	9413837
+TransMask: A Compact and Fast Speech Separation Model Based on Transformer	9413670
+One Shot Learning for Speech Separation	9413956
+Training Noisy Single-Channel Speech Separation with Noisy Oracle Sources: A Large Gap and a Small Step	9413975
+Speaker and Direction Inferred Dual-Channel Speech Separation	9413818
+Speech Dereverberation Using Variational Autoencoders	9414736
+Real-Time Denoising and Dereverberation wtih Tiny Recurrent U-Net	9414852
+Weighted Magnitude-Phase Loss for Speech Dereverberation	9414929
+Speaker Embeddings for Diarization of Broadcast Data In The Allies Challenge	9414215
+On the Detection of Pitch-Shifted Voice: Machines and Human Listeners	9414890
+The ins and outs of speaker recognition: lessons from VoxSRC 2020	9413948
+The Idlab Voxsrc-20 Submission: Large Margin Fine-Tuning and Quality-Aware Score Calibration in DNN Based Speaker Verification	9414600
+Analysis of the but Diarization System for Voxconverse Challenge	9414315
+Microsoft Speaker Diarization System for the Voxceleb Speaker Recognition Challenge 2020	9413832
+Squeezing Value of Cross-Domain Labels: A Decoupled Scoring Approach for Speaker Verification	9414794
+Self-Supervised Learning Based Domain Adaptation for Robust Speaker Verification	9414261
+Meta-Learning for Cross-Channel Speaker Verification	9413978
+SynAug: Synthesis-Based Data Augmentation for Text-Dependent Speaker Verification	9414438
+Unit Selection Synthesis Based Data Augmentation for Fixed Phrase Speaker Verification	9414550
+Improving Speaker Verification in Reverberant Environments	9413731
+Transformer-Transducers for Code-Switched Speech Recognition	9413562
+Wake Word Detection with Streaming Transformers	9414777
+Capturing Multi-Resolution Context by Dilated Self-Attention	9415001
+Recent Developments on Espnet Toolkit Boosted By Conformer	9414858
+Hierarchical Transformer-Based Large-Context End-To-End ASR with Large-Context Knowledge Distillation	9414928
+End-to-End Multi-Channel Transformer for Speech Recognition	9414123
+CASS-NAT: CTC Alignment-Based Single Step Non-Autoregressive Transformer for Speech Recognition	9413429
+Non-Autoregressive Transformer ASR with CTC-Enhanced Decoder Input	9414694
+Transformer-Based End-to-End Speech Recognition with Local Dense Synthesizer Attention	9414353
+Developing Real-Time Streaming Transformer Transducer for Speech Recognition on Large-Scale Dataset	9413535
+Head-Synchronous Decoding for Transformer-Based Streaming ASR	9414103
+History Utterance Embedding Transformer LM for Speech Recognition	9414575
+Maskcyclegan-VC: Learning Non-Parallel Voice Conversion with Filling in Frames	9414851
+Non-Parallel Many-To-Many Voice Conversion by Knowledge Transfer from a Text-To-Speech Model	9414757
+Non-Parallel Many-To-Many Voice Conversion Using Local Linguistic Tokens	9413540
+Crank: An Open-Source Software for Nonparallel Voice Conversion Based on Vector-Quantized Variational Autoencoder	9413959
+Fragmentvc: Any-To-Any Voice Conversion by End-To-End Extracting and Fusing Fine-Grained Voice Fragments with Attention	9413699
+Any-to-One Sequence-to-Sequence Voice Conversion Using Self-Supervised Discrete Speech Representations	9415079
+Towards Low-Resource Stargan Voice Conversion Using Weight Adaptive Instance Normalization	9415042
+Again-VC: A One-Shot Voice Conversion Using Activation Guidance and Adaptive Instance Normalization	9414257
+One-Shot Voice Conversion Based on Speaker Aware Module	9414081
+Zero-Shot Voice Conversion with Adjusted Speaker Embeddings and Simple Acoustic Features	9414975
+Towards Natural and Controllable Cross-Lingual Voice Conversion Based on Neural TTS Model and Phonetic Posteriorgram	9414788
+Meta-Learning for Improving Rare Word Recognition in End-to-End ASR	9414298
+A Comparison of Methods for OOV-Word Recognition on a New Public Dataset	9415124
+Convolutional Dropout and Wordpiece Augmentation for End-to-End Speech Recognition	9415004
+Partially Overlapped Inference for Long-Form Speech Recognition	9414941
+Focus on the Present: A Regularization Method for the ASR Source-Target Attention Layer	9414648
+Bifocal Neural ASR: Exploiting Keyword Spotting for Inference Optimization	9414652
+FastEmit: Low-Latency Streaming ASR with Sequence-Level Emission Regularization	9413803
+Sparsification via Compressed Sensing for Automatic Speech Recognition	9413844
+Dynamic Sparsity Neural Networks for Automatic Speech Recognition	9414505
+An Asynchronous WFST-Based Decoder for Automatic Speech Recognition	9414509
+Tiny Transducer: A Highly-Efficient Speech Recognition Model on Edge Devices	9413854
+Noise Level Limited Sub-Modeling for Diffusion Probabilistic Vocoders	9415087
+StyleMelGAN: An Efficient High-Fidelity Adversarial Vocoder with Temporal Adaptive Normalization	9413605
+Parallel Waveform Synthesis Based on Generative Adversarial Networks with Voicing-Aware Conditional Discriminators	9413369
+Universal Neural Vocoding with Parallel Wavenet	9414444
+Periodnet: A Non-Autoregressive Waveform Generation Model with a Structure Separating Periodic and Aperiodic Components	9414401
+LVCNet: Efficient Condition-Dependent Modeling Network for Waveform Generation	9414710
+Graphspeech: Syntax-Aware Graph Attention Network for Neural Speech Synthesis	9413513
+Syntactic Representation Learning For Neural Network Based TTS with Syntactic Parse Tree Traversal	9414671
+A Chapter-Wise Understanding System for Text-To-Speech in Chinese Novels	9415078
+A Universal Bert-Based Front-End Model for Mandarin Text-To-Speech Synthesis	9414935
+Improving Prosody Modelling with Cross-Utterance Bert Embeddings for End-to-End Speech Synthesis	9414102
+Time-Domain Speech Extraction with Spatial Information and Multi Speaker Conditioning Mechanism	9414092
+ADL-MVDR: All Deep Learning MVDR Beamformer for Target Speech Separation	9413594
+Multi-Channel Target Speech Extraction with Channel Decorrelation and Target Speaker Adaptation	9414244
+Speaker Activity Driven Neural Speech Extraction	9414998
+Wase: Learning When to Attend for Speaker Extraction in Cocktail Party Environments	9413411
+Multi-Stage Speaker Extraction with Utterance and Frame-Level Reference Signals	9413359
+Neural Network-Based Virtual Microphone Estimator	9415121
+Joint Maximum Likelihood Estimation of Power Spectral Densities and Relative Acoustic Transfer Functions for Acoustic Beamforming	9414252
+Cue-Preserving MMSE Filter with Bayesian SNR Marginalization for Binaural Speech Enhancement	9414956
+Blind and Neural Network-Guided Convolutional Beamformer for Joint Denoising, Dereverberation, and Source Separation	9414264
+Real-Time Speech Enhancement for Mobile Communication Based on Dual-Channel Complex Spectral Mapping	9414346
+Don＊t Shoot Butterfly with Rifles: Multi-Channel Continuous Speech Separation with Early Exit Transformer	9413933
+Double Multi-Head Attention for Speaker Verification	9414877
+Graph Attention Networks for Speaker Verification	9414057
+Memory Layers with Multi-Head Attention Mechanisms for Text-Dependent Speaker Verification	9414859
+FoolHD: Fooling Speaker Identification by Highly Imperceptible Adversarial Disturbances	9413760
+Adversarial Defense for Deep Speaker Recognition Using Hybrid Adversarial Training	9414843
+DEAAN: Disentangled Embedding and Adversarial Adaptation Network for Robust Speaker Representation Learning	9413403
+Playing a Part: Speaker Verification at the movies	9413815
+Small Footprint Text-Independent Speaker Verification For Embedded Systems	9413564
+ASV-SUBTOOLS: Open Source Toolkit for Automatic Speaker Verification	9414676
+DEEPTALK: Vocal Style Encoding for Speaker Recognition and Speech Synthesis	9414169
+A Multi-View Approach to Audio-Visual Speaker Verification	9414260
+Top-Down Attention in End-to-End Spoken Language Understanding	9414313
+Fine-Tuning of Pre-Trained End-to-End Speech Recognition with Generative Adversarial Networks	9413703
+A General Multi-Task Learning Framework to Leverage Text Data for Speech to Text Tasks	9415058
+Gaussian Kernelized Self-Attention for Long Sequence Data and its Application to CTC-Based Speech Recognition	9413493
+Lattice-Free Mmi Adaptation of Self-Supervised Pretrained Acoustic Models	9414741
+Intermediate Loss Regularization for CTC-Based Speech Recognition	9414594
+Code-Switch Speech Rescoring with Monolingual Data	9414158
+Mixture of Informed Experts for Multilingual Speech Recognition	9414379
+Reducing Spelling Inconsistencies in Code-Switching ASR Using Contextualized CTC Loss	9413806
+Multi-Dialect Speech Recognition in English Using Attention on Ensemble of Experts	9413952
+Decoupling Pronunciation and Language for End-to-End Code-Switching Automatic Speech Recognition	9414428
+AISpeech-SJTU Accent Identification System for the Accented English Speech Recognition Challenge	9414292
+Meta-Learning for Low-Resource Speech Emotion Recognition	9414373
+Progressive Co-Teaching for Ambiguous Speech Emotion Recognition	9414494
+Emotion Recognition by Fusing Time Synchronous and Time Asynchronous Representations	9414880
+Speech Emotion Recognition Based on Listener Adaptive Models	9414698
+Speech Emotion Recognition Using Semantic Information	9414866
+Compact Graph Architecture for Speech Emotion Recognition	9413876
+A Novel end-to-end Speech Emotion Recognition Network with Stacked Transformer Layers	9414314
+A Novel Attention-Based Gated Recurrent Unit and its Efficacy in Speech Emotion Recognition	9414489
+MAEC: Multi-Instance Learning with an Adversarial Auto-Encoder-Based Classifier for Speech Emotion Recognition	9413640
+Representation Learning with Spectro-Temporal-Channel Attention for Speech Emotion Recognition	9414006
+Speech Emotion Recognition Using Quaternion Convolutional Neural Networks	9414248
+Domain-Adversarial Autoencoder with Attention Based Feature Level Fusion for Speech Emotion Recognition	9413710
+Speech Emotion Recognition with Multiscale Area Attention and Data Augmentation	9414635
+CopyPaste: An Augmentation Method for Speech Emotion Recognition	9415077
+Contrastive Unsupervised Learning for Speech Emotion Recognition	9413910
+Hierarchical Network Based on the Fusion of Static and Dynamic Features for Speech Emotion Recognition	9414540
+Multimodal Emotion Recognition with Capsule Graph Convolutional Based Representation Fusion	9413608
+Disentanglement for Audio-Visual Emotion Recognition Using Multitask Setup	9414705
+Data Augmentation with Signal Companding for Detection of Logical Access Attacks	9413501
+Replay and Synthetic Speech Detection with Res2Net Architecture	9413828
+A Capsule Network Based Approach for Detection of Audio Spoofing Attacks	9414670
+Cross-Teager Energy Cepstral Coefficients for Replay Spoof Detection on Voice Assistants	9414847
+End-to-End anti-spoofing with RawNet2	9414234
+Replay-Attack Detection Using Features With Adaptive Spectro-Temporal Resolution	9414250
+Improving Identification of System-Directed Speech Utterances by Deep Learning of ASR-Based Word Embeddings and Confidence Metrics	9414330
+BLSTM-Based Confidence Estimation for End-to-End Speech Recognition	9414977
+Confidence Estimation for Attention-Based Sequence-to-Sequence Models for Speech Recognition	9414920
+Learning Word-Level Confidence for Subword End-To-End ASR	9413966
+Neural Utterance Confidence Measure for RNN-Transducers and Two Pass Models	9414467
+Detecting Adversarial Attacks on Audiovisual Speech Recognition	9413661
+REDAT: Accent-Invariant Representation for End-To-End ASR by Domain Adversarial Training with Relabeling	9414291
+AISpeech-SJTU ASR System for the Accented English Speech Recognition Challenge	9414471
+End-To-End Multi-Accent Speech Recognition with Unsupervised Accent Modelling	9414833
+A Comparative Study of Acoustic and Linguistic Features Classification for Alzheimer's Disease Detection	9414147
+Synthesis of New Words for Improved Dysarthric Speech Recognition on an Expanded Vocabulary	9414869
+Development of the Cuhk Elderly Speech Recognition System for Neurocognitive Disorder Detection Using the Dementiabank Corpus	9413634
+Portable Photoglottography for Monitoring Vocal Fold Vibrations in Speech Production	9413770
+Improving Ultrasound Tongue Contour Extraction Using U-Net and Shape Consistency-Based Regularizer	9414420
+Impact of Speaking Rate on the Source Filter Interaction in Speech: A Study	9414221
+A Two-Stage Deep Modeling Approach to Articulatory Inversion	9413742
+Acoustic-to-Articulatory Inversion for Dysarthric Speech by Using Cross-Corpus Acoustic-Articulatory Data	9413625
+Speaking Rate and Tonal Realization in Mandarin Chinese: What Can We Learn From Large Speech Corpora?	9413838
+Humanacgan: Conditional Generative Adversarial Network with Human-Based Auxiliary Classifier and its Evaluation in Phoneme Perception	9413363
+Improving Audio Anomalies Recognition Using Temporal Convolutional Attention Networks	9414611
+Generative Speech Coding with Predictive Variance Regularization	9415120
+How to Make Text-to-Speech System Pronounce "Voldemort": an Experimental Approach of Foreign Word Phonemization in Vietnamese	9414386
+How Similar or Different is Rakugo Speech Synthesizer to Professional Performers?	9414175
+Dnsmos: A Non-Intrusive Perceptual Objective Speech Quality Metric to Evaluate Noise Suppressors	9414878
+A Causal Deep Learning Framework for Classifying Phonemes in Cochlear Implants	9413986
+Minimum Bayes Risk Training for End-to-End Speaker-Attributed ASR	9415062
+Mutually-Constrained Monotonic Multihead Attention for Online ASR	9413862
+The use of Voice Source Features for Sung Speech Recognition	9414950
+A Parallelizable Lattice Rescoring Strategy with Neural Language Models	9414714
+Decentralizing Feature Extraction with Quantum Convolutional Neural Network for Automatic Speech Recognition	9413453
+Cif-Based Collaborative Decoding for End-to-End Contextual Speech Recognition	9415054
+Hubert: How Much Can a Bad Teacher Benefit ASR Pre-Training?	9414460
+A Further Study of Unsupervised Pretraining for Transformer Based Speech Recognition	9414539
+Pre-Training Transformer Decoder for End-to-End ASR Model with Unpaired Text Data	9414080
+Semi-Supervised Speech Recognition Via Graph-Based Temporal Classification	9414058
+Unsupervised Domain Adaptation for Speech Recognition via Uncertainty Driven Self-Training	9414299
+Improving Streaming Automatic Speech Recognition with Non-Streaming Model Distillation on Unsupervised Data	9413692
+Speech Bert Embedding for Improving Prosody in Neural TTS	9413864
+Bi-Level Style and Prosody Decoupling Modeling for Personalized End-to-End Speech Synthesis	9414422
+Prosodic Representation Learning and Contextual Sampling for Neural Text-to-Speech	9413696
+Camp: A Two-Stage Approach to Modelling Prosody in Context	9414413
+Unsupervised Learning for Multi-Style Speech Synthesis with Limited Data	9414220
+Fastpitch: Parallel Text-to-Speech with Pitch Prediction	9413889
+Low-Resource Expressive Text-To-Speech Using Data Augmentation	9413466
+TTS-by-TTS: TTS-Driven Data Augmentation for Fast and High-Quality Speech Synthesis	9414408
+A Neural Text-to-Speech Model Utilizing Broadcast Data Mixed with Background Music	9415061
+Disentangled Speaker and Language Representations Using Mutual Information Minimization and Domain Adaptation for Cross-Lingual TTS	9414226
+Adaspeech 2: Adaptive Text to Speech with Untranscribed Data	9414872
+Investigation of Fast and Efficient Methods for Multi-Speaker Modeling and Speaker Adaptation	9413396
+ICASSP 2021 Deep Noise Suppression Challenge	9415105
+ICASSP 2021 Deep Noise Suppression Challenge: Decoupling Magnitude and Phase Optimization with a Two-Stage Deep Network	9414062
+Fullsubnet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement	9414177
+Densely Connected Multi-Stage Model with Channel Wise Subband Feature for Real-Time Speech Enhancement	9413967
+A Modulation-Domain Loss for Neural-Network-Based Real-Time Speech Enhancement	9414965
+Monaural Speech Enhancement with Complex Convolutional Block Attention Module and Joint Time Frequency Losses	9414569
+Audio-Visual Speech Inpainting with Deep Learning	9413488
+Vset: A Multimodal Transformer for Visual Speech Enhancement	9414053
+Switching Variational Auto-Encoders for Noise-Agnostic Audio-Visual Speech Enhancement	9414097
+Audio-Visual Speech Enhancement Method Conditioned in the Lip Motion and Speaker-Discriminative Embeddings	9414133
+Audio-Visual Speech Separation Using Cross-Modal Correspondence Loss	9413491
+Muse: Multi-Modal Target Speaker Extraction with Visual Cues	9414023
+An Effective Deep Embedding Learning Method Based on Dense-Residual Networks for Speaker Verification	9413421
+Time-Domain Speaker Verification Using Temporal Convolutional Networks	9414765
+Towards Robust Speaker Verification with Target Speaker Enhancement	9414017
+A Joint Training Framework of Multi-Look Separator and Speaker Embedding Extractor for Overlapped Speech	9414556
+Cam: Context-Aware Masking for Robust Speaker Verification	9414704
+Short-Time Spectral Aggregation for Speaker Embedding	9414094
+Contrastive Self-Supervised Learning for Text-Independent Speaker Verification	9413351
+Adversarial Defense for Automatic Speaker Verification by Cascaded Self-Supervised Learning Models	9413737
+Self-Supervised Text-Independent Speaker Verification Using Prototypical Momentum Contrastive Learning	9414973
+An Iterative Framework for Self-Supervised Deep Speaker Representation Learning	9414713
+Improving Reconstruction Loss Based Speaker Embedding in Unsupervised and Semi-Supervised Scenarios	9413739
+Speech Acoustic Modelling from Raw Phase Spectrum	9413727
+An Investigation of Using Hybrid Modeling Units for Improving End-to-End Speech Recognition System	9414598
+Federated Acoustic Modeling for Automatic Speech Recognition	9414305
+Eat: Enhanced ASR-TTS for Self-Supervised Speech Recognition	9413375
+Neural Architecture Search for LF-MMI Trained Time Delay Neural Networks	9413630
+Hypothesis Stitcher for End-to-End Speaker-Attributed ASR on Long-Form Multi-Talker Recordings	9414432
+Ensemble Combination between Different Time Segmentations	9413819
+Streaming End-to-End Speech Recognition with Jointly Trained Neural Feature Enhancement	9414117
+Transformer in Action: A Comparative Study of Transformer-Based Acoustic Models for Large Scale Speech Recognition Applications	9414087
+Emformer: Efficient Memory Transformer Based Acoustic Model for Low Latency Streaming Speech Recognition	9414560
+Learned Transferable Architectures Can Surpass Hand-Designed Architectures for Large Scale Speech Recognition	9414954
+Multitask Learning and Joint Optimization for Transformer-RNN-Transducer Speech Recognition	9414911
+SEP-28k: A Dataset for Stuttering Event Detection from Podcasts with People Who Stutter	9413520
+A Hybrid CNN-BiLSTM Voice Activity Detector	9415081
+Self-Attentive VAD: Context-Aware Detection of Voice from Noise	9413961
+Preventing Early Endpointing for Online Automatic Speech Recognition	9413613
+MarbleNet: Deep 1D Time-Channel Separable Convolutional Neural Network for Voice Activity Detection	9414470
+Speech Enhancement Aided End-To-End Multi-Task Learning for Voice Activity Detection	9414445
+Robust Voice Activity Detection Using a Masked Auditory Encoder Based Convolutional Neural Network	9415045
+A Stage Match for Query-by-Example Spoken Term Detection Based On Structure Information of Query	9413442
+Knowledge Transfer for Efficient on-Device False Trigger Mitigation	9414771
+Progressive Voice Trigger Detection: Accuracy vs Latency	9414218
+Dynamic Curriculum Learning via Data Parameters for Noise Robust Keyword Spotting	9414501
+CNN-Based Spoken Term Detection and Localization without Dynamic Programming	9414577
+Query-By-Example Keyword Spotting System Using Multi-Head Attention and Soft-triple Loss	9414156
+A Closer Look at Audio-Visual Multi-Person Speech Recognition and Active Speaker Selection	9414160
+Generalized Knowledge Distillation from an Ensemble of Specialized Teachers Leveraging Unsupervised Neural Clustering	9413762
+Multistream CNN for Robust Acoustic Modeling	9414639
+Improved Robustness to Disfluencies in Rnn-Transducer Based Speech Recognition	9413618
+Representation Learning for Speech Recognition Using Feedback Based Relevance Weighting	9414649
+Towards Data Selection on TTS Data for Children＊s Speech Recognition	9413930
+An Investigation of End-to-End Models for Robust Speech Recognition	9414027
+End-to-End Dereverberation, Beamforming, and Speech Recognition with Improved Numerical Stability and Advanced Frontend	9414464
+Streaming Multi-Speaker ASR with RNN-T	9413471
+Improving RNN Transducer with Target Speaker Extraction and Neural Uncertainty Estimation	9414955
+A Progressive Learning Approach to Adaptive Noise and Speech Estimation for Speech Enhancement and Noisy Speech Recognition	9413395
+The Accented English Speech Recognition Challenge 2020: Open Datasets, Tracks, Baselines, Results and Methods	9413386
+Comparative Study of Different Epoch Extraction Methods for Speech Associated with Voice Disorders	9413518
+Have You Made a Decision? Where? A Pilot Study on Interpretability of Polarity Analysis Based on Advising Problem	9413654
+Transformer Based Unsupervised Pre-Training for Acoustic Representation Learning	9414996
+A Comparison of Convolutional Neural Networks for Glottal Closure Instant Detection from Raw Speech	9413675
+Encoder-Decoder Based Pitch Tracking and Joint Model Training for Mandarin Tone Classification	9413888
+Construction of a Large-Scale Japanese ASR Corpus on TV Recordings	9413425
+NISP: A Multi-lingual Multi-accent Dataset for Speaker Profiling	9414349
+Multilingual Phonetic Dataset for Low Resource Speech Recognition	9413720
+Age-VOX-Celeb: Multi-Modal Corpus for Facial and Speech Estimation	9414272
+Didispeech: A Large Scale Mandarin Speech Corpus	9414423
+The in-the-Wild Speech Medical Corpus	9414230
+Multiple-Hypothesis CTC-Based Semi-Supervised Adaptation of End-to-End Speech Recognition	9414414
+Vowel Non-Vowel Based Spectral Warping and Time Scale Modification for Improvement in Children＊s ASR	9414116
+Extending Parrotron: An End-to-End, Speech Conversion and Speech Recognition Model for Atypical Speech	9414644
+Fundamental Frequency Feature Normalization and Data Augmentation for Child Speech Recognition	9413801
+Analysis of X-Vectors for Low-Resource Speech Recognition	9414725
+Refining Automatic Speech Recognition System for Older Adults	9414207
+MixSpeech: Data Augmentation for Low-Resource Automatic Speech Recognition	9414483
+End-to-End Multilingual Automatic Speech Recognition for Less-Resourced Languages: The Case of Four Ethiopian Languages	9415020
+Improved Data Selection for Domain Adaptation in ASR	9413869
+Bi-APC: Bidirectional Autoregressive Predictive Coding for Unsupervised Pre-Training and its Application to Children＊s ASR	9414970
+Meta-Adapter: Efficient Cross-Lingual Adaptation With Meta-Learning	9414959
+Error-Driven Fixed-Budget ASR Personalization for Accented Speakers	9414830
+Context-Aware Prosody Correction for Text-Based Speech Editing	9414633
+Fast DCTTS: Efficient Deep Convolutional Text-to-Speech	9413373
+Speech Prediction in Silent Videos Using Variational Autoencoders	9414040
+Learning Disentangled Phone and Speaker Representations in a Semi-Supervised VQ-VAE Paradigm	9413543
+High-Intelligibility Speech Synthesis for Dysarthric Speakers with LPCNet-Based TTS and CycleVAE-Based VC	9414136
+Denoispeech: Denoising Text to Speech with Frame-Level Noise Modeling	9413934
+Non-Autoregressive Sequence-To-Sequence Voice Conversion	9413973
+PPG-Based Singing Voice Conversion with Adversarial Representation Learning	9414137
+Litesing: Towards Fast, Lightweight and Expressive Singing Voice Synthesis	9414043
+Semi-Supervised Learning for Singing Synthesis Timbre	9413400
+Recurrent Phase Reconstruction Using Estimated Phase Derivatives from Deep Neural Networks	9413722
+Stable Checkpoint Selection and Evaluation in Sequence to Sequence Speech Synthesis	9414402
+TSTNN: Two-Stage Transformer Based Neural Network for Speech Enhancement in the Time Domain	9413740
+Self-Attention Generative Adversarial Network for Speech Enhancement	9414265
+Neural Kalman Filtering for Speech Enhancement	9413499
+Neural Noise Embedding for End-To-End Speech Enhancement with Conditional Layer Normalization	9413931
+Perceptual Loss Based Speech Denoising with an Ensemble of Audio Pattern Recognition and Self-Supervised Models	9413555
+Towards An ASR Approach Using Acoustic and Language Models for Speech Enhancement	9414565
+A Neural Acoustic Echo Canceller Optimized Using An Automatic Speech Recognizer and Large Scale Synthetic Data	9413585
+Low-Complexity, Real-Time Joint Neural Echo Control and Speech Enhancement Based On Percepnet	9414140
+Acoustic Echo Cancellation with the Dual-Signal Transformation LSTM Network	9413510
+High Fidelity Speech Regeneration with Application to Speech Enhancement	9414853
+A Time-Domain Convolutional Recurrent Network for Packet Loss Concealment	9413595
+Cascaded Time + Time-Frequency Unet For Speech Enhancement: Jointly Addressing Clipping, Codec Distortions, And Gaps	9414721
+Hidden Markov Model Diarisation with Speaker Location Information	9413761
+Compositional Embedding Models for Speaker Identification and Diarization with Simultaneous Speech From 2+ Speakers	9413752
+Content-Aware Speaker Embeddings for Speaker Diarisation	9414390
+Multi-Scale Speaker Diarization with Neural Affinity Score Fusion	9414578
+A Comparison Study on Infant-Parent Voice Diarization	9413538
+End-To-End Diarization for Variable Number of Speakers with Local-Global Networks and Discriminative Speaker Embeddings	9414841
+End-To-End Speaker Diarization as Post-Processing	9413436
+BW-EDA-EEND: streaming END-TO-END Neural Speaker Diarization for a Variable Number of Speakers	9414371
+Integrating End-to-End Neural and Clustering-Based Diarization: Getting the Best of Both Worlds	9414333
+Siamese Capsule Network for End-to-End Speaker Recognition in the Wild	9414722
+A Real-Time Speaker Diarization System Based on Spatial Spectrum	9413544
+Unsupervised Neural Adaptation Model Based on Optimal Transport for Spoken Language Identification	9414045
+Joint ASR and Language Identification Using RNN-T: An Efficient Approach to Dynamic Language Switching	9413734
+Spoken Language Identification in Unseen Target Domain Using Within-Sample Similarity Loss	9414090
+Exploring the use of Common Label Set to Improve Speech Recognition of Low Resource Indian Languages	9414961
+Phone Distribution Estimation for Low Resource Languages	9415014
+How Phonotactics Affect Multilingual and Zero-Shot ASR Performance	9414478
+Modelling Paralinguistic Properties in Conversational Speech to Detect Bipolar Disorder and Borderline Personality Disorder	9413891
+An Attention Model for Hypernasality Prediction in Children with Cleft Palate	9414860
+An End-to-End Speech Accent Recognition Method Based on Hybrid CTC/Attention Transformer ASR	9414082
+Multi-Task Estimation of Age and Cognitive Decline from Speech	9414642
+Deepemocluster: a Semi-Supervised Framework for Latent Cluster Representation of Speech Emotions	9414035
+The Role of Task and Acoustic Similarity in Audio Transfer Learning: Insights from the Speech Emotion Recognition Case	9414896
+Speech-Based Depression Prediction Using Encoder-Weight-Only Transfer Learning and a Large Corpus	9414208
+Estimating Severity of Depression From Acoustic Features and Embeddings of Natural Speech	9414129
+Automatic Elicitation Compliance for Short-Duration Speech Based Depression Detection	9414366
+Deep Neural Network Embeddings for the Estimation of the Degree of Sleepiness	9413589
+Pause-Encoded Language Models for Recognition of Alzheimer＊s Disease and Emotion	9413548
+End-2-End Modeling of Speech and Gait from Patients with Parkinson＊s Disease: Comparison Between High Quality Vs. Smartphone Data	9414729
+A Sequential Contrastive Learning Framework for Robust Dysarthric Speech Recognition	9415017
+Automatic And Perceptual Discrimination Between Dysarthria, Apraxia of Speech, and Neurotypical Speech	9414283
+Effect of Noise and Model Complexity on Detection of Amyotrophic Lateral Sclerosis and Parkinson＊s Disease Using Pitch and MFCC	9413997
+Multi-Task Transformer with Input Feature Reconstruction for Dysarthric Speech Recognition	9414614
+Detecting Alzheimer＊s Disease from Speech Using Neural Networks with Bottleneck Features and Data Augmentation	9413566
+Automatic Dysarthric Speech Detection Exploiting Pairwise Distance-Based Convolutional Neural Networks	9413922
+Improved Neural Language Model Fusion for Streaming Recurrent Neural Network Transducer	9414784
+Internal Language Model Training for Domain-Adaptive End-To-End Speech Recognition	9415039
+Speech Recognition by Simply Fine-Tuning Bert	9413668
+Personalization Strategies for End-to-End Speech Recognition Systems	9413962
+Improving Entity Recall in Automatic Speech Recognition with Neural Embeddings	9413756
+Adaptable Multi-Domain Language Model for Transformer ASR	9413475
+Transformer Language Models with LSTM-Based Cross-Utterance Information Representation	9414477
+Large Margin Training Improves Language Models for ASR	9414724
+Domain-Aware Neural Language Models for Speech Recognition	9414800
+Bayesian Transformer Language Models for Speech Recognition	9414046
+Mixed Precision Quantization of Transformer Language Models for Speech Recognition	9414076
+Federated Marginal Personalization for ASR Rescoring	9415056
+Multi Path Training Framework for Data-Driven Open-Domain Conversation System	9414273
+Action State Update Approach to Dialogue Management	9414888
+Generating Empathetic Responses by Injecting Anticipated Emotion	9413596
+Towards Immediate Backchannel Generation Using Attention-Based Early Prediction Model	9414193
+Error-Driven Pruning of Language Models for Virtual Assistants	9415035
+Paragraph Level Multi-Perspective Context Modeling for Question Generation	9414933
+Improving Dialogue Response Generation Via Knowledge Graph Filter	9414324
+Topic-Aware Dialogue Generation with Two-Hop Based Graph Attention	9414472
+HSAN: A Hierarchical Self-Attention Network for Multi-Turn Dialogue Generation	9413753
+Learning to Select Context in a Hierarchical and Global Perspective for Open-Domain Dialogue Generation	9414730
+Towards Efficiently Diversifying Dialogue Generation Via Embedding Augmentation	9414915
+End2End Acoustic to Semantic Transduction	9413581
+Acoustics Based Intent Recognition Using Discovered Phonetic Units for Low Resource Languages	9415112
+Speech-Language Pre-Training for End-to-End Spoken Language Understanding	9414900
+Two-Stage Textual Knowledge Distillation for End-to-End Spoken Language Understanding	9414619
+Semi-Supervised Spoken Language Understanding via Self-Supervised Speech and Language Model Pretraining	9414922
+DO as I Mean, Not as I Say: Sequence Loss Training for Spoken Language Understanding	9414566
+St-Bert: Cross-Modal Language Model Pre-Training for End-to-End Spoken Language Understanding	9414558
+End-to-End Spoken Language Understanding Using Transformer Networks and Self-Supervised Pre-Trained Features	9414522
+Sentiment Injected Iteratively Co-Interactive Network for Spoken Language Understanding	9413885
+RNN Transducer Models for Spoken Language Understanding	9414029
+Leveraging Acoustic and Linguistic Embeddings from Pretrained Speech and Language Models for Intent Classification	9413388
+ORTHROS: non-autoregressive end-to-end speech translation With dual-decoder	9415093
+Cascaded Models with Cyclic Feedback for Direct Speech Translation	9413719
+Jointly Trained Transformers Models for Spoken Language Translation	9414159
+Efficient Use of End-to-End Data in Spoken Language Processing	9414510
+Streaming Simultaneous Speech Translation with Augmented Memory Transformer	9414897
+An Empirical Study of End-To-End Simultaneous Speech Translation Decoding Strategies	9414276
+Modeling Homophone Noise for Robust Neural Machine Translation	9413586
+Machine Translation Verbosity Control for Automatic Dubbing	9414411
+Improvements to Prosodic Alignment for Automatic Dubbing	9414966
+Image-Assisted Transformer in Zero-Resource Multi-Modal Translation	9413389
+Sentence Boundary Augmentation for Neural Machine Translation Robustness	9413492
+An Empirical Study on Task-Oriented Dialogue Translation	9413521
+MAPGN: Masked Pointer-Generator Network for Sequence-to-Sequence Pre-Training	9414738
+Aligning the training and evaluation of unsupervised text style Transfer	9414515
+Neural Inverse Text Normalization	9414912
+Generating Human Readable Transcript for Automatic Speech Recognition with Pre-Trained Language Model	9414626
+Improving Neural Text Normalization with Partial Parameter Generator and Pointer-Generator Network	9415113
+Incorporating Syntactic and Phonetic Information into Multimodal Word Embeddings Using Graph Convolutional Networks	9414148
+LIFI: Towards Linguistically Informed Frame Interpolation	9413998
+Triple Sequence Generative Adversarial Nets for Unsupervised Image Captioning	9414335
+Align or attend? Toward More Efficient and Accurate Spoken Word Discovery Using Speech-to-Image Retrieval	9414418
+Towards Practical Lipreading with Distilled and Efficient Models	9415063
+End-To-End Audio-Visual Speech Recognition with Conformers	9414567
+ASR N-Best Fusion Nets	9414806
+Boosting Low-Resource Intent Detection with in-Scope Prototypical Networks	9414548
+Conversational Query Rewriting with Self-Supervised Learning	9413557
+Handling Class Imbalance in Low-Resource Dialogue Systems by Combining Few-Shot Classification and Interpolation	9413405
+Improving Cross-Domain Slot Filling with Common Syntactic Structure	9414625
+Joint Intent Detection and Slot Filling Based on Continual Learning Model	9413360
+Knowledge-Based Chat Detection with False Mention Discrimination	9414073
+Replacing Human Audio with Synthetic Audio for on-Device Unspoken Punctuation Prediction	9413432
+Adversarial Generative Distance-Based Classifier for Robust Out-of-Domain Detection	9413908
+GAN-Based Out-of-Domain Detection Using Both In-Domain and Out-of-Domain Samples	9414246
+Progressive Dialogue State Tracking for Multi-Domain Dialogue Systems	9414610
+Multi-Step Spoken Language Understanding System Based on Adversarial Learning	9414514
+Multi-Entity Collaborative Relation Extraction	9413673
+Multi-Granularity Heterogeneous Graph for Document-Level Relation Extraction	9414755
+Improving Event Detection by Exploiting Label Hierarchy	9415002
+Improving NER in Social Media via Entity Type-Compatible Unknown Word Substitution	9414304
+More: A Metric Learning Based Framework for Open-Domain Relation Extraction	9413437
+§You Should Probably Read This§: Hedge Detection in Text	9414095
+Enhancing Model Robustness by Incorporating Adversarial Knowledge into Semantic Representation	9414793
+Elbert: Fast Albert with Confidence-Window Based Early Exit	9414572
+Dualformer: A Unified Bidirectional Sequence-to-Sequence Learning	9413402
+Task Aware Multi-Task Learning for Speech to Text Tasks	9414703
+Label-Aware Text Representation for Multi-Label Text Classification	9413921
+Mixup Regularized Adversarial Networks for Multi-Domain Text Classification	9413441
+Mispronunciation Detection in Non-Native (L2) English with Uncertainty Modeling	9413953
+Attention-Based Multi-Encoder Automatic Pronunciation Assessment	9414451
+Improving Pronunciation Assessment Via Ordinal Regression with Anchored Reference Samples	9413659
+Analysing Bias in Spoken Language Assessment Using Concept Activation Vectors	9413988
+Senone-Aware Adversarial Multi-Task Training for Unsupervised Child to Adult Speech Adaptation	9413738
+Classifying Speech Intelligibility Levels of Children in Two Continuous Speech Styles	9414986
+Recent Advances in Arabic Syntactic Diacritics Restoration	9414500
+Making Punctuation Restoration Robust and Fast with Multi-Task Learning and Knowledge Distillation	9414518
+Variational Dialogue Generation with Normalizing Flows	9414586
+NN-KOG2P: A Novel Grapheme-to-Phoneme Model for Korean Language	9414653
+Joint Alignment Learning-Attention Based Model for Grapheme-to-Phoneme Conversion	9413679
+Knowledge Distillation for Improved Accuracy in Spoken Question Answering	9414999
+Coarse-To-Careful: Seeking Semantic-Related Knowledge for Open-Domain Commonsense Question Answering	9413878
+Language Model is all You Need: Natural Language Understanding as Question Answering	9413810
+Integrating Subgraph-Aware Relation and Direction Reasoning for Question Answering	9413620
+Role Aware Multi-Party Dialogue Question Answering	9414980
+MCR-NET: A Multi-Step Co-Interactive Relation Network for Unanswerable Questions on Machine Reading Comprehension	9413435
+Hierarchical Speaker-Aware Sequence-to-Sequence Model for Dialogue Summarization	9414547
+A Large-Scale Chinese Long-Text Extractive Summarization Corpus	9414946
+Adaptive Bi-Directional Attention: Exploring Multi-Granularity Representations for Machine Reading Comprehension	9414067
+Graph Attention and Interaction Network With Multi-Task Learning for Fact Verification	9414889
+Enhancing Deep Paraphrase Identification via Leveraging Word Alignment Information	9414944
+An End-To-End Actor-Critic-Based Neural Coreference Resolution System	9413579
+Reduced-Complexity Modular Polynomial Multiplication for R-LWE Cryptosystems	9414005
+Seizure Detection Using Power Spectral Density via Hyperdimensional Computing	9414083
+FPGA Hardware Design for Plenoptic 3D Image Processing Algorithm Targeting a Mobile Application	9414690
+SLAP: a Split Latency Adaptive VLIW Pipeline Architecture Which Enables on-The-Fly Variable SIMD Vector-Length	9413371
+Unsupervised Clustering of Time Series Signals Using Neuromorphic Energy-Efficient Temporal Neural Networks	9414882
+Angle每of每Arrival (AoA) Factorization in Multipath Channels	9414026
+Scaled Fast Nested Key Equation Solver for Generalized Integrated Interleaved BCH Decoders	9414846
+Joint Optimization for Full-Duplex Cellular Communications Via Intelligent Reflecting Surface	9413615
+A Color Doppler Processing Engine with an Adaptive Clutter Filter for Portable Ultrasound Imaging Devices	9414344
+Convolutional Neural Network-Aided Bit-Flipping for Belief Propagation Decoding of Polar Codes	9413808
+Taming Voting Algorithms on Gpus for an Efficient Connected Component Analysis Algorithm	9413653
+Positnn: Training Deep Neural Networks with Mixed Low-Precision Posit	9413919
+Bluetooth Low Energy and CNN-Based Angle of Arrival Localization in Presence of Rayleigh Fading	9413455
+Robust Device-Free Proximity Detection Using Wifi	9414707
+Online Dynamic Window (ODW) Assisted 2-Stage LSTM Indoor Localization for Smart Phones	9414174
+Optimal TOA Localization for Moving Sensor in Asymmetric Network	9414962
+Low Complexity SLM for OFDMA System with Implicit Side Information	9414599
+Reduced-Complexity Channel Estimation by Hierarchical Interpolation Exploiting Sparsity for Massive MIMO Systems with Uniform Rectangular Array	9414289
+Traffic Speed Forecasting Via Spatio-Temporal Attentive Graph Isomorphism Network	9414596
+Inferring High-Resolutional Urban Flow With Internet Of Mobile Things	9414134
+Transfer Learning for Input Estimation of Vehicle Systems	9413671
+Identification of Deep Breath While Moving Forward Based on Multiple Body Regions and Graph Signal Analysis	9413546
+Multi-Object Tracking Using Poisson Multi-Bernoulli Mixture Filtering For Autonomous Vehicles	9415072
+Adaptive RF Fingerprint Decomposition in Micro UAV Detection based on Machine Learning	9414985
+Depression Detection by Analysing Eye Movements on Emotional Images	9414663
+Weakly Supervised Patch Label Inference Network with Image Pyramid for Pavement Diseases Recognition in the Wild	9413517
+A Wireless Reference Active Noise Control Headphone Using Coherence Based Selection Technique	9414683
+How to Use Time Information Effectively? Combining with Time Shift Module for Lipreading	9414659
+Exploring the application of synthetic audio in training keyword spotters	9413448
+Graph Enhanced Query Rewriting for Spoken Language Understanding System	9413840
+Deep Neural Network Based Cough Detection Using Bed-Mounted Accelerometer Measurements	9414744
+Radio Frequency Based Heart Rate Variability Monitoring	9413465
+Discrete Cosine Transform Based Causal Convolutional Neural Network for Drift Compensation in Chemical Sensors	9414512
+Wifi-Based Device-Free Gesture Recognition Through-the-Wall	9414894
+Sound Recovery From Radio Signals	9413508
+Fully-Neural Approach to Vehicle Weighing and Strain Prediction on Bridges Using Wireless Accelerometers	9414433
+End To End Learning For Convolutive Multi-Channel Wiener Filtering	9414907
+Makf-Sr: Multi-Agent Adaptive Kalman Filtering-Based Successor Representations	9414597
+Variation-Stable Fusion for PPG-Based Biometric System	9413906
+Improving Stability of Adversarial Li-ion Cell Usage Data Generation using Generative Latent Space Modelling	9413892
+SQWA: Stochastic Quantized Weight Averaging For Improving The Generalization Capability Of Low-Precision Deep Neural Networks	9413623
+A Quantitative Analysis Of The Robustness Of Neural Networks For Tabular Data	9413858
+Spatial Equalization Before Reception: Reconfigurable Intelligent Surfaces for Multi-Path Mitigation	9414612
+Interference Analysis in Reconfigurable Intelligent Surface-Assisted Multiple-Input Multiple-Output Systems	9414684
+Codebook Design for Dual-Polarized Ultra-Massive Mimo Communications at Millimeter Wave and Terahertz Bands	9413660
+Performance Analysis of Spatial and Frequency Domain Index-Modulated Reconfigurable Intelligent Metasurfaces	9413387
+Meta-Learning for 6G Communication Networks with Reconfigurable Intelligent Surfaces	9413598
+Model-Inspired Deep Learning for Light-Field Microscopy with Application to Neuron Localization	9414236
+Time-Varying Graph Signal Inpainting Via Unrolling Networks	9413406
+Deep Learning for Linear Inverse Problems Using the Plug-and-Play Priors Framework	9413947
+A Plug-and-Play Deep Image Prior	9414879
+MRI Image Recovery using Damped Denoising Vector AMP	9415050
+Overcoming Measurement Inconsistency In Deep Learning For Linear Inverse Problems: Applications In Medical Imaging	9414173
+Scalable Reinforcement Learning For Routing In Ad-Hoc Networks Based On Physical-Layer Attributes	9413511
+Blind Carbon Copy on Dirty Paper: Seamless Spectrum Underlay via Canonical Correlation Analysis	9414621
+An Actor-Critic Reinforcement Learning Approach to Minimum age of Information Scheduling in Energy Harvesting Networks	9415110
+Moving Object Classification with a Sub-6 GHz Massive MIMO Array Using Real Data	9414952
+Optimizing Coverage and Capacity in Cellular Networks using Machine Learning	9414155
+Unsupervised Learning for Asynchronous Resource Allocation In Ad-Hoc Wireless Networks	9414181
+Two-Stage Adaptive Pooling with RT-QPCR for Covid-19 Screening	9413685
+Point of Care Image Analysis for COVID-19	9413687
+An Improved Data Driven Dynamic SIRD Model for Predictive Monitoring of COVID-19	9414762
+Leveraging A Multiple-Strain Model with Mutations in Analyzing the Spread of Covid-19	9414595
+Contact Tracing Enhances the Efficiency of Covid-19 Group Testing	9414034
+Optimal Questionnaires for Screening of Strategic Agents	9414345
+Exploring Visual-Audio Composition Alignment Network for Quality Fashion Retrieval in Video	9413617
+A Secure Searchable Image Retrieval Scheme with Correct Retrieval Identity	9414024
+Injecting Word Information with Multi-Level Word Adapter for Chinese Spoken Language Understanding	9413657
+A Co-Interactive Transformer for Joint Slot Filling and Intent Detection	9414110
+Dual Metric Discriminator for Open Set Video Domain Adaptation	9413361
+Cross-Domain Sentiment Classification with Contrastive Learning and Mutual Information Maximization	9414930
+Low-Complexity Parameter Learning for OTFS Modulation Based Automotive Radar	9414107
+Federated Dropout Learning for Hybrid Beamforming with Spatial Path Index Modulation in Multi-User Mmwave-Mimo Systems	9414120
+Information Decoding and SDR Implementation of DFRC Systems without Training Signals	9413379
+A Low-Complexity MIMO Dual Function Radar Communication System via One-Bit Sampling	9414051
+Learning to Select for Mimo Radar Based on Hybrid Analog-Digital Beamforming	9413904
+Word-Level ASL Recognition and Trigger Sign Detection with RF Sensors	9414063
+Hybrid Beamforming for Wideband OFDM Dual Function Radar Communications	9413497
+Bit Constrained Communication Receivers In Joint Radar Communications Systems	9413979
+ICI-Aware Parameter Estimation for Mimo-Ofdm Radar via Apes Spatial Filtering	9414537
+Joint Communications with FH-MIMO Radar Systems: An Extended Signaling Strategy	9413462
+Full-Duplex Multifunction Transceiver with Joint Constant Envelope Transmission and Wideband Reception	9413725
+Waveform Design for the Joint MIMO Radar and Communications with Low Integrated Sidelobe Levels and Accurate Information Embedding	9415119
+Ordered Reliability Bits Guessing Random Additive Noise Decoding	9414615
+Learned Decimation for Neural Belief Propagation Decoders : Invited Paper	9414407
+ADMM-Based ML Decoding: from Theory to Practice	9414728
+Towards Practical Near-Maximum-Likelihood Decoding of Error-Correcting Codes: An Overview	9414311
+High-Throughput VLSI Architecture for Soft-Decision Decoding with ORBGRAND	9414908
+Hardware Implementation of Iterative Projection-Aggregation Decoding of Reed-Muller Codes	9414655
+m-Activity: Accurate and Real-Time Human Activity Recognition Via Millimeter Wave Radar	9414686
+Pushing the Limit of Phase Offset for Contactless Sensing Using Commodity Wifi	9414926
+Noncontact Heartbeat Detection by Viterbi Algorithm with Fusion of Beat-Beat Interval and Deep Learning-Driven Branch Metrics	9413401
+Typingwristband: A Human Slight Motion Sensing System Based on Vibration Detection	9414751
+Movement Detection Using A Reciprocal Received Signal Strength Model	9414717
+Deep Convolutional Gaussian Processes for Mmwave Outdoor Localization	9414388
+Exploring Automatic COVID-19 Diagnosis via Voice and Symptoms from Crowdsourced Data	9414576
+Coughwatch: Real-World Cough Detection using Smartwatches	9414881
+Acoustic and Linguistic Analyses to Assess Early-Onset and Genetic Alzheimer＊s Disease	9414009
+A Noise-Robust Signal Processing Strategy for Cochlear Implants Using Neural Networks	9413452
+Context-Aware Speech Stress Detection in Hospital Workers Using Bi-LSTM Classifiers	9414666
+Unsupervised Heart Abnormality Detection Based on Phonocardiogram Analysis with Beta Variational Auto-Encoders	9414165
+Compressing Deep Neural Networks for Efficient Speech Enhancement	9413536
+Improved Mask-CTC for Non-Autoregressive End-to-End ASR	9414198
+Memory-Efficient Speech Recognition on Smart Devices	9414502
+Expediting discovery in Neural Architecture Search by Combining Learning with Planning	9413547
+Specialized Embedding Approximation for Edge Intelligence: A Case Study in Urban Sound Classification	9414287
+Light-TTS: Lightweight Multi-Speaker Multi-Lingual Text-to-Speech	9414400
+Efficient Long Periodic Binary Sequence Designs for Automotive Radar	9413747
+Joint Localization and Predictive Beamforming in Vehicular Networks: Power Allocation Beyond Water-Filling	9414871
+A New Automotive Radar 4D Point Clouds Detector by Using Deep Learning	9413682
+Enhanced Automotive Target Detection through Radar and Communications Sensor Fusion	9415051
+Extended Object Tracking With Automotive Radar Using B-Spline Chained Ellipses Model	9415080
+Four-Dimensional High-Resolution Automotive Radar Imaging Exploiting Joint Sparse-Frequency and Sparse-Array Design	9413875
+An Empirical Study of Visual Features for DNN Based Audio-Visual Speech Enhancement in Multi-Talker Environments	9414000
+On The Role of Visual Cues in Audiovisual Speech Enhancement	9414263
+Convolutive Transfer Function Invariant SDR Training Criteria for Multi-Channel Reverberant Speech Separation	9414661
+Directional ASR: A New Paradigm for E2E Multi-Speaker Speech Recognition with Source Localization	9414243
+Communication-Cost Aware Microphone Selection for Neural Speech Enhancement with Ad-Hoc Microphone Arrays	9414775
+Deep Multi-Frame MVDR Filtering for Single-Microphone Speech Enhancement	9413775
+Compressive Wideband Spectrum Sensing and Carrier Frequency Estimation with Unknown Mimo Channels	9413839
+Joint Optimization of Spectrally Co-Existing Multi-Carrier Radar and Communication Systems in Cluttered Environments	9413995
+Target Detection in Frequency Hopping MIMO Dual-Function Radar-Communication Systems	9413852
+Asymptotic Distribution of Generalized Likelihood Ratio Test Under Model Misspecification With Application to Cooperative Radar-Communications	9414036
+Online Antenna Selection for Enhanced DOA Estimation	9414591
+Designing Random FM Radar Waveforms with Compact Spectrum	9414020
+Collaborative Inference via Ensembles on the Edge	9414740
+Allocating DNN Layers Computation Between Front-End Devices and The Cloud Server for Video Big Data Processing	9413867
+Branchy-GNN: A Device-Edge Co-Inference Framework for Efficient Point Cloud Processing	9414831
+Collaborative Intelligence: Challenges and Opportunities	9413943
+Latent Space Motion Analysis for Collaborative Intelligence	9413603
+Teacher-Student Learning With Multi-Granularity Constraint Towards Compact Facial Feature Representation	9413506
+Discriminability of Single-Layer Graph Neural Networks	9414583
+On The Stability of Graph Convolutional Neural Networks Under Edge Rewiring	9413474
+Geometric Scattering Attention Networks	9414557
+Ego-GNNs: Exploiting Ego Structures in Graph Neural Networks	9414015
+Learning the Relevant Substructures for Tasks on Graph Data	9414377
+A Short Tutorial on The Weisfeiler-Lehman Test And Its Variants	9413523
+Hybrid Model for Network Anomaly Detection with Gradient Boosting Decision Trees and Tabtransformer	9414766
+Voting-Based Ensemble Model for Network Anomaly Detection	9414532
+An Accuracy Network Anomaly Detection Method Based on Ensemble Model	9414675
+Fden: Mining Effective Information of Features in Detecting Network Anomalies	9415099
+Multi-Scale Residual Network for Covid-19 Diagnosis Using Ct-Scans	9414426
+Diagnosing Covid-19 from CT Images Based on an Ensemble Learning Framework	9413707
+CNR-IEMN: A Deep Learning Based Approach to Recognise Covid-19 from CT-Scan	9414185
+Covid-19 Diagnostic Using 3d Deep Transfer Learning for Classification of Volumetric Computerised Tomography Chest Scans	9414947
+A Multi-Stage Progressive Learning Strategy for Covid-19 Diagnosis Using Chest Computed Tomography with Imbalanced Data	9414745
+Detecting Covid-19 and Community Acquired Pneumonia Using Chest CT Scan Images With Deep Learning	9414007
+Investigating on Incorporating Pretrained and Learnable Speaker Representations for Multi-Speaker Multi-Style Text-to-Speech	9413880
+The Thinkit System for Icassp2021 M2voc Challenge	9413669
+Dian: Duration Informed Auto-Regressive Network for Voice Cloning	9414727
+Prosody and Voice Factorization for Few-Shot Speaker Adaptation in the Challenge M2voc 2021	9414427
+The Huya Multi-Speaker and Multi-Style Speech Synthesis System for M2voc Challenge 2020	9414943
+The Multi-Speaker Multi-Style Voice Cloning Challenge 2021	9414001
