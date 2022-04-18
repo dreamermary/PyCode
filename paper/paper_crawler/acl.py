@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import urllib3
 urllib3.disable_warnings()
 
-url='https://aclanthology.org/events/acl-2021/'
+url='https://aclanthology.org/events/naacl-2021/'
 
 # 请求头
 headers = {
@@ -20,7 +20,8 @@ def get_request(url):
     # response_text = IEEE_response.text
 
     # 本地读取
-    path = 'acl_all.html'
+    path = '../data/naacl21.html'
+    # soup = BeautifulSoup(IEEE_response,'html.parser')
     soup = BeautifulSoup(open(path,encoding='utf-8'),'html.parser')
     ps = soup.find_all('p',class_="d-sm-flex align-items-stretch")
 
@@ -34,17 +35,22 @@ def get_request(url):
             # title
             title = p.contents[1].contents[0].text
 
-            lns_md.append(f'|{title}|acl21||{href}|\n')
+            lns_md.append(f'|{title}|{conf}{ysim}||{href}|\n')
             lns_smi.append(f'{title}\t{href}\n')
         except:
             pass
 
     return lns_md,lns_smi
 
+year = '2021'
+ysim = '21'
+conf = 'naacl'
 lns_md,lns_smi = get_request(url)
 # 写入
-file_md = '../data/file_acl21_all_md.txt'
-file_smi = '../data/file_acl21_all_smi.txt'
+
+
+file_md = f'../data/file_{conf}{ysim}_md.txt'
+file_smi = f'../data/file_{conf}{ysim}_smi.txt'
 
 with open (f'./{file_md}','w',encoding='utf-8')as f:
     f.writelines(lns_md)

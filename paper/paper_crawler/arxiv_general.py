@@ -36,12 +36,13 @@ def loop(conf,keywords):
 
 
 
-conf = 'aaai'
+conf = 'emnlp'
 year = '2022'
 _year = '22'
 keywords = [f'{conf} {year}',f'{conf}{year}',]
-file_md = f'../file_{conf}{_year}_md.txt'
-file_sim = f'../file_{conf}{_year}_smi.txt'
+base_path = r'../data'
+file_md = f'{base_path}/file_{conf}{_year}_md.txt'
+file_sim = f'{base_path}/file_{conf}{_year}_smi.txt'
 
 lns_md,lns_sim   = loop(conf+_year,keywords)
 

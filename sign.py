@@ -77,27 +77,27 @@ def daily_sign(seq: int, token: str, sign_type=0):
 if __name__ == '__main__':
     login()
 
-#
-# if __name__ == '__main__':
-#     parser = argparse.ArgumentParser()
-#     ##zlf
-#     #parser.add_argument('-t', '--token', help='input you token', default='f1934170-351b-464b-b55f-1fabfcc3d457', required=True)
-#
-#     ##mhl
-#     parser.add_argument('-t', '--token', help='input you token', default='e042529e-2ed9-49ae-a00e-2c197661ad44')#, required=True
-#
-#     args = parser.parse_args()
-#
-#     # 健康打卡
-#     schedule.every().day.at("12:17").do(daily_sign, 1, args.token, sign_type=1)
-#     # 日检
-#     schedule.every().day.at("09:35").do(daily_sign, 1, args.token)
-#     # 午检
-#     schedule.every().day.at("15:05").do(daily_sign, 2, args.token)
-#     # 晚检
-#     schedule.every().day.at("21:35").do(daily_sign, 3, args.token)
-#     # 测试
-#     schedule.run_all()
-#     while True:
-#         schedule.run_pending()
-#         time.sleep(5)
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    ##zlf
+    #parser.add_argument('-t', '--token', help='input you token', default='f1934170-351b-464b-b55f-1fabfcc3d457', required=True)
+
+    ##mhl
+    parser.add_argument('-t', '--token', help='input you token', default='e042529e-2ed9-49ae-a00e-2c197661ad44')#, required=True
+
+    args = parser.parse_args()
+
+    # 健康打卡
+    schedule.every().day.at("12:17").do(daily_sign, 1, args.token, sign_type=1)
+    # 日检
+    schedule.every().day.at("09:35").do(daily_sign, 1, args.token)
+    # 午检
+    schedule.every().day.at("15:05").do(daily_sign, 2, args.token)
+    # 晚检
+    schedule.every().day.at("21:35").do(daily_sign, 3, args.token)
+    # 测试
+    schedule.run_all()
+    while True:
+        schedule.run_pending()
+        time.sleep(5)
