@@ -1,0 +1,7 @@
+|End-to-end Adversarial Text-to-Speech|iclr21||https://openreview.net/forum?id=rsf1z-JSj87|
+|FastSpeech 2: Fast and High-Quality End-to-End Text to Speech|iclr21||https://openreview.net/forum?id=piLPYqxtWuA|
+|Neural Synthesis of Binaural Speech From Mono Audio|iclr21||https://openreview.net/forum?id=uAX8q61EVRu|
+|NAS-Bench-ASR: Reproducible Neural Architecture Search for Speech Recognition|iclr21||https://openreview.net/forum?id=CU0APx9LMaL|
+|Bidirectional Variational Inference for Non-Autoregressive Text-to-Speech|iclr21||https://openreview.net/forum?id=o3iritJHLfO|
+|AdaSpeech: Adaptive Text to Speech for Custom Voice|iclr21||https://openreview.net/forum?id=Drynvt7gg4L|
+|Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis|iclr21||https://openreview.net/forum?id=Ig53hpHxS4|

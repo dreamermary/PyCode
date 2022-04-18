@@ -1,0 +1,4 @@
+|Translation of a Higher Order Ambisonics Sound Scene Based on Parametric Decomposition|icassp20||https://ieeexplore.ieee.org/document/9054414|
+|Strategic Attention Learning for Modality Translation|icassp20||https://ieeexplore.ieee.org/document/9053515|
+|Facial Feature Embedded Cyclegan For Vis-Nir Translation|icassp20||https://ieeexplore.ieee.org/document/9054007|
+|Unsupervised Image-to-Image Translation Via Fair Representation of Gender Bias|icassp20||https://ieeexplore.ieee.org/document/9054129|

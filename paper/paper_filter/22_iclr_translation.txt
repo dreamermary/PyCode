@@ -1,0 +1,7 @@
+|Improving Non-Autoregressive Translation Models Without Distillation|iclr22||https://openreview.net/forum?id=I2Hw58KHp8O|
+|Enabling Arbitrary Translation Objectives with Adaptive Tree Search|iclr22||https://openreview.net/forum?id=rhOiUS8KQM9|
+|Scaling Laws for Neural Machine Translation|iclr22||https://openreview.net/forum?id=hR_SMu8cxCV|
+|switch-GLAT: Multilingual Parallel Machine Translation Via Code-Switch Decoder|iclr22||https://openreview.net/forum?id=5HvpvYd68b|
+|Leveraging Automated Unit Tests for Unsupervised Code Translation|iclr22||https://openreview.net/forum?id=cmt-6KtR4c4|
+|Contrastive Clustering to Mine Pseudo Parallel Data for Unsupervised Translation|iclr22||https://openreview.net/forum?id=pN1JOdrSY9|
+|Distilling GANs with Style-Mixed Triplets for X2I Translation with Limited Data|iclr22||https://openreview.net/forum?id=QjOQkpzKbNk|

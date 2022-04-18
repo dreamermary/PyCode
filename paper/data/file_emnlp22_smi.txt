@@ -1,0 +1,4 @@
+MMTAfrica: Multilingual Machine Translation for African Languages	https://arxiv.org/abs/2204.04306
+PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions	https://arxiv.org/abs/2204.03830
+Models and Datasets for Cross-Lingual Summarisation	https://arxiv.org/abs/2202.09583
+A Secure and Efficient Federated Learning Framework for NLP	https://arxiv.org/abs/2201.11934

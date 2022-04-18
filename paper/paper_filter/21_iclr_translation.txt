@@ -1,0 +1,8 @@
+|Nearest Neighbor Machine Translation|iclr21||https://openreview.net/forum?id=7wCBOfJ8hJM|
+|Meta Back-Translation|iclr21||https://openreview.net/forum?id=3jjmdp7Hha|
+|Integrating Categorical Semantics into Unsupervised Domain Translation|iclr21||https://openreview.net/forum?id=IMPA6MndSXU|
+|Structured Prediction as Translation between Augmented Natural Languages|iclr21||https://openreview.net/forum?id=US-TP-xnXI|
+|Deep Encoder, Shallow Decoder: Reevaluating Non-autoregressive Machine Translation|iclr21||https://openreview.net/forum?id=KpfasTaLUpq|
+|Understanding and Improving Lexical Choice in Non-Autoregressive Translation|iclr21||https://openreview.net/forum?id=ZTFeSBIX9C|
+|DINO: A Conditional Energy-Based GAN for Domain Translation|iclr21||https://openreview.net/forum?id=WAISmwsqDsb|
+|Share or Not? Learning to Schedule Language-Specific Capacity for Multilingual Translation|iclr21||https://openreview.net/forum?id=Wj4ODo0uyCF|

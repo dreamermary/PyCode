@@ -1,0 +1,9 @@
+|Large-Scale Streaming End-to-End Speech Translation with Neural Transducers|interspeech22||https://arxiv.org/abs/2204.05352|
+|GigaST: A 10,000-hour Pseudo Speech Translation Corpus|interspeech22||https://arxiv.org/abs/2204.03939|
+|Enhanced Direct Speech-to-Speech Translation Using Self-supervised Pre-training and Data Augmentation|interspeech22||https://arxiv.org/abs/2204.02967|
+|Combining Spectral and Self-Supervised Features for Low Resource Speech Recognition and Translation|interspeech22||https://arxiv.org/abs/2204.02470|
+|Speech Segmentation Optimization using Segmented Bilingual Speech Corpus for End-to-end Speech Translation|interspeech22||https://arxiv.org/abs/2203.15479|
+|Multilingual Simultaneous Speech Translation|interspeech22||https://arxiv.org/abs/2203.14835|
+|Leveraging unsupervised and weakly-supervised data to improve direct speech-to-speech translation|interspeech22||https://arxiv.org/abs/2203.13339|
+|SHAS: Approaching optimal Segmentation for End-to-End Speech Translation|interspeech22||https://arxiv.org/abs/2202.04774|
+|From Start to Finish: Latency Reduction Strategies for Incremental Speech Synthesis in Simultaneous Speech-to-Speech Translation|interspeech22||https://arxiv.org/abs/2110.08214|

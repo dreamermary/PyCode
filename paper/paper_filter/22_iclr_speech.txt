@@ -1,0 +1,6 @@
+|Audio Lottery: Speech Recognition Made Ultra-Lightweight, Noise-Robust, and Transferable|iclr22||https://openreview.net/forum?id=9Nk6AJkVYB|
+|SPIRAL: Self-supervised Perturbation-Invariant Representation Learning for Speech Pre-Training|iclr22||https://openreview.net/forum?id=TBpg4PnXhYH|
+|Demystifying Limited Adversarial Transferability in Automatic Speech Recognition Systems|iclr22||https://openreview.net/forum?id=l5aSHXi8jG5|
+|Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction|iclr22||https://openreview.net/forum?id=Z1Qlm11uOM|
+|BDDM: Bilateral Denoising Diffusion Models for Fast and High-Quality Speech Synthesis|iclr22||https://openreview.net/forum?id=L7wzpQttNO|
+|Understanding the Role of Self Attention for Efficient Speech Recognition|iclr22||https://openreview.net/forum?id=AvcfxqRy4Y|

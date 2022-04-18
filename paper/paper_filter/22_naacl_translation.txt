@@ -1,0 +1,2 @@
+|Explore More Guidance: A Task-aware Instruction Network for Sign Language Translation Enhanced with Data Augmentation|naacl22||https://arxiv.org/abs/2204.05953|
+|On Systematic Style Differences between Unsupervised and Supervised MT and an Application for High-Resource Machine Translation|naacl22||https://arxiv.org/abs/2106.15818|

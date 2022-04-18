@@ -1,0 +1,65 @@
+|Probing Word Translations in the Transformer and Trading Decoder for Encoder Layers|naacl21||https://aclanthology.org/2021.naacl-main.7/|
+|Backtranslation Feedback Improves User Confidence in MT, Not Quality|naacl21||https://aclanthology.org/2021.naacl-main.14/|
+|Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation|naacl21||https://aclanthology.org/2021.naacl-main.16/|
+|Neural Machine Translation without Embeddings|naacl21||https://aclanthology.org/2021.naacl-main.17/|
+|Counterfactual Data Augmentation for Neural Machine Translation|naacl21||https://aclanthology.org/2021.naacl-main.18/|
+|SGL: Speaking the Graph Languages of Semantic Parsing via Multilingual Translation|naacl21||https://aclanthology.org/2021.naacl-main.30/|
+|Harnessing Multilinguality in Unsupervised Machine Translation for Rare Languages|naacl21||https://aclanthology.org/2021.naacl-main.89/|
+|Assessing Reference-Free Peer Evaluation for Machine Translation|naacl21||https://aclanthology.org/2021.naacl-main.91/|
+|The Curious Case of Hallucinations in Neural Machine Translation|naacl21||https://aclanthology.org/2021.naacl-main.92/|
+|Towards Continual Learning for Multilingual Machine Translation via Vocabulary Substitution|naacl21||https://aclanthology.org/2021.naacl-main.93/|
+|Towards Modeling the Style of Translators in Neural Machine Translation|naacl21||https://aclanthology.org/2021.naacl-main.94/|
+|Revisiting the Weaknesses of Reinforcement Learning for Neural Machine Translation|naacl21||https://aclanthology.org/2021.naacl-main.133/|
+|Source and Target Bidirectional Knowledge Distillation for End-to-end Speech Translation|naacl21||https://aclanthology.org/2021.naacl-main.150/|
+|Active2 Learning: Actively reducing redundancies in Active Learning methods for Sequence Tagging and Machine Translation|naacl21||https://aclanthology.org/2021.naacl-main.159/|
+|From Masked Language Modeling to Translation: Non-English Auxiliary Tasks Improve Zero-shot Spoken Language Understanding|naacl21||https://aclanthology.org/2021.naacl-main.197/|
+|Can Latent Alignments Improve Autoregressive Machine Translation?|naacl21||https://aclanthology.org/2021.naacl-main.209/|
+|SentSim: Crosslingual Semantic Evaluation of Machine Translation|naacl21||https://aclanthology.org/2021.naacl-main.252/|
+|Context-Interactive Pre-Training for Document Machine Translation|naacl21||https://aclanthology.org/2021.naacl-main.281/|
+|Almost Free Semantic Draft for Neural Machine Translation|naacl21||https://aclanthology.org/2021.naacl-main.307/|
+|Pruning-then-Expanding Model for Domain Adaptation of Neural Machine Translation|naacl21||https://aclanthology.org/2021.naacl-main.308/|
+|Multi-Hop Transformer for Document-Level Machine Translation|naacl21||https://aclanthology.org/2021.naacl-main.309/|
+|Continual Learning for Neural Machine Translation|naacl21||https://aclanthology.org/2021.naacl-main.310/|
+|Self-Training for Unsupervised Neural Machine Translation in Unbalanced Training Data Scenarios|naacl21||https://aclanthology.org/2021.naacl-main.311/|
+|Smart-Start Decoding for Neural Machine Translation|naacl21||https://aclanthology.org/2021.naacl-main.312/|
+|Multi-Task Learning with Shared Encoder for Non-Autoregressive Machine Translation|naacl21||https://aclanthology.org/2021.naacl-main.313/|
+|Restoring and Mining the Records of the Joseon Dynasty via Neural Language Modeling and Machine Translation|naacl21||https://aclanthology.org/2021.naacl-main.317/|
+|Translational NLP: A New Paradigm and General Principles for Natural Language Processing Research|naacl21||https://aclanthology.org/2021.naacl-main.325/|
+|Generative Imagination Elevates Machine Translation|naacl21||https://aclanthology.org/2021.naacl-main.457/|
+|Non-Autoregressive Translation by Learning Target Categorical Codes|naacl21||https://aclanthology.org/2021.naacl-main.458/|
+|Training Data Augmentation for Code-Mixed Translation|naacl21||https://aclanthology.org/2021.naacl-main.459/|
+|Context-aware Decoder for Neural Machine Translation using a Target-side Document-Level Language Model|naacl21||https://aclanthology.org/2021.naacl-main.461/|
+|Machine Translated Text Detection Through Text Similarity with Round-Trip Translation|naacl21||https://aclanthology.org/2021.naacl-main.462/|
+|Sampling and Filtering of Neural Machine Translation Distillation Data|naacl21||https://aclanthology.org/2021.naacl-srw.1/|
+|Syntax-Based Attention Masking for Neural Machine Translation|naacl21||https://aclanthology.org/2021.naacl-srw.7/|
+|Comparison of Grammatical Error Correction Using Back-Translation Models|naacl21||https://aclanthology.org/2021.naacl-srw.16/|
+|Sentence Concatenation Approach to Data Augmentation for Neural Machine Translation|naacl21||https://aclanthology.org/2021.naacl-srw.18/|
+|Continuous Model Improvement for Language Understanding with Machine Translation|naacl21||https://aclanthology.org/2021.naacl-industry.8/|
+|Cross-lingual Supervision Improves Unsupervised Neural Machine Translation|naacl21||https://aclanthology.org/2021.naacl-industry.12/|
+|Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification|naacl21||https://aclanthology.org/2021.naacl-industry.13/|
+|Autocorrect in the Process of Translation — Multi-task Learning Improves Dialogue Machine Translation|naacl21||https://aclanthology.org/2021.naacl-industry.14/|
+|Feature-level Incongruence Reduction for Multimodal Translation|naacl21||https://aclanthology.org/2021.alvr-1.1/|
+|Highland Puebla Nahuatl Speech Translation Corpus for Endangered Language Documentation|naacl21||https://aclanthology.org/2021.americasnlp-1.7/|
+|Restoring the Sister: Reconstructing a Lexicon from Sister Languages using Neural Machine Translation|naacl21||https://aclanthology.org/2021.americasnlp-1.13/|
+|Peru is Multilingual, Its Machine Translation Should Be Too?|naacl21||https://aclanthology.org/2021.americasnlp-1.22/|
+|Findings of the AmericasNLP 2021 Shared Task on Open Machine Translation for Indigenous Languages of the Americas|naacl21||https://aclanthology.org/2021.americasnlp-1.23/|
+|Open Machine Translation for Low Resource South American Languages (AmericasNLP 2021 Shared Task Contribution)|naacl21||https://aclanthology.org/2021.americasnlp-1.24/|
+|NRC-CNRC Machine Translation Systems for the 2021 AmericasNLP Shared Task|naacl21||https://aclanthology.org/2021.americasnlp-1.25/|
+|Low-Resource Machine Translation Using Cross-Lingual Language Model Pretraining|naacl21||https://aclanthology.org/2021.americasnlp-1.26/|
+|The REPU CS’ Spanish–Quechua Submission to the AmericasNLP 2021 Shared Task on Open Machine Translation|naacl21||https://aclanthology.org/2021.americasnlp-1.27/|
+|Proceedings of the Second Workshop on Automatic Simultaneous Translation|naacl21||https://aclanthology.org/2021.autosimtrans-1.0/|
+|ICT’s System for AutoSimTrans 2021: Robust Char-Level Simultaneous Translation|naacl21||https://aclanthology.org/2021.autosimtrans-1.1/|
+|XMU’s Simultaneous Translation System at NAACL 2021|naacl21||https://aclanthology.org/2021.autosimtrans-1.3/|
+|System Description on Automatic Simultaneous Translation Workshop|naacl21||https://aclanthology.org/2021.autosimtrans-1.4/|
+|BSTC: A Large-Scale Chinese-English Speech Translation Dataset|naacl21||https://aclanthology.org/2021.autosimtrans-1.5/|
+|Findings of the Second Workshop on Automatic Simultaneous Translation|naacl21||https://aclanthology.org/2021.autosimtrans-1.6/|
+|Gated Convolutional Sequence to Sequence Based Learning for English-Hingilsh Code-Switched Machine Translation.|naacl21||https://aclanthology.org/2021.calcs-1.4/|
+|IITP-MT at CALCS2021: English to Hinglish Neural Machine Translation using Unsupervised Synthetic Code-Mixed Parallel Corpus|naacl21||https://aclanthology.org/2021.calcs-1.5/|
+|Exploring Text-to-Text Transformers for English to Hinglish Machine Translation with Synthetic Code-Mixing|naacl21||https://aclanthology.org/2021.calcs-1.6/|
+|CoMeT: Towards Code-Mixed Translation Using Parallel Monolingual Sentences|naacl21||https://aclanthology.org/2021.calcs-1.7/|
+|Investigating Code-Mixed Modern Standard Arabic-Egyptian to English Machine Translation|naacl21||https://aclanthology.org/2021.calcs-1.8/|
+|Can You Traducir This? Machine Translation for Code-Switched Input|naacl21||https://aclanthology.org/2021.calcs-1.11/|
+|Using Confidential Data for Domain Adaptation of Neural Machine Translation|naacl21||https://aclanthology.org/2021.privatenlp-1.6/|
+|Family of Origin and Family of Choice: Massively Parallel Lexiconized Iterative Pretraining for Severely Low Resource Text-based Translation|naacl21||https://aclanthology.org/2021.sigtyp-1.7/|
+|UoB at ProfNER 2021: Data Augmentation for Classification Using Machine Translation|naacl21||https://aclanthology.org/2021.smm4h-1.23/|
+|Approaching SMM4H with auto-regressive language models and back-translation|naacl21||https://aclanthology.org/2021.smm4h-1.32/|
