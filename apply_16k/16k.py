@@ -10,11 +10,12 @@ import schedule
 import time
 urllib3.disable_warnings()
 
+token = "eyJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6Im1obCIsInByaXZpbGVnZXMiOlsiSk9CIl0sImlhdCI6MTY1MDYwMzgyOCwiZXhwIjoxNjUxMjA4NjI4fQ.S6LQjyudX7M8oitFrEYTgKCd7bMJ7B1iDRNvtZfKQhw"
 headers = {
-    "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6Im1obCIsInByaXZpbGVnZXMiOlsiSk9CIl0sImlhdCI6MTY0OTc3MjEzNSwiZXhwIjoxNjUwMzc2OTM1fQ.drMiDTFhz7maYeoj6qnHJXqtWd1kw4fKItk6fbx4dhI",
+    "Authorization": f"Bearer {token}",
     "Connection": "keep-alive",
     "Content-Type": "text/yaml",
-    "Cookie": "user=mhl; token=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6Im1obCIsInByaXZpbGVnZXMiOlsiSk9CIl0sImlhdCI6MTY0OTc3MjEzNSwiZXhwIjoxNjUwMzc2OTM1fQ.drMiDTFhz7maYeoj6qnHJXqtWd1kw4fKItk6fbx4dhI; admin=false; jobSubmitMode=true",
+    "Cookie": f"user=mhl; token={token}; admin=false; jobSubmitMode=true",
     "Host": "222.197.219.19",
     "Origin": "http://222.197.219.19",
     "Referer": "http://222.197.219.19/job-submit",
@@ -23,7 +24,8 @@ headers = {
 url = "http://222.197.219.19/rest-server/api/v2/jobs"
 
 def apply_card(freecard):
-    data = open('params.yaml',encoding='utf-8').read().replace('freecard',freecard).encode('utf-8')
+    data = open('params.yaml',encoding='utf-8').read()
+    data = data.replace('freecard',freecard).replace("mhl_1649843018091",str(time.time())).encode('utf-8')
     response = requests.post(url=url, data=data, headers=headers, verify=False)
     res_json = response.json()
     if res_json['code'] == 'OperateFailed':
@@ -36,9 +38,9 @@ def apply_card(freecard):
 
 query_url = 'http://222.197.219.19/java-rest-server/api/user/mhl/canUseVirtualGroups?withInfo=true'
 query_headers = {
-    "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6Im1obCIsInByaXZpbGVnZXMiOlsiSk9CIl0sImlhdCI6MTY0OTc3MjEzNSwiZXhwIjoxNjUwMzc2OTM1fQ.drMiDTFhz7maYeoj6qnHJXqtWd1kw4fKItk6fbx4dhI",
+    "Authorization": f"Bearer {token}",
     "Connection": "keep-alive",
-    "Cookie": "user=mhl; token=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6Im1obCIsInByaXZpbGVnZXMiOlsiSk9CIl0sImlhdCI6MTY0OTc3MjEzNSwiZXhwIjoxNjUwMzc2OTM1fQ.drMiDTFhz7maYeoj6qnHJXqtWd1kw4fKItk6fbx4dhI; admin=false; jobSubmitMode=true",
+    f"Cookie": f"user=mhl; token={token}; jobSubmitMode=true",
     "Host": "222.197.219.19",
     "Origin": "http://222.197.219.19",
     "Referer": "http://222.197.219.19/job-submit",
@@ -56,13 +58,32 @@ def query_card():
     return None
 
 def job():
-    freecard = query_card()
+    # freecard = query_card()
+    freecard = ''
     if freecard is not None:
         apply_card(freecard)
+def job2():
+    url = 'http://222.197.219.19/rest-server/api/v2/authn/basic/login'
+    headers = {
+        "Content-Type": "application/json",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36",
+        "Cookie": "jobSubmitMode=true",
+        "Accept": "application/json",
+        "Authorization": "Bearer undefined",
+        "Host": "222.197.219.19",
+        "Origin": "http://222.197.219.19",
+        "Referer": "http://222.197.219.19/",
+               }
+    data = {"username": "mhl", "password": "Abc123456"}
+    res = requests.post(url=url,headers=headers,data=data)
+    res = res.json()
+    res["token"]
 
-query_card()
-# schedule.every(30).minutes.do(job)
-#
-# while True:
-#     schedule.run_pending()
-#     time.sleep(1)
+
+# job2()
+job()
+schedule.every(10).minutes.do(job)
+
+while True:
+    schedule.run_pending()
+    time.sleep(1)
