@@ -30,12 +30,12 @@ def get_request(url):
             href = base_url+a.attrs['href']
             title = a.text.strip().split('\n')[0]
             tps_smi.append(f"{title}\t{href}\t{topic}\n")
-            tps_md.append(f"|{title}|{href}|{conf}{_year}|{topic}|\n")
+            tps_md.append(f"|{title}|{conf}{_year}|{href}|{topic}|{href}|\n")
     return tps_smi,tps_md
 
 conf = 'interspeech'
-year = '2021'
-_year = '21'
+year = '2022'
+_year = '22'
 url=f'https://www.isca-speech.org/archive/{conf}_{year}/index.html'
 base_url = f'https://www.isca-speech.org/archive/{conf}_{year}/'
 

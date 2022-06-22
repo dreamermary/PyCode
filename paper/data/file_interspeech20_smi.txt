@@ -1033,4 +1033,3 @@ Acoustic Signal Enhancement Using Relative Harmonic Coefficients: Spherical Harm
 Instantaneous Time Delay Estimation of Broadband Signals	https://www.isca-speech.org/archive/interspeech_2020/murthy20_interspeech.html	Spatial Audio
 U-Net Based Direct-Path Dominance Test for Robust Direction-of-Arrival Estimation	https://www.isca-speech.org/archive/interspeech_2020/wang20ja_interspeech.html	Spatial Audio
 Sound Event Localization and Detection Based on Multiple DOA Beamforming and Multi-Task Learning	https://www.isca-speech.org/archive/interspeech_2020/xue20b_interspeech.html	Spatial Audio
-../data/file_interspeech20_smi.txt../data/file_interspeech20_smi.txt

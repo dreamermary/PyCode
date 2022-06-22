@@ -43,7 +43,7 @@ if __name__ == '__main__':
 
 
 
-# ''' test'''
+# ''' apply_16k'''
 # if __name__ == '__main__':
 #     args = parser.parse_args()
 #     ipath = "D:\\temp_file\\鬼吹灯\\鬼吹灯之云南虫谷26.m4a"

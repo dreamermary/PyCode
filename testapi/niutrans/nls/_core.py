@@ -16,12 +16,9 @@ See the License for the specific language governing permissions and
 limitations under the License.
 '''
 
-
-import logging
 import threading
 
 from enum import Enum, unique
-from queue import Queue
 
 import nls.websocket as websocket
 import nls._token

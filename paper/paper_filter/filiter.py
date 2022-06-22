@@ -4,8 +4,8 @@
 # @Time    :   2022/4/11 21:28
 
 # acl21
-conf = 'icassp'
-year = '20'
+conf = 'interspeech'
+year = '21'
 finame = f'../data/file_{conf}{year}_md.txt'
 foname1 = f'./{year}_{conf}_speech.txt'
 foname2 = f'./{year}_{conf}_translation.txt'

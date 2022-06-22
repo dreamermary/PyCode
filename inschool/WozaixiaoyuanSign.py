@@ -130,7 +130,7 @@ class WozaixiaoyuanSign(object):
             # 发送微信
             # 微信推送http://sc.ftqq.com
             if self.sc_key and response['code'] != 0 and response['code'] != 1:
-                url = f"https://sctapi.ftqq.com/{sc_key}.send?text=每日打卡签到失败&desp={response['message']}"
+                url = f"https://sctapi.ftqq.com/{self.sc_key}.send?text=每日打卡签到失败&desp={response['message']}"
                 print(f"url: {url}")
                 res = requests.get(url)
                 print(res)
@@ -144,30 +144,32 @@ class WozaixiaoyuanSign(object):
             else:
                 print(f"【{time.asctime()}】 晚检打卡")
 
-            print(self.get_result(response))
+            print(self.get_result(response).encode('GBK','ignore').decode('GBK'))
         else:
             pass
 
     def run(self):
-        # 健康打卡
-        schedule.every().day.at(f"10:0{str(random.randint(1,9))}").do(self.daily_sign, 1, 1)
-        # 日检
-        schedule.every().day.at(f"07:3{str(random.randint(1,9))}").do(self.daily_sign, 1, 0)
-        # 午检
-        schedule.every().day.at(f"12:0{str(random.randint(1,9))}").do(self.daily_sign, 2, 0)
-        # 晚检
-        schedule.every().day.at(f"22:0{str(random.randint(1,9))}").do(self.daily_sign, 3, 0)
-        # 测试
-        schedule.run_all()
-        while True:
-            schedule.run_pending()
-            time.sleep(5)
+
+        self.daily_sign(2,0)
+        # # 健康打卡
+        # schedule.every().day.at(f"10:0{str(random.randint(1,9))}").do(self.daily_sign, 1, 1)
+        # # 日检
+        # schedule.every().day.at(f"07:3{str(random.randint(1,9))}").do(self.daily_sign, 1, 0)
+        # # 午检
+        # schedule.every().day.at(f"12:0{str(random.randint(1,9))}").do(self.daily_sign, 2, 0)
+        # # 晚检
+        # schedule.every().day.at(f"22:0{str(random.randint(1,9))}").do(self.daily_sign, 3, 0)
+        # # 测试
+        # schedule.run_all()
+        # while True:
+        #     schedule.run_pending()
+        #     time.sleep(5)
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('-u', '--username', help='input you username')
-    parser.add_argument('-p', '--password', help='input you password')
+    parser.add_argument('-u', '--username', help='input you username', default="18834355830")
+    parser.add_argument('-p', '--password', help='input you password', default="654321")
     args = parser.parse_args()
 
     sign = WozaixiaoyuanSign(args.username, args.password)

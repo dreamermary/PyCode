@@ -26,7 +26,7 @@ if __name__ == '__main__':
     for d in ["摸金天师"]:
         li = split_back(os.path.join(dir, d,"output"))
 
-# ''' test'''
+# ''' apply_16k'''
 # if __name__ == '__main__':
 #     args = parser.parse_args()
 #     ipath = "E:\\file\\xmla_audio\\摸金天师\\《摸金天师》第1046章_疯王.m4a"

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Author  :   clumba
-# @File    :   test.py
+# @File    :   apply_16k.py
 # @Time    :   2021/4/7 15:53
 
 if __name__ == '__main__':

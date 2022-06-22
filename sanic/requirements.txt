@@ -1,0 +1,5 @@
+sanic
+ujson
+msgpack
+aiocache
+aioredis==1.3.1

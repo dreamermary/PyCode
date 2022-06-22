@@ -16,10 +16,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 """
 
-import logging
 import uuid
 import json
-import threading
 
 from nls._core import NlsCore
 from . import _logging

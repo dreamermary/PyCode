@@ -24,7 +24,7 @@
 |Self-Training for End-to-End Speech Translation|interspeech20|自训练|https://www.isca-speech.org/archive/interspeech_2020/pino20_interspeech.html|
 |Self-Supervised Representations Improve End-to-End Speech Translation|interspeech20|自监督表征|https://www.isca-speech.org/archive/interspeech_2020/wu20g_interspeech.html|
 |Large-Scale Self- and Semi-Supervised Learning for Speech Translation|interspeech21|自监督/半监督|https://www.isca-speech.org/archive/interspeech_2021/wang21r_interspeech.html|
-|Combining Spectral and Self-Supervised Features for Low Resource Speech Recognition and Translation|interspeech22| 自监督|https://arxiv.org/abs/2204.02470|
+|Combining Spectral and Self-Supervised Features for Low Resource Speech Recognition and Translation|interspeech22| 自监督、特征融合|https://arxiv.org/abs/2204.02470|
 
 ### 数据的利用：MTL/KD/PT
 |---|---|---|---|
@@ -37,13 +37,13 @@
 |End-to-End Speech Translation via Cross-Modal Progressive Training|interspeech21| |https://www.isca-speech.org/archive/interspeech_2021/ye21_interspeech.html|
 |Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement|aaai22| 周|https://arxiv.org/abs/2112.10991|
 ||||
-|Beyond Sentence-Level End-to-End Speech Translation: Context Helps|acl21| |https://aclanthology.org/2021.acl-long.200/|
-|Robust Latent Representations Via Cross-Modal Translation and Alignment|icassp21| 复杂|	https://ieeexplore.ieee.org/document/9413456|
+|Beyond Sentence-Level End-to-End Speech Translation: Context Helps|acl21|文档水平上下文 |https://aclanthology.org/2021.acl-long.200/|
 |Cascaded Models with Cyclic Feedback for Direct Speech Translation|icassp21| |	https://ieeexplore.ieee.org/document/9413719|
+|Robust Latent Representations Via Cross-Modal Translation and Alignment|icassp21| 复杂|	https://ieeexplore.ieee.org/document/9413456|
 |Jointly Trained Transformers Models for Spoken Language Translation|icassp21|HOW2 |	https://ieeexplore.ieee.org/document/9414159|
 |Source and Target Bidirectional Knowledge Distillation for End-to-end Speech Translation|naacl21|KD |https://aclanthology.org/2021.naacl-main.150/|
 |ASR Posterior-Based Loss for Multi-Task End-to-End Speech Translation|interspeech21|MTL|https://www.isca-speech.org/archive/interspeech_2021/ko21_interspeech.html|
-|Lexical Modeling of ASR Errors for Robust Speech Translation|interspeech21|健壮性|https://www.isca-speech.org/archive/interspeech_2021/martucci21_interspeech.html|
+|Lexical Modeling of ASR Errors for Robust Speech Translation|interspeech21|ASR错误-健壮性|https://www.isca-speech.org/archive/interspeech_2021/martucci21_interspeech.html|
 
 
 

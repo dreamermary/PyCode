@@ -9,6 +9,8 @@
     <file url="file://$PROJECT_DIR$/paper/paper_crawler/iclr.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/paper/paper_crawler/interspeech.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/paper/paper_crawler/tmp.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testapi/niutrans/mtest/record.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testapi/niutrans/mtest/test_real_time.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xmly/new/_2_split_back.py" charset="GBK" />
     <file url="file://$PROJECT_DIR$/xmly/new/autosub" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xmly/new/autosub/_3_gene_subtitle.py" charset="GBK" />

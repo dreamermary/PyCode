@@ -1,0 +1,42 @@
+2300-131720-0000 the paris plant like that at the crystal palace was a temporary exhibit
+2300-131720-0001 the london plant was less temporary but not permanent supplying before it was torn out no fewer than three thousand lamps in hotels churches stores and dwellings in the vicinity of holborn viaduct
+2300-131720-0002 there messrs johnson and hammer put into practice many of the ideas now standard in the art and secured much useful data for the work in new york of which the story has just been told
+2300-131720-0003 the dynamo electric machine though small was robust for under all the varying speeds of water power and the vicissitudes of the plant to which it belonged it continued in active use until eighteen ninety nine seventeen years
+2300-131720-0004 owing to his insistence on low pressure direct current for use in densely populated districts as the only safe and truly universal profitable way of delivering electrical energy to the consumers edison has been frequently spoken of as an opponent of the alternating current
+2300-131720-0005 why if we erect a station at the falls it is a great economy to get it up to the city
+2300-131720-0006 there seems no good reason for believing that it will change
+2300-131720-0007 broad as the prairies and free in thought as the winds that sweep them he is idiosyncratically opposed to loose and wasteful methods to plans of empire that neglect the poor at the gate
+2300-131720-0008 everything he has done has been aimed at the conservation of energy the contraction of space the intensification of culture
+2300-131720-0009 for some years it was not found feasible to operate motors on alternating current circuits and that reason was often urged against it seriously
+2300-131720-0010 it could not be used for electroplating or deposition nor could it charge storage batteries all of which are easily within the ability of the direct current
+2300-131720-0011 but when it came to be a question of lighting a scattered suburb a group of dwellings on the outskirts a remote country residence or a farm house the alternating current in all elements save its danger was and is ideal
+2300-131720-0012 edison was intolerant of sham and shoddy and nothing would satisfy him that could not stand cross examination by microscope test tube and galvanometer
+2300-131720-0013 unless he could secure an engine of smoother running and more exactly governed and regulated than those available for his dynamo and lamp edison realized that he would find it almost impossible to give a steady light
+2300-131720-0014 mister edison was a leader far ahead of the time
+2300-131720-0015 he obtained the desired speed and load with a friction brake also regulator of speed but waited for an indicator to verify it
+2300-131720-0016 then again there was no known way to lubricate an engine for continuous running and mister edison informed me that as a marine engine started before the ship left new york and continued running until it reached its home port so an engine for his purposes must produce light at all times
+2300-131720-0017 edison had installed his historic first great central station system in new york on the multiple arc system covered by his feeder and main invention which resulted in a notable saving in the cost of conductors as against a straight two wire system throughout of the tree kind
+2300-131720-0018 he soon foresaw that still greater economy would be necessary for commercial success not alone for the larger territory opening but for the compact districts of large cities
+2300-131720-0019 the strong position held by the edison system under the strenuous competition that was already springing up was enormously improved by the introduction of the three wire system and it gave an immediate impetus to incandescent lighting
+2300-131720-0020 it was specially suited for a trial plant also in the early days when a yield of six or eight lamps to the horse power was considered subject for congratulation
+2300-131720-0021 the street conductors were of the overhead pole line construction and were installed by the construction company that had been organized by edison to build and equip central stations
+2300-131720-0022 meanwhile he had called upon me to make a report of the three wire system known in england as the hopkinson both doctor john hopkinson and mister edison being independent inventors at practically the same time
+2300-131720-0023 i think he was perhaps more appreciative than i was of the discipline of the edison construction department and thought it would be well for us to wait until the morning of the fourth before we started up
+2300-131720-0024 but the plant ran and it was the first three wire station in this country
+2300-131720-0025 they were later used as reserve machines and finally with the engine retired from service as part of the collection of edisonia but they remain in practically as good condition as when installed in eighteen eighty three
+2300-131720-0026 the arc lamp installed outside a customer's premises or in a circuit for public street lighting burned so many hours nightly so many nights in the month and was paid for at that rate subject to rebate for hours when the lamp might be out through accident
+2300-131720-0027 edison held that the electricity sold must be measured just like gas or water and he proceeded to develop a meter
+2300-131720-0028 there was infinite scepticism around him on the subject and while other inventors were also giving the subject their thought the public took it for granted that anything so utterly intangible as electricity that could not be seen or weighed and only gave secondary evidence of itself at the exact point of use could not be brought to accurate registration
+2300-131720-0029 hence the edison electrolytic meter is no longer used despite its excellent qualities
+2300-131720-0030 the principle employed in the edison electrolytic meter is that which exemplifies the power of electricity to decompose a chemical substance
+2300-131720-0031 associated with this simple form of apparatus were various ingenious details and refinements to secure regularity of operation freedom from inaccuracy and immunity from such tampering as would permit theft of current or damage
+2300-131720-0032 the standard edison meter practice was to remove the cells once a month to the meter room of the central station company for examination another set being substituted
+2300-131720-0033 in december eighteen eighty eight mister w j jenks read an interesting paper before the american institute of electrical engineers on the six years of practical experience had up to that time with the meter then more generally in use than any other
+2300-131720-0034 the others having been in operation too short a time to show definite results although they also went quickly to a dividend basis
+2300-131720-0035 in this connection it should be mentioned that the association of edison illuminating companies in the same year adopted resolutions unanimously to the effect that the edison meter was accurate and that its use was not expensive for stations above one thousand lights and that the best financial results were invariably secured in a station selling current by meter
+2300-131720-0036 the meter continued in general service during eighteen ninety nine and probably up to the close of the century
+2300-131720-0037 he weighed and reweighed the meter plates and pursued every line of investigation imaginable but all in vain
+2300-131720-0038 he felt he was up against it and that perhaps another kind of a job would suit him better
+2300-131720-0039 the problem was solved
+2300-131720-0040 we were more interested in the technical condition of the station than in the commercial part
+2300-131720-0041 we had meters in which there were two bottles of liquid

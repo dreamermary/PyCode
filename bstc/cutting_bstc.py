@@ -86,7 +86,7 @@ def prepare(corpus_root,split):
         if not os.path.exists(trans_tsv_path):
             open(trans_tsv_path,'w')
 
-SPLIT = ["train","dev","test"]
+SPLIT = ["train","dev","apply_16k"]
 
 
 if __name__ == '__main__':
